@@ -3,11 +3,11 @@ import "./page-buttons.styles.css";
 
 class PageButtons extends Component{
     render(){
-        const {id,name} = this.props.PagesInfo
+        const {id,title} = this.props.PagesInfo
         return(
             <div className={`pages`}
             key={id}>
-                <h1>{name}</h1>
+                <h1>{title}</h1>
             </div>
         )
     }

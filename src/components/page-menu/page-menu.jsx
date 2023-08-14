@@ -10,7 +10,7 @@ render(){
         <div className="menu">
             {PagesInfo.map(item =>{
                 return(
-                    <PageButtons PagesInfo ={item}/>
+                    <PageButtons PagesInfo ={item} className="item"/>
                 );
             })}
         </div>
