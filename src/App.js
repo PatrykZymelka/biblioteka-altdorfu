@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+import { Component } from 'react';
 import './App.css';
+import Header from './components/header/header.jsx';
+import PageMenu from './components/page-menu/page-menu.jsx'
+import Pages from './Json/pages.json'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  
+  constructor(){
+    super();
+    this.state ={
+      PagesInfo: []
+    }
+  };
+  
+  componentDidMount(){
+    Pages.map((input) => (
+      PagesInfo = input;
+    )
+
+  }
+
+  render(){
+    return(
+    console.log(this.PagesInfo)
+    );
+  };
 }
 
 export default App;
