@@ -1,22 +1,22 @@
 [
   {
     "id":1,
-    "title":"Magia"
+    "title":"Home"
   },   
   {
     "id":2,
-    "title":"Statusy"
+    "title":"Zasady"
   },   
   {
     "id":3,
-    "title":"Bronie"
+    "title":"Profesje"
   },   
   {
     "id":4,
-    "title":"Mutacje"
+    "title":"Magia"
   },   
   {
     "id":5,
-    "title":"Rany Krytyczne"
-  }   
+    "title":"Lore"
+  }
   ]

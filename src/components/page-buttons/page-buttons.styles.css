@@ -1,8 +1,18 @@
 .pages{
-    background-color: aqua;
-    margin:20px;
-    width:fit-content;
+    background-color: rgb(0, 0, 0);
     display:flex;
     flex:1;
-    
+    cursor:pointer;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    height:50px;
+    transition-duration:0.35s;
+    padding-bottom:5px;
+
+}
+.pages:hover{
+    color:black;
+    background-color: rgb(255, 255, 255);
+
 }

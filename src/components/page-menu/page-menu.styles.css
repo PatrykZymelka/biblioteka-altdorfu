@@ -1,7 +1,6 @@
 .menu{
-    background-color: grey;
+    background-color: black;
     display: flex;
     align-items: center;
     flex-direction: row;
-    border:5px black;
 }
