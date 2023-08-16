@@ -1,6 +1,6 @@
 import { Component } from "react";
-import './page-menu.styles.css';
-import PageButtons from "../page-buttons/page-buttons";
+import PageButtons from "./page-buttons/page-buttons";
+import "./page-menu.styles.css";
 
 class PageMenu extends Component{
 
