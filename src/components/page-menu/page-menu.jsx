@@ -7,13 +7,13 @@ class PageMenu extends Component{
 render(){
     const { PagesInfo } = this.props;
     return(
-        <div className="menu">
+        <nav className="menu">
             {PagesInfo.map(item =>{
                 return(
                     <PageButtons PagesInfo ={item} className="item"/>
                 );
             })}
-        </div>
+        </nav>
     )
 }
 }

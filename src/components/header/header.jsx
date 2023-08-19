@@ -1,12 +1,13 @@
 import { Component } from "react";
 import './header.styles.css';
+import { Link } from "react-router-dom";
 
 class Header extends Component{
     render() {
         return(
-            <div className="Header">
+            <Link to="/Home" className="Header">
                 Wielka Biblioteka Altdorfu
-            </div>
+            </Link>
         )
     }
 }

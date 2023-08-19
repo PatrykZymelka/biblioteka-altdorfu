@@ -16,3 +16,11 @@
     background-color: rgb(255, 255, 255);
 
 }
+
+.div{
+    color:white;
+}
+
+.div h1{
+    color:inherit;
+}
