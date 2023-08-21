@@ -1,4 +1,9 @@
 .Container{
     display:flex;
-    flex:1fr;
+    flex-direction: column;
+    flex:auto;
+}
+.searchBoxBackground{
+    display:flex;
+    justify-content: center;
 }
