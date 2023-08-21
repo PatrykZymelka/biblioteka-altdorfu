@@ -1,4 +1,4 @@
-import { Component, useImperativeHandle } from "react";
+import { Component} from "react";
 import "./page-buttons.styles.css";
 import { Link, useMatch, useResolvedPath } from "react-router-dom";
 
@@ -6,9 +6,10 @@ class PageButtons extends Component{
     render(){
         const {id,title} = this.props.PagesInfo;
         return(
-            <div className={`pages`}
+            <div  
+            className={`pages`} 
             key={id}>
-                <CustomLink to={`/${title}`}>{title}</CustomLink>
+                <CustomLink to={`/${title}`} id={id}>{title}</CustomLink>
             </div>
         )
     }
@@ -21,7 +22,7 @@ function CustomLink({ to, children}){
     const isActive = useMatch({path: resolvedPath.pathname, end: true})
     return(
         <h1 className={isActive ? "active" : ""}>
-            <Link to={to}>{children}</Link>
+            <Link to={to} className="text">{children}</Link>
         </h1>
     )
 }

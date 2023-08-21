@@ -15,13 +15,13 @@ class App extends Component {
   constructor(){
     super();
     this.state ={
-      PagesInfo: []
+      PagesInfo: [],
     }
   };
   
   componentDidMount(){
     this.setState({
-      PagesInfo: pages
+      PagesInfo: pages,
     })
   }
 

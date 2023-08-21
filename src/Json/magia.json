@@ -1,0 +1,33 @@
+[
+    {
+        "id":"m1",
+        "nazwa":"As w rękawie",
+        "pz":"0",
+        "zasięg":"Rzucający",
+        "cel":"Rzucający",
+        "czas":"Liczba Rund równa Bonusowi z Siły Woli",
+        "typ":"Prosta",
+        "opis":"Teleportujesz mały przedmiot (nie większy niż twoja pięść), który jest w twoim posiadaniu, wprost do twojej dłoni."
+    },
+    {
+        "id":"m2",
+        "nazwa":"Błędne ogniki",
+        "pz":"0",
+        "zasięg":"Liczba metrów równa Sile Woli",
+        "cel":"Specjalny",
+        "czas":"Liczba minut równa Sile Woli",
+        "typ":"Prosta",
+        "opis":"Tworzysz kilka migających magicznych światełek, maksymalnie tyle, ile wynosi twój Bonus z Inteligencji. Przypominają one pochodnie lub przysłonięte latarnie. Dopóki pozostają w zasięgu wzroku, poświęcając akcję, możesz je kontrolować, jeśli uda ci się Przeciętny (+20) Test Splatania Magii. Możesz wtedy przesuwać je w dowolnym kierunku. Będą przemieszczać się w tempie chodu, przechodząc przez przedmioty (lub osoby) na swojej drodze, dopóki przy pomocy kolejnego Testu nie zmienisz kierunku ich ruchu."
+    },
+    {
+        "id":"m3",
+        "nazwa":"Daleki szept",
+        "pz":"0",
+        "zasięg":"Liczba metrów równa Sile Woli",
+        "cel":"Specjalny",
+        "czas":"Liczba Rund równa Bonusowi z Siły Woli",
+        "typ":"Prosta",
+        "opis":"Wysyłasz swój głos do jednego punktu na odległość równą Sile Woli w metrach - niezależnie od tego, czy punkt jest w zasięgu wzroku, czy też nie. Twój głos rozlega się z tego miejsca i słyszągo wszyscy w zasięgu słuchu."
+    }
+    
+]

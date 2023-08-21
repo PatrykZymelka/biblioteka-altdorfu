@@ -1,9 +1,32 @@
 import { Component } from "react";
+import magia from "../Json/magia.json";
+import ItemList from "../components/item-list/item-list";
+import "./Pages-Styles/magia.styles.css";
 
 class Magia extends Component{
+    constructor(){
+        super();
+        this.state ={
+          Magia: []
+        }
+    };
+
+    componentDidMount(){
+        this.setState({
+          Magia: magia
+        })
+    }
+      
     render(){
+        const Mlist = this.state.Magia;
         return(
-            <h1>Magia</h1>
+            <div className="Container">
+                {Mlist.map(item =>{
+                    return(
+                        <ItemList Mlist={item}/>
+                    );
+                })}
+            </div>
         )
     }
 }

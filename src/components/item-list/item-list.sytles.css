@@ -1,0 +1,8 @@
+.Item-List-Cont{
+    border-style:dashed;
+    display:flex;
+    flex-direction: column;
+
+   
+}
+
