@@ -28,6 +28,234 @@
         "czas":"Liczba Rund równa Bonusowi z Siły Woli",
         "typ":"Prosta",
         "opis":"Wysyłasz swój głos do jednego punktu na odległość równą Sile Woli w metrach - niezależnie od tego, czy punkt jest w zasięgu wzroku, czy też nie. Twój głos rozlega się z tego miejsca i słyszągo wszyscy w zasięgu słuchu."
+    },
+    {
+        "id":"m4",
+        "nazwa":"Drganie",
+        "pz": "0",
+        "zasięg": "Liczba metrów równa Bonusowi z Siły Woli", 
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Sprawiasz, że mały przedmiot zaczyna się lekko poruszać. Coś może spaść z półki, księga może się nagle zamknąć. Jeśli przedmiot jest przez kogoś trzymany, postać ta musi wykonać Przeciętny (+20) Test Zręczności – jeśli się nie powiedzie, ta rzecz wymknie jej się z rąk."
+    },
+    {
+        "id":"m5",
+        "nazwa":"Jak kamień w wodę",
+        "pz": "0",
+        "zasięg": "Rzucający",
+        "cel": "Rzucający",
+        "czas": "Liczba minut równa Sile Woli",
+        "typ":"Prosta",
+        "opis":"Magia przepływająca przez twoje stopy sprawia, że wszelka materia organiczna, po której przechodzisz, pozostaje nietknięta – gałązki się nie łamią, trawa wraca do poprzedniej pozycji, nic nie dzieje się nawet delikatnym kwiatkom. Ci, którzy będą próbować tropić rzucającego czar na wiejskich terenach, otrzymają karę -30 do Testu."
+    },
+    {
+        "id":"m6",
+        "nazwa":"Królik z kapelusza",
+        "pz": "0",
+        "zasięg":" Dotyk",
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Sięgasz do torby, kieszeni, kapelusza lub pod kamień, krzew czy do nory i tworzysz małe zwierzątko tego rodzaju, którego spodziewałbyś się w danym miejscu, np. królika, gołębia lub szczura. Jeśli w danym miejscu nie występują żadne lokalne zwierzęta, zaklęcie nie zadziała. Nie wiadomo jednak, w jakim humorze będzie stworzone zwierzątko."
+    },
+    {
+        "id":"m7",
+       "nazwa":"Magiczny płomień",
+       "pz": "0",
+       "zasięg": "Rzucający",
+       "cel": "Rzucający",
+       "czas":" Liczba Rund równa Bonusowi z Siły Woli ",
+       "typ":"Prosta",
+       "opis":"Wzniecasz mały płomień, który drgając, budzi się do życia na twojej dłoni. Nie poparzy cię, ale będzie emitował ciepło i będzie w stanie zająć palne przedmioty tak jak naturalny płomień."
+
+    },
+    {
+        "id":"m8",
+        "nazwa":"Magiczne żądło",
+        "pz": "0",
+        "zasięg": "Liczba metrów równa Sile Woli",
+        "cel": "1",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Sprawiasz, że malutka strzałka, cała z magicznej energii, wystrzeliwuje ci z palców. Uznaje się ją za magiczny pocisk ze współczynnikiem Obrażeń +0."
+
+    },
+    {
+        "id":"m9",
+        "nazwa":"Ochrona przed deszczem",
+        "pz": "0",
+        "zasięg":"Rzucający",
+        "cel": "Rzucający",
+        "czas": "Liczba godzin równa Bonusowi z Wytrzymałości",
+        "typ":"Prosta",
+        "opis":"Nie jesteś w stanie zmoknąć – niezależnie od warunków pogodowych. Dotyczy to deszczu, gradu, deszczu ze śniegiem i śniegu, a także wszelkiej wody spadającej z nieba, jednakże nie dotyczy to wody stojącej."
+    },
+    {
+        "id":"m10",
+        "nazwa":"Oczyszczenie wody",
+        "pz": "0",
+        "zasięg": "1 metr",
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Uzdatniasz wodę w pojemniku, np. butli, konwi czy dzbanie. Wszelkie niemagiczne nieczystości, jak trucizny i zanieczyszczenia, zostają usunięte – pozostaje zdatna do picia i czysta woda. Jeśli w pojemniku znajdowała się ciecz w większości składająca się z wody, jak np. piwo czy wino, również ulega oczyszczeniu i zmienia się w pyszną i czystą wodę. Bez alkoholu!"
+    },
+    {
+        "id":"m11",
+        "nazwa":"Odgłosy",
+        "pz": "0",
+        "zasięg": "Liczba metrów równa Sile Woli",
+        "cel": "Specjalny",
+        "czas": "Liczba Rund równa Bonusowi z Siły Woli",
+        "typ":"Prosta",
+        "opis":"Niedaleko siebie wytwarzasz niewielki odgłos. To może być cichy, niewyraźny dźwięk, który wydaje się dochodzić z konkretnego miejsca niezależnie od zasięgu wzroku. Odgłosy mogą przypominać coś konkretnego, np. chód, szept czy dźwięki zwierząt, ale nic na tyle szczególnego, by mogło nieść wiadomość. Podczas trwania zaklęcia możesz kontrolować przemieszczanie się dźwięku, jeśli powiedzie ci się Przeciętny (+20) Test Splatania Magii. Sukces umożliwia ci przesuwać dźwięk do innego miejsca w zasięgu lub zwiększać i zmniejszać jego głośność."
+
+    },
+    {
+        "id":"m12",
+        "nazwa":"Orientacja",
+        "pz": "0",
+        "zasięg": "Rzucający",
+        "cel": "Rzucający",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Odczuwasz nagły przypływ Wiatrów Magii z ich źródła. Wiesz, gdzie znajduje się północ."
+
+    },
+    {
+        "id":"m13",
+        "nazwa":"Ostrzeżenie",
+        "pz": "0",
+        "zasięg": "1 metr",
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Wplatasz magię w przedmiot, dzięki czemu natychmiast dowiadujesz się, czy został on zatruty lub czy nie została na niego założona pułapka."
+    },
+    {
+        "id":"m14",
+        "nazwa":"Oślepienie",
+        "pz": "0",
+        "zasięg": "Dotyk",
+        "cel": "1",
+        "czas": "Liczba Rund równa Bonusowi z Siły Woli ",
+        "typ":"Prosta",
+        "opis":"Cel otrzymuje 1 poziom Oślepienia – i kolejny poziom Oślepienia na początku każdej Rundy, dopóki trwa zaklęcie."
+    },
+    {
+        "id":"m15",
+        "nazwa":"Otwarcie zamka",
+        "pz": "0",
+        "zasięg": "Dotyk",
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Dotknięty niemagiczny zamek otwiera się."
+     },
+    {   
+        "id":"m16",
+        "nazwa":"Podsłuch",
+        "pz": "0",
+        "zasięg": "Liczba metrów równa Sile Woli",
+        "cel": "1",
+        "czas": "Liczba minut równa Bonusowi z Inicjatywy",
+        "typ":"Prosta",
+        "opis":"Możesz usłyszeć, co mówią twoje cele, tak jakby stały obok ciebie."
+
+    },
+    {
+        "id":"m17",
+        "nazwa":"Podmuch",
+        "pz": "0",
+        "zasięg": "Liczba metrów równa Sile Woli",
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Tworzysz krótki podmuch wiatru, wystarczająco mocny, by zdmuchnąć świece, zatrzasnąć drzwi czy zwiać kartki papieru z blatu."
+    },
+    {
+        "id":"m18",
+        "nazwa":"Porażenie",
+        "pz": "0",
+        "zasięg": "Dotyk",
+        "cel": "1",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Cel otrzymuje 1 poziom Oszołomienia."
+
+    },
+    {
+        "id":"m19",
+        "nazwa":"Przyjaciel zwierząt",
+        "pz": "0",
+        "zasięg": "1 metr",
+        "cel": "1",
+        "czas": "1 godzina",
+        "typ":"Prosta",
+        "opis":"Zaprzyjaźniasz się z istotą, która jest mniejsza od ciebie i ma Cechę Stworzenia Zwierzęcy. Zwierzę ufa ci zupełnie i uważa za przyjaciela."
+    },
+    {
+        "id":"m20",
+        "nazwa":"Poblask",
+        "pz": "0",
+        "zasięg": "Rzucający",
+        "cel": "Rzucający",
+        "czas": "Liczba minut równa Sile Woli",
+        "typ":"Prosta",
+        "opis":"Tworzysz małe źródło światła, porównywalne z pochodnią, które świeci wprost z twojej dłoni, laski czy innej części twojej osoby.W czasie gdy zaklęcie jest aktywne, możesz zdecydować się zwiększyć moc światła do podobnego do latarni lub zmniejszyć je do blasku świecy, jeśli powiedzie ci się Przeciętny (+20) Test Splatania Magii."
+
+    },
+    {
+        "id":"m21",
+        "nazwa":"Uśpienie",
+        "pz": "0",
+        "zasięg": "Dotyk",
+        "cel": "1",
+        "czas": "Liczba Rund równa Bonusowi z Siły Woli ",
+        "typ":"Prosta",
+        "opis":"Dotykasz przeciwnika, a ten natychmiast zapada w głęboki sen. Jeśli cel miał już Stan Powalony, natychmiast otrzymuje też Utratę Przytomności. Cel zostanie nieprzytomny, dopóki trwa zaklęcie, jednak głośne dźwięki, przenoszenie czy potrącenie natychmiast go obudzi. Jeśli cel stał lub siedział podczas rzucenia zaklęcia, następuje Powalenie, a cel budzi się na ziemi po uderzeniu w nią. Jeśli cel nie próbuje odeprzeć snu lub jest po prostu bardzo zmęczony, po zakończeniu zaklęcia będzie chrapał w najlepsze."
+
+    },
+    {
+        "id":"m22",
+        "nazwa":"Wyssanie",
+        "pz": "0",
+        "zasięg": "Dotyk",
+        "cel": 1,
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Dotykasz celu, wysysając z niego życie. Zaklęcie to jest magicznym pociskiem zadającym +0 Obrażeń ignorujących Punkty Pancerza. Leczysz 1 Ranę."
+    },
+    {
+        "id":"m23",
+        "nazwa":"Zgnilizna",
+        "pz": "0",
+        "zasięg": "1 metr",
+        "cel": "Specjalny",
+        "czas": "Natychmiast",
+        "typ":"Prosta",
+        "opis":"Sprawiasz, że organiczny materiał wielkości pięści gnije natychmiast. Jedzenie się psuje, ubrania rozpadają, skóra wysusza się (tracąc 1 Punkt Pancerza w 1 miejscu) itd. – w zależności od decyzji MG."
+    },
+    {
+        "id":"m24",
+        "nazwa":"Żelazne racje",
+        "pz": "0",
+        "zasięg": "1 metr",
+        "cel": "1",
+        "czas": "Liczba dni równa Bonusowi z Siły Woli",
+        "typ":"Prosta",
+        "opis":"Zabezpieczasz racje żywnościowe, które starczą na jeden dzień. Podczas tego okresu nie zgniją, nie spleśnieją, nie sczerstwieją, ale nadal mogą zostać zniszczone, np. po zamoczeniu, spaleniu lub zatruciu."
+    },
+    {
+        "id":"m25",
+        "nazwa":"Źródełko",
+        "pz": "0",
+        "zasięg": "Dotyk",
+        "cel": "Specjalny",
+        "czas": "Liczba Rund równa Bonusowi z Siły Woli",
+        "typ":"Prosta",
+        "opis":"Dotykasz ziemi i z tego miejsca wydobywa się woda, wypływając w tempie pół litra na Rundę. Źródełko może wyprodukować maksymalnie tyle litrów wody, ile wynosi połowa Bonusu z Inicjatywy."
     }
     
 ]

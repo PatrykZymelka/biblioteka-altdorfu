@@ -31,7 +31,7 @@ class Magia extends Component{
         const {searchBar, Magia} = this.state;
         const {onSearchChange} = this;
 
-        const fileteredMagia = Magia.filter((zaklęcie) => {
+        const NameFiler = Magia.filter((zaklęcie) => {
             return zaklęcie.nazwa.toLowerCase().includes(searchBar);
             });
 
@@ -44,7 +44,7 @@ class Magia extends Component{
                     placeholder = {'Nazwa zaklęcia'}/>
                 </div>
                 <div className="Container">
-                    {fileteredMagia.map(item =>{
+                    {NameFiler.map(item =>{
                         return(
                             <ItemList Mlist={item}/>
                         );
