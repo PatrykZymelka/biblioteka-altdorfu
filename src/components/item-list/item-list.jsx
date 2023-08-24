@@ -5,28 +5,32 @@ class itemList extends Component{
     render(){
         const {nazwa, id, pz, zasięg, cel, czas, typ, opis } = this.props.Mlist;
         return(
-            <div key={id} className="Item-List-Cont">
-                <h1 className="MagicText">
-                    Nazwa: {nazwa}
-                </h1>
-                <h1 className="MagicText">
-                    PZ: {pz}
-                </h1>
-                <h1 className="MagicText">
-                    Zasięg: {zasięg}
-                </h1>
-                <h1 className="MagicText">
-                    Cel: {cel}
-                </h1>
-                <h1 className="MagicText">
-                    Czas: {czas}
-                </h1>
-                <h1 className="MagicText">
-                    Szkoła Magi: {typ}
-                </h1>
-                <h1 className="MagicText">
-                    Opis: {opis}
-                </h1>
+            <div key={id} className="Item">
+                <div className="Item-List-Cont-Top">
+                    <h1 className="MagicText">
+                        <strong>Nazwa:</strong> {nazwa}
+                    </h1>
+                    <h1 className="MagicText">
+                        <strong>PZ:</strong> {pz}
+                    </h1>
+                    <h1 className="MagicText">
+                        <strong>Zasięg:</strong> {zasięg}
+                    </h1>
+                    <h1 className="MagicText">
+                        <strong>Cel:</strong> {cel}
+                    </h1>
+                    <h1 className="MagicText">
+                        <strong>Czas:</strong> {czas}
+                    </h1>
+                    <h1 className="MagicText">
+                        <strong>Szkoła Magi:</strong> {typ}
+                    </h1>
+                </div>
+                <div className="Item-List-Cont-Bottom">
+                    <h1 className="MagicText">
+                        <strong>Opis:</strong> {opis}
+                    </h1>
+                </div>
             </div>
         )
     }

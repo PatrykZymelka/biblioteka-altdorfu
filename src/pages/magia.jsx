@@ -33,7 +33,7 @@ class Magia extends Component{
 
         const NameFiler = Magia.filter((zaklęcie) => {
             return zaklęcie.nazwa.toLowerCase().includes(searchBar);
-            });
+            });  
 
         return(
             <div>
