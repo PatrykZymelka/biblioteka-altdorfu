@@ -1,39 +1,43 @@
 import { Component } from "react";
 import "./item-list.sytles.css";
+import { useState } from "react";
 
-class itemList extends Component{
-    render(){
-        const {nazwa, id, pz, zasięg, cel, czas, typ, opis } = this.props.Mlist;
+const ItemList = (props) => {
+        const [isActive, setIsActive] = useState(false);
+        const {nazwa, id, pz, zasięg, cel, czas, typ, opis } = props.Mlist;
         return(
             <div key={id} className="Item">
-                <div className="Item-List-Cont-Top">
+                <div className="Item-List-Cont-Top" onClick={e => 
+                setIsActive(!isActive)}>
                     <h1 className="MagicText">
-                        <strong>Nazwa:</strong> {nazwa}
+                    <strong className="Begin">{nazwa}</strong>
                     </h1>
                     <h1 className="MagicText">
-                        <strong>PZ:</strong> {pz}
+                        <strong className="Begin">PZ:</strong> {pz}
                     </h1>
                     <h1 className="MagicText">
-                        <strong>Zasięg:</strong> {zasięg}
+                        <strong className="Begin">Zasięg:</strong> {zasięg}
                     </h1>
                     <h1 className="MagicText">
-                        <strong>Cel:</strong> {cel}
+                        <strong className="Begin">Cel:</strong> {cel}
                     </h1>
                     <h1 className="MagicText">
-                        <strong>Czas:</strong> {czas}
+                        <strong className="Begin">Czas:</strong> {czas}
                     </h1>
                     <h1 className="MagicText">
-                        <strong>Szkoła Magi:</strong> {typ}
-                    </h1>
-                </div>
-                <div className="Item-List-Cont-Bottom">
-                    <h1 className="MagicText">
-                        <strong>Opis:</strong> {opis}
+                        <strong className="Begin">Szkoła Magi:</strong> {typ}
                     </h1>
                 </div>
+                {isActive && (
+                    <div className="Item-List-Cont-Bottom">
+                        <h1 className="MagicText">
+                            {opis}
+                        </h1>
+                    </div>
+                )}
+                
             </div>
         )
     }
-}
 
-export default itemList;
+export default ItemList;

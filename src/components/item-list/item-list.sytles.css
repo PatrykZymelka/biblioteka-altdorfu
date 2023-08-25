@@ -1,9 +1,12 @@
 .Item-List-Cont-Top{
     display:grid;
-    font-size:8px;
-    column-gap:100px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    font-size:9px;
+    grid-template-columns: 1.5fr 0.5fr 3fr 1fr 3fr 1.5fr;
     margin-left:8px;
+    margin-right:8px;
+    column-gap: 20px;
+
+
     
 }
 .Item-List-Cont-Bottom{
@@ -13,11 +16,28 @@
     justify-content: flex-start;
     flex-wrap:wrap;
     margin-left:8px;
+    margin-right:16px;
+    border-bottom:0px;
+    border-top:4px;
+    border-right:0px;
+    border-left:0px;
+    border-style:solid;
+    border-color:gold;
 
 }
 .Item{
-    background-color: rgb(209, 209, 209);
+    background-color: rgb(255, 255, 255);
     margin-left:50px;
     margin-right:50px;
     border-style:dashed;
+    transition: 0.15s;
+    cursor:pointer;
+}
+.Item:hover{
+    scale:1.01
+}
+
+.Begin{
+    font-weight: bolder;
+    font-size:9;
 }

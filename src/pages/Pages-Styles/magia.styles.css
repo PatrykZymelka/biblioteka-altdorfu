@@ -3,7 +3,7 @@
     flex-direction: column;
     flex:auto;
     background-color: rgb(255, 255, 255);
-    row-gap:10px;
+    row-gap:20px;
 }
 .searchBoxBackground{
     display:flex;
