@@ -1,7 +1,7 @@
 .Item-List-Cont-Top{
     display:grid;
     font-size:9px;
-    grid-template-columns: 1.5fr 0.5fr 3fr 1fr 3fr 1.5fr;
+    grid-template-columns: 1.5fr 0.5fr 2fr 2fr 3fr 1.5fr;
     margin-left:8px;
     margin-right:8px;
     column-gap: 20px;

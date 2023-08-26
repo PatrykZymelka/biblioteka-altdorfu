@@ -1,261 +1,1923 @@
 [
     {
-        "id":"m1",
-        "nazwa":"As w rękawie",
-        "pz":"0",
-        "zasięg":"Rzucający",
-        "cel":"Rzucający",
-        "czas":"Liczba Rund równa Bonusowi z Siły Woli",
-        "typ":"Prosta",
-        "opis":"Teleportujesz mały przedmiot (nie większy niż twoja pięść), który jest w twoim posiadaniu, wprost do twojej dłoni."
+        "id": "m5",
+        "nazwa": "Abulla’s Snare",
+        "pz": "5",
+        "zasięg": "Initiative yards",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Rzucasz magiczną pułapkę, która daje celowi 2 Stany Splątania o sile równej twojej Sile Woli. Werbel podnosi cel na 2 metry nad ziemię. W następnej rundzie cel jest przyciągany do ciebie i pozostaje wiszący około 5 metrów nad twoją głową i 2 metry przed twoją głową, aż do zakończenia działania zaklęcia, poruszając się wraz z tobą. Za każde +1 SL dodaj jeden Stan Uwikłania lub lewituj cel o 2 metry wyżej (maksymalnie 10 jardów). Po uwolnieniu cel otrzymuje obrażenia od upadku (WFRP, strona 166).",
+        "typ": "Light"
     },
     {
-        "id":"m2",
-        "nazwa":"Błędne ogniki",
-        "pz":"0",
-        "zasięg":"Liczba metrów równa Sile Woli",
-        "cel":"Specjalny",
-        "czas":"Liczba minut równa Sile Woli",
-        "typ":"Prosta",
-        "opis":"Tworzysz kilka migających magicznych światełek, maksymalnie tyle, ile wynosi twój Bonus z Inteligencji. Przypominają one pochodnie lub przysłonięte latarnie. Dopóki pozostają w zasięgu wzroku, poświęcając akcję, możesz je kontrolować, jeśli uda ci się Przeciętny (+20) Test Splatania Magii. Możesz wtedy przesuwać je w dowolnym kierunku. Będą przemieszczać się w tempie chodu, przechodząc przez przedmioty (lub osoby) na swojej drodze, dopóki przy pomocy kolejnego Testu nie zmienisz kierunku ich ruchu."
+        "id": "m6",
+        "nazwa": "Assault of Stone",
+        "pz": "12",
+        "zasięg": "Willpower yards",
+        "cel": "Special",
+        "czas": "Instant",
+        "opis": "Czerpiesz z ziemskiego Hysha, aby zmienić kształt ziemi. Ubijane skały i gleba tworzą wzgórze o średnicy około 20 metrów i wysokości 5 metrów. Postacie stojące na wzniesieniu muszą wykonać Trudny (+0) Test Uniku lub otrzymać 20 Obrażeń w losowym miejscu ciała. Nawet ci, którym uda się uniknąć, otrzymują 10 obrażeń. Wzgórze pozostaje na stałe.",
+        "typ": "Light"
     },
     {
-        "id":"m3",
-        "nazwa":"Daleki szept",
-        "pz":"0",
-        "zasięg":"Liczba metrów równa Sile Woli",
-        "cel":"Specjalny",
-        "czas":"Liczba Rund równa Bonusowi z Siły Woli",
-        "typ":"Prosta",
-        "opis":"Wysyłasz swój głos do jednego punktu na odległość równą Sile Woli w metrach - niezależnie od tego, czy punkt jest w zasięgu wzroku, czy też nie. Twój głos rozlega się z tego miejsca i słyszągo wszyscy w zasięgu słuchu."
+        "id": "m1",
+        "nazwa": "Banishment ",
+        "pz": "12 ",
+        "zasięg": "You ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Instant ",
+        "opis": "Otwierasz dłonie i pojawia się oczyszczająca aureola Hysha, wpływająca na wszystkie stworzenia w obszarze działania, których Wytrzymałość jest niższa niż Twoja Siła Woli. Cele posiadające cechę Nieumarły lub Demoniczne stworzenie zyskują cechę Niestabilne stworzenie (WFRP, strona 343). Jeśli mają już cechę Niestabilny, ich obrażenia zostają zredukowane do 0.",
+        "typ": "Light"
     },
     {
-        "id":"m4",
-        "nazwa":"Drganie",
-        "pz": "0",
-        "zasięg": "Liczba metrów równa Bonusowi z Siły Woli", 
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Sprawiasz, że mały przedmiot zaczyna się lekko poruszać. Coś może spaść z półki, księga może się nagle zamknąć. Jeśli przedmiot jest przez kogoś trzymany, postać ta musi wykonać Przeciętny (+20) Test Zręczności – jeśli się nie powiedzie, ta rzecz wymknie jej się z rąk."
+        "id": "m2",
+        "nazwa": "Blinding Light ",
+        "pz": "5 ",
+        "zasięg": "Willpower yards ",
+        "cel": "You ",
+        "czas": "Instant ",
+        "opis": "Emitujesz jasny, oślepiający błysk światła ze swojej dłoni lub laski. Każdy, kto na ciebie spojrzy, chyba że posiada talent Tajemna Magia (Światło), otrzymuje +SL Oślepienie.",
+        "typ": "Light"
     },
     {
-        "id":"m5",
-        "nazwa":"Jak kamień w wodę",
-        "pz": "0",
-        "zasięg": "Rzucający",
-        "cel": "Rzucający",
-        "czas": "Liczba minut równa Sile Woli",
-        "typ":"Prosta",
-        "opis":"Magia przepływająca przez twoje stopy sprawia, że wszelka materia organiczna, po której przechodzisz, pozostaje nietknięta – gałązki się nie łamią, trawa wraca do poprzedniej pozycji, nic nie dzieje się nawet delikatnym kwiatkom. Ci, którzy będą próbować tropić rzucającego czar na wiejskich terenach, otrzymają karę -30 do Testu."
+        "id": "m3",
+        "nazwa": "Clarity of Thought ",
+        "pz": "6 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Intelligence minutes ",
+        "opis": "Uspokajasz umysł celu, pozwalając mu jasno myśleć. Cel ignoruje wszelkie negatywne modyfikatory swoich procesów mentalnych, takie jak Stany takie jak Ogłuszenie, Mutacje Umysłowe, Psychologia itd., gdy zaklęcie działa.",
+        "typ": "Light"
     },
     {
-        "id":"m6",
-        "nazwa":"Królik z kapelusza",
-        "pz": "0",
-        "zasięg":" Dotyk",
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Sięgasz do torby, kieszeni, kapelusza lub pod kamień, krzew czy do nory i tworzysz małe zwierzątko tego rodzaju, którego spodziewałbyś się w danym miejscu, np. królika, gołębia lub szczura. Jeśli w danym miejscu nie występują żadne lokalne zwierzęta, zaklęcie nie zadziała. Nie wiadomo jednak, w jakim humorze będzie stworzone zwierzątko."
+        "id": "m4",
+        "nazwa": "Crevasse",
+        "pz": "8",
+        "zasięg": "Willpower yards",
+        "cel": "Special",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Otwierasz dudniącą szczelinę w ziemi. Szczelina ma 3 metry szerokości, długości i głębokości. Możesz zwiększyć długość i głębokość o +1 jard na każde +2 SL do maksymalnej głębokości 10 jardów. Cele stojące na szczelinie lub w jej sąsiedztwie muszą przejść Trudny (+0) Test uniku, aby uniknąć wpadnięcia. Marginalne niepowodzenia pozwalają celom chwycić się krawędzi. Konie i pojazdy upadają automatycznie. Dotknięte konstrukcje mogą się częściowo zawalić. Kiedy zaklęcie się kończy, szczelina zamyka się, a ofiary w środku zostają zmiażdżone, zadając 20 obrażeń, grzebiąc je żywcem. Pochowane ofiary podlegają uduszeniu (WFRP, strona 181).",
+        "typ": "Light"
     },
     {
-        "id":"m7",
-       "nazwa":"Magiczny płomień",
-       "pz": "0",
-       "zasięg": "Rzucający",
-       "cel": "Rzucający",
-       "czas":" Liczba Rund równa Bonusowi z Siły Woli ",
-       "typ":"Prosta",
-       "opis":"Wzniecasz mały płomień, który drgając, budzi się do życia na twojej dłoni. Nie poparzy cię, ale będzie emitował ciepło i będzie w stanie zająć palne przedmioty tak jak naturalny płomień."
-
+        "id": "m9",
+        "nazwa": "Daemonbane",
+        "pz": "10 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "1 ",
+        "czas": "Instant ",
+        "opis": "Przywołujesz podmuch Hysha, który przechodzi przez granicę pomiędzy Królestwem Chaosu a światem materialnym. Testowi rzucania przeciwstawia się Siła Woli celu. Jeśli wygrasz, unicestwiasz cel za pomocą cechy Demonicznego Stwora oślepiającym białym światłem, wysyłając go z powrotem tam, skąd przyszedł. Jeśli zaklęcie pomyślnie wygna demona, każdy, kto spojrzy na twój cel, chyba że posiada talent Tajemna Magia (Światło), otrzymuje +SL Oślepienie.",
+        "typ": "Light"
     },
     {
-        "id":"m8",
-        "nazwa":"Magiczne żądło",
-        "pz": "0",
-        "zasięg": "Liczba metrów równa Sile Woli",
+        "id": "m11",
+        "nazwa": "Dazzling Brightness",
+        "pz": "5",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Instant",
+        "opis": "Tworzysz wybuch najczystszego światła. Każdy na dotkniętym obszarze otrzymuje 1 stan Oślepienia, chyba że posiada talent Tajemna Magia (Światło). Demony otrzymują 1 stan ogłuszenia.",
+        "typ": "Light"
+    },
+    {
+        "id": "m12",
+        "nazwa": "Driving Intent",
+        "pz": "4",
+        "zasięg": "Touch",
         "cel": "1",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Sprawiasz, że malutka strzałka, cała z magicznej energii, wystrzeliwuje ci z palców. Uznaje się ją za magiczny pocisk ze współczynnikiem Obrażeń +0."
+        "czas": "Willpower Bonus hours",
+        "opis": "Obdarzasz cel jasnością i determinacją, zapewniając +2 SL do testów Siły Woli, aby oprzeć się Urokowi, Blatherowi i Zastraszeniu. Kiedy zostanie rzucony na siebie, możesz zamiast tego zdecydować się na otrzymanie premii +2 SL do testów Uroku, pod warunkiem, że mówisz tylko prawdę. Kolegium Światła marszczy brwi",
+        "typ": "Light"
+    },
+    {
+        "id": "m7",
+        "nazwa": "Erect the Edifice",
+        "pz": "9",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "Special",
+        "czas": "Special",
+        "opis": "Podnosisz ziemię w prymitywną ścianę ubitej ziemi i kamienia. Dokładny skład materiału zależy od ukształtowania terenu. Ściana ma 5 metrów długości, 1 metr wysokości i 6 cali grubości. Ściana ma twardą okładkę (WFRP, strona 161). Za każde +2 SL możesz spędzić dodatkową rundę, dodając +5 jardów długości lub +1 jard wysokości. Każdy dodatkowy metr wysokości dodaje 6 cali grubości. Jeden otwór (drzwi lub okno) można pozostawić otwarty w każdym dwumetrowym odcinku ściany. Tworzenie zakrętu lub krzywizny w ścianie wymaga +2 SL. Wielokrotne rzucenie tego zaklęcia może stworzyć skorupę budynku. Jednakże budynek zawali się w ciągu dni Premii Wolności + SL, chyba że posiadasz Umiejętności Wiedzy (Inżynieria) lub Handlu (Kamiarz) albo doradcę z jedną z tych Umiejętności, który jest w stanie udzielić Ci rady podczas rzucania zaklęcia. Zaklęcie to nie może kopać piwnic ani tworzyć podłóg i dachów. Aby ukończyć magicznie zbudowany budynek, wymagane są prace stolarskie. Jeśli korzystasz z zasad artylerii i budowli z Up In Arms, ściana liczy się jako część robót ziemnych.",
+        "typ": "Light"
+    },
+    {
+        "id": "m8",
+        "nazwa": "Eyes of Volans",
+        "pz": "6",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Twoje oczy stają się białe, gdy postrzegasz Wiatry Magii wyraźniej niż rzeczywistość fizyczna. Otrzymujesz –2 SL do testów percepcji opartej na wizji, chyba że używasz talentu Drugiego Wzroku do odczytywania wiatrów – w takim przypadku zyskujesz premię +20. Możesz zobaczyć zepsucie i rozpoznać mutacje u ludzi i innych cywilizowanych gatunków, ale nie u roślin i zwierząt. Mutacja ukryta pod ubraniem może nadal zostać przeoczona. Możesz powiedzieć, ile cel posiada punktów zepsucia",
+        "typ": "Light"
+    },
 
+    {
+        "id": "m10",
+        "nazwa": "Healing Light ",
+        "pz": "9 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "1 ",
+        "czas": "Instant ",
+        "opis": "Twój cel świeci jasnym, oczyszczającym światłem o jasności ogniska. Odzyskują Rany równe twojej premii do inteligencji + premii do siły woli. Jeśli cel przejdzie Bardzo trudny (-30) Test Wytrzymałości, usuwa również 1 punkt Zepsucia zdobyty w ciągu ostatniej godziny.",
+        "typ": "Light"
     },
     {
-        "id":"m9",
-        "nazwa":"Ochrona przed deszczem",
-        "pz": "0",
-        "zasięg":"Rzucający",
-        "cel": "Rzucający",
-        "czas": "Liczba godzin równa Bonusowi z Wytrzymałości",
-        "typ":"Prosta",
-        "opis":"Nie jesteś w stanie zmoknąć – niezależnie od warunków pogodowych. Dotyczy to deszczu, gradu, deszczu ze śniegiem i śniegu, a także wszelkiej wody spadającej z nieba, jednakże nie dotyczy to wody stojącej."
+        "id": "m13",
+        "nazwa": "Meissner’s Instantaneous Librarian",
+        "pz": "2",
+        "zasięg": "AoE (Intelligence Bonus yards)",
+        "cel": "You",
+        "czas": "Instant",
+        "opis": "Lokalizujesz żądany tom lub grimuar, powodując jego świecenie, co zapewnia premię do siły woli + rundy SL. Jeśli nie znasz tytułu książki, możesz zamiast tego określić temat w 10 lub mniejszej liczbie słów. Im bardziej szczegółowy temat, tym bardziej szczegółowy wynik. W dużych bibliotekach niejasny temat może sprawić, że wiele książek zabłyśnie. Na przykład wyszukiwanie „mrocznych rytuałów” w bibliotece czarnoksiężnika rzuci światło na wiele tomów, podczas gdy „rytuały Tzeentcha wymagające ofiar z ludzi w świetle Morrslieba” znacznie zawężą wybór. Użycie tego zaklęcia natychmiast dodaje 1 + SL do docelowego SL w rozszerzonym teście badawczym. Późniejsze badania zwykle wymagają spędzenia czasu na czytaniu. Jeśli jednak badania są złożone, a biblioteka jest wystarczająco dobrze wyposażona, MG może zaliczyć drugie lub trzecie użycie tego zaklęcia do docelowego SL.",
+        "typ": "Light"
     },
     {
-        "id":"m10",
-        "nazwa":"Oczyszczenie wody",
-        "pz": "0",
-        "zasięg": "1 metr",
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Uzdatniasz wodę w pojemniku, np. butli, konwi czy dzbanie. Wszelkie niemagiczne nieczystości, jak trucizny i zanieczyszczenia, zostają usunięte – pozostaje zdatna do picia i czysta woda. Jeśli w pojemniku znajdowała się ciecz w większości składająca się z wody, jak np. piwo czy wino, również ulega oczyszczeniu i zmienia się w pyszną i czystą wodę. Bez alkoholu!"
+        "id": "m14",
+        "nazwa": "Net of Amyntok ",
+        "pz": "8 ",
+        "zasięg": "Intelligence Bonus yards ",
+        "cel": "1 ",
+        "czas": "Target’s Intelligence Bonus rounds ",
+        "opis": "Zarzucasz delikatną sieć utkaną z pasm Hysha na swoje cele, których umysły są opanowane przez zagadki i zagadki, pozostawiając je sparaliżowane niezdecydowaniem. Cele zyskują +1 Stanu Ogłuszenia, którego nie mogą stracić podczas działania zaklęcia. Podczas odzyskiwania stanu cele testują swoją inteligencję zamiast umiejętności Wytrzymałość. Cele z cechą Bestial Creature są odporne na to zaklęcie.",
+        "typ": "Light"
     },
     {
-        "id":"m11",
-        "nazwa":"Odgłosy",
-        "pz": "0",
-        "zasięg": "Liczba metrów równa Sile Woli",
-        "cel": "Specjalny",
-        "czas": "Liczba Rund równa Bonusowi z Siły Woli",
-        "typ":"Prosta",
-        "opis":"Niedaleko siebie wytwarzasz niewielki odgłos. To może być cichy, niewyraźny dźwięk, który wydaje się dochodzić z konkretnego miejsca niezależnie od zasięgu wzroku. Odgłosy mogą przypominać coś konkretnego, np. chód, szept czy dźwięki zwierząt, ale nic na tyle szczególnego, by mogło nieść wiadomość. Podczas trwania zaklęcia możesz kontrolować przemieszczanie się dźwięku, jeśli powiedzie ci się Przeciętny (+20) Test Splatania Magii. Sukces umożliwia ci przesuwać dźwięk do innego miejsca w zasięgu lub zwiększać i zmniejszać jego głośność."
-
-    },
-    {
-        "id":"m12",
-        "nazwa":"Orientacja",
-        "pz": "0",
-        "zasięg": "Rzucający",
-        "cel": "Rzucający",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Odczuwasz nagły przypływ Wiatrów Magii z ich źródła. Wiesz, gdzie znajduje się północ."
-
-    },
-    {
-        "id":"m13",
-        "nazwa":"Ostrzeżenie",
-        "pz": "0",
-        "zasięg": "1 metr",
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Wplatasz magię w przedmiot, dzięki czemu natychmiast dowiadujesz się, czy został on zatruty lub czy nie została na niego założona pułapka."
-    },
-    {
-        "id":"m14",
-        "nazwa":"Oślepienie",
-        "pz": "0",
-        "zasięg": "Dotyk",
+        "id": "m15",
+        "nazwa": "Orb of Hysh",
+        "pz": "5",
+        "zasięg": "Willpower yards",
         "cel": "1",
-        "czas": "Liczba Rund równa Bonusowi z Siły Woli ",
-        "typ":"Prosta",
-        "opis":"Cel otrzymuje 1 poziom Oślepienia – i kolejny poziom Oślepienia na początku każdej Rundy, dopóki trwa zaklęcie."
+        "czas": "Willpower Bonus rounds",
+        "opis": "Kompresujesz światło w materię stałą wokół jednego obiektu dowolnej wielkości, umożliwiając manipulację telekinetyczną. Możesz przesuwać, obracać lub podnosić maksymalny ciężar Premii Siły Woli + Obciążenia SL z prędkością równą Twojej Premii Siły Woli. Złośliwe wpływy są bezpiecznie przechowywane (WFRP, strona 236) w testach kuli i zepsucia wynikających z oddziaływania obieku na ciebie są zmniejszone o jeden poziom.",
+        "typ": "Light"
     },
     {
-        "id":"m15",
-        "nazwa":"Otwarcie zamka",
-        "pz": "0",
-        "zasięg": "Dotyk",
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Dotknięty niemagiczny zamek otwiera się."
-     },
-    {   
-        "id":"m16",
-        "nazwa":"Podsłuch",
-        "pz": "0",
-        "zasięg": "Liczba metrów równa Sile Woli",
+        "id": "m16",
+        "nazwa": "Hands of Karkora",
+        "pz": "8",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Blade dłonie wyrywają się z ziemi u stóp celu. Cele w obszarze działania muszą wykonać Trudny (+0) Test Uniku, aby uniknąć rąk. Cele złapane za ręce zostają Chwycone (WFRP, strona 163) z Siłą równą Twojej Sile Woli. Alternatywnie, zamiast zadawać obrażenia w kolejnych rundach, ręce wciągają cele pod ziemię, gdzie zaczynają się dusić (WFRP, strona 181). Aby skorzystać z tej opcji, czarodziej rzucający zaklęcie musi zadeklarować zamiar uduszenia celu podczas rzucania zaklęcia.",
+        "typ": "Light"
+    },
+    {
+        "id": "m17",
+        "nazwa": "Illuminate the Edifice",
+        "pz": "4",
+        "zasięg": "Touch",
+        "cel": "1 (maximum)",
+        "czas": "Willpower Bonus hours",
+        "opis": "Oświetlasz wnętrze domu światłem dziennym. Możesz oświetlić wieżę lub duży dwór za pomocą +2 SL lub zamek za pomocą +4 SL. Każda zamknięta przestrzeń wypełniona jest światłem przedostającym się przez szczeliny. Demony i Nieumarli muszą zdać Wymagający (+0) Test Siły Woli, aby wejść do budynku. Jeśli przejdą test i wejdą do budynku, otrzymają obrażenia, które ignorują ich premię za wytrzymałość i punkty pancerza równe całkowitej wartości SL w teście rzucania.",
+        "typ": "Light"
+    },
+    {
+        "id": "m18",
+        "nazwa": "Light of Purity",
+        "pz": "6",
+        "zasięg": "Special",
+        "cel": "1 (maximum)",
+        "czas": "Special",
+        "opis": "Nasycasz pojedyncze źródło światła magią oczyszczającą. Wszyscy w promieniu światła są odporni na choroby. Co więcej, czarodzieje otrzymują premię za rozproszenie zaklęć Ciemności i Chaosu równą całkowitej wartości SL w teście rzucania. Zasięg i czas trwania zależą od źródła światła",
+        "typ": "Light"
+    },
+    {
+        "id": "m19",
+        "nazwa": "Speed of Thought ",
+        "pz": "8 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Siatka Hysh pokrywa twój umysł, pozwalając ci szybko myśleć. Zyskaj +20 do Inteligencji i Inicjatywy.",
+        "typ": "Light"
+    },
+    {
+        "id": "m20",
+        "nazwa": "Time Amok",
+        "pz": "11",
+        "zasięg": "You",
+        "cel": "AoE (Willpower yards)",
+        "czas": "Instant",
+        "opis": "Zmieniasz bieg czasu poprzez gobelin losu. Wszystkie przyjazne postacie otrzymują dodatkową akcję (ale nie dodatkowy ruch). Akcje bonusowe przeprowadzane są w kolejności inicjatywy, pomijając postacie wroga lub neutralne. Kiedy wszystkie dodatkowe akcje zostaną rozpatrzone, wznów inicjatywę za od postaci która ma kolejkę po twojej w inicjatywie, nie ważne czy jest to wróg czy przyjaciel",
+        "typ": "Light"
+    },
+    {
+        "id": "m21",
+        "nazwa": "Perfect Comprehension",
+        "pz": "5",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Możesz wyraźnie zrozumieć każdy język, niezależnie od tego, czy jest on mówiony, pisany czy komunikowany w inny sposób. Możesz także zrozumieć zakodowaną lub zniekształconą komunikację. MG może zrobić wyjątek dla starożytnych, mało znanych języków, takich jak języki Slannów lub Przedwiecznych. Ciemnego Języka również nie da się zrozumieć za pomocą zaklęcia. Nie możesz porozumiewać się w nieznanych językach, możesz je tylko zrozumieć.",
+        "typ": "Light"
+    },
+    {
+        "id": "m22",
+        "nazwa": "Phâ’s Protection ",
+        "pz": "10 ",
+        "zasięg": "You ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Przywołujesz ochronną aurę czystego świętego światła. Profane istoty — te z cechą Nieumarły lub Demoniczny stwór, te z mutacjami i te z większym zepsuciem niż wynosi ich łączna premia do siły woli i premia do wytrzymałości — nie mogą wejść do obszaru działania. Każdy, kto znajduje się już w obszarze, zyskuje Stan Złamania, dopóki nie opuści tego obszaru. Istoty znajdujące się na tym obszarze nie mogą zdobywać żadnych punktów zepsucia, gdy zaklęcie jest aktywne.",
+        "typ": "Light"
+    },
+    {
+        "id": "m23",
+        "nazwa": "Pierce the Veil",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Zyskujesz zdolność widzenia przez ciemność, mgłę, dym i mgłę, jak w jasnym świetle dziennym. Możesz także przejrzeć magiczną ciemność, niewidzialność i iluzje, przechodząc Test Przeciwstawnej Siły Woli przeciwko rzucającemu zaklęcie.",
+        "typ": "Light"
+    },
+    {
+        "id": "m24",
+        "nazwa": "Shimmering Cloak",
+        "pz": "9",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Otaczasz się ochronnym magicznym polem. Ataki wręcz i rakietowe skierowane przeciwko tobie tracą swój wskaźnik obrażeń i zadają tylko rany SL. Całkowicie negujesz wszystkie inne rodzaje obrażeń (takie jak te spowodowane ogniem, upadkiem itp.). Shimmering nie ma wpływu na magiczne ataki",
+        "typ": "Light"
+    },
+    {
+        "id": "m25",
+        "nazwa": "Crucible of Chamon ",
+        "pz": "7 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "1 object",
+        "czas": "Instant ",
+        "opis": "Przekazujesz Chamona w pojedynczy, niemagiczny, metalowy obiekt, taki jak broń lub element zbroi zakrywający pojedynczą część ciała. Przedmiot topi się, kapie na podłogę w postaci stopionego metalu i niemal natychmiast się ochładza. Jeśli zostanie przytrzymany, przedmiot zostanie upuszczony. Jeśli jest noszony, użytkownik otrzymuje trafienie niczym magiczny pocisk, którego obrażenia są równe twojej premii do siły woli, która ignoruje premię do wytrzymałości. Podczas gdy przedmiot ulega zniszczeniu, metal zachowuje swoją podstawową wartość i może zostać użyty przez kowala jako surowiec.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m26",
+        "nazwa": "Curse of Rust",
+        "pz": "4",
+        "zasięg": "Willpower yards",
+        "cel": "1 object of 1 Encumbrance",
+        "czas": "Instant",
+        "opis": "Zamieniasz niemagiczny, metalowy przedmiot w rdzę, czyniąc go trwale bezużytecznym. Jeśli osiągniesz +4 SL, zaklęcie może również wpłynąć na obiekt niemetalowy, czyniąc go kruchym jak szkło na liczbę minut równą twojej Premii do Siły Woli. Przedmiot o mieszanym składzie może chwilowo stać się kruchy wokół zardzewiałych metalowych elementów. Jeśli metalowe łączniki łączą przedmiot, może on się rozpaść, a jego niemetalowe elementy mogą się rozbić, jeśli również zostały przeklęte. Obiekt o wartości 1 Obciążenia może zostać w ten sposób przeklęty, plus 1 Obciążenie za każde dodatkowe +2 SL.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m27",
+        "nazwa": "Enchant Weapon ",
+        "pz": "6 ",
+        "zasięg": "Touch ",
+        "cel": "special ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Otaczasz pojedynczą niemagiczną broń ciężkimi pasmami Chamona, zwiększając jej moc. Na czas trwania zaklęcia liczy się ono jako magiczne, zyskuje premię do obrażeń równą twojej premii do siły woli i zyskuje jakość Niezłomność (WFRP, strona 298). Za każde +3 SL możesz także dodać 1 Jakość lub usunąć 1 Wadę z broni, podczas gdy zaklęcie działa. ",
+        "typ": "Metal"
+    },
+    {
+        "id": "m28",
+        "nazwa": "Armour of  Tin",
+        "pz": "4",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Sprawiasz, że metalowa zbroja staje się miękka i wątła. Metalowa zbroja noszona przez kogokolwiek w obszarze obszarowym zostaje zmniejszona o 2 punkty pancerza w każdym trafionym miejscu.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m29",
+        "nazwa": "Breach the Unknown",
+        "pz": "4",
+        "zasięg": "Initiative yards",
         "cel": "1",
-        "czas": "Liczba minut równa Bonusowi z Inicjatywy",
-        "typ":"Prosta",
-        "opis":"Możesz usłyszeć, co mówią twoje cele, tak jakby stały obok ciebie."
-
+        "czas": "Instant",
+        "opis": "Poznajesz właściwości fizyczne przedmiotu lub stworzenia. Przedmiot jest rozumiany tak, jakbyś przyglądał się mu uważnie przez jeden dzień. Znane jest zdrowie stworzenia, wraz z jego najwyższymi cechami fizycznymi. Za każde +2 SL uczysz się jednego dodatkowego szczegółu, który nie jest w widoczny sposób widoczny (taki jak właściwość trująca lub lecznicza, cecha stworzenia itd.). Rzucenie tego zaklęcia na magiczny przedmiot, którego dotykasz, zapewnia tymczasowe użycie talentu Wykryj artefakt (WFRP, strona 135).",
+        "typ": "Metal"
     },
     {
-        "id":"m17",
-        "nazwa":"Podmuch",
-        "pz": "0",
-        "zasięg": "Liczba metrów równa Sile Woli",
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Tworzysz krótki podmuch wiatru, wystarczająco mocny, by zdmuchnąć świece, zatrzasnąć drzwi czy zwiać kartki papieru z blatu."
+        "id": "m30",
+        "nazwa": "Gehenna’s Golden Globe",
+        "pz": "13",
+        "zasięg": "Random Vortex",
+        "cel": "AoE (2 × Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Tworzysz magiczną, złotą kulę, która przemienia tych, których dotknie, w posągi. Cele znajdujące się w obszarze działania są pod wpływem zaklęcia Złoty Dotyk (patrz poniżej). Zaklęcie to wykorzystuje zasady losowego wiru.",
+        "typ": "Metal"
     },
     {
-        "id":"m18",
-        "nazwa":"Porażenie",
-        "pz": "0",
-        "zasięg": "Dotyk",
+        "id": "m31",
+        "nazwa": "Gilded Cage",
+        "pz": "9",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus hours",
+        "opis": "Przywołujesz złote sztabki z ziemi, aby zamknąć cele w klatce. Pręty mają pół cala grubości i postać może je zgiąć, przechodząc test wytrzymałości na twardość (-20) lub przeciąć je odpowiednimi narzędziami. Mali lub mali więźniowie mogą przecisnąć się przez 6-calowe szczeliny między kratami. Postacie znajdujące się poza klatką nie mogą wejść do środka, choć broń i pociski nadal mogą przechodzić pomiędzy kratami. Jeśli zostanie rzucona w pomieszczeniu, klatka przebije się przez ściany i sufity, co zasłania jej obszar działania.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m32",
+        "nazwa": "Glittering Robe ",
+        "pz": "5 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Toughness Bonus Rounds ",
+        "opis": "Dzikie chmury Chamona wirują wokół ciebie, odbijając ciosy i przechwytując pociski oraz magiczne ataki. Zdobądź cechę stwora Ward (9+) (WFRP, strona 343) przeciwko wszystkim atakom i zaklęciom wymierzonym w ciebie. Każde pomyślnie zapisane trafienie zwiększa skuteczność totemu o 1, maksymalnie do wartości totemu (3+).",
+        "typ": "Metal"
+    },
+    {
+        "id": "m33",
+        "nazwa": "Golden Touch",
+        "pz": "7",
+        "zasięg": "Touch",
+        "cel": "Special",
+        "czas": "Willpower × 1d10 minutes",
+        "opis": "Po rzuceniu tego zaklęcia następna żywa istota, której dotkniesz, przemienia się w złoty posąg. Cel może podjąć test Siły Woli, aby oprzeć się skamienieniu. Jako posąg cel nie widzi, nie słyszy ani nie czuje niczego. Czas trwania jest losowany w tajemnicy przez MG, więc nie możesz dokładnie przewidzieć, kiedy zaklęcie się skończy. Cel liczy się jako posiadający Premię do Wytrzymałości wynoszącą 10, ale Rany zadawane są normalnie. Jeśli figura otrzyma Rany status ten natychmiast się kończy",
+        "typ": "Metal"
+    },
+    {
+        "id": "m34",
+        "nazwa": "Fault of Form",
+        "pz": "2",
+        "zasięg": "Willpower yards",
+        "cel": "1 weapon",
+        "czas": "Initiative Bonus rounds",
+        "opis": "Zmieniasz skład broni, czyniąc ją mniej skuteczną. Broń docelowa musi być przynajmniej częściowo wykonana z metalu. Wszystkie korzystne cechy broni zostają utracone, a jej posiadacz otrzymuje -1 SL do wszystkich testów na trafienie podczas jej używania. Co więcej, niektóre wady broni ulegają pogorszeniu: niebezpieczne fumble przy 8, 9 lub dublecie, czas przeładowania jest podwojony, spowolnienie zapewnia obrońcom +2 SL. Magiczne bronie nie ulegają zmianom pod wpływem tego zaklęcia, jednak ich zaklęcia zostają chwilowo zanegowane, jeśli rzucisz +4 SL.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m35",
+        "nazwa": "Feather of Lead ",
+        "pz": "5 ",
+        "zasięg": "Willpower yards ",
+        "cel": "Area of Effect (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus Rounds ",
+        "opis": "Przywołując złoty wiatr, zmieniasz gęstość rzeczy swojego celu, podnosząc lub obniżając ich wagę. Na czas trwania zaklęcia wybierz jeden efekt dla wszystkich w obszarze działania: 0Licz jako dwa kroki więcej Przeciążony 0Nie licz się jako Przeciążony Zobacz WFRP, strona 293, aby uzyskać szczegółowe informacje na temat Obciążenia.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m36",
+        "nazwa": "Fool’s Gold ",
+        "pz": "4 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower minutes ",
+        "opis": "Wplatasz Chamona w niemagiczny przedmiot wykonany z metalu, zasadniczo zmieniając jego naturę. Na czas trwania zaklęcia cały metal w przedmiocie staje się złoty. To nie jest iluzja: przemieniło się w złoto. Kiedy zaklęcie się skończy, przedmiot powraca do swojego pierwotnego metalu. Zaklęcie to może zniszczyć dobrą broń, uczynić zbroję zbyt ciężką do noszenia i zamienić ołowiane monety w coś bardziej atrakcyjnego.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m37",
+        "nazwa": "Forge of Chamon ",
+        "pz": "9 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "Special ",
+        "czas": "Willpower minutes ",
+        "opis": "Zmieniasz jakość pojedynczego przedmiotu wykonanego z metalu. Możesz dodać 1 Jakość lub usunąć 1 Wadę. Za każde +2 SL,",
+        "typ": "Metal"
+    },
+    {
+        "id": "m38",
+        "nazwa": "Knot Untied",
+        "pz": "5",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Instant",
+        "opis": "Zyskujesz wgląd w łamigłówkę, zagadkę, pułapkę lub tajemnicę, którą można rozwiązać jedynie poprzez dedukcję. MG musi dać ci jedną wskazówkę dotyczącą rozwiązania plus jedną dodatkową wskazówkę za każde +2 SL. Testy odpowiedniej wiedzy (historii) również otrzymują premię +2 SL.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m39",
+        "nazwa": "Metal Mended",
+        "pz": "4",
+        "zasięg": "Touch",
+        "cel": "1 object",
+        "czas": "Instant",
+        "opis": "Naprawiasz uszkodzony przedmiot metalowy dowolnej wielkości do stanu pierwotnego. Brakujące elementy są magicznie zastępowane, pod warunkiem, że masz co najmniej trzy czwarte obiektu do pracy. Alternatywnie, to zaklęcie może „spiekać” ze sobą dwa metalowe przedmioty. Spiekanie może pomóc w testach handlu (kowalstwa) lub stopić elementy zbroi wroga, aby zmniejszyć ich skuteczność (dodaje wady zawodne i nieporęczne, WFRP strona 293). Inne kreatywne zastosowania zależą od uznania GM.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m40",
+        "nazwa": "Meteoric Ironclad",
+        "pz": "7",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "1 round",
+        "opis": "Otaczasz cele magiczną zbroją, czyniąc je chwilowo odpornymi na większość ataków. Cele zyskują cechę stworzenia totemu (4) (WFRP, strona 343). Magiczna zbroja jest nieważka i dlatego można ją łączyć z zwykła zbroją.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m41",
+        "nazwa": "Goldsteel Shielding",
+        "pz": "10",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower minutes",
+        "opis": "Przywołujesz cienką powłokę ze Złotej Stali, aby wzmocnić obiekt, budynek lub powierzchnię. Orientacyjnie, każda ściana zewnętrzna małego, dwupiętrowego domu zajmuje powierzchnię około 4x4 metry. Aby osłonić cały budynek, może być potrzebnych wiele odlewów. Osłonięte powierzchnie nie mogą zostać uszkodzone przez zjawiska naturalne, takie jak pożary, trzęsienia ziemi czy huragany, a ich Pancerz wzrasta o 4. Chowanie się za tarczą ze Złotej Stali zmniejsza Zepsucie o dwa poziomy (więc Duże Narażenie staje się Pomniejsze itd.) i zapewnia +1 SL do Testy rozproszenia wykonywane przeciwko zaklęciom skierowanym w ciebie. Zaklęcie to nie wpływa na żywą tkankę. Złoci czarodzieje często używają Złotej Stali do powstrzymania złośliwych wpływów, takich jak Spaczenie, w celu zapewnienia bezpieczniejszego transportu.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m42",
+        "nazwa": "Inscription",
+        "pz": "2",
+        "zasięg": "1 yard",
+        "cel": "Special",
+        "czas": "Special",
+        "opis": "Zapisujesz słowa lub obrazy na metalowej powierzchni, po prostu przesuwając po niej ręką. Zapisanie każdego tuzina słów wymaga rundy. Jeśli osiągniesz +2 SL, napis może zostać zakodowany jako Tajna Runa. Inny Złoty Czarodziej może odkryć Tajną Runę, rzucając to zaklęcie na wpisaną powierzchnię, w przeciwnym razie będzie ona niewidoczna. Złoci Czarodzieje komunikują się w tajemnicy za pomocą tej metody. W sytuacji awaryjnej zaklęcie to może działać jak spray kwasowy o krótkim zasięgu przeciwko wrogom noszącym metalową zbroję. Spray to magiczny atak rakietowy z obrażeniami +2. Udane trafienie niszczy także 1 Punkt Pancerza w miejscu trafienia, jeśli kwas nie zostanie zmyty przed upływem 10 rund.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m43",
+        "nazwa": "Transmutation of Chamon ",
+        "pz": "12 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus Rounds ",
+        "opis": "Wyrywasz Chamona z metali noszonych przez twoich wrogów i samą ziemię, na krótko przekształcając ciała swoich wrogów w metal. To magiczny pocisk, który działa na wszystkich w obszarze działania i zadaje obrażenia równe twojej premii do siły woli; zaklęcie ignoruje premię do wytrzymałości i powoduje +1 stanu oślepienia, ogłuszenia i ogłuszenia, wszystkie te stany trwają przez cały czas działania zaklęcia. Wszystkie dotknięte cele zyskują +1 Punkt Pancerza od złota owiniętego na ich ciałach, ale także cierpią na Uduszenie (WFRP, strona 181). Jeśli cele umrą w czasie działania zaklęcia, zostaną trwale otoczone powłoką z metali nieszlachetnych, co makabrycznie przypomina o ryzyku czarów.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m44",
+        "nazwa": "Trial and Error",
+        "pz": "3",
+        "zasięg": "Intelligence yards",
         "cel": "1",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Cel otrzymuje 1 poziom Oszołomienia."
-
+        "czas": "Willpower Bonus minutes",
+        "opis": "Kierujesz magią logiki, aby pomogła sobie lub sojusznikowi. Wybierz jedną Umiejętność, którą chcesz ulepszyć w momencie rzucania. Twój cel otrzymuje premię +2 SL do następnego testu wykorzystującego tę umiejętność. Jeśli osiągniesz +2 SL, cel również otrzyma jendą szansę przerzutu wybranego testu umiejętnośći",
+        "typ": "Metal"
     },
     {
-        "id":"m19",
-        "nazwa":"Przyjaciel zwierząt",
-        "pz": "0",
-        "zasięg": "1 metr",
+        "id": "m45",
+        "nazwa": "Mutable Metal ",
+        "pz": "5 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus Rounds ",
+        "opis": "Dotykasz niemagicznego przedmiotu wykonanego z metalu, który natychmiast staje się ciepły w dotyku, gdy wciskasz w niego Chamona. Możesz zginać i zginać przedmiot, wykonując Test Średniej (+20) Siły. Jeśli chcesz dokonać bardziej złożonej zmiany i MG się zgodzi, możesz zamiast tego spróbować odpowiedniego Średniego (+20) Testu Handlu lub Sztuki, w zależności od tego, co próbujesz osiągnąć.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m46",
+        "nazwa": "Prismatic Refraction of Habermas",
+        "pz": "5",
+        "zasięg": "AoE (Willpower yards)",
+        "cel": "You",
+        "czas": "1 round",
+        "opis": "Przyciągasz wiatry magii do centralnego miejsca i przekształcasz je w różne formy energii. Wszystkie testy łączenia i rzucania czarów w obszarze obszarowym (w tym twoje) są karane -1 SL. Kiedy zaklęcie wygaśnie, zebrane wiatry magii zostaną wyrzucone z twoich rąk w postaci nieszkodliwego, kolorowego światła. Możesz wybrać 1 kolor magii, który zamiast tego stanie się garścią eterycznego płynu, dodając +1 SL do pojedynczego Testu Rzucania powiązanej Wiedzy. Płyn eteryczny wyparowuje po dwóch rundach, jeśli nie jest używany.",
+        "typ": "Metal"
+    },
+    {
+        "id": "m47",
+        "nazwa": "Puchta’s Silver Compass",
+        "pz": "2",
+        "zasięg": "AoE (Willpower yards)",
+        "cel": "1 compass",
+        "czas": "Willpower minutes",
+        "opis": "Nasycasz normalny kompas meteorytowym srebrem. Przez czas trwania zaklęcia kompas zachowuje się jak Kompas Meteorycznego Srebra (strona 53). ",
+        "typ": "Metal"
+    },
+    {
+        "id": "m48",
+        "nazwa": "Replication of Levorg",
+        "pz": "6",
+        "zasięg": "You",
+        "cel": "Special",
+        "czas": "1d10 hours",
+        "opis": "Przywołujesz z powietrza dowolny nieożywiony, niemagiczny obiekt. Maksymalne Obciążenie obiektu wynosi 4, jednak za każde +2 SL można przyzwać 1 dodatkowe Obciążenie. Obiekt działa normalnie, jednakże doświadczony rzemieślnik rozpozna, że ​​jest to faksymile. Kiedy zaklęcie wygaśnie, objekt znika. Czas trwania jest losowo losowany przez MG, więc nie możesz przewidzieć dokładnie, kiedy obiekt zniknie. Zamiast pojedynczego obiektu możesz przyzwać 1k10 Złota monety plus 1k10 monet za każde +2 SL. Ta alternatywa formułowanie jest zabronione przez Gold College",
+        "typ": "Metal"
+    },
+    {
+        "id": "m49",
+        "nazwa": "Dwellers Below",
+        "pz": "13",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Instant",
+        "opis": "Przywołujesz setki maleńkich, pomarszczonych duchów ziemi, aby porwać twoich wrogów. Małe kępy wznoszą się z ziemi w obszarze obszarowym, a w każdym kopcu otwierają się drzwi. Hordy duchów wylewają się i chwytają nogi swoich celów. Każdy cel musi przejść Test Siły lub zostać wciągnięty pod ziemię. Cele na koniach mogą wykorzystać Siłę swojego wierzchowca na potrzeby tego testu, jeśli tak wolą. Duchy nie zadają obrażeń i nie można ich skrzywdzić. Cele wciągnięte pod ziemię są dręczone w „przestrzeni pomiędzy światami” przez 1k10 godzin. Kiedy cele w końcu wypełzają z kopca, są pokryte ziemią i robakami i muszą przejść Test na umiarkowane narażenie na zepsucie (WFRP, strona 182). Po zakończeniu zaklęcia duchy uciekają z powrotem pod kopce i do ziemi.",
+        "typ": "Life"
+    },
+    {
+        "id": "m50",
+        "nazwa": "Earthblood ",
+        "pz": "6 ",
+        "zasięg": "You ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Aby rzucić to zaklęcie, musisz mieć bezpośredni kontakt z ziemią — dotykając jej lub stojąc boso. Na czas trwania zaklęcia każda żywa istota będąca w bezpośrednim kontakcie z ziemią w obszarze obszarowym leczy rany równe twojej premii do siły woli na początku każdej rundy.",
+        "typ": "Life"
+    },
+    {
+        "id": "m51",
+        "nazwa": "Earthpool ",
+        "pz": "8 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Instant ",
+        "opis": "Po pomyślnym rzuceniu zaklęcia natychmiast znikasz w ziemi w dzikim potoku Ghyran. Pojawiasz się na początku następnej rundy w dowolnym miejscu w obrębie jardów Siły Woli, gwałtownie wytryskując z ziemi. Za każde +2 SL w teście rzucania możesz zwiększyć dystans przemierzany przez Twoją Siłę Woli w jardach. Wszyscy wrogowie, z którymi zaatakujesz po wybuchu, zyskują Stan Zaskoczenia. Zaklęcie to nie pozwoli ci poruszać się po litej skale, ale pozwoli ci poruszać się po wodzie. WIEDZA ŻYCIA Zaklęcia rzucane za pomocą Ghyrana, Nefrytowego Wiatru, są przepełnione życiem i zwykle manifestują się żywym, zielonym światłem. Często towarzyszą im zjawiska naturalne, którym nadano nadprzyrodzone właściwości. Pnącza, zarośla, drzewa i rzeki – wszystko to podlega woli druida. Z żywych stworzeń — tych pozbawionych cech Konstrukt, Demoniczny lub Nieumarły stwór — będących celem zaklęć z Wiedzy Życia, usuwane są wszystkie stany Zmęczenia i Krwawienia po zastosowaniu jakichkolwiek innych efektów, gdy zalewa je magia życia. Istoty z cechą Nieumarła istota otrzymują dodatkowe obrażenia od każdego zaklęcia zadającego obrażenia równe twojej premii do siły woli, ignorując premię do wytrzymałości i punkty pancerza. Składniki: Druidzi używają szerokiej gamy naturalnie występujących składników, począwszy od rzadkich nasion i orzechów, humorów zebranych od czujących stworzeń w rytmie życia, niezwykłych soków drzewnych, żyznej gliny, wód źródlanych i różnorodnych żywych składników, w tym roślin i mniejsze zwierzęta.",
+        "typ": "Life"
+    },
+    {
+        "id": "m52",
+        "nazwa": "Almanac",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "1 day",
+        "opis": "Spędzasz dzień dostrajając się do naturalnego przepływu magii danego obszaru. Na koniec dnia można prognozować najważniejsze wydarzenia sezonowe i pogodowe na nadchodzący rok (takie jak ostatni przymrozek, dobre lub słabe zbiory, suche lato, poważna burza itd.). Nie znasz konkretnych dat, ale jeśli zdobędziesz co najmniej +2 SL, możesz zawęzić swoje przewidywania do okresu 1 tygodnia i dokładnego dnia z +4 SL. Podczas badania okolicy możesz rzucać inne zaklęcia i normalnie się poruszać.",
+        "typ": "Life"
+    },
+    {
+        "id": "m53",
+        "nazwa": "Barkskin ",
+        "pz": "3 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Sprawiasz, że skóra celu staje się twarda i szorstka jak kora drzewa. Pod wpływem zaklęcia dodaj +2 do premii za wytrzymałość celu, ale otrzymaj -10 do Zręczności i Zręczności.",
+        "typ": "Life"
+    },
+    {
+        "id": "m54",
+        "nazwa": "Geyser",
+        "pz": "8 ",
+        "zasięg": "Willpower Yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Instant",
+        "opis": "Przywołujesz z ziemi potężny gejzer. Cele w obszarze działania zostają trafione magicznym pociskiem z obrażeniami +4, zostają odrzucone o jardy premii do siły woli w wybranym przez ciebie kierunku i otrzymują stan Leżenie. Możesz nadać dowolnemu celowi stan ogłuszenia za każde dodatkowe +2 SL. Po erupcji gejzeru na swoim miejscu pozostaje zbiornik świeżej wody źródlanej.",
+        "typ": "Life"
+    },
+    {
+        "id": "m55",
+        "nazwa": "Invigorating Chant",
+        "pz": "6",
+        "zasięg": "2 × Fellowship Bonus yards",
+        "cel": "AoE (Fellowship Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Budzisz lub ożywiasz stworzenia roślinne, takie jak Driady, Krewni Drzewa, Bestie Fen i rośliny mięsożerne (zakładając, że uśpione organizmy tego typu znajdują się w Obszarze Efektu). Istoty, które spały lub były uśpione, muszą spędzić 1 rundę na mieszaniu, zanim będą mogły podjąć działanie. Cele natychmiast leczą +SL Rany i na czas trwania czaru otrzymują +SL do wszystkich testów. Za pomocą tego zaklęcia nie możesz kontrolować stworzeń. Stworzenia mogą być zirytowane, jeśli zostaną obudzone poza sezonem, ale jest mało prawdopodobne, że zaatakują cię przez cały czas działania zaklęcia. Duchy natury tego typu przybierają różnorodne formy i zdolności, choć decyzja o ich dokładnych właściwościach należy do MG, zasady Konstruktów (patrz strona 30) mogą zostać wykorzystane do przedstawienia ogólnego pojęcia zdolności i ograniczenia takich stworzeń.",
+        "typ": "Life"
+    },
+    {
+        "id": "m56",
+        "nazwa": "Jade Casket",
+        "pz": "5",
+        "zasięg": "Willpower yards",
         "cel": "1",
-        "czas": "1 godzina",
-        "typ":"Prosta",
-        "opis":"Zaprzyjaźniasz się z istotą, która jest mniejsza od ciebie i ma Cechę Stworzenia Zwierzęcy. Zwierzę ufa ci zupełnie i uważa za przyjaciela."
+        "czas": "Willpower Bonus hours",
+        "opis": "Otaczasz zwłoki świecącą, zieloną magią, aby ożywić je jako swojego sługę. Cel musiał umrzeć w ciągu ostatniej godziny. Stworzenie ożywia się ze swoimi maksymalnymi Ranami. Możesz wydawać proste polecenia celowi, który w przeciwnym razie instynktownie chroni cię przed krzywdą. Cel zachowuje wszystkie swoje niemagiczne Umiejętności, Cechy i Talenty, ale nie może mówić. Chociaż cel nie jest naprawdę żywy i nie pamięta swojego poprzedniego życia, nie klasyfikuje się jako nieumarłym.",
+        "typ": "Life"
     },
     {
-        "id":"m20",
-        "nazwa":"Poblask",
-        "pz": "0",
-        "zasięg": "Rzucający",
-        "cel": "Rzucający",
-        "czas": "Liczba minut równa Sile Woli",
-        "typ":"Prosta",
-        "opis":"Tworzysz małe źródło światła, porównywalne z pochodnią, które świeci wprost z twojej dłoni, laski czy innej części twojej osoby.W czasie gdy zaklęcie jest aktywne, możesz zdecydować się zwiększyć moc światła do podobnego do latarni lub zmniejszyć je do blasku świecy, jeśli powiedzie ci się Przeciętny (+20) Test Splatania Magii."
-
+        "id": "m57",
+        "nazwa": "Fat of the Land ",
+        "pz": "4 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus days ",
+        "opis": "Zalewasz ciało celu odżywczym Ghyranem. Ofiara nie musi jeść ani pić, ale nadal wydala normalnie, chociaż wszelkie pozostałości są zielonozielone.",
+        "typ": "Life"
     },
     {
-        "id":"m21",
-        "nazwa":"Uśpienie",
-        "pz": "0",
-        "zasięg": "Dotyk",
+        "id": "m58",
+        "nazwa": "Flesh of Stone",
+        "pz": "9",
+        "zasięg": "Willpower Bonus yards",
         "cel": "1",
-        "czas": "Liczba Rund równa Bonusowi z Siły Woli ",
-        "typ":"Prosta",
-        "opis":"Dotykasz przeciwnika, a ten natychmiast zapada w głęboki sen. Jeśli cel miał już Stan Powalony, natychmiast otrzymuje też Utratę Przytomności. Cel zostanie nieprzytomny, dopóki trwa zaklęcie, jednak głośne dźwięki, przenoszenie czy potrącenie natychmiast go obudzi. Jeśli cel stał lub siedział podczas rzucenia zaklęcia, następuje Powalenie, a cel budzi się na ziemi po uderzeniu w nią. Jeśli cel nie próbuje odeprzeć snu lub jest po prostu bardzo zmęczony, po zakończeniu zaklęcia będzie chrapał w najlepsze."
-
+        "czas": "Willpower minutes",
+        "opis": "Zamieniasz cel w żywy kamień. Niechętne cele mogą oprzeć się czarowi za pomocą Testu Przeciwnej Siły Woli. Dotknięte cele mogą się poruszać i walczyć, ale nie mogą mówić, a ich ruch jest zmniejszony o połowę. Siła i Wytrzymałość celu zostają zwiększone o 30, a cel zyskuje 4 dodatkowe Punkty Pancerza w każdej lokalizacji. Cel nie musi oddychać, gdy jest pod wpływem zaklęcia.",
+        "typ": "Life"
     },
     {
-        "id":"m22",
-        "nazwa":"Wyssanie",
-        "pz": "0",
-        "zasięg": "Dotyk",
-        "cel": 1,
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Dotykasz celu, wysysając z niego życie. Zaklęcie to jest magicznym pociskiem zadającym +0 Obrażeń ignorujących Punkty Pancerza. Leczysz 1 Ranę."
+        "id": "m59",
+        "nazwa": "Forest of Thorns ",
+        "pz": "6 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Zaklęcie to może być skierowane wyłącznie na skrawek ziemi. Sprawiasz, że gęsty węzeł groźnie kolczastych jeżyn i splątanych pnączy wystrzeliwuje w górę, zakrywając obszar działania. Kiedy zaklęcie jest aktywne, każdy, kto nie posiada talentu Magia Tajemna (Życie), próbując przejść ten obszar pieszo, musi wykonać Trudny (-20) Test Zręczności. Jeśli celowi się nie powiedzie, zyskuje 1 stan Krwawienia i 1 Stan Uwikłania o sile równej twojej Sile Woli. Po zakończeniu zaklęcia narośl pozostaje, ale traci swoje magiczne właściwości.",
+        "typ": "Life"
     },
     {
-        "id":"m23",
-        "nazwa":"Zgnilizna",
-        "pz": "0",
-        "zasięg": "1 metr",
-        "cel": "Specjalny",
-        "czas": "Natychmiast",
-        "typ":"Prosta",
-        "opis":"Sprawiasz, że organiczny materiał wielkości pięści gnije natychmiast. Jedzenie się psuje, ubrania rozpadają, skóra wysusza się (tracąc 1 Punkt Pancerza w 1 miejscu) itd. – w zależności od decyzji MG."
+        "id": "m60",
+        "nazwa": "Gardener’s Warcry",
+        "pz": "9",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower yards) ",
+        "czas": "Instant",
+        "opis": "Zaklęcie to może być skierowane wyłącznie na skrawek ziemi. Przywołujesz mały Krwawy Las, pokrywający obszar działania. Każdy, kto stanie na tym obszarze, natychmiast otrzymuje 10 Obrażeń (modyfikowanych przez TB i Pancerz) i otrzymuje stan Krwawienia z powodu smagania gałęzi i cierni. Krwawy Las pozostaje dopóki nie zostanie wycięty lub spalony. Każdy, kto przejdzie przez Krwawy Las w więcej niż połowie swojego Ruchu, musi wykonać Wymagający (+0) Test Zręczności",
+        "typ": "Life"
     },
     {
-        "id":"m24",
-        "nazwa":"Żelazne racje",
-        "pz": "0",
-        "zasięg": "1 metr",
+        "id": "m61",
+        "nazwa": "Nature’s Whisper",
+        "pz": "8",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Fellowship Bonus minutes",
+        "opis": "Komunikujesz się telepatycznie z pomniejszymi duchami rzek lub drzew. Aby rzucić to zaklęcie, musisz mieć kontakt z kwestionowaną rzeką lub drzewem. Odpowiedzi Spirits mogą być niejasne, jeśli pytania są zbyt złożone. Duchy rzeczne zazwyczaj odpowiadają na pytania dotyczące wydarzeń w promieniu 1 mili w górę lub w dół rzeki. Drzewa mają podobny zakres świadomości w lesie. Duchy rzek pamiętają ostatnie 24 godziny, podczas gdy duchy drzew mają pamięć obejmującą lata. Jednakże duchy drzew są powolne i ociężałe, wymagają 5 minut lub dłużej, aby odpowiedzieć na tylko jedno pytanie. Duchy mogą poprosić o pomoc w zamian za informacje. Zaklęcie to nie czyni ich skłonnymi do lubienia ciebie i nie zapewnia żadnych korzyści w komunikacji z ożywionymi duchami natury, takimi jak najady i driady.",
+        "typ": "Life"
+    },
+    {
+        "id": "m62",
+        "nazwa": "Paranoth’s Pathway",
+        "pz": "4",
+        "zasięg": "AoE (Willpower Bonus yards)",
+        "cel": "You",
+        "czas": "Willpower minutes",
+        "opis": "Twoja drużyna porusza się bez wysiłku po lasach. Wszyscy w obszarze działania zyskują talent Stridera (Woodlands) (WFRP, strona 145). Jeśli znają już ten talent, dodaj tymczasowy poziom +1 i kolejny tymczasowy poziom za każde +2 SL. Dodatkowo, jeśli osiągniesz +4 SL, Twoja drużyna może przejść bez śladu, uniemożliwiając śledzenie Twoich ruchów. Zaklęcie kończy się, jeśli twoja drużyna przekroczy inną ścieżkę lub skrzywdzi żywe drzewo.",
+        "typ": "Life"
+    },
+    {
+        "id": "m63",
+        "nazwa": "Regenerate ",
+        "pz": "6 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Twój cel zyskuje cechę Regeneruj stworzenie (WFRP,page 341).",
+        "typ": "Life"
+    },
+    {
+        "id": "m64",
+        "nazwa": "Leaf Fall",
+        "pz": "6",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Otaczasz się wirującymi liśćmi, a Twoje ciało staje się zwinne i giętkie jak gałąź wierzby. Ataki rakietowe skierowane przeciwko tobie otrzymują –2 SL i zyskujesz talent Contortionist (WFRP, strona 135). Zmniejszasz obrażenia od spadającej, miażdżącej lub obuchowej broni (takiej jak maczugi i młoty) o 3.",
+        "typ": "Life"
+    },
+    {
+        "id": "m65",
+        "nazwa": "Leyfinding",
+        "pz": "5",
+        "zasięg": "Initiative Bonus miles",
+        "cel": "You",
+        "czas": "Willpower Bonus hours",
+        "opis": "Korzystając ze strumieni ziemskiej magii, otrzymujesz szczegółową mentalną mapę wszystkich linii mocy i kamiennych kręgów w zasięgu. Ta wiedza zapewnia +2 SL do testów nawigacyjnych wykonywanych w celu zlokalizowania planowanych lub naturalnych linii geomantycznych. Z daleka nie możesz rozpoznać konkretnych kolorów magii, ale możesz wyczuć ogólną siłę każdej linii mocy (mniejszą lub większą) wraz z liczbą kamieni nawigacyjnych w każdym kamiennym kręgu. Więcej informacji o liniach mocy i kamieniach orientacyjnych można znaleźć w rozdziale 14.",
+        "typ": "Life"
+    },
+    {
+        "id": "m66",
+        "nazwa": "Lie of the Land ",
+        "pz": "5 ",
+        "zasięg": "Initiative Bonus miles ",
+        "cel": "You ",
+        "czas": "Special ",
+        "opis": "Dotykając ziemi, twoje zmysły przepływają przez Ghyran, śledząc pobliski obszar. Po 1 minucie rozmowy otrzymasz mentalną mapę obiektów naturalnych — lądów, lasów, rzek — w zasięgu. O osadach można mówić jako o obszarach czystego terenu lub okopach. Jeśli zwiększysz zasięg za pomocą Overcasting, czas potrzebny na komunikację z lądem wzrasta o 1 minutę na każdy SL.",
+        "typ": "Life"
+    },
+    {
+        "id": "m67",
+        "nazwa": "Lifebloom ",
+        "pz": "8 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "Special ",
+        "czas": "Special ",
+        "opis": "Sprawiasz, że Ghyran zalewa obszar, który jest zniszczony lub opuszczony. Jako przykłady mocy zaklęcia, którą możesz obrać za cel albo wyschnięte koryto rzeki, studnia, pole, albo zwierzę domowe. Jeśli pomyślnie rzuciłeś zaklęcie, cel ożywa: - Wyschnięta rzeka znów zaczyna płynąć. - Wyschnięta lub zanieczyszczona studnia staje się czysta i świeża. Zasiane pole, winnica lub sad budzi się do życia, a wszystkie jego uprawy natychmiast osiągają pełną dojrzałość. - Chore lub nieproduktywne zwierzę zostaje wyleczone ze wszystkich chorób i znów staje się energiczny i chętny.",
+        "typ": "Life"
+    },
+    {
+        "id": "m68",
+        "nazwa": "Vital Growth",
+        "pz": "7",
+        "zasięg": "Willpower Bonus yards",
         "cel": "1",
-        "czas": "Liczba dni równa Bonusowi z Siły Woli",
-        "typ":"Prosta",
-        "opis":"Zabezpieczasz racje żywnościowe, które starczą na jeden dzień. Podczas tego okresu nie zgniją, nie spleśnieją, nie sczerstwieją, ale nadal mogą zostać zniszczone, np. po zamoczeniu, spaleniu lub zatruciu."
+        "czas": "Instant",
+        "opis": "Nasycasz pojedynczą roślinę lub drzewo Ghyranem, powodując nagły wzrost. Cel osiąga maksymalną naturalną wysokość. Możesz podwoić maksymalny wzrost za +2 SL i dodatkową rundę spędzoną w koncentracji na rzuceniu zaklęcia, potroić go za +4 SL i dwie dodatkowe rundy koncentracji lub czterokrotnie zwiększyć za +6 SL i trzy dodatkowe rundy koncentracji.",
+        "typ": "Life"
     },
     {
-        "id":"m25",
-        "nazwa":"Źródełko",
-        "pz": "0",
-        "zasięg": "Dotyk",
-        "cel": "Specjalny",
-        "czas": "Liczba Rund równa Bonusowi z Siły Woli",
-        "typ":"Prosta",
-        "opis":"Dotykasz ziemi i z tego miejsca wydobywa się woda, wypływając w tempie pół litra na Rundę. Źródełko może wyprodukować maksymalnie tyle litrów wody, ile wynosi połowa Bonusu z Inicjatywy."
+        "id": "m69",
+        "nazwa": "Wood Shape",
+        "pz": "8",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "Willpower Bonus hours",
+        "opis": "Przemieniasz siebie lub chętny cel w drzewo. Cel widzi i słyszy normalnie i może zostać uszkodzony przez topory, ogień i inne ataki, które mogłyby zaszkodzić drzewu. Niechętne cele mogą spróbować średniej (+20) test Siły Woli by oprzeć się zaklęciu.",
+        "typ": "Life"
+    },
+    {
+        "id": "m70",
+        "nazwa": "Spiral Stair",
+        "pz": "6",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Mglistymi spiralnymi schodami wznoszą się bezpośrednio w górę, na wysokość jardów Siły Woli. Wysokość schodów można zwiększyć o dodatkowe metry Siły Woli za każde +2 SL do maksymalnej wysokości 200 jardów. Stojąc na schodach, otrzymujesz 3 punkty pancerza do wszystkich lokalizacji, a wysokość schodów jest dodawana do odległości, jaką muszą pokonać ataki rakietowe przeciwko tobie. Inni Nefrytowi Czarodzieje, którzy znają to zaklęcie, mogą wspiąć się po schodach, wykonując Trudny (+0) Test Wiedzy (Magia), ale dla wszystkich innych schody są nieistotne.",
+        "typ": "Life"
+    },
+    {
+        "id": "m71",
+        "nazwa": "Vaunted Transmogrification of Colchis",
+        "pz": "6",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower yards)",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Subtelnie zmieniasz właściwości materiału na danym obszarze, czyniąc wszystkie postacie i powierzchnie niepalnymi. Pożary na danym obszarze natychmiast gasną, a stany płomieni są usuwane. Przenośne źródła ognia, takie jak pochodnie, można wnosić na dany obszar, jednakże nic, na co pierwotnie wpływało zaklęcie, nie otrzymuje obrażeń od ognia. Postacie tracą tę odporność na ogień, jeśli opuszczą obszar obszarowy.",
+        "typ": "Life"
+    },
+    {
+        "id": "m72",
+        "nazwa": "Verdant Apotheosis",
+        "pz": "16",
+        "zasięg": "Line of sight",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Instant",
+        "opis": "Przywołujesz ogromne rezerwy Ghyranu, aby leczyć śmiertelnie rannych, a nawet przywracać życie niedawno zabitym postaciom, wyciągając ich dusze z powrotem przez zasłonę śmiertelników. Cele, które zostały zabite w ostatniej minucie, budzą się z głębokiego snu i muszą przejść test na ekspozycję na umiarkowane narażenie na zepsucie (WFRP, strona 182) po zobaczeniu królestwa śmierci. Zaklęcie nie może przywrócić utraconych kończyn, a zwłoki pozbawione głowy są poza zasięgiem",
+        "typ": "Life"
+    },
+    {
+        "id": "m73",
+        "nazwa": "Azure Blades",
+        "pz": "6",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Jesteś otoczony przez kulę wirujących, ostrych jak brzytwa ostrzy. Przeciwnicy walczący w zwarciu otrzymują 3 trafienia po 8 obrażeń w losowe miejsca trafienia, rzucane w każdej rundzie tury twojego przeciwnika. Tych trafień nie można uniknąć ani sparować. Bardzo długa lub masywna broń może sięgać ostrzy. Broń długa atakuje równocześnie z ostrzami. Każdy przeciwnik dzierżący krótszą broń musi przyjąć trafienia przed atakiem.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m74",
+        "nazwa": "Cerulean Shield ",
+        "pz": "7 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Zamykasz się w trzaskającej klatce iskrzącej elektryczności i Azyra. Na czas trwania zaklęcia zyskujesz +Punkty Pancerza SL do wszystkich lokalizacji przeciwko atakom wręcz. Jeśli zostaniesz zaatakowany metalową bronią – taką jak sztylety, miecze i włócznie z metalowymi końcówkami – twój atakujący otrzyma premię do siły woli w postaci obrażeń (obrażenia te są zmniejszone o TB, ale nie o pancerz).",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m75",
+        "nazwa": "Comet of Casandora ",
+        "pz": "10 ",
+        "zasięg": "Initiative yards ",
+        "cel": "AoE (Initiative Bonus yards) ",
+        "czas": "Special ",
+        "opis": "Przywołujesz wszystkich Azyrów, jakich możesz zebrać, i sięgasz do nieba, przywołując kometę, która sieje spustoszenie wśród twoich wrogów. Wybierz punkt docelowy w zasięgu. Na koniec następnej rundy wykonaj Test Średniej (+20) Percepcji. Za każde +SL, które zdobędziesz w Teście Percepcji, możesz przesunąć swój punkt trafienia o metry Premii Inicjatywy. Za każde –SL MG przesuwa punkt uderzenia o jardy Premii Inicjatywy w losowym kierunku. Kometa Casandory działa wówczas jak magiczny pocisk z obrażeniami +12, który trafia wszystkie cele w obszarze działania. Cele zyskują także 1 Stan Płomienia i Stan Padnięcia. WIEDZA NIEBIOS Czarom rzucanym z Wiedzy Niebios towarzyszy trzaskanie błyskawic i zapach ozonu. Zaklęcia powodujące obrażenia ignorują punkty pancerza z metalowej zbroi i łuku dla wszystkich innych celów w promieniu 2 metrów, z wyjątkiem tych z talentem Magia Tajemna (Niebiosa), zadających trafienia magicznymi pociskami z obrażeniami równymi twojej premii do siły woli. Składniki: Instrumenty astronomiczne, mapy, soczewki i symbole dominują w niebiańskiej magii, podobnie jak składniki związane z wróżbami, takie jak wnętrzności zwierząt, lustra, szklane kule i ptasie języki. Niektóre zaklęcia oparte na wietrze wykorzystują skrzydła i pióra, podczas gdy te wykorzystujące elektryczność wolą kawałki rzeźbionego metalu.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m76",
+        "nazwa": "Fantastic Foresight",
+        "pz": "7",
+        "zasięg": "AoE (Willpower yards)",
+        "cel": "You",
+        "czas": "1 round",
+        "opis": "Twoje ciało mieni się, gdy staje się łącznikiem pomiędzy sprzymierzonymi czarodziejami a sferami niebieskimi. Przyjaźni czarodzieje znajdujący się w Obszarze Efektu (nie licząc ciebie) mogą przerzucić swoją pierwszą porażkę we wszystkich testach Przewodzenia, Rzucania Czaru i Rozproszenia. Odwrotna formuła tego zaklęcia nazywa się Discombobulation Solmanna. Zamiast pomagać sojusznikom, odwracasz uwagę wrogich czarodziejów fałszywymi przepowiedniami. Rzucają dwukrotnie wszystkie testy Przewodzenia, Rzucania zaklęć i Rozproszenia, uzyskując najgorszy wynik.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m77",
+        "nazwa": "Fate’s Fickle Fingers ",
+        "pz": "6 ",
+        "zasięg": "You ",
+        "cel": "AoE (Initiative Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Wszyscy sojusznicy w obszarze działania, z wyjątkiem tych z talentem Magia tajemna (Niebiosa), tworzą jedną pulę punktów Fortuny. Wszyscy mogą czerpać z basenu; kto pierwszy ten lepszy. Kiedy zaklęcie się skończy, rozdysponuj pozostałe punkty Fortuny tak sprawiedliwie, jak to możliwe.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m78",
+        "nazwa": "Fate Illuminated",
+        "pz": "5",
+        "zasięg": "Half Intelligence yards or Touch",
+        "cel": "1",
+        "czas": "Instant",
+        "opis": "Uzyskujesz wgląd w intencje lub przeznaczenie celu. W ciągu następnej godziny możesz zadać MG pytanie „tak” lub „nie” na temat zamiarów celu. Przykłady mogą obejmować: „Czy on zamierza coś ukraść?” lub „Czy ona będzie walczyć, jeśli sytuacja się pogorszy?”. Pytania takie jak „czy on nosi broń?” nie kwalifikują się, ponieważ nie odnoszą się do intencji. Możesz zadać jedno dodatkowe pytanie za każde +2 SL w teście rzucania. Jeśli dotkniesz celu, możesz zamiast tego zdecydować się na poznanie jego Zagłady (WFRP, strona 136) wraz ze wszystkimi mającymi na niego wpływ klątwami i zwiastunami, w tym aktywnymi symbolami i odwrócowne symbole (see page 45).",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m79",
+        "nazwa": "Curse of Fate",
+        "pz": "8",
+        "zasięg": "Half Willpower yards",
+        "cel": "1",
+        "czas": "1 day",
+        "opis": "Twój cel otrzymuje -10 do wszystkich testów w czasie trwania czaru. Na cel można rzucić tylko jedną klątwę na raz. Potężniejszy wariant tego czaru, zwany Losem Zagłady, można rzucić, jeśli osiągniesz +6 SL. Zasięg zostaje zwiększony do 1 mili, a twój cel trwale traci punkt Losu. Jeśli twój cel nie posiada punktu Losu, następne Trafienie Krytyczne otrzymane w czasie trwania czaru jest rozpatrywane jako „00” w odpowiedniej tabeli.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m80",
+        "nazwa": "Divination",
+        "pz": "3",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Instant",
+        "opis": "Wróżysz w czasie i przestrzeni. Wybierz jeden z 3 następujących efektów: 0 Poznaj najbardziej pomyślny czas na przyszłe działanie. MG w tajemnicy rzuca dla ciebie Trudny (+0) Test Inteligencji, aby sprawdzić trafność twoich przewidywań. Przykładami mogą być prognozowanie Wiatrów Magii, sprzyjająca pogoda lub zmiana warty. 0Zlokalizuj zagubiony lub skradziony przedmiot. Musiałeś widzieć ten obiekt wcześniej. Zaklęcie to wskazuje kierunek obiektu, ale nie ujawnia jego odległości. 0Zmodyfikuj pojedynczy przyszły rzut kostką o plus lub minus 10. Musisz bardzo dokładnie określić warunki. Przykładami mogą być następny atak stworzenia przeciwko tobie lub następny test uniku, który wykonasz. Możesz znajdować się pod tylko jednym efektem tego typu na raz.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m81",
+        "nazwa": "Enemy Foreseen",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Nie możesz być zaskoczony. MG musi cię ostrzec o niebezpieczeństwie rund Inicjatywy, zanim natkniesz się na zasadzkę lub podobną sytuację. Możesz wykorzystać ten czas na",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m82",
+        "nazwa": "Mystic Mirror",
+        "pz": "7",
+        "zasięg": "Willpower miles",
+        "cel": "1 (maximum)",
+        "czas": "Fellowship Bonus rounds",
+        "opis": "Z odległym celem komunikujesz się poprzez lustra lub odblaskowe powierzchnie, takie jak spokojna woda. Musisz znać imię celu lub spotkać go wcześniej. Twoje odbicie stanie się widoczne, a Twój głos będzie słyszalny w zwierciadle odbiorczym celu. Podobnie możesz zobaczyć i usłyszeć cel przez lustro. Zaklęcie nie powiedzie się, jeśli w polu widzenia celu nie ma odbijającej powierzchni – spotkania są często umawiane wcześniej.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m83",
+        "nazwa": "Polish and Glean",
+        "pz": "1",
+        "zasięg": "Touch",
+        "cel": "1 object",
+        "czas": "Initiative Bonus minutes",
+        "opis": "Czyścisz szklany przedmiot, aby uzyskać nieskazitelny połysk. Jeśli obiektem jest soczewka lub okno, może zyskać tymczasową premię do zaklęcia. Dzięki +2 SL szkło zapewnia +20 do obserwacji wiedzy (astronomii). Dzięki +4 SL zwiększa testy percepcji wzrokowej wykonywane za pomocą talentu Drugiego Wzroku o +20.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m84",
+        "nazwa": "Project Spirit",
+        "pz": "7",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Toughness Bonus hours",
+        "opis": "Odłączasz ducha od ciała, które pozostaje w głębokim śnie. Twój duch jest niewidzialny i może normalnie się poruszać. W tej formie możesz widzieć i słyszeć, ale nie możesz rzucać zaklęć ani komunikować się. Nie możesz manipulować obiektami materialnymi, ale możesz przechodzić przez stałe przeszkody, takie jak drzwi i ściany. Jeśli nie powrócisz do swojego ciała przed wygaśnięciem zaklęcia, obudzisz się natychmiast i będziesz musiał wykonać Test na Umiarkowane Narażenie na Zepsucie (WFRP, strona 182).",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m85",
+        "nazwa": "Sapphire Arch",
+        "pz": "6",
+        "zasięg": "Half Willpower yards",
+        "cel": "Special",
+        "czas": "1 round",
+        "opis": "Przywołujesz rozległy łuk czystego szafiru. Łuk ma 4 metry szerokości i 3 metry wysokości. Dowolne stworzenie lub przedmiot która przechodzi przez łuk, znika w wymiarze otchłani. Następnie łuk znika na końcu następnej rundy. Kiedy następnym razem rzucisz to zaklęcie, wszyscy, którzy weszło wcześniej, wychodzi bez zauważalengo przejścia czas. Jeśli zostaniesz zabity przed ponownym rzuceniem czaru, okupanci pojawiają się w pierwotnej lokalizacji w deszczu odłamków kryształu, z stanami Ogłuszenie i Powalenie",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m86",
+        "nazwa": "Lens on the Sky",
+        "pz": "3",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Initiative Bonus minutes",
+        "opis": "Przywołujesz kryształowy dysk, który unosi się obok twojej głowy i porusza się wraz z tobą. Patrzenie przez dysk pozwala wyraźnie widzieć obiekty i stworzenia w odległości do 3 mil. Dysk zapewnia także +2 SL do testów percepcji, które dotyczą dużych dystansów. Obiektyw anuluje kary za chmury i mgłę, ale nie za ciemność. Używanie obiektywu do obserwacji gwiazd zapewnia +2 SL do następnego testu nawigacji.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m87",
+        "nazwa": "Let the Four Winds Blow!",
+        "pz": "9",
+        "zasięg": "Willpower yards",
+        "cel": "4 x AoE (Willpower Bonus yards)",
+        "czas": "Instant",
+        "opis": "Wzywasz duchy powietrza, aby odeprzeć wiele jednoczesnych zagrożeń. Wyznacz 4 losowe zaklęcia wirowe (strona 20) lub grupy wrogów w zasięgu. Odpychasz każdego z nich bezpośrednio od siebie na odległość równą Twojej Premii za Siłę Woli. Możesz zwiększyć dystans o jardy Premii Siły Woli za każde +2 SL w teście rzucania. Wrogowie, którzy uderzą w solidną przeszkodę lub inną postać, otrzymują 7 obrażeń (jak zwykle modyfikowanych przez premię za wytrzymałość i punkty pancerza) i przestają się poruszać. Wszystkie cele po zatrzymaniu otrzymują stan Leżący.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m88",
+        "nazwa": "Mistral From the Stratosphere",
+        "pz": "5",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Z wyciągniętej dłoni emanujesz lodowatym Azyrem. Wybierz kierunek. Wszystkie cele w tym kierunku i w zasięgu otrzymują 12 obrażeń (ignorując punkty pancerza, ale nie premię do wytrzymałości). Dodatkowo muszą wykonać Trudny (–20) Test Wytrzymałości lub przejść pierwszy etap Wystawienia na Zimno (WFRP, strona 181). Woda w stanie ciekłym w obszarze działania zamarza w tempie 1 cala na rundę. W kolejnych rundach możesz skierować mistral w innym kierunku lub kontynuować zamrażanie tych samych celów. Cele otrzymują obrażenia tylko w pierwszej rundzie, ale w każdej rundzie muszą testować odporność na zimno. Cele odzyskują utracone Charakterystyki w tempie 10 punktów na godzinę.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m89",
+        "nazwa": "T’Essla’s Arc ",
+        "pz": "7 ",
+        "zasięg": "Willpower yards ",
+        "cel": "1 ",
+        "czas": "Instant ",
+        "opis": "Trzaskająca błyskawica wystrzeliwuje z twoich palców i uderza w cel. To magiczny pocisk z obrażeniami +10, który zadaje 1 stan oślepienia.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m90",
+        "nazwa": "The First Portent of Amul ",
+        "pz": "3 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Initiative Bonus rounds ",
+        "opis": "Otrzymujesz +1 punkt Fortuny. Za każde +2 SL zyskujesz +1 więcej. Wszelkie niewykorzystane punkty przepadają po zakończeniu czaru.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m91",
+        "nazwa": "The Second Portent of Amul ",
+        "pz": "6 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Initiative Bonus rounds ",
+        "opis": "Otrzymujesz punkty +SL Fortune. Za każde +2 SL zyskujesz +1 dodatkowy punkt Fortuny. Wszelkie niewykorzystane punkty przepadają po zakończeniu czaru.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m92",
+        "nazwa": "The Third Portent of Amul ",
+        "pz": "12 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Initiative Bonus rounds ",
+        "opis": "Otrzymujesz +1 punkt Losu. Jeśli nie wykorzystasz punktu Losu przed zakończeniem czaru, przepada on.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m93",
+        "nazwa": "Thorsen’s Thunderstorm",
+        "pz": "11",
+        "zasięg": "Random Vortex",
+        "cel": "AoE (2 × Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz tornado, które sieje ogromne spustoszenie. Cele w obszarze działania zostają trafione magicznym pociskiem z obrażeniami +8. Następnie cele są wysadzane w losowym kierunku, zgodnie z zasadami zawartymi w części Niech powiądają cztery wiatry! (strona 100). Zaklęcie to wykorzystuje zasady losowego wiru (strona 20).wymiar. Następnie łuk znika pod koniec następnej rundy. Kiedy ponownie rzucisz to zaklęcie, wszyscy, którzy weszli wcześniej, wyjdą, nie zauważając upływu czasu. Jeśli zostaniesz zabity przed ponownym rzuceniem czaru, mieszkańcy zostaną wypędzeni do pierwotnego miejsca w deszczu odłamków kryształu, ze stanem Ogłuszenie i Leżenie.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m94",
+        "nazwa": "Starcrossed ",
+        "pz": "7 ",
+        "zasięg": "Willpower yards ",
+        "cel": "1 ",
+        "czas": "Initiative Bonus rounds ",
+        "opis": "Kiedy to zaklęcie jest aktywne, możesz wydać punkty Fortuny, aby zmusić przeciwnika do przerzucenia Testów.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m95",
+        "nazwa": "Starshine",
+        "pz": "8",
+        "zasięg": "AoE (Willpower yards)",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Czerpiesz światło z gwiazd, aby oświetlić obszar wokół siebie delikatnym blaskiem. Niewidzialne cele w obszarze działania zostają ujawnione, a ciemność (normalna i magiczna) zostaje wygnana. Zaklęcie ujawnia także ukryte stworzenia i drzwi. Obszar oświetlony gwiazdami porusza się razem z tobą przez cały czas.",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m96",
+        "nazwa": "Storm of Shemtek",
+        "pz": "11",
+        "zasięg": "Half Willpower yards",
+        "cel": "2 × Initiative Bonus or Initiative Bonus",
+        "czas": "Instant",
+        "opis": "Twoje ciało staje się piorunochronem o tajemnej mocy. Niesamowite światło wylewa się z twoich oczu i ust, gdy twoje ciało sztywnieje w pozycji krzyża. Błyskawice równe 2 × premia za inicjatywę powstają z pęknięć w twoim ciele. Każda błyskawica to magiczny pocisk z obrażeniami +6, który możesz skierować w osobne cele przed tobą. Natychmiast otrzymujesz stan ogłuszenia. Każdy, kto nie posiada talentu Tajemna Wiedza (Niebiosa), będąc świadkiem zaklęcia, musi wykonać Test przeciwko efektowi Strachu (1) (WFRP, strona 190). Burza Shemteka nie wymaga otwartego nieba, ponieważ pochodzi z eteru. Bezpieczniejszy (ale mniej niszczycielski) wariant tego zaklęcia przywołuje błyskawice z Premią Inicjatywy na obszarze docelowym równym 2 × twoich jardów Premii Siły Woli. Nie jesteś oszołomiony",
+        "typ": "Heaven"
+    },
+    {
+        "id": "m97",
+        "nazwa": "Black Horrors",
+        "pz": "6",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus hours",
+        "opis": "Przywołujesz widmowy cień, który nawiedza obszar cienia. Cienie powodują strach (1), ale nie atakują. Za każde +2 SL w teście rzucania możesz zwiększyć współczynnik Strachu o 1 do maksymalnej wartości Strachu (4). Po rzuceniu dotknięty cień staje się magiczny i pozostaje w cieniu, nawet jeśli jest oświetlony.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m98",
+        "nazwa": "Bridge of Shadows",
+        "pz": "4",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "1 round",
+        "opis": "Transportujesz grupę celów w powietrzu w postaci cieni. Cele lecą do wybranego przez ciebie miejsca w zasięgu wzroku, aż do maksymalnej odległości twojej Siły Woli w jardach. Możesz latać razem z grupą, jeśli znajdziesz się w obszarze działania. Cele nie mogą przelatywać przez stałe obiekty, ale mogą przelatywać nad przeszkodami o wysokości do wysokości twoich metrów Siły Woli. Grupa dociera do celu po wygaśnięciu czaru.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m99",
+        "nazwa": "Choking Shadows ",
+        "pz": "6 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Owijasz cieniste macki Ulgu wokół szyi swoich wrogów. Zakładając, że muszą oddychać, otrzymują 1 Stan Zmęczenia, nie mogą mówić i podlegają zasadom Uduszenia (WFRP, strona 181).",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m100",
+        "nazwa": "Dance of Despair",
+        "pz": "13",
+        "zasięg": "AoE (Willpower yards)",
+        "cel": "You",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz skrzypce bez strun, które zmuszają wrogów do niekontrolowanego tańca, tracąc poczucie pilności. Cele mogą wykonać Test Siły Woli, aby oprzeć się tańcowi. Dotknięci wrogowie nie mogą się poruszać ani wykonywać żadnych akcji, chyba że najpierw zdadzą trudny (–20) test sprawności. Po wygaśnięciu czaru, dotknięte nim cele otrzymują Stan Zmęczenia. Zaklęcie nie wpływa na przyjazne i neutralne postacie. WIEDZA CIENI Zaklęcia rzucane na podstawie Wiedzy Cieni są ukryte i przebiegłe; lingua praestantia można mruczeć ukradkiem. Wszelkie zaklęcia ochronne, które rzucisz, spowijają cię cieniami i kłębiącym się dymem, czyniąc twoje ciało niematerialnym, być może nawet pozwalając ostrzom przejść przez ciebie pozornie bez szkody i przyznając ci Cechę Stworzenia Ward (9) na czas trwania zaklęcia. Co więcej, wszystkie zaklęcia rzucone z Wiedzy Cieni, które zadają obrażenia, ignorują wszystkie niemagiczne Punkty Pancerza. Składniki: Wszystko, co służy do zasłaniania lub ukrywania, jest używane do szarych składników, w tym kosmetyki, zapachy, szaliki, okulary, lustra i peruki. Powszechne są także przedmioty pochodzące z zawodów przesiąkniętych intrygami i mądrością, wśród których przeważają artefakty dyplomatyczne, odznaki rangi i ostateczny wyraz mocy – ostrze.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m101",
+        "nazwa": "Bewilder",
+        "pz": "5",
+        "zasięg": "Willpower yards",
+        "cel": "1",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Jeśli cel nie przejdzie testu Siły Woli Wymagającej (+0), staje się zdezorientowany. Rzuć 1k10, aby określić zachowanie celu na czas trwania czaru: Rzut Efekt 1–2 Oszołomiony: Cel musi przejść Trudny (+0) Test Siły Woli, aby podjąć działania. 3–4 Wędrówka: Cel może działać normalnie, ale porusza się w losowym kierunku. 5–6 Atak: Cel szarżuje na najbliższy cel i atakuje. 7–8 Nic nie rób: Cel może jedynie stać w miejscu i wykonywać uniki. 9–10 Zwinięcie się w kłębek: Cel otrzymuje Stan Leżący i jest Bezradny (WFRP, strona 162).",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m102",
+        "nazwa": "Horn of Andar",
+        "pz": "5",
+        "zasięg": "AoE (Fellowship yards)",
+        "cel": "You",
+        "czas": "Willpower minutes",
+        "opis": "Przywołujesz przeszywający dźwięk rogu, który działa na wszystkich w zasięgu. Przyjazne cele otrzymują premię +2 SL do testów chłodu i przywództwa za zwiększone morale. Wrogowie otrzymują -2 SL do testów Coolu i Przywództwa z powodu swojej rozpaczy. Wrogowie muszą także natychmiastowo przejść Test Strachu (1). Neutralne cele pozostają nienaruszone.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m103",
+        "nazwa": "Hush",
+        "pz": "3",
+        "zasięg": "Willpower yards",
+        "cel": "1 with AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Tworzysz tłumiącą dźwięk aurę Ulgu, która porusza się wraz z celem. Uciszenia nie można rzucić na niechętny cel, chociaż obiekt będący celem Uciszenia może zostać podniesiony po rzuceniu. Zaklęcie ma trzy formy; wybierz jeden w momencie rzucania: 0Żadne dźwięki nie opuszczają Obszaru Efektu, ale dźwięki nadal wchodzą do Obszaru Efektu. 0Żadne dźwięki nie dostają się do Obszaru Efektu, ale dźwięki powstające w Obszarze Efektu są traktowane normalnie. 0W obszarze działania nie są generowane żadne dźwięki.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m104",
+        "nazwa": "Illusion ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Initiative Bonus yards) ",
+        "czas": "Willpower minutes ",
+        "opis": "Przędsz sieć zawiłych pasm Ulgu, zaciemniając obszar działania wybranym przez ciebie iluzorycznym obrazem. Automatycznie oszukujesz każdego, kto nie posiada talentu Drugiego Wzroku. Osoby z tym Talentem muszą przejść Trudny (–10) Test Percepcji, aby zauważyć iluzję. Nie pozwala im to przejrzeć zaklęcia ani zakończyć jego efektów — po prostu rozumieją, że to iluzja. Iluzja jest zazwyczaj nieruchoma. W ramach swojej akcji możesz wykonać Trudny (-20) Test Łączenia, aby iluzja się poruszyła",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m105",
+        "nazwa": "within its space for that round. Deep Pockets",
+        "pz": "5",
+        "zasięg": "Touch",
+        "cel": "Special",
+        "czas": "Willpower Bonus hours",
+        "opis": "Umieszczasz jeden obiekt w wymiarze kieszonkowym, czyniąc go nieważkim i niewidocznym. Plecaki i torby liczą się jako jeden przedmiot, nawet jeśli są pełne. Przedmiot musi mieć Obciążenie wynoszące 1 plus 1 za każde +2 SL w teście rzucania. Obiektu nie można znaleźć za pomocą Testów Percepcji. Można go wyrwać za pomocą Akcji, pod warunkiem, że czar nie osiągnął jeszcze swojego czasu trwania. Jeśli zaklęcie zakończy się zanim przedmiot zostanie odzyskany, przedmiot przepada.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m106",
+        "nazwa": "Doppelganger ",
+        "pz": "10 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Intelligence Bonus minutes ",
+        "opis": "Tkasz płaszcz Ulgu, przybierając podobieństwo do innej humanoidalnej istoty, którą znasz (zgodnie z ustaleniami MG). Twój wygląd zmyli każdego, kto nie ma talentu drugiego wzroku, choć niektórzy mogą zauważyć, że twoje maniery są nieprawidłowe. Osoby z Drugim Wzrokiem muszą przejść Trudny (-10) Test Percepcji, aby zauważyć przebranie.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m107",
+        "nazwa": "Grand Illusion",
+        "pz": "14",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Initiative Bonus yards)",
+        "czas": "Willpower minutes",
+        "opis": "Zaklęcie to działa jak zaklęcie Iluzji Wiedzy Cieni (patrz poniżej), z tą różnicą, że Wielka Iluzja obejmuje pełne efekty sensoryczne, zapach, dotyk, dźwięk, smak i wygląd i nie ogranicza się do scen statycznych. Rzucający musi szczegółowo opisać iluzję, kiedy jest ona rzucana. Ta iluzja jest realna dla każdego, kto w nią wierzy. W ten sposób wielką iluzję mostu mogą z powodzeniem pokonać ci, którzy ją oszukają. Każdy, kto zdaje sobie sprawę, że jest to iluzja, nie może już traktować tego jako realnego – co mogłoby mieć poważne konsekwencje, gdyby znalazł się dopiero w połowie iluzorycznego mostu.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m108",
+        "nazwa": "Grey Wings",
+        "pz": "5",
+        "zasięg": "Willpower yards",
+        "cel": "1 (maximum)",
+        "czas": "Instant",
+        "opis": "Przywołujesz stado szarych ptaków, które cię teleportuje lub inny pojedynczy cel w odległości do 100 metrów. Cel może przechodzić przez stałe obiekty, nawet jeśli ty to zrobisz nie mieć pola widzenia do celu. Za każde +2 SL w teście rzucania możesz zwiększyć teleportację odległość o 100 metrów. Niechętne cele mogą uniknąć efekty przy średnim (+20) teście uniku.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m109",
+        "nazwa": "Pit of Tarnus",
+        "pz": "8",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Sprawiasz, że w ziemi otwiera się ciemny dół o średnicy i głębokości równej obszarowi działania. Cele stojące na dole lub obok niego muszą przejść Trudny (+0) test uniku, aby uniknąć wpadnięcia. Marginalne niepowodzenia pozwalają ofiarom złapać się na krawędź. Kiedy zaklęcie się kończy, dół się zamyka, a ofiary w środku zostają zmiażdżone, zadając 20 obrażeń, grzebiąc je żywcem. Pochowane ofiary podlegają uduszeniu (WFRP, strona 181).",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m110",
+        "nazwa": "Ribauld’s Retroactive Illusion",
+        "pz": "11",
+        "zasięg": "Willpower yards",
+        "cel": "Special",
+        "czas": "Instant",
+        "opis": "Sięgasz daleko w przeszłość i tworzysz iluzję, która zmienia obecną rzeczywistość. Wybierz element terenu i teleportuj go do jardów Siły Woli. Teren musi mieć wielkość domu lub mniejszy i nie może być częścią terenu (np. wzgórzem). Do kwalifikującego się terenu zaliczają się budynki, drzewa, głazy, strumienie i baseny. Postacie przebywające na danym terenie posiadają teleportację wraz z nim.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m111",
+        "nazwa": "Shadow Grove",
+        "pz": "5",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Initiative yards)",
+        "czas": "Willpower Bonus hours",
+        "opis": "Tworzysz obszar, w którym dostrzegalne są wszystkie cienie, nawet te rzucane przez niewidzialne stworzenia lub przejawy aetyczne. Niewidzialnych przeciwników można normalnie wykryć. Ataki przeciwko ujawnionym przeciwnikom podlegają karze –10. Stworzenia opętane przez demony lub duchy rzucają wiele cieni – jeden dla siebie i dodatkowe cienie dla swoich posiadaczy. Aby zobaczyć odsłonięte cienie, wymagane jest źródło światła lub naturalne światło",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m112",
+        "nazwa": "Mindslip ",
+        "pz": "6 ",
+        "zasięg": "1 yard ",
+        "cel": "1 ",
+        "czas": "Willpower minutes ",
+        "opis": "Przywołujesz delikatne nici Ulgu w umyśle swojego celu, powodując, że wszystkie wcześniejsze wspomnienia o Tobie znikają na czas działania zaklęcia. Po zakończeniu czaru cel musi przejść Test Średniej (+20) Inteligencji, w przeciwnym razie utrata pamięci stanie się trwała do czasu rozproszenia.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m113",
+        "nazwa": "Mutable Visage",
+        "pz": "4",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "Willpower Bonus hours",
+        "opis": "Zmieniasz wygląd celu. Niechętne cele mogą oprzeć się czarowi za pomocą Testu Przeciwnej Siły Woli. Wybierz jeden z następujących efektów: 0Zwiększ lub zmniejsz atrakcyjność, dostosowując Drużynę o +/–10%. 0Cel wydaje się martwy, nawet po dokładnym przyjrzeniu się. Zmysły nadal działają, ale cel nie może mówić ani się poruszać. 0Cel staje się nierozpoznawalny dla ludzi, którzy go znają. Testy Siły Woli mogą być rzucane przez postacie, z którymi cel chce odnowić znajomość.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m114",
+        "nazwa": "Mystifying Miasma ",
+        "pz": "6 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Wywołujesz wirującą masę mgły przesiąkniętej kłębiącym się cieniem, który dezorientuje zmysły. Każdy, kto znajduje się we mgle, nie posiada talentu Magia Tajemna (Cienie), zostaje dotknięty miazmą i zyskuje 1 stan Oślepienie, Ogłuszenie i Zmęczenie, które pozostają na czas działania zaklęcia. Dotknięte istoty, które próbują się poruszyć, muszą zdać Trudny (+0) Test Percepcji lub uzyskać Stan Leżący. Jeśli zaklęcie zostanie rozproszone, każdy dotknięty miazmą musi wykonać Łatwy (+40) Test Inicjatywy lub zyskać",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m115",
+        "nazwa": "Substance of Shadow",
+        "pz": "9",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "Special",
+        "opis": "Sprawiasz, że cel staje się niewidzialny i częściowo niematerialny. Cel musi znajdować się całkowicie w cieniu, ale musi to być spowodowane przez obiekt blokujący widoczne źródło światła. Całkowita ciemność się nie liczy. Cel nie może zostać dotknięty atakami materialnymi, popchnięty lub dotknięty w jakikolwiek sposób. Ataki magiczne rozpatrywane są normalnie. Cel może atakować lub dotykać rzeczy materialnych bez kar. Zaklęcie kończy się, jeśli jakakolwiek część celu opuści cień. Substancję Cienia można rzucić na obiekty nieożywione.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m116",
+        "nazwa": "Traitor of Tarn",
+        "pz": "12",
+        "zasięg": "Willpower yards",
+        "cel": "1",
+        "czas": "Willpower minutes",
+        "opis": "Zmuszasz wroga do zmiany lojalności. Jeśli cel nie przejdzie Testu Przeciwnej Siły Woli, będzie cię uważał za sojusznika, a swoich byłych sojuszników za wrogów. Za każdym razem, gdy cel zostaje poproszony o zaatakowanie byłego sojusznika, może podjąć trudny (+0) test chłodu, aby przełamać zaklęcie. Cele nie będą postępować zgodnie z instrukcjami, które mają wyraźnie samobójczy charakter. Kiedy to zaklęcie zostanie rzucone na neutralny cel, zamiast tego zyskujesz +2 SL do wszelkich testów opartych na Drużynie, które wykonujesz z udziałem neutralnego celu. Zaklęcie nie działa na przyjazne cele.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m117",
+        "nazwa": "Wandering Shadow",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Twój cień odłącza się od ciała i porusza się niezależnie pod twoim kierunkiem, z szybkością ruchu. Musisz wykonać akcję, aby pokierować ruchem swojego cienia, w przeciwnym razie będzie on stał w miejscu. Z miejsca, w którym znajduje się Twój cień, możesz widzieć, słyszeć i wąchać, ale nie możesz rzucać z niego zaklęć. Cień ulega zniszczeniu, jeśli zostanie wystawiony na bezpośrednie działanie promieni słonecznych lub na odległość większą niż 48 metrów od źródła światła. Cień nakłada stan Strach(1) ale nie może atakować.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m118",
+        "nazwa": "Shadowsteed ",
+        "pz": "6 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "1 ",
+        "czas": "Until the next sunrise ",
+        "opis": "Przywołujesz cienistego wierzchowca. Nienaturalne ciało stworzenia jest czarne jak północ, a czasami wydaje się zarówno solidne, jak i niematerialne. Skorzystaj z zasad dotyczących jazdy na koniu (WFRP, strona 316). Kiedy Shadowsteed znajduje się poza zasięgiem światła słonecznego, zyskuje następujące cechy stworzeń: Mroczne Widzenie, Eteryczny, Strach (1), Magiczne, Bezbolesne, Stealthy, Stride i Totem (9). Nawet jeśli są nieistotne, można dosiadać Cienistych rumaków. Jeźdźcy z talentem Magia Tajemna (Cień) mają premię +20 do testów Jazdy, aby dosiąść Cienistego rumaka. Osoby pozbawione Talentu otrzymują karę –20. Cieniogony są niestrudzone i nie potrzebują odpoczynku. Gdy pierwsze promienie świtu przebijają się przez horyzont, rumaki rozpływają się w niematerialną mgłę. Jeśli zaklęcie zakończy się, gdy Cienisty rumak ma jeźdźca, jeździec nagle upada i otrzymuje obrażenia od upadku (WFRP, strona 166).",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m119",
+        "nazwa": "Shadowstep ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "You ",
+        "czas": "Instant ",
+        "opis": "Tworzysz mroczny portal Ulgu poprzez eter. Znikasz z aktualnej lokalizacji i natychmiast pojawiasz się w odległości odpowiadającej Twojej Sile Woli. Każdy przeciwnik, z którym się zetkniesz po swoim zniknięciu lub ponownym pojawieniu się, zyskuje Stan Zaskoczenia.",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m120",
+        "nazwa": "Shroud of Invisibility ",
+        "pz": "8 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Owijasz cel całunem Ulgu. Cel staje się niewidzialny i nie może być postrzegany przez przyziemne zmysły. Zaklęcie automatycznie oszuka każdego, kto nie posiada talentu Drugiego Wzroku. Osoby z talentem muszą przejść Trudny Test Percepcji (+0), aby zauważyć, że ktoś jest w pobliżu, choć nie będą w stanie określić dokładnej lokalizacji. Cele są nadal dostrzegalne dla innych zmysłów. Czar kończy się, jeśli cel zwróci na siebie uwagę",
+        "typ": "Shadow"
+    },
+    {
+        "id": "m121",
+        "nazwa": "Animus Imprisoned",
+        "pz": "12",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "Special",
+        "opis": "Uwięzisz duszę celu w butelce, fiolce lub torebce. Ciało celu pozostaje w śpiączce przez czas nieokreślony, dopóki naczynie duszy nie zostanie otwarte w jego bezpośrednim sąsiedztwie przez ametystowego czarodzieja lub kapłana Morra. Ciała w stanie śpiączki należy nakarmić i nawodnić, w przeciwnym razie w końcu umrą. Możesz telepatycznie komunikować się z uwięzioną duszą. Po przebudzeniu cel musi wykonać test pod kątem narażenia na umiarkowane źródło zepsucia (WFRP, strona 182). Jeżeli naczynie duszy zostanie otwarte nieprawidłowo lub będzie oddalone od ciała, cel umiera, a jego dusza staje się Duchem (WFRP, strona 331). Słoików Dusz można używać jako składników wzmacniających zaklęcie Telepatii (patrz strona 125) podczas komunikacji z innymi czarodziejami Ametystu, pod warunkiem, że ofiara spotkała się wcześniej z czarodziejem. Związana dusza staje się medium na planie duchowym, umożliwiającym nieskończony zakres komunikacji. Jeśli zaklęcie zostanie błędnie rzucone, naczynie pęknie, a dusza zostanie uwolniona, jak opisano powyżej.",
+        "typ": "Death"
+    },
+    {
+        "id": "m122",
+        "nazwa": "Ashes and Dust",
+        "pz": "9",
+        "zasięg": "Random Vortex",
+        "cel": "AoE (2 × Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz wirującą chmurę duszącego pyłu. Cele w obszarze działania otrzymują 8 obrażeń, ignorując pancerz, i zaczynają się dusić (WFRP, strona 181), dopóki nie opuszczą chmury. Zaklęcie to wykorzystuje zasady Losowego Wiru (strona 20). Jeśli osiągniesz +4 SL, możesz przywołać Purpurowe Słońce Xereusa w środku chmury. Ta kula ciemności o fioletowych krawędziach o średnicy 1 stopy wywołuje Strach (2) i niszczy wszystko, czego dotknie. Cele trafione kulą muszą zdać trudny (+0) test opanowania, w przeciwnym razie natychmiast zginą. Przeszkody takie jak ściany i drzwi spalają się automatycznie. WIEDZA ŚMIERCI Fioletowy Wiatr Shyish niesie ze sobą suche, zakurzone przeciągi i uporczywy szelest piasku przepływającego przez klepsydrę Czasu. Cele dotknięte zaklęciami z Wiedzy Śmierci są pozbawione życia, osłabione i apatyczne. Możesz przypisać 1 Stan Zmęczenia do dowolnego żywego celu dotkniętego zaklęciem z tej Wiedzy. W dowolnym momencie cel może zyskać tylko jeden Stan Zmęczenia w ten sposób. Składniki: Kości czujących stworzeń są silnie obecne w magii Ametystu, podobnie jak pozostałości śmierci, w tym drewno lub gwoździe z trumien, płyny balsamujące, klepsydry, srebrne monety i ziemia grobowa, wszystkie starannie przedstawione lub wygrawerowane. Powszechne są również fioletowe kamienie szlachetne, materiały i kwiaty (zwłaszcza róże).",
+        "typ": "Death"
+    },
+    {
+        "id": "m123",
+        "nazwa": "Acceptance of Fate",
+        "pz": "6",
+        "zasięg": "AoE (2 × Willpower Bonus yards)",
+        "cel": "You",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Swoimi słowami ośmielasz sojuszników. Przyjazne cele są odporne na Strach przez czas trwania zaklęcia, a Terror traktuje się zamiast tego jako Strach. Dodatkowo, wszystkie efekty psychologiczne spowodowane smutkiem są trwale usuwane. Zaklęcie to można zamiast tego rzucić na pobliskich wrogów, aby nie zważali na niebezpieczeństwo. Cele, które nie przejdą testu Wyzwania (+0) Cool, nie mogą uciekać z walki przez cały czas działania zaklęcia.",
+        "typ": "Death"
+    },
+    {
+        "id": "m124",
+        "nazwa": "Amaranth",
+        "pz": "7",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Twoja skóra przybiera bladofioletowy odcień, gdy stajesz się bardziej odporny na śmierć i zepsucie. Wyniki rzutów na trafienie krytyczne przeciwko tobie są modyfikowane o –10, a ty zyskujesz talent Odporność (Trucizna, Choroba i Mutacja). Jeśli znasz już te talenty, dodaj +1 poziom za każde +2 SL.",
+        "typ": "Death"
+    },
+    {
+        "id": "m125",
+        "nazwa": "Death’s Release",
+        "pz": "5",
+        "zasięg": "Half Initiative yards",
+        "cel": "1",
+        "czas": "3 rounds",
+        "opis": "Otaczasz ducha Shyishem, aby odłączyć go od świata. Istoty posiadające zarówno cechy Nieumarłego, jak i Eterycznego muszą w każdej rundzie przejść Wyzwanie (+0) Test Spokoju lub otrzymać Stan Ogłuszenia, gdyż są zmuszone stawić czoła własnemu stanowi istnienia. Duchy, które uzyskają 3 Stany Ogłuszenia, zostają uwolnione z królestwa śmiertelników.",
+        "typ": "Death"
+    },
+    {
+        "id": "m126",
+        "nazwa": "Dying Words ",
+        "pz": "6 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Dotykając ciała niedawno zmarłej duszy (tej, która odeszła ostatniego dnia), przywołujesz na chwilę jej duszę z powrotem. Przez czas trwania zaklęcia możesz komunikować się z martwą duszą, jednak nie może ona podejmować żadnych działań poza rozmową. Nie ma obowiązku ci odpowiadać, ale umarli nie kłamią.",
+        "typ": "Death"
+    },
+    {
+        "id": "m127",
+        "nazwa": "Fate of Bjuna",
+        "pz": "8",
+        "zasięg": "Half Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Fellowship Bonus rounds",
+        "opis": "Cele wpadają w histeryczny śmiech i mogą nawet udławić się na śmierć. W każdej rundzie muszą wykonać Wyzwanie (+0) Cool Test lub otrzymać Stan Ogłuszenie i otrzymać własną premię do Siły + 6 Obrażeń, ignorując Pancerz. Obrażenie to ma 50% szans na zastosowanie na głowę i 50% szans na zastosowanie na ciało. Konwulsje celów powodują pękanie narządów i pękanie naczyń krwionośnych. Za każde +2 SL możesz otoczyć jeden cel fioletową energią. Jeśli cel nie przejdzie testu Siły Woli Wymagającej (+0), energia Nieśmiałości dostanie się do jego ust. Cel natychmiast otrzymuje obrażenia od uduszenia (WFRP, strona 181)",
+        "typ": "Death"
+    },
+    {
+        "id": "m128",
+        "nazwa": "and continues suffocating for the spell’s czas.Caress of Laniph ",
+        "pz": "7 ",
+        "zasięg": "Touch ",
+        "cel": "Special ",
+        "czas": "Instant ",
+        "opis": "Kiedy wyciągasz rękę, wydaje się ona uschnięta, a nawet szkieletowa, odciągając Shyisha od ciała celu. Liczy się to jako magiczny pocisk z obrażeniami +6, który ignoruje premię za wytrzymałość i punkty pancerza. Za każde 2 Rany zadane tym zaklęciem możesz wyleczyć 1 Ranę do maksymalnej liczby Ran.",
+        "typ": "Death"
+    },
+    {
+        "id": "m129",
+        "nazwa": "Compel Spirits",
+        "pz": "6",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Until sunrise",
+        "opis": "Sprawujesz władzę nad stworzeniami posiadającymi zarówno Cechę Nieumarłą, jak i Eteryczną. Wybierz jeden z następujących efektów: 0 Rozkazuj wszystkim celom, które nie przeszły testu przeciwnej siły woli, aby wykonały twoje polecenie. Możesz nakazać duchom ucieczkę lub walkę, ale tylko zaklęcie Uwolnienie Śmierci może je uśpić. 0Przywołaj Duchy (WFRP, strona 331) równe Twojemu SL. Te duchy są przeciągane przez zasłonę śmiertelności i nie podlegają twoim rozkazom, chyba że ponownie rzucisz zaklęcie. Przywoływanie duchów jest zabronione w Amethyst College.",
+        "typ": "Death"
+    },
+    {
+        "id": "m130",
+        "nazwa": "Crystal Maze",
+        "pz": "13",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Instant",
+        "opis": "Uwięzisz wrogów w legendarnym kryształowym labiryncie, który istnieje w eterze. Cele znikają i nie można ich skrzywdzić ani na nie w żaden sposób wpłynąć. Każdy uwięziony cel musi",
+        "typ": "Death"
+    },
+    {
+        "id": "m131",
+        "nazwa": "Scythe of Shyish ",
+        "pz": "6 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Przywołujesz magiczną kosę, którą można władać w walce, korzystając z umiejętności Walki wręcz (broń drzewcowa). Działa jak zwykła kosa z obrażeniami równymi premii do siły woli + 3. Wrogowie z cechą Nieumarła istota nie otrzymują przewagi, gdy są z tobą w zwarciu.",
+        "typ": "Death"
+    },
+    {
+        "id": "m132",
+        "nazwa": "Shyish Uncovered",
+        "pz": "4",
+        "zasięg": "AoE (Willpower Bonus yards)",
+        "cel": "You",
+        "czas": "Initiative Bonus minutes",
+        "opis": "Stajesz się świadomy wszystkich zgonów, które miały miejsce w obszarze działania zaklęcia w ciągu ostatniego miesiąca. Każdy +1 SL dodaje kolejny miesiąc do tego okresu. Dowiadujesz się o liczbie i gatunkach stworzeń oraz o tym, kiedy umarły, ale nie o ich imionach i sposobach śmierci. Jeśli znasz imię i nazwisko osoby, która zginęła w okolicy, możesz zadać jej jedno pytanie za każde dodatkowe +2 SL. Na pytania należy odpowiadać pukaniem. Na przykład jedno puknięcie, aby odpowiedzieć „tak” i dwa razy, aby odpowiedzieć „nie” lub wielokrotne pukanie, aby odpowiedzieć na pytania numeryczne.",
+        "typ": "Death"
+    },
+    {
+        "id": "m133",
+        "nazwa": "Soul Vortex ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Instant ",
+        "opis": "Rzucasz lśniącą kulę Shyisha, która wybucha fioletowymi płomieniami, wirując upiornymi twarzami i ustami otwartymi w cichym przerażeniu. Cele w obszarze działania otrzymują +1 Stan Złamania. Cele z cechą Nieumarła istota otrzymują trafienie magicznym pociskiem z obrażeniami +10, które ignorują premię za wytrzymałość i punkty pancerza.",
+        "typ": "Death"
+    },
+    {
+        "id": "m134",
+        "nazwa": "Speed of Lykos",
+        "pz": "3",
+        "zasięg": "Half Initiative yards",
+        "cel": "1",
+        "czas": "1 round",
+        "opis": "Nasycasz siebie lub inny cel nadprzyrodzoną szybkością. W następnej rundzie cel może poruszyć się na odległość 100 jardów i nadal wykonać akcję. Przeszkody i teren utrudniają normalne poruszanie się. Cele, które zostaną zabite pod wpływem tego zaklęcia, mogą uzyskać natychmiastową akcję bonusową zanim zginą",
+        "typ": "Death"
+    },
+    {
+        "id": "m135",
+        "nazwa": "Iyrtu’s Embrace",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "1 round",
+        "opis": "Twoje ramiona są osłonięte rękawicami Shyisha, dającymi wielką miażdżącą moc. Twoja siła wzrasta o +10 za każde +1 SL. Automatycznie odnosisz sukces w przypadku ataków w chwytaniu (jeśli spudłujesz, licz wynik jako +0 SL), a obrażenia w chwytaniu ignorują Pancerz.",
+        "typ": "Death"
+    },
+    {
+        "id": "m136",
+        "nazwa": "Limbwither",
+        "pz": "3",
+        "zasięg": "Willpower yards",
+        "cel": "1",
+        "czas": "Willpower Bonus minutes or days",
+        "opis": "Uśmiercasz jedną z kończyn swojego celu. Kończyna staje się całkowicie bezużyteczna przez minuty z Premią Siły Woli i jest traktowana jako amputowana ręka lub noga (WFRP, strona 180). Zamiast tego Limbwither może zostać rzucony jako totem na grobie. Na pierwszą osobę, która w ciągu najbliższego roku splądruje grób, spada „klątwa rabusia grobowców”. Rzuć losową kończyną, aby ją ogłuszyć. Ta klątwa utrzymuje się przez kilka dni z premią do siły woli.",
+        "typ": "Death"
+    },
+    {
+        "id": "m137",
+        "nazwa": "Purple Pall of Shyish ",
+        "pz": "9 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Okrywasz się zasłoną wykonaną z delikatnych pasm Shyish. Otrzymujesz dodatkowe punkty pancerza + siłę woli we wszystkich lokalizacjach oraz cechę stworzenia Strach (1) (WFRP, strona 339). Za każde +2 SL możesz zwiększyć swój współczynnik Strachu o 1.",
+        "typ": "Death"
+    },
+    {
+        "id": "m138",
+        "nazwa": "Sanctify ",
+        "pz": "10 ",
+        "zasięg": "Touch ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower minutes ",
+        "opis": "Zapisując magiczny krąg, chronisz go Shyishem, tworząc nieprzeniknioną barierę dla Nieumarłych. Stworzenia z",
+        "typ": "Death"
+    },
+    {
+        "id": "m139",
+        "nazwa": "Telepathy",
+        "pz": "1",
+        "zasięg": "100 yards",
+        "cel": "1",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Korzystając z płaszczyzny duchów, wysyłasz wiadomość telepatyczną do innego czarodzieja Ametystu. Zaklęcie Uwięziony Animus usuwa ograniczenia zasięgu. Próby komunikowania się z innymi postaciami są trudne. Postacie, które otrzymają wiadomość telepatyczną, muszą przejść Wymagający (+0) Test Intuicji, aby zrozumieć wiadomość. Alternatywnie, tego zaklęcia można użyć do odczytania powierzchniowych myśli innego Ametystowego Czarodzieja. Cel może wykonać Wymagający (+0) Test Inteligencji, aby zauważyć tę próbę, a jeśli zostanie wykryty, może wykonać Test Przeciwnej Siły Woli, aby zablokować twoje wtargnięcie.",
+        "typ": "Death"
+    },
+    {
+        "id": "m140",
+        "nazwa": "Tide of Years",
+        "pz": "3",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "1",
+        "czas": "Instant",
+        "opis": "Sprawiasz, że niemagiczny obiekt natychmiast się starzeje i rozpada w pył. Maksymalne Obciążenie dotkniętego obiektu wynosi 2 plus 1 Obciążenie za każde +2 SL w teście rzucania. Przedmioty posiadające Trwałą Jakość nie kruszą się, lecz zamiast tego tracą wszystkie Właściwości. Możesz rzucić Tide of Years na żywą istotę, jeśli uzyskasz 4 lub więcej SL w teście rzucania. Cel musi przejść Średni (+20) Test Cool, inaczej zestarzeje się w ciągu kilku sekund. Trwale zmniejsza Siłę i Wytrzymałość o 1k10 każde. Demony, Nieumarli i stworzenia roślinne są odporne na ten efekt.",
+        "typ": "Death"
+    },
+    {
+        "id": "m141",
+        "nazwa": "Wild Kin of Zandox",
+        "pz": "5",
+        "zasięg": "Special",
+        "cel": "You",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz dwa psy stróżujące wykonane z fioletowego cienia. Psów nie można obserwować bezpośrednio, ale postać, która pomyślnie przejdzie Twardy (–20) Test Percepcji, może przez chwilę dojrzeć psy jako niewolnicze bestie z ostrymi jak igły kłami. W twojej turze ogary mogą atakować wrogów w promieniu 4 metrów. Każdy ogar ma Umiejętność Broni 50 i Cechę Broń (Ugryzienie) +8. Psy nie mogą być zaatakowane, jednak nie otrzymują też przewagi",
+        "typ": "Death"
+    },
+    {
+        "id": "m142",
+        "nazwa": "Steal Life ",
+        "pz": "7 ",
+        "zasięg": "Willpower yards ",
+        "cel": "1 ",
+        "czas": "Instant ",
+        "opis": "Cienkie pasma fioletowej mgły na krótko łączą cię z celem, który znika na twoich oczach. Liczy się to jako magiczny pocisk z obrażeniami +6, który ignoruje Punkty Pancerza i zadaje 1 Stan Zmęczenia. Co więcej, usuwasz wszystkie stany zmęczenia, które aktualnie cierpisz i możesz wyleczyć się do połowy ran zadanych przez cel, zaokrąglając w górę.",
+        "typ": "Death"
+    },
+    {
+        "id": "m143",
+        "nazwa": "Swift Passing ",
+        "pz": "6 ",
+        "zasięg": "Touch ",
+        "cel": "Special ",
+        "czas": "Instant ",
+        "opis": "Twój dotyk przynosi śmierć pojedynczemu śmiertelnie rannemu celowi. Jeśli pomyślnie dotkniesz celu, któremu pozostało 0 ran i co najmniej 2 rany krytyczne, śmierć szybko nastąpi. Co więcej, celu nie można wskrzesić jako Nieumarłego.",
+        "typ": "Death"
+    },
+    {
+        "id": "m144",
+        "nazwa": "Taste of Death",
+        "pz": "7",
+        "zasięg": "Half Willpower yards",
+        "cel": "1 + AoE (Special)",
+        "czas": "Instant",
+        "opis": "Sprawiasz, że żywi wrogowie stają się świadomi własnej śmiertelności. Twój główny cel musi wykonać test pod kątem drobnego narażenia na zepsucie (WFRP, strona 182), a następnie przejść trudny (+0) test opanowania lub otrzymać stan nieprzytomności. Wrogowie znajdujący się w odległości twoich jardów premii inicjatywy od głównego celu muszą przejść średni (+20) test opanowania lub otrzymać stan ogłuszenia. Każdy, kto nie zaliczy testu Spokoju, musi także zdać Łatwy (+40) Test Spokoju lub otrzymać Stan Zmęczenia i Psychologię (Rozpacz). Przez następny tydzień ofiary Rozpaczy każdego ranka otrzymują Stan Zmęczenia",
+        "typ": "Death"
+    },
+    {
+        "id": "m145",
+        "nazwa": "Boiling Blood",
+        "pz": "5",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "1 round",
+        "opis": "Sprawiasz, że krew celu się gotuje, jeśli nie przejdzie on trudnego (–10) testu wytrzymałości. Cel natychmiast otrzymuje 2 Stany Oślepienia z powodu bólu i na początku swojej rundy otrzymuje 10 + SL Obrażeń (ignorując Pancerz, ale nie TB). Cele zabite tym zaklęciem eksplodują w strumieniu parzącej krwi, zadając magiczny pocisk z obrażeniami +1 wszystkim w promieniu 2 metrów.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m146",
+        "nazwa": "Burning Head",
+        "pz": "6",
+        "zasięg": "Willpower yards",
+        "cel": "Special",
+        "czas": "Instant",
+        "opis": "Rzucasz kulę ognia o średnicy około dwóch stóp, w kształcie płonącej głowy. Płonąca głowa leci w linii prostej, śmiejąc się maniakalnie, uderzając wszystkie cele na swojej drodze, aż osiągnie zasięg zaklęcia. Trafienia to magiczne pociski z obrażeniami +4 (obrażenia +0, jeśli cel przejdzie trudny test uniku (+0)). Każdy, kto trafi płonącą głową, otrzymuje 1 Stan Płomienia. Cele, które stracą co najmniej 1 ranę od płonącej głowy, traktują cię jako osobę posiadającą cechę stworzenia Strach (1).",
+        "typ": "Fire"
+    },
+    {
+        "id": "m147",
+        "nazwa": "Captivating Flame",
+        "pz": "3",
+        "zasięg": "Half Willpower yards",
+        "cel": "1 fire",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Sprawiasz, że płomienie tańczą i hipnotyzują obserwatorów. Celuj w źródło ognia nie większe niż pochodnia. Jedna losowa postać, która patrzy w stronę ognia, musi zdać Wyzwanie (+0) Test Coolu lub otrzymać 3 Stany Ogłuszenia. Zahipnotyzowane postacie są nieświadome wszystkiego innego, dopóki nie usuną wszystkich stanów ogłuszenia uzyskanych dzięki temu zaklęciu. Zaatakowanie ogłuszonego celu natychmiast usuwa wszystkie stany ogłuszenia uzyskane dzięki temu zaklęciu. Mając +2 SL do testu rzucania, możesz zaczarować większy ogień, taki jak piecyk lub ognisko, które wpływa na 2 losowych obserwatorów. Z +4 SL możesz zaczarować ogromny ogień, taki jak stos lub płonący budynek, który wpływa na wszystkich obserwatorów. WIEDZA OGNIA Wiedza O Ogniu i Jasnym Wiatrze Aqshy nie jest wcale subtelna. Jego zaklęcia są wykrzykiwane z zapałem i manifestują się w bombastyczny sposób, z jasnym płomieniem i palącym żarem. Możesz zadać 1 Stan Płomienia każdemu, kto jest celem zaklęć z Wiedzy Ognia, chyba że posiada on również talent Tajemna Magia (Ogień). Każdy Stan Płomienia w obrębie jardów Premii Siły Woli dodaje +10 do prób Aqshy’ego do testów Przewodzenia i Rzucania. Składniki: Piromanci używają szerokiej gamy łatwopalnych materiałów jako składników, które często ulegają spaleniu podczas rzucania zaklęcia, włączając w to węgiel, oleje, tłuszcze i rumiane drewno. Powszechne są również przedmioty odporne na ogień, takie jak żelazne klucze, rzeźbione fragmenty rusztu i małe kamienie do piekarnika.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m148",
+        "nazwa": "Aqshy’s Aegis ",
+        "pz": "5 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Otulasz się ognistym płaszczem Aqshy'ego, kierując płomień w stronę egidy. Jesteś całkowicie odporny na obrażenia od niemagicznego ognia, w tym na ataki oddechowe potworów i ignorujesz wszelkie otrzymane Stany Płomienia. Otrzymujesz Totem (9) Cechę Stworzenia (WFRP, strona 343) chroniącą przed magicznymi atakami ogniowymi, w tym ogniem spaczenia i zaklęciami z Wiedzy Ognia.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m149",
+        "nazwa": "Body of Fire",
+        "pz": "5",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Toughness Bonus minutes",
+        "opis": "Twoje ciało jest pokryte płomieniem, a twoja krew staje się piroforyczna. Cele próbujące cię złapać lub chwycić, otrzymują 8 + SL obrażeń i muszą w każdej rundzie przejść trudny (–20) test opanowania lub puścić. W każdej rundzie, w której zmagasz się z przeciwnikiem, otrzymuje on 1 Stan Płomienia i otrzymuje 8 + SL dodatkowych obrażeń. Jeśli zostaniesz ranny w walce wręcz, na twojego atakującego tryska ognista krew, który musi zdać trudny (+0) test uniku lub zostać trafiony magicznym pociskiem z obrażeniami +3 (ignorując pancerz). Twoje ubrania i wyposażenie są odporne na ogień,",
+        "typ": "Fire"
+    },
+    {
+        "id": "m150",
+        "nazwa": "Flaming Hearts ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Twój głos nabiera bogatego rezonansu, odzwierciedlając ognistą pasję Aqshy’ego. Dotknięci sojusznicy tracą wszystkie stany Złamania i Zmęczenia i zyskują talenty Wywiercone, Nieustraszone i Nieustraszone. Jeśli cel posiada już jeden z tych Talentów, bierze go ponownie.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m151",
+        "nazwa": "Firewall ",
+        "pz": "6 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Special) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Przekazujesz smugę Aqshy, tworząc ścianę ognia. Zapora sieciowa ma szerokość 1 metra i głębokość 1 metra. Za każde +2 SL w teście rzucania możesz wydłużyć długość o jardy Premii Siły Woli. Każdy, kto przekroczy zaporę, zyskuje 1 Stan Płomienia i zostaje trafiony magicznym pociskiem z obrażeniami równymi twojej premii do siły woli.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m152",
+        "nazwa": "Flamestorm",
+        "pz": "8",
+        "zasięg": "Willpower yards",
+        "cel": "Special",
+        "czas": "Instant",
+        "opis": "Przywołujesz słup ognia, który wystrzeliwuje z ziemi. Burza ma 2 metry średnicy i 2 metry wysokości. Za każde +2 SL w teście rzucania możesz zwiększyć średnicę burzy o 1 jard i wysokość o 2 metry. Cele stojące w miejscu pojawienia się płomieni otrzymują trafienia magicznymi pociskami z obrażeniami +8 i otrzymują 3 stany Płomienia. Dodatkowo zostają wyrzuceni poza obszar burzy i otrzymują Stan Padający. Tylko osoby odporne na działanie magicznego ognia mogą wejść na obszar Burzy Ognia. Zaklęcie trwa do momentu rozproszenia lub do następnego wschodu słońca.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m153",
+        "nazwa": "Flaming Sword of Rhuin ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Otaczasz miecz (broń ręczną) magicznymi płomieniami. Broń ma obrażenia SB+6 i jakość uderzenia (WFRP, strona 298). Każdy trafiony ostrzem zyskuje 1 Stan Płomienia. Jeśli posiadacze nie posiadają talentu Magia Tajemna (Ogień), a udaremnią atak za pomocą płonącego miecza, otrzymują 1 stan Podpalenia ",
+        "typ": "Fire"
+    },
+    {
+        "id": "m154",
+        "nazwa": "Cauterise ",
+        "pz": "4 ",
+        "zasięg": "Touch ",
+        "cel": "1 ",
+        "czas": "Instant ",
+        "opis": "Przekazując Aqshy przez dłonie, kładziesz je na ranach sojusznika. Cel natychmiast leczy 1k10 ran i usuwa wszystkie stany krwawienia. Co więcej, rany nie ulegają zakażeniu. Cele bez talentu Magia Tajemna (Ogień) muszą przejść Trudny (+0) Test Sposobu lub krzyczeć z bólu. Jeśli im się to nie uda o 6 SL lub więcej, cel zyskuje Stan Nieprzytomności i zostaje trwale okaleczony, budząc się 1k10 godzin później.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m155",
+        "nazwa": "Choleric",
+        "pz": "2",
+        "zasięg": "Half Initiative yards",
+        "cel": "1",
+        "czas": "Willpower Bonus hours, days or weeks",
+        "opis": "Podburzasz cel, by nie lubił innej osoby. Cel staje się przedmiotem uprzedzeń ( WFRP, strona 190) przeciwko wybranej przez ciebie osobie na czas premii do siły woli. Musisz nazwać lub wskazać zamierzony obiekt gniewu celu. Jeśli ta dwójka jest przyjaciółmi, cel może oprzeć się czarowi za pomocą Średniego (+20) testu Cool. 0Jeśli osiągniesz +4 SL w teście rzucania czaru, cel zostanie opanowany przez gniew i poddany Animozji (WFRP, strona 190) przez dni Bonusu Siły Woli. 0Jeśli osiągniesz +8 SL w teście rzucania, cel zostaje pochłonięty przez płonącą zemstę i podlega Nienawiści (WFRP, strona 190) przez tygodnie Premii za Siłę Woli. Dopóki ta klątwa nie wygaśnie lub nie zostanie rozproszona, cel przestrzega normalnych zasad przeciwstawiania się efektom uprzedzeń, wrogości i nienawiści.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m156",
+        "nazwa": "Crown of Flame ",
+        "pz": "8 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Kierujesz Aqshy w majestatyczną koronę inspirującego ognia wokół swojego czoła. Otrzymujesz cechę Strach (1) (WFRP, strona 190) i Talent Przywódca Wojny (WFRP, strona 147), gdy zaklęcie jest aktywne. Za każde +2 SL w teście rzucania możesz zwiększyć swoją wartość Strachu o 1 lub ponownie zdobyć talent Przywódca Wojny. Co więcej, zyskaj premię +10 do wszystkich testów Przewodzenia i Rzucania zaklęć Aqshy podczas",
+        "typ": "Fire"
+    },
+    {
+        "id": "m157",
+        "nazwa": "Kindleflame",
+        "pz": "2",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "1 round",
+        "opis": "Subtelnie zmieniasz właściwości materiału, czyniąc cele bardziej łatwopalnymi. Wszystko w obszarze działania, co normalnie nie jest łatwopalne, może się zapalić, nawet woda i kamień. Wszystko w obszarze działania, co jest już łatwopalne, otrzymuje +SL dodatkowe obrażenia od ognia i otrzymuje dodatkowy Stan Płomienia, ilekroć jest to wymagane.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m158",
+        "nazwa": "Kindred of the Hearth",
+        "pz": "4",
+        "zasięg": "Touch",
+        "cel": "Special",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz pomniejszego żywiołaka, który broni twojego obozu. Musisz włożyć ręce w ognisko, ponosząc 6 obrażeń minus premia za wytrzymałość, aby wyciągnąć małe humanoidalne stworzenie z ogniem i czarnymi jak węgiel oczami. Żywiołak ma Ruch 3, Umiejętności Broni równe Twojej Sile Woli, atakuje z Obrażeniami +6 i posiada Cechę Stwora Strach (1). Żywiołak nie może oddalić się na odległość większą niż 12 metrów od ognia i musisz mu pokierować słownie. Ilekroć rzucisz kolejne zaklęcie lub porozmawiasz z kimś innym, po prostu stoi w miejscu. Żywiołak może się tylko poruszać i atakować, ale nie zyskuje przewagi. Jeśli żywiołak zadaje obrażenia przeciwnikowi, otrzymuje on również Stan Płomienia. Nie można go skrzywdzić w żaden inny sposób niż oblanie szklanką lub większą ilością wody, co powoduje jego zniszczenie.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m159",
+        "nazwa": "Magma Storm",
+        "pz": "13",
+        "zasięg": "Random Vortex",
+        "cel": "AoE (2 × Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Podpalasz ziemię i przywołujesz niszczycielski wir stopiona skała. Cele w obszarze działania otrzymują 2 Płonące Poddaje się i zostaje trafiony magicznym pociskiem z obrażeniami +12. Zaklęcie to wykorzystuje zasady Losowego Wiru (strona 20). Na każdym okrągły po tym, jak wir przesunął się na odległość 8 jardów lub mniej, wytwarza +1 mniejszy wir za każde +2 SL (maksymalnie 3). Te mniejsze wiry, z których każdy ma obszar obszarowy (w jardach WPB). rozmiar, natychmiast porusza się losowo, zadając +1 Ablaze Stan i trafienie magicznym pociskiem z obrażeniami +4 oraz przeciwko wszystkim celom na swojej drodze. Mniejsze wiry rozpraszają się po jednym przeprowadzce",
+        "typ": "Fire"
+    },
+    {
+        "id": "m160",
+        "nazwa": "Forge of Tarnus",
+        "pz": "6",
+        "zasięg": "Touch",
+        "cel": "1 Forge",
+        "czas": "Willpower Bonus hours",
+        "opis": "Kładziesz ręce na nierozpalonych węglach kuźni, nasycając je Aqshy i powodując, że płoną z nienaturalną intensywnością. Wszelkie testy Handlu (Kowali) wykonane podczas działania zaklęcia korzystają z premii +1 SL, łącznie z testami używanymi do wytwarzania magicznych przedmiotów (patrz Archives of the Empire, tom II).",
+        "typ": "Fire"
+    },
+    {
+        "id": "m161",
+        "nazwa": "Great Fires of U’Zhul ",
+        "pz": "10 ",
+        "zasięg": "Willpower yards ",
+        "cel": "Special",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Rzucasz wybuchowy podmuch Aqshy. Płomienie wybuchają wściekłym płomieniem, paląc się ciepłem kuźni. To magiczny pocisk z obrażeniami +10, który ignoruje AP i zadaje 2 stany Płomienia i stan Padnięcia. Wszyscy w obszarze działania celu otrzymują obrażenia +5, ignorując AP i muszą zdać Trudny (+0) test uniku lub zyskać 1 Stan Płomienia. Zaklęcie przestaje zachowywać się jak magiczny pocisk, gdy ogień nadal płonie w obszarze działania przez pewien czas. Każdy, kto na koniec rundy znajduje się w obszarze działania, otrzymuje 1k10 + 6 obrażeń, ignorując PA i zyskuje 1 Stan Płomienia.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m162",
+        "nazwa": "Ignite",
+        "pz": "3",
+        "zasięg": "Willpower yards",
+        "cel": "1",
+        "czas": "Instant",
+        "opis": "Sprawiasz, że przedmiot lub osoba zapala się. Cel otrzymuje 2 Stany Płomienia. Jeśli rzucisz Podpalenie na cel, który ma już Stan Płomienia, możesz zamiast tego rozprzestrzenić płomienie na innych. Rozdaj między innymi 3 nowe Stany Płomienia w promieniu 2 metrów od celu.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m163",
+        "nazwa": "Inextinguishable Flame",
+        "pz": "3",
+        "zasięg": "Half Initiative yards",
+        "cel": "1 fire",
+        "czas": "Willpower Bonus hours, days, weeks, or months You make a normal fire inextinguishable by any means. The cel can be up to the size of a campfire and remains burning for Willpower Bonus hours. The czas is extended to days with +2 SL on your Casting Test, weeks with +4 SL, and months with +6 SL. ",
+        "opis": "Ogień nie zużywa paliwa podczas trwania zaklęcia. Pozostają płonące kłody rozdzielone na mniejsze ogniska nieugaszony. Alternatywnie możesz to wrzucić odwrócić, aby ugasić pożar tej samej wielkości. Nikt inny Zaklęcie może ugasić Nieugaszony Płomień, podobnie jak jego efekt zostanie rozwiany.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m164",
+        "nazwa": "AQSHY — THE LORE OF FIRETaste of Fire",
+        "pz": "2",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "1 pot, jug or flask",
+        "czas": "Instant",
+        "opis": "Podnosisz żywność lub płyn do stanu bardziej termogenicznego. Wybierz jeden z następujących efektów: 0 Garnek z jedzeniem staje się wyjątkowo ostry. Zjedzenie tego wymaga łatwego (+40) testu wytrzymałościowego, aby uniknąć skutków ubocznych ze strony układu trawiennego. 0Kwartowy dzbanek dowolnego płynu zamienia się w mocny alkohol. Nuta smaku oryginalnego płynu zostaje zachowana. 0 Butelka dowolnego płynu zamienia się w wysoce łatwopalny olej, nadający się do latarni.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m165",
+        "nazwa": "Withering Heat",
+        "pz": "9",
+        "zasięg": "AoE (Willpower yards)",
+        "cel": "You",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przeklinasz swoich wrogów wysuszającą gorączką. Wrogie cele w obszarze działania otrzymują stan zmęczenia w każdej rundzie, w której próbują uciekać, szarżować lub uciekać. Zdejmowanie zbroi i odzieży usuwa jeden uzyskany w ten sposób Stan Zmęczenia. Cele dotknięte jakimkolwiek ogniem (nawet świecą) automatycznie otrzymują Stan Płomienia i otrzymują dodatkowe Obrażenia równe +SL w teście Rzucania ze wszystkich źródeł ognia.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m166",
+        "nazwa": "Ygethmor’s Flaming Blizzard",
+        "pz": "7",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Tworzysz potężną wichurę iskier i popiołów. Cele w obszarze działania otrzymują 8 + SL obrażeń w każdej rundzie i muszą zdać trudny (+0) test atletyki lub otrzymać stan leżący. Łatwopalne obiekty i elementy terenu w okolicy mają 25% szans na zapalenie w każdej rundzie. Tylko twarda osłona zapewnia schronienie przed skutkami płonącej zamieci. Zaklęcie to wykorzystuje zasady Losowego Wiru (strona 20). W dowolnej rundzie, gdy wir przesunie się o 8 jardów lub mniej, wytwarza +1 mniejszy wir na każde +2 SL (maksymalnie 3). Te mniejsze wiry, z których każdy ma rozmiar obszarowy (w jardach WPB), natychmiast poruszają się losowo, zadając +1 Stan Płomienia i trafienie magicznym pociskiem z obrażeniami +4 przeciwko wszystkim celom na swojej drodze. Mniejsze wiry rozpraszają się po jednokrotnym ruchu.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m167",
+        "nazwa": "Purge ",
+        "pz": "10 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Wysyłasz intensywny płomień, aby wypalić zepsucie na danym obszarze. Wszystko, co jest łatwopalne, zostaje podpalone, a wszystkie stworzenia w okolicy otrzymują +SL Warunki Płomienia. Jeśli lokalizacja zawiera Zepsuty Wpływ, taki jak Dhar, Spaczenie lub obiekt skażony Chaosem, tli się i czernieje, zaczynając się palić. Możesz utrzymać to zaklęcie w kolejnych rundach, zaliczając Wymagający (+0) Test Przewodzenia. Dokładny czas potrzebny do wyeliminowania Zepsucia Wpływu jest ustalany przez MG. Ogólnie rzecz biorąc, niewielka ilość (mniejsza niż żołądź) spaczenia lub niewielki obiekt skażony Chaosem może wymagać 10 rund z premią do siły woli (minimum 1 runda). Kawałek Spaczenia wielkości pięści lub potężniejszy obiekt skażony Chaosem może wymagać dwukrotnie większej ilości czasu. Potężny artefakt Chaosu może zająć wiele godzin lub dłużej. Aby uzyskać szczegółowe informacje na temat wpływów korupcyjnych, zobacz WFRP, strona 182.",
+        "typ": "Fire"
+    },
+    {
+        "id": "m168",
+        "nazwa": "Sanguine Swords",
+        "pz": "6",
+        "zasięg": "Willpower yards",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Przywołujesz magiczny czerwony miecz, który unosi się przed tobą. Każde dodatkowe +2 SL w teście rzucania pozwala ci przyzwać dodatkowy miecz (maksymalnie 6 mieczy). W każdej kolejnej rundzie możesz wydać swoją akcję, aby skierować miecze przeciwko celom w zasięgu i polu widzenia. Cel może zostać zaatakowany tylko jednym mieczem na raz. Miecze posiadają Cechę Stworzenia Latanie (20) i uderzają z Umiejętnością Broni 60 i zadają 8 obrażeń, po czym szybko wracają do ciebie. Krwawymi Mieczami można się normalnie bronić i nie zapewniają one Przewagi. The",
+        "typ": "Fire"
+    },
+    {
+        "id": "m169",
+        "nazwa": "Awakening of the Wood",
+        "pz": "8",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower yards)",
+        "czas": "1 round",
+        "opis": "Wzbudzasz rozległy las, powodując, że smagające gałęzie i splątane ciernie atakują uwięzionych w środku. Cele w obszarze działania otrzymują na początku rundy trafienie magicznym pociskiem z obrażeniami +4. Cele, które nie przejdą testu średniego (+20) uniku, otrzymują również stan Krwawienie i Stan Uwikłania o sile 30.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m170",
+        "nazwa": "Beast Form ",
+        "pz": "5 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower minutes ",
+        "opis": "Napełniasz swoje kości i ciało Ghurem, wypaczając swoje ciało w ciało stworzenia. Po rzuceniu wybierz nową formę z dowolnej sekcji Bestii Reiklandu w Bestiariuszu (WFRP, strona 314). Otrzymujesz wszystkie standardowe cechy stworzenia z wyjątkiem cechy Bestii. Co więcej, zamień swój Ruch, Siłę, Wytrzymałość, Zwinność i Zręczność na ruch stworzenia. Przelicz swoje Rany. Za każde +2 SL możesz dodać 1 opcjonalną cechę stwora. Będąc w Postaci Bestii, wyglądasz jak normalna wersja stworzenia, o bursztynowo-brązowym zabarwieniu. Nie możesz mówić, rzucać zaklęć ani próbować rozproszyć. Jeśli straciłeś jakiekolwiek Rany po zakończeniu czaru, tracisz tę samą liczbę Ran, kiedy powrócisz do swojej prawdziwej formy. W ten sposób nie możesz zredukować obrażeń poniżej 0.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m171",
+        "nazwa": "Beast Master ",
+        "pz": "10 ",
+        "zasięg": "Willpower Bonus yards ",
+        "cel": "1 ",
+        "czas": "Willpower Bonus days ",
+        "opis": "Twój oddech paruje, a oczy nabierają lśniącego bursztynowego połysku, gdy Ghur cię otacza. Twoje spojrzenie i słowa przekonują 1 istotę z cechami Bestia i Rozmiar (Mały, Średni lub Duży), że jesteś panem jej stada. Walczy aż do śmierci, aby cię chronić. Podlegając twojemu panowaniu, bestia podąża za twoimi poleceniami, instynktownie rozumiejąc proste instrukcje. Jeśli zaklęcie się skończy, stworzenie zachowa wystarczająco dużo szacunku i strachu, aby nie atakować cię, chyba że zostanie do tego zmuszone. Twoi sojusznicy mogą nie mieć tyle szczęścia. WIEDZA BESTII Bursztynowy Wiatr, Ghur, niesie ze sobą chłód, pierwotną dzikość, która wytrąca z równowagi zarówno zwierzęta, jak i czujące stworzenia. Za każdym razem, gdy pomyślnie rzucisz zaklęcie z Wiedzy o Bestiach, możesz także zyskać Cechę Stwora Strach (1) (WFRP, strona 190) na następne 1k10 rund. Składniki: Szamani używają zwierzęcych futer, skóry, kości i skór owiniętych ścięgnami i pokrytych krwawymi runami, aby skupić Bursztynowy Wiatr. Bursztynowi Czarodzieje często wycinają pazury, suszą narządy i maczają pióra w rzadkich humorach. Nierzadko można znaleźć odchody, mocz i inne odchody zwierzęce wykorzystywane podczas pracy nad Bursztynowym Wiatrem.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m172",
+        "nazwa": "Amber Talons ",
+        "pz": "6 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Twoje paznokcie wyrastają w niesamowicie ostre szpony kryształowego bursztynu. Twoje ataki bez broni są magiczne, zadają obrażenia równe twojej premii do siły oraz premii do siły woli i powodują 1 stan krwawienia za każdym razem, gdy powodują utratę ran.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m173",
+        "nazwa": "Amber Trance",
+        "pz": "4",
+        "zasięg": "Initiative yards",
+        "cel": "1",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Przemieniasz swój cel w posąg wykonany z przezroczystego bursztynu. Cel może podjąć trudny (–20) test chłodu, aby się oprzeć. Bursztynowego posągu nie można poruszyć ani uszkodzić, nawet przez choroby czy trucizny, ale może leczyć zarówno naturalnie, jak i magicznie. Zaklęcie kończy się, jeśli posąg zostanie zaatakowany, chociaż pierwszy cios nie zadaje obrażeń. Cele nie zachowują żadnych wspomnień z transu. Chętny cel może wejść w przedłużony okres hibernacji, który trwa przez cały sezon 3-miesięczny, aż do równonocy lub przesilenia. Jeśli rzucisz na siebie trans, zaklęcie nie może zakończyć się przedwcześnie, chyba że ktoś je rozproszy lub",
+        "typ": "Beast"
+    },
+    {
+        "id": "m174",
+        "nazwa": "Curse of Anraheir",
+        "pz": "5",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz małe duchy z ziemi, aby nękać i odwracać uwagę wrogów. Duchy nie zadają obrażeń, ale wrogie cele w obszarze działania otrzymują -2 do ruchu i -20 do umiejętności broni, umiejętności balistycznych i zwinności. Cele, które opuszczają ten obszar, są śledzone przez nieznośne duchy, ale otrzymują tylko -1/-10 do tych Cech. Wierzchowce muszą przejść Wymagający (+0) Test Chłodności lub uciekać, dopóki nie zostaną uspokojone pomyślnym Wymagającym (+0) Testem Jazdy. Duchy ziemi są niewidzialne dla wszystkich z wyjątkiem celów i nie można ich w żaden sposób skrzywdzić.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m175",
+        "nazwa": "Eyes of the Pack",
+        "pz": "3",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "Willpower minutes",
+        "opis": "Pozwalasz celowi widzieć twoimi oczami. Cel może dowolnie przełączać się między swoją a Twoją perspektywą, bez ograniczeń zasięgu. Twoje pole widzenia może pomóc w niektórych zaklęciach, takich jak teleportacja. Cel nie może jednak rzucać zaklęć przez twoje ciało.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m176",
+        "nazwa": "Flock of Doom ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "AoE (Willpower Bonus yards) ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Wzywasz morderstwo wron lub podobnych lokalnych ptaków, aby zaatakować swoich wrogów. Stado zaciekle atakuje wszystkich w obszarze działania, którzy nie posiadają talentu Magia tajemna (Bestie), zadając na koniec rundy obrażenia +7. Stado pozostaje w grze przez cały czas trwania zaklęcia. W ramach swojej Akcji możesz wykonać Średni (+20) Test Uroku na Zwierzętach, aby przesunąć stado do innego celu w zasięgu. Wszystkie istoty znajdujące się w obszarze działania cierpią 1 Blinded Condition. ",
+        "typ": "Beast"
+    },
+    {
+        "id": "m177",
+        "nazwa": "Beast Tongue ",
+        "pz": "3 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower minutes ",
+        "opis": "Możesz komunikować się ze wszystkimi stworzeniami posiadającymi Cechę Bestii. Ghur zatyka ci gardło, a twój język brzmi jak warczenie, syczenie i ryczenie, jak przystało na zwierzęta, do których mówisz. Chociaż stworzenia nie są zmuszone do odpowiedzi lub zrobienia tego, co mówisz, większość cię wysłuchuje. Otrzymujesz +20 do wszystkich testów Uroku Zwierząt i Tresury Zwierząt. Kiedy to zaklęcie jest aktywne, możesz rozmawiać tylko ze zwierzętami — nie możesz mówić żadnym cywilizowanym językiem i możesz komunikować się ze swoją drużyną jedynie za pomocą gestów lub języka (bitwa). Nie możesz rzucać zaklęć ani rozpraszać, gdy aktywny jest Język Bestii.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m178",
+        "nazwa": "Beast Unbroken",
+        "pz": "4",
+        "zasięg": "Touch",
+        "cel": "1",
+        "czas": "Instant",
+        "opis": "Sprawiasz, że zwierzę domowe staje się dzikie i wściekłe. MG decyduje, czy zwierzę ucieknie do dziczy, czy zwróci się przeciwko swojemu byłemu właścicielowi. Umiejętność Uroku Zwierząt nie może okiełznać celu, a jedynie odwieść go od ataku. Jeźdźcy muszą zdać trudny (–20) test jazdy, aby uniknąć wyrzucenia z wierzchowca. Jeśli w teście rzucania rzucania wyrzucisz +4 lub więcej SL, możesz zamiast tego spowodować, że Człowiek przejdzie odrażającą transformację. Cel może się oprzeć Trudnemu (–10) Testowi Siły Woli. Jeśli celowi się to nie uda, wypuszczają gęste owłosienie na ciele i tracą zdolność mówienia. Działania celu są określane poprzez rzucenie 1k10 w każdej rundzie: Rzut 1–3 Roztargniony: cel drapie się w futro, wypróżnia się lub dłubie w nosie 4–6 Panika: Cel porusza się w losowym kierunku, wpadając na przeszkody lub atakując stworzenia znajdujące się w jego zasięgu ścieżka 7–9 Przyjazny: Cel śmieje się maniakalnie i czołga się lub tańczy w stronę najbliższej postaci. 10 Rozwścieczony: Cel wydaje pierwotny krzyk, powodując Strach (1) u każdego, kto nie ma talentu Tajemna Wiedza (Bestie), kto go słyszy. Dla obu zastosowań Niezłomnej Bestii, cel",
+        "typ": "Beast"
+    },
+    {
+        "id": "m179",
+        "nazwa": "Quick Passage",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus minutes",
+        "opis": "Z łatwością poruszasz się po dzikim terenie. Otrzymujesz +1 do ruchu oraz talenty Scale Sheer Surface i Strider (dowolny 1) (WFRP, strony 144–145). Jeśli posiadasz już te talenty, dodaj tymczasowy poziom +1 oraz kolejny poziom tymczasowy za każde +2 SL w teście rzucania. Otrzymujesz także +10 do testów unikania Splątania.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m180",
+        "nazwa": "Summon Mount",
+        "pz": "6",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus hours",
+        "opis": "Przywołujesz dzikie zwierzę, aby służyło ci za wierzchowca. MG wybiera zwykłe, nie-potworne zwierzę występujące na danym terenie. Typowymi przykładami są jelenie, dziki i niedźwiedzie. Tymczasowo zyskujesz odpowiednią umiejętność jazdy równą umiejętnościom językowym (magii). Wierzchowiec będzie walczył w twoim imieniu, ale zachowa swój instynkt samozachowawczy.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m181",
+        "nazwa": "The Amber Spear ",
+        "pz": "8 ",
+        "zasięg": "Willpower yards ",
+        "cel": "Special ",
+        "czas": "Instant ",
+        "opis": "Rzucasz wielką włócznią czystego Ghur w linii prostej. To magiczny pocisk z obrażeniami +12. Uderza pierwszą istotę na swojej drodze, ignorując Punkty Pancerza ze skóry i futer. Jeśli cel otrzyma jakiekolwiek Rany, otrzymuje 1 Stan Krwawienia, po czym włócznia kontynuuje swoją podróż, uderzając każdy cel w ten sam sposób. Włócznia zadaje -1 obrażenia za każdy cel, przez który przechodzi. Jeśli włócznia nie zada żadnych ran, jej postęp zostanie zatrzymany, a zaklęcie dobiegnie końca. Bursztynowa Włócznia zadaje tylko minimalną 1 Ranę (WFRP, strona 159) on the first cel it strikes. ",
+        "typ": "Beast"
+    },
+    {
+        "id": "m182",
+        "nazwa": "Follow Scent",
+        "pz": "4",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Initiative minutes",
+        "opis": "Twój zmysł węchu staje się wyostrzony i dostrojony do środowiska naturalnego. Zyskaj +20 do testów Tropienia i Percepcji, które opierają się na węchu, w tym testów Drugiego Wzroku na magię węchu. Możesz wyczuć zepsucie i mutację w roślinach, zwierzętach i zwierzęcym łajnie.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m183",
+        "nazwa": "Hunter’s Hide ",
+        "pz": "6 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Okrywasz się lśniącym płaszczem Ghur. Otrzymujesz +20 do Wytrzymałości oraz Mroczne Widzenie i Strach (1) Cechy stworzeń (WFRP, strona 339), a także talent Wyostrzony zmysł (węch) (WFRP, strona 132).",
+        "typ": "Beast"
+    },
+    {
+        "id": "m184",
+        "nazwa": "Hunter’s Moons",
+        "pz": "8",
+        "zasięg": "You",
+        "cel": "AoE (Willpower yards)",
+        "czas": "Willpower Bonus Rounds",
+        "opis": "Wyjesz do krwistoczerwonych księżyców, aby ożywić siebie i sojuszników. Wszystkie przyjazne cele w obszarze działania zyskują +1 do ruchu oraz +10 do siły i wytrzymałości.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m185",
+        "nazwa": "Merciw’s Monstrous Regiment",
+        "pz": "13",
+        "zasięg": "Willpower yards",
+        "cel": "AoE (Willpower Bonus yards)",
+        "czas": "Strength Bonus rounds",
+        "opis": "Obdarzasz siłą dziczy swoich sojuszników. Przyjazne cele w obszarze działania otrzymują premię +30 do siły i wytrzymałości, maksymalnie do 100. To zaklęcie nie działa na ciebie.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m186",
+        "nazwa": "Musk Spray",
+        "pz": "2",
+        "zasięg": "Willpower Bonus yards",
+        "cel": "1",
+        "czas": "Instant",
+        "opis": "Spryskujesz dłonie śmierdzącym piżmem. Wybierać jeden z następujących efektów: Wytryskaj na postać lub obiekt za pomocą łatwego do zidentyfikowania zapach. Testuje lokalizację docelowego wzmocnienia +2 SL. Oznacz obszar do jardów Premii Siły Woli jako swój terytorium. Dzikie zwierzęta wchodzą na oznaczony obszar tylko wtedy, gdy głodują lub są zagrożeni i przekraczają średnią (+20) Fajny test. Potwory nie są odstraszane. Piżmo utrzymuje się przez 1 dzień plus dodatkowy dzień na +2 SL. To nie można go zmyć.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m187",
+        "nazwa": "Vengeful Hood",
+        "pz": "3",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "2 × Willpower Bonus rounds",
+        "opis": "Jesteś otoczony ochronną osłoną z bursztynowego światła, która odbija ataki niemagiczne. Aby odeprzeć atak, musisz wykonać Wyzwanie (+0) Test Cool. Jeśli się powiedzie, atak nie uwzględnia już SB w kalkulacji obrażeń. Odbite ataki wręcz są odwracane przeciwko przeciwnikowi, zamiast tego trafiając go, po tym jak osłona usunie SB z kalkulacji obrażeń. Nie ma to wpływu na kusze i broń czarnoprochową.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m188",
+        "nazwa": "Winter Coat",
+        "pz": "2",
+        "zasięg": "You",
+        "cel": "You",
+        "czas": "Willpower Bonus hours",
+        "opis": "Wyhodujesz grubą warstwę futra, która chroni cię zarówno przed żywiołami, jak i ostrzami. Stajesz się odporny na ekspozycję na zimno i modyfikujesz wszystkie rzuty na trafienie krytyczne przeciwko tobie o –10. Jednakże zmniejszasz swoją Zwinność i Drużynę o –10.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m189",
+        "nazwa": "Writhing Worm",
+        "pz": "4",
+        "zasięg": "Willpower yards",
+        "cel": "1",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przywołujesz ogromnego brązowego robaka, który szybko wije się do celu. Cel zostaje automatycznie Chwycony i otrzymuje Stan Uwikłania (WFRP, strona 163). Robak ma siłę 50 do chwytania. Jeśli robak wygra Test Przeciwstawnej Siły, może wykonać jedną z dwóch następujących akcji: 0Dodaj kolejny Stan Uwikłania. 0Wydzielają lepkie enzymy, które rozpuszczają 1 punkt skórzanej lub podobnej zbroi we wszystkich trafionych miejscach. Rozpuszczane są również przedmioty skórzane, takie jak torby i plecaki. Robak nie może zadawać obrażeń podczas chwytania ani nie może zostać w żaden sposób skrzywdzony. Zaklęcie kończy się, jeśli cel breaks free.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m190",
+        "nazwa": "The Ox Stands",
+        "pz": "5",
+        "zasięg": "You",
+        "cel": "AoE (Willpower yards)",
+        "czas": "Willpower Bonus Rounds",
+        "opis": "Krzyczysz zachęcająco do swoich sojuszników. Natychmiast usuń Złamane Warunki SL+1 od sojuszników w obszarze działania. Sojusznicy na obszarze nie muszą wykonywać dalszych testów Strachu ani Terroru w czasie trwania tego zaklęcia.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m191",
+        "nazwa": "Wyssan’s Wildform ",
+        "pz": "8 ",
+        "zasięg": "You ",
+        "cel": "You ",
+        "czas": "Willpower Bonus rounds ",
+        "opis": "Wzywasz dziką moc Ghur, aby cię napełniła, poddając się jej dzikim rozkoszom. Otrzymujesz następujące cechy stworzeń (WFRP strona 338): Nadrzewny, Zbroja (2), Wojowniczy, Duży, Ugryzienie (Premia do Siły +1), Strach (1), Furia, Magia, Broń (Premia do Siły +2). Kiedy zaklęcie działa, nie możesz używać żadnych Umiejętności Językowych ani Wiedzy.",
+        "typ": "Beast"
+    },
+    {
+        "id": "m192",
+        "nazwa": "Transformation of Kadon",
+        "pz": "14",
+        "zasięg": "You or Touch",
+        "cel": "You or 1 (maximum)",
+        "czas": "Willpower Bonus rounds",
+        "opis": "Przemieniasz się w potworną bestię. Stworzenie nie może mieć więcej niż 20 Inteligencji i musi być Rozmiaru Dużego lub Ogromnego. Dokładny typ potwora jest ustalany przez MG. Przykłady obejmują: 0 Bursztynowy lub Elficki Czarodziej: Półgryf, Hipogryf, Wielki Orzeł, Gryf 0 Zwierzoczłek Szaman, Czarownica, Chaos Sorcerer: Manticore, Hydra, Jabberslythe, Wyvern Twoje ubranie zostaje rozdarte na strzępy w wyniku transformacji i upuszczasz cały trzymany sprzęt. Zachowujesz swoje oryginalne wyniki Inteligencji i Siły Woli; wszystkie inne Charakterystyki zostają zastąpione cechami potwora. W tej formie nie można rzucać zaklęć. Wszystkie Twoje Umiejętności i Talenty zostają zastąpione Umiejętnościami i Cechami Potwora. Jeśli osiągniesz +4 lub więcej SL w swoim teście rzucania, możesz albo: 0Wybrać 1 opcjonalną cechę stworzenia, albo: 0Zamiast tego rzucić transformację na kogoś innego, jako zaklęcie na dotyk. Niechętne cele mogą stawiać opór za pomocą",
+        "typ": "Beast"
     }
-    
 ]
