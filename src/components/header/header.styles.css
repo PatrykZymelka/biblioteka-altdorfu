@@ -1,21 +1,21 @@
 .Header{
     align-items: center;
     display:flex;
-    background-color: rgb(22, 22, 22);
+    background-color: #12100c;
     color:white;
     text-align: center;
     font-size:50px;
     font-weight:bold;
     font-style: italic;
     flex-direction: column;
-    padding:15px;
+    padding:13px;
     cursor:pointer;
     min-width: 640px;
     text-decoration: none;
-    border-bottom:2px;
+    border-bottom:4px;
     border-style:solid;
     border-top:0px;
     border-left:0px;
     border-right:0px;
-    border-color:gold;
+    border-color:#ffb300;
 }

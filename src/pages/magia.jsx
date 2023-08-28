@@ -36,7 +36,7 @@ class Magia extends Component{
             });  
 
         return(
-            <div>
+            <div className="Page">
                 <div className="searchBoxBackground">
                     <SearchBox
                     onChangeHandler = {onSearchChange} 
