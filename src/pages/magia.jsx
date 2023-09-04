@@ -3,13 +3,15 @@ import magia from "../Json/magia.json";
 import ItemList from "../components/item-list/item-list";
 import "./Pages-Styles/magia.styles.css";
 import SearchBox from "../components/search-box/search-box.component"
+import Dropdown from "../components/dropdown/dropdown";
 
 class Magia extends Component{
     constructor(){
         super();
         this.state ={
           Magia: [],
-          searchBar: ''
+          searchBar: '',
+          typeList: ["Cień", "Metal", "Niebo", "Śmierć", "Ogień", "Światło", "Życie", "Zwierzęta"]
         }
     };
 
@@ -42,6 +44,7 @@ class Magia extends Component{
                     onChangeHandler = {onSearchChange} 
                     className = {'search-box'} 
                     placeholder = {'Nazwa zaklęcia'}/>
+                    <Dropdown/>
                 </div>
                 <div className="Container">
                     {NameFiler.map(item =>{
