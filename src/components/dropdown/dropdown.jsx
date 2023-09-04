@@ -1,18 +1,10 @@
-function Dropdown(){
+import DropdownIt from "./dropdownIt/dropdownIt";
+import { useState } from "react";
+export default function Dropdown() {
+    const [selected, setSelected] = useState("Choose");
     return(
-        <div className="dropdown">
-            <div className="d-button">
-                Wybierz Tradycję
-            </div>
-            <div className="d-content">
-                <div className="d-item">
-                    Śmierci
-                </div>
-                <div className="d-item">
-                    Cieni
-                </div>
-            </div>
+        <div classname="Dropdown">
+            <DropdownIt selected={selected} setSelected={setSelected}/>
         </div>
     )
 }
-export default Dropdown;

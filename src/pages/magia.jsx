@@ -11,7 +11,6 @@ class Magia extends Component{
         this.state ={
           Magia: [],
           searchBar: '',
-          typeList: ["Cień", "Metal", "Niebo", "Śmierć", "Ogień", "Światło", "Życie", "Zwierzęta"]
         }
     };
 
@@ -32,7 +31,7 @@ class Magia extends Component{
     render(){
         const {searchBar, Magia} = this.state;
         const {onSearchChange} = this;
-
+    
         const NameFiler = Magia.filter((zaklęcie) => {
             return zaklęcie.nazwa.toLowerCase().includes(searchBar);
             });  
