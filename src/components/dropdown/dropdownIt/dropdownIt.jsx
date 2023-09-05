@@ -1,4 +1,5 @@
 import {useState} from "react";
+import "./dropdownlt.styles.css"
 
 function DropdownIt({selected, setSelected}){
     const [isActive, setIsActive] = useState(false);

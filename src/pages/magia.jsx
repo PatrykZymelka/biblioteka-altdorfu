@@ -43,7 +43,8 @@ class Magia extends Component{
                     onChangeHandler = {onSearchChange} 
                     className = {'search-box'} 
                     placeholder = {'Nazwa zaklęcia'}/>
-                    <Dropdown/>
+                    <Dropdown
+                    className="Drp"/>
                 </div>
                 <div className="Container">
                     {NameFiler.map(item =>{
