@@ -7,7 +7,6 @@
 .searchBoxBackground{
     display:flex;
     justify-content: center;
+    align-items: center;
 }
-.Drp{
-    background-color: white;
-}
+

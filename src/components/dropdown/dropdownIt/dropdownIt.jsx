@@ -3,7 +3,7 @@ import "./dropdownlt.styles.css"
 
 function DropdownIt({selected, setSelected}){
     const [isActive, setIsActive] = useState(false);
-    const options = ["Światła", "Cieni", "Ognia"]
+    const options = ["Ognia", "Światła", "Cieni"]
     return(
         <div className="dropdown">
             <div className="d-button" onClick={(e) =>
