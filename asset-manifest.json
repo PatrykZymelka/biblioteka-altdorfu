@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bibliotekaaltdorfu/static/css/main.f6380e10.css",
+    "main.js": "/bibliotekaaltdorfu/static/js/main.85390946.js",
+    "static/js/787.7721af7e.chunk.js": "/bibliotekaaltdorfu/static/js/787.7721af7e.chunk.js",
+    "index.html": "/bibliotekaaltdorfu/index.html",
+    "main.f6380e10.css.map": "/bibliotekaaltdorfu/static/css/main.f6380e10.css.map",
+    "main.85390946.js.map": "/bibliotekaaltdorfu/static/js/main.85390946.js.map",
+    "787.7721af7e.chunk.js.map": "/bibliotekaaltdorfu/static/js/787.7721af7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6380e10.css",
+    "static/js/main.85390946.js"
+  ]
+}
