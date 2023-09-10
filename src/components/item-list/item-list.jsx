@@ -1,15 +1,19 @@
-import { Component } from "react";
 import "./item-list.sytles.css";
 import { useState } from "react";
 
+
 const ItemList = (props) => {
         const [isActive, setIsActive] = useState(false);
-        const {nazwa, id, pz, zasięg, cel, czas, typ, opis } = props.Mlist;
+        const {nazwa, id, pz, zasięg, cel, czas, typ, opis, img} = props.Mlist;
         return(
             <div key={id} className="Item">
                 <div className="Item-List-Cont-Top" onClick={e => 
                 setIsActive(!isActive)}>
                     <h1 className="MagicText">
+                        <img src={img} alt="logo" className="logo"/>
+                    </h1>
+                    <h1 className="MagicText">
+                        
                     <strong className="Begin">{nazwa}</strong>
                     </h1>
                     <h1 className="MagicText">
@@ -27,6 +31,7 @@ const ItemList = (props) => {
                     <h1 className="MagicText">
                         <strong className="Begin">Szkoła Magi:</strong> {typ}
                     </h1>
+                    
                 </div>
                 {isActive && (
                     <div className="Item-List-Cont-Bottom">

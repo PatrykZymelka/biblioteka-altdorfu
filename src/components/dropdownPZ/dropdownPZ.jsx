@@ -1,21 +1,21 @@
 import {useState} from "react";
 import "./dropdownlt.styles.css"
 
-function DropdownIt({selected, setSelected}){
+function DropdownIt({selectedPZ, setSelectedPZ}){
     const [isActive, setIsActive] = useState(false);
-    const options = ["", "Cieni", "Metalu", "Niebios", "Ognia",  "Śmierci", "Światła",  "Zwierząt", "Życia"]
+    const options = ["", "1 ", "2 ", "3 ", "4 ", "5 ", "6 ", "7 ", "8 ", "9 ", "10","11", "12", "13", "14"]
     return(
         <div className="dropdown">
             <div className="d-button" onClick={(e) =>
             setIsActive(!isActive)}>
-                Tradycja: {selected}
+                Liczba PZ: {selectedPZ}
                 <span className="fas fa caret-down"/>
             </div>
             {isActive && (
             <div className="d-content">
                 {options.map((option) => (
                     <div onClick={(e) => {
-                            setSelected(option);
+                            setSelectedPZ(option);
                             setIsActive(false);
                         }}
                         className="d-item">
