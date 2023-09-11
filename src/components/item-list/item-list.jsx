@@ -1,5 +1,13 @@
 import "./item-list.sytles.css";
 import { useState } from "react";
+import CS from "../Images/CieńSymbol.svg";
+import MS from "../Images/MetalSymbol.svg";
+import NS from "../Images/NieboSymbol.svg";
+import OS from "../Images/OgieńSymbol.svg";
+import ŚmS from "../Images/ŚmierćSymbol.svg";
+import ŚwS from "../Images/ŚwiatłoSymbol.svg";
+import ZS from "../Images/ZwierzęSymbol.svg";
+import ŻS from "../Images/ŻycieSymbol.svg";
 
 
 const ItemList = (props) => {
@@ -12,9 +20,8 @@ const ItemList = (props) => {
                     <h1 className="MagicText">
                         <img src={img} alt="logo" className="logo"/>
                     </h1>
-                    <h1 className="MagicText">
-                        
-                    <strong className="Begin">{nazwa}</strong>
+                    <h1 className="MagicText"> 
+                        <strong className="Begin">{nazwa}</strong>
                     </h1>
                     <h1 className="MagicText">
                         <strong className="Begin">PZ:</strong> {pz}
