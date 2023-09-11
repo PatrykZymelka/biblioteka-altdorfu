@@ -8,7 +8,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Przywołujesz widmowy cień, który nawiedza obszar cienia. Cienie powodują strach (1), ale nie atakują. Za każde +2 SL w teście rzucania możesz zwiększyć współczynnik Strachu o 1 do maksymalnej wartości Strachu (4). Po rzuceniu dotknięty cień staje się magiczny i pozostaje w cieniu, nawet jeśli jest oświetlony.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m98",
@@ -19,7 +19,7 @@
         "czas": "1 round",
         "opis": "Transportujesz grupę celów w powietrzu w postaci cieni. Cele lecą do wybranego przez ciebie miejsca w zasięgu wzroku, aż do maksymalnej odległości twojej Siły Woli w jardach. Możesz latać razem z grupą, jeśli znajdziesz się w obszarze działania. Cele nie mogą przelatywać przez stałe obiekty, ale mogą przelatywać nad przeszkodami o wysokości do wysokości twoich metrów Siły Woli. Grupa dociera do celu po wygaśnięciu czaru.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m99",
@@ -30,7 +30,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Owijasz cieniste macki Ulgu wokół szyi swoich wrogów. Zakładając, że muszą oddychać, otrzymują 1 Stan Zmęczenia, nie mogą mówić i podlegają zasadom Uduszenia (WFRP, strona 181).",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m100",
@@ -41,7 +41,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przywołujesz skrzypce bez strun, które zmuszają wrogów do niekontrolowanego tańca, tracąc poczucie pilności. Cele mogą wykonać Test Siły Woli, aby oprzeć się tańcowi. Dotknięci wrogowie nie mogą się poruszać ani wykonywać żadnych akcji, chyba że najpierw zdadzą trudny (–20) test sprawności. Po wygaśnięciu czaru, dotknięte nim cele otrzymują Stan Zmęczenia. Zaklęcie nie wpływa na przyjazne i neutralne postacie. WIEDZA CIENI Zaklęcia rzucane na podstawie Wiedzy Cieni są ukryte i przebiegłe; lingua praestantia można mruczeć ukradkiem. Wszelkie zaklęcia ochronne, które rzucisz, spowijają cię cieniami i kłębiącym się dymem, czyniąc twoje ciało niematerialnym, być może nawet pozwalając ostrzom przejść przez ciebie pozornie bez szkody i przyznając ci Cechę Stworzenia Ward (9) na czas trwania zaklęcia. Co więcej, wszystkie zaklęcia rzucone z Wiedzy Cieni, które zadają obrażenia, ignorują wszystkie niemagiczne Punkty Pancerza. Składniki: Wszystko, co służy do zasłaniania lub ukrywania, jest używane do szarych składników, w tym kosmetyki, zapachy, szaliki, okulary, lustra i peruki. Powszechne są także przedmioty pochodzące z zawodów przesiąkniętych intrygami i mądrością, wśród których przeważają artefakty dyplomatyczne, odznaki rangi i ostateczny wyraz mocy – ostrze.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m101",
@@ -52,7 +52,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Jeśli cel nie przejdzie testu Siły Woli Wymagającej (+0), staje się zdezorientowany. Rzuć 1k10, aby określić zachowanie celu na czas trwania czaru: Rzut Efekt 1–2 Oszołomiony: Cel musi przejść Trudny (+0) Test Siły Woli, aby podjąć działania. 3–4 Wędrówka: Cel może działać normalnie, ale porusza się w losowym kierunku. 5–6 Atak: Cel szarżuje na najbliższy cel i atakuje. 7–8 Nic nie rób: Cel może jedynie stać w miejscu i wykonywać uniki. 9–10 Zwinięcie się w kłębek: Cel otrzymuje Stan Leżący i jest Bezradny (WFRP, strona 162).",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m102",
@@ -63,7 +63,7 @@
         "czas": "Liczba minut równa Sile Woli",
         "opis": "Przywołujesz przeszywający dźwięk rogu, który działa na wszystkich w zasięgu. Przyjazne cele otrzymują premię +2 SL do testów chłodu i przywództwa za zwiększone morale. Wrogowie otrzymują -2 SL do testów Coolu i Przywództwa z powodu swojej rozpaczy. Wrogowie muszą także natychmiastowo przejść Test Strachu (1). Neutralne cele pozostają nienaruszone.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m103",
@@ -74,7 +74,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Tworzysz tłumiącą dźwięk aurę Ulgu, która porusza się wraz z celem. Uciszenia nie można rzucić na niechętny cel, chociaż obiekt będący celem Uciszenia może zostać podniesiony po rzuceniu. Zaklęcie ma trzy formy; wybierz jeden w momencie rzucania: 0Żadne dźwięki nie opuszczają Obszaru Efektu, ale dźwięki nadal wchodzą do Obszaru Efektu. 0Żadne dźwięki nie dostają się do Obszaru Efektu, ale dźwięki powstające w Obszarze Efektu są traktowane normalnie. 0W obszarze działania nie są generowane żadne dźwięki.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m104",
@@ -85,7 +85,7 @@
         "czas": "Liczba minut równa Sile Woli ",
         "opis": "Przędsz sieć zawiłych pasm Ulgu, zaciemniając obszar działania wybranym przez ciebie iluzorycznym obrazem. Automatycznie oszukujesz każdego, kto nie posiada talentu Drugiego Wzroku. Osoby z tym Talentem muszą przejść Trudny (–10) Test Percepcji, aby zauważyć iluzję. Nie pozwala im to przejrzeć zaklęcia ani zakończyć jego efektów — po prostu rozumieją, że to iluzja. Iluzja jest zazwyczaj nieruchoma. W ramach swojej akcji możesz wykonać Trudny (-20) Test Łączenia, aby iluzja się poruszyła wewnątrz swojego zasięgu w tej rundzie",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m105",
@@ -96,7 +96,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Umieszczasz jeden obiekt w wymiarze kieszonkowym, czyniąc go nieważkim i niewidocznym. Plecaki i torby liczą się jako jeden przedmiot, nawet jeśli są pełne. Przedmiot musi mieć Obciążenie wynoszące 1 plus 1 za każde +2 SL w teście rzucania. Obiektu nie można znaleźć za pomocą Testów Percepcji. Można go wyrwać za pomocą Akcji, pod warunkiem, że czar nie osiągnął jeszcze swojego czasu trwania. Jeśli zaklęcie zakończy się zanim przedmiot zostanie odzyskany, przedmiot przepada.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m106",
@@ -107,7 +107,7 @@
         "czas": "Intelligence Bonus minutes ",
         "opis": "Tkasz płaszcz Ulgu, przybierając podobieństwo do innej humanoidalnej istoty, którą znasz (zgodnie z ustaleniami MG). Twój wygląd zmyli każdego, kto nie ma talentu drugiego wzroku, choć niektórzy mogą zauważyć, że twoje maniery są nieprawidłowe. Osoby z Drugim Wzrokiem muszą przejść Trudny (-10) Test Percepcji, aby zauważyć przebranie.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m107",
@@ -118,7 +118,7 @@
         "czas": "Liczba minut równa Sile Woli",
         "opis": "Zaklęcie to działa jak zaklęcie Iluzji Wiedzy Cieni (patrz poniżej), z tą różnicą, że Wielka Iluzja obejmuje pełne efekty sensoryczne, zapach, dotyk, dźwięk, smak i wygląd i nie ogranicza się do scen statycznych. Rzucający musi szczegółowo opisać iluzję, kiedy jest ona rzucana. Ta iluzja jest realna dla każdego, kto w nią wierzy. W ten sposób wielką iluzję mostu mogą z powodzeniem pokonać ci, którzy ją oszukają. Każdy, kto zdaje sobie sprawę, że jest to iluzja, nie może już traktować tego jako realnego – co mogłoby mieć poważne konsekwencje, gdyby znalazł się dopiero w połowie iluzorycznego mostu.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m108",
@@ -129,7 +129,7 @@
         "czas": "Natychmiast",
         "opis": "Przywołujesz stado szarych ptaków, które cię teleportuje lub inny pojedynczy cel w odległości do 100 metrów. Cel może przechodzić przez stałe obiekty, nawet jeśli ty to zrobisz nie mieć pola widzenia do celu. Za każde +2 SL w teście rzucania możesz zwiększyć teleportację odległość o 100 metrów. Niechętne cele mogą uniknąć efekty przy średnim (+20) teście uniku.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m109",
@@ -140,7 +140,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Sprawiasz, że w ziemi otwiera się ciemny dół o średnicy i głębokości równej obszarowi działania. Cele stojące na dole lub obok niego muszą przejść Trudny (+0) test uniku, aby uniknąć wpadnięcia. Marginalne niepowodzenia pozwalają ofiarom złapać się na krawędź. Kiedy zaklęcie się kończy, dół się zamyka, a ofiary w środku zostają zmiażdżone, zadając 20 obrażeń, grzebiąc je żywcem. Pochowane ofiary podlegają uduszeniu (WFRP, strona 181).",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m110",
@@ -151,7 +151,7 @@
         "czas": "Natychmiast",
         "opis": "Sięgasz daleko w przeszłość i tworzysz iluzję, która zmienia obecną rzeczywistość. Wybierz element terenu i teleportuj go do jardów Siły Woli. Teren musi mieć wielkość domu lub mniejszy i nie może być częścią terenu (np. wzgórzem). Do kwalifikującego się terenu zaliczają się budynki, drzewa, głazy, strumienie i baseny. Postacie przebywające na danym terenie posiadają teleportację wraz z nim.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m111",
@@ -162,7 +162,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Tworzysz obszar, w którym dostrzegalne są wszystkie cienie, nawet te rzucane przez niewidzialne stworzenia lub przejawy aetyczne. Niewidzialnych przeciwników można normalnie wykryć. Ataki przeciwko ujawnionym przeciwnikom podlegają karze –10. Stworzenia opętane przez demony lub duchy rzucają wiele cieni – jeden dla siebie i dodatkowe cienie dla swoich posiadaczy. Aby zobaczyć odsłonięte cienie, wymagane jest źródło światła lub naturalne światło",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m112",
@@ -173,7 +173,7 @@
         "czas": "Liczba minut równa Sile Woli ",
         "opis": "Przywołujesz delikatne nici Ulgu w umyśle swojego celu, powodując, że wszystkie wcześniejsze wspomnienia o Tobie znikają na czas działania zaklęcia. Po zakończeniu czaru cel musi przejść Test Średniej (+20) Inteligencji, w przeciwnym razie utrata pamięci stanie się trwała do czasu rozproszenia.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m113",
@@ -184,7 +184,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Zmieniasz wygląd celu. Niechętne cele mogą oprzeć się czarowi za pomocą Testu Przeciwnej Siły Woli. Wybierz jeden z następujących efektów: 0Zwiększ lub zmniejsz atrakcyjność, dostosowując Drużynę o +/–10%. 0Cel wydaje się martwy, nawet po dokładnym przyjrzeniu się. Zmysły nadal działają, ale cel nie może mówić ani się poruszać. 0Cel staje się nierozpoznawalny dla ludzi, którzy go znają. Testy Siły Woli mogą być rzucane przez postacie, z którymi cel chce odnowić znajomość.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m114",
@@ -195,7 +195,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Wywołujesz wirującą masę mgły przesiąkniętej kłębiącym się cieniem, który dezorientuje zmysły. Każdy, kto znajduje się we mgle, nie posiada talentu Magia Tajemna (Cienie), zostaje dotknięty miazmą i zyskuje 1 stan Oślepienie, Ogłuszenie i Zmęczenie, które pozostają na czas działania zaklęcia. Dotknięte istoty, które próbują się poruszyć, muszą zdać Trudny (+0) Test Percepcji lub uzyskać Stan Leżący. Jeśli zaklęcie zostanie rozproszone, każdy dotknięty miazmą musi wykonać Łatwy (+40) Test Inicjatywy lub zyskać",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m115",
@@ -206,7 +206,7 @@
         "czas": "Specjalny",
         "opis": "Sprawiasz, że cel staje się niewidzialny i częściowo niematerialny. Cel musi znajdować się całkowicie w cieniu, ale musi to być spowodowane przez obiekt blokujący widoczne źródło światła. Całkowita ciemność się nie liczy. Cel nie może zostać dotknięty atakami materialnymi, popchnięty lub dotknięty w jakikolwiek sposób. Ataki magiczne rozpatrywane są normalnie. Cel może atakować lub dotykać rzeczy materialnych bez kar. Zaklęcie kończy się, jeśli jakakolwiek część celu opuści cień. Substancję Cienia można rzucić na obiekty nieożywione.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m116",
@@ -217,7 +217,7 @@
         "czas": "Liczba minut równa Sile Woli",
         "opis": "Zmuszasz wroga do zmiany lojalności. Jeśli cel nie przejdzie Testu Przeciwnej Siły Woli, będzie cię uważał za sojusznika, a swoich byłych sojuszników za wrogów. Za każdym razem, gdy cel zostaje poproszony o zaatakowanie byłego sojusznika, może podjąć trudny (+0) test chłodu, aby przełamać zaklęcie. Cele nie będą postępować zgodnie z instrukcjami, które mają wyraźnie samobójczy charakter. Kiedy to zaklęcie zostanie rzucone na neutralny cel, zamiast tego zyskujesz +2 SL do wszelkich testów opartych na Drużynie, które wykonujesz z udziałem neutralnego celu. Zaklęcie nie działa na przyjazne cele.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m117",
@@ -228,7 +228,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Twój cień odłącza się od ciała i porusza się niezależnie pod twoim kierunkiem, z szybkością ruchu. Musisz wykonać akcję, aby pokierować ruchem swojego cienia, w przeciwnym razie będzie on stał w miejscu. Z miejsca, w którym znajduje się Twój cień, możesz widzieć, słyszeć i wąchać, ale nie możesz rzucać z niego zaklęć. Cień ulega zniszczeniu, jeśli zostanie wystawiony na bezpośrednie działanie promieni słonecznych lub na odległość większą niż 48 metrów od źródła światła. Cień nakłada stan Strach(1) ale nie może atakować.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m118",
@@ -239,7 +239,7 @@
         "czas": "Do kolejnego wschodu słońca",
         "opis": "Przywołujesz cienistego wierzchowca. Nienaturalne ciało stworzenia jest czarne jak północ, a czasami wydaje się zarówno solidne, jak i niematerialne. Skorzystaj z zasad dotyczących jazdy na koniu (WFRP, strona 316). Kiedy Shadowsteed znajduje się poza zasięgiem światła słonecznego, zyskuje następujące cechy stworzeń: Mroczne Widzenie, Eteryczny, Strach (1), Magiczne, Bezbolesne, Stealthy, Stride i Totem (9). Nawet jeśli są nieistotne, można dosiadać Cienistych rumaków. Jeźdźcy z talentem Magia Tajemna (Cień) mają premię +20 do testów Jazdy, aby dosiąść Cienistego rumaka. Osoby pozbawione Talentu otrzymują karę –20. Cieniogony są niestrudzone i nie potrzebują odpoczynku. Gdy pierwsze promienie świtu przebijają się przez horyzont, rumaki rozpływają się w niematerialną mgłę. Jeśli zaklęcie zakończy się, gdy Cienisty rumak ma jeźdźca, jeździec nagle upada i otrzymuje obrażenia od upadku (WFRP, strona 166).",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m119",
@@ -250,7 +250,7 @@
         "czas": "Natychmiast ",
         "opis": "Tworzysz mroczny portal Ulgu poprzez eter. Znikasz z aktualnej lokalizacji i natychmiast pojawiasz się w odległości odpowiadającej Twojej Sile Woli. Każdy przeciwnik, z którym się zetkniesz po swoim zniknięciu lub ponownym pojawieniu się, zyskuje Stan Zaskoczenia.",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m120",
@@ -261,7 +261,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Owijasz cel całunem Ulgu. Cel staje się niewidzialny i nie może być postrzegany przez przyziemne zmysły. Zaklęcie automatycznie oszuka każdego, kto nie posiada talentu Drugiego Wzroku. Osoby z talentem muszą przejść Trudny Test Percepcji (+0), aby zauważyć, że ktoś jest w pobliżu, choć nie będą w stanie określić dokładnej lokalizacji. Cele są nadal dostrzegalne dla innych zmysłów. Czar kończy się, jeśli cel zwróci na siebie uwagę",
         "typ": "Cieni",
-        "img": "Images/CieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/CieńSymbol.4fe453158952d171ae47b2a7062ac2d2.svg"
     },
     {
         "id": "m25",
