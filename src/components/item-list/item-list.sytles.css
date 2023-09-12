@@ -1,21 +1,17 @@
 @media only screen and (min-width: 600px) {
     .Item-List-Cont-Top{
         display:grid;
-        font-size:9px;
-        grid-template-columns: 0.4fr 1.5fr 0.5fr 2fr 2fr 3fr 1.5fr ;
-        margin-left:8px;
-        margin-right:8px;
+        font-size:0.6rem;
+        grid-template-columns: 1.5fr 1fr 2fr 1.5fr 2fr 1.5fr;
         column-gap: 20px;
         align-items: center;    
     }
     .Item-List-Cont-Bottom{
         flex:1;
-        font-size:8px;
+        font-size:0.6rem;
         display:flex;
         justify-content: flex-start;
         flex-wrap:wrap;
-        margin-left:8px;
-        margin-right:16px;
         border-bottom:0px;
         border-top:4px;
         border-right:0px;
@@ -26,8 +22,6 @@
     }
     .Item{
         background-color: rgb(255, 255, 255);
-        margin-left:50px;
-        margin-right:50px;
         border-style:dashed;
         transition: 0.15s;
         cursor:pointer;
@@ -43,9 +37,57 @@
         font-weight: bolder;
         font-size:9;
     }
-
     .logo{
-        width:50px;
-        height:50px;
+        width:3rem;
+    }
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    .Item-List-Cont-Top{
+        display:grid;
+        font-size:0.6rem;
+        grid-template-columns: 1fr 1fr 1fr ;
+        grid-template-rows: 1fr 1fr;
+        grid-auto-flow:row;
+        margin-left:8px;
+        margin-right:8px;
+        align-items: center;    
+    }
+    .Item-List-Cont-Bottom{
+        flex:1;
+        font-size:0.5rem;
+        display:flex;
+        justify-content: flex-start;
+        flex-wrap:wrap;
+        border-bottom:0px;
+        border-top:4px;
+        border-right:0px;
+        border-left:0px;
+        border-style:solid;
+        border-color:#FFB300;
+
+    }
+    .Item{
+        background-color: rgb(255, 255, 255);
+        transition: 0.15s;
+        cursor:pointer;
+        -webkit-user-select:none;
+        -moz-user-select:none;
+        user-select:none;
+        
+        
+    }
+    .Item:hover{
+        scale:1.01
+    }
+
+    .Begin{
+        font-weight: bolder;
+        font-size:1.2rem;
+    }
+    .logo{
+        width:3rem;
     }
 }

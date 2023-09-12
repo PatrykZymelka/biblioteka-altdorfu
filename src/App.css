@@ -1,0 +1,33 @@
+.App{
+    margin:0;
+    padding:0;
+}
+@media only screen and (min-width: 600px) {
+    .Top{
+        display:grid;
+        grid-template-rows: 1fr 1fr;
+        width:100%;
+
+    }
+    .Bot{
+        display:grid;
+        background-color: black;
+        grid-template-rows: 1fr;
+        width:100%;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .Top{
+        display:grid;
+        grid-template-rows: 1fr 1fr;
+        width:100%;
+    }
+    .Bot{
+        display:grid;
+        background-color: black;
+        margin:0;
+        padding:0;
+        width:100%;
+
+    }
+}

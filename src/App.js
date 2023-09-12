@@ -29,9 +29,11 @@ class App extends Component {
     const {PagesInfo} = this.state;
     return (
       <div className="App">
+        <div className="Top">
         <Header/>
         <PageMenu PagesInfo = {PagesInfo}/>
-        <div className='Container'>
+        </div>
+        <div className='Bot'>
         <Routes>
           <Route path="/Home" element={<Home/>} />
           <Route path="/lore" element={<Lore/>} />

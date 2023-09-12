@@ -1,7 +1,6 @@
 .dropdown{
     width: 200px;
     height:120px auto;
-    margin-left:50px;
     box-shadow: 2px 2px 10px 5px grey;
     line-height: 30px;
     size:50px;
@@ -20,7 +19,7 @@
 .d-button{
     padding:10px;
     justify-content: space-between;
-    font-size:20px;
+    font-size:1.4rem;
     background-color:rgb(255, 255, 255);
     cursor:pointer;
     transition:0.2s;
@@ -37,7 +36,7 @@
     background-color: white;
     position: absolute;
     box-shadow: 2px 2px 10px 5px grey;
-    font-size:20px;
+    font-size:1.4rem;
     width: 200px;
     
 
@@ -50,6 +49,6 @@
 }
 .d-item:hover{
     background: rgb(223, 223, 223);
-    border-radius: 20px;
+
 
 }

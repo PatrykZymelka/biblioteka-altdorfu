@@ -55,37 +55,46 @@ const Magia = () =>{
     
     return(
         <div className="Page">
-            <div className="searchBoxBackground">
-                <div>
-                    <SearchBox
-                    onChangeHandler = {onSearchChange} 
-                    className = {'search-box'} 
-                    placeholder = {'Nazwa zaklęcia'}/>
+            <div>
+                <h1 className="SideBar"> S</h1>
+            </div>
+            <div className="Center">
+                <div className="searchBoxBackground">
+                    <div>
+                        <SearchBox
+                        onChangeHandler = {onSearchChange} 
+                        className = {'search-box'} 
+                        placeholder = {'Nazwa zaklęcia'}/>
+                    </div>
+                    <div>
+                        <Dropdown 
+                        selected={selected} 
+                        className="drop"
+                        setSelected={setSelected}/>
+                        
+                    </div>
+                    <div>
+                        <DropdownPZ
+                        selectedPZ={selectedPZ} 
+                        className="drop"
+                        setSelectedPZ={setSelectedPZ}
+                        />
+                    </div>
                 </div>
-                <div>
-                    <Dropdown 
-                    selected={selected} 
-                    className="drop"
-                    setSelected={setSelected}/>
-                    
-                </div>
-                <div>
-                    <DropdownPZ
-                    selectedPZ={selectedPZ} 
-                    className="drop"
-                    setSelectedPZ={setSelectedPZ}
-                    />
+                
+                <div className="Container">
+                    {NameFilter.map(item =>{
+                        return(
+                            <ItemList className="Item" Mlist={item}/>
+                        );
+                    })}
                 </div>
             </div>
-            
-            <div className="Container">
-                {NameFilter.map(item =>{
-                    return(
-                        <ItemList Mlist={item}/>
-                    );
-                })}
+            <div >
+                <h1 className="SideBar">S</h1>
             </div>
         </div>
+        
     )
 }
 

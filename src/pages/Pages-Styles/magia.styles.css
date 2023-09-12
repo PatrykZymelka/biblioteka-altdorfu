@@ -1,3 +1,37 @@
+
+@media only screen and (min-width: 1300px) {
+    .Container{
+        display:flex;
+        flex-direction: column;
+        flex:auto;
+        row-gap:20px;
+    }
+    .searchBoxBackground{
+        display:flex;
+        justify-content:space-evenly;
+        align-items:center;
+    
+    }
+    .SideBar{
+        max-width:300px;
+        background-color: grey;
+    }
+    .Page{
+        display:grid;
+        justify-items: center;
+        grid-auto-flow:column;
+        
+    
+    }
+    .Item{
+        border-style:dashed;
+    }
+    .Center{
+        display:flex;
+        flex-direction: column;
+    }
+    }
+@media only screen and (600px <= width <= 1300px) {
 .Container{
     display:flex;
     flex-direction: column;
@@ -6,7 +40,55 @@
 }
 .searchBoxBackground{
     display:flex;
-    justify-content: center;
-    align-items: center;
-}
+    justify-content:space-evenly;
+    align-items:center;
 
+}
+.SideBar{
+    display:flex;
+
+    background-color: grey;
+}
+.Page{
+    display:grid;
+    justify-items: center;
+    grid-auto-flow:column;
+
+}
+.Item{
+    border-style:dashed;
+}
+}
+@media only screen and (max-width: 600px) {
+    .Container{
+        display:flex;
+        flex-direction: column;
+        flex:auto;
+        row-gap:20px;
+    }
+    .searchBoxBackground{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+    
+    }
+    .SideBar{
+        max-width:300px;
+        background-color: grey;
+    }
+    .Page{
+        display:grid;
+        justify-items: center;
+        grid-auto-flow:column;
+        
+    
+    }
+    .Item{
+        border-style:dashed;
+    }
+    .Center{
+        display:grid;
+        justify-items: center;
+        grid-auto-flow:row;
+    }
+    }

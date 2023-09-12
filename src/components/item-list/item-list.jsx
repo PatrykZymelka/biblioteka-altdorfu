@@ -1,19 +1,17 @@
 import "./item-list.sytles.css";
 import { useState } from "react";
+import CS from "../images/CieńSymbol.svg"
 
 
 const ItemList = (props) => {
         const [isActive, setIsActive] = useState(false);
-        const {nazwa, id, pz, zasięg, cel, czas, typ, opis, img} = props.Mlist;
+        const {nazwa, id, pz, zasięg, cel, czas, typ, opis} = props.Mlist;
         return(
             <div key={id} className="Item">
                 <div className="Item-List-Cont-Top" onClick={e => 
                 setIsActive(!isActive)}>
-                    <h1 className="MagicText">
-                        <img src={img} alt="logo" className="logo"/>
-                    </h1>
                     <h1 className="MagicText"> 
-                        <strong className="Begin">{nazwa}</strong>
+                        <img src={CS} alt="logo" className="logo"/> <strong className="Begin">{nazwa}</strong>
                     </h1>
                     <h1 className="MagicText">
                         <strong className="Begin">PZ:</strong> {pz}

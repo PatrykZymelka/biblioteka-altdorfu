@@ -800,7 +800,7 @@
         "czas": "1 round",
         "opis": "Sprawiasz, że krew celu się gotuje, jeśli nie przejdzie on trudnego (–10) testu wytrzymałości. Cel natychmiast otrzymuje 2 Stany Oślepienia z powodu bólu i na początku swojej rundy otrzymuje 10 + SL Obrażeń (ignorując Pancerz, ale nie TB). Cele zabite tym zaklęciem eksplodują w strumieniu parzącej krwi, zadając magiczny pocisk z obrażeniami +1 wszystkim w promieniu 2 metrów.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m146",
@@ -811,7 +811,7 @@
         "czas": "Natychmiast",
         "opis": "Rzucasz kulę ognia o średnicy około dwóch stóp, w kształcie płonącej głowy. Płonąca głowa leci w linii prostej, śmiejąc się maniakalnie, uderzając wszystkie cele na swojej drodze, aż osiągnie zasięg zaklęcia. Trafienia to magiczne pociski z obrażeniami +4 (obrażenia +0, jeśli cel przejdzie trudny test uniku (+0)). Każdy, kto trafi płonącą głową, otrzymuje 1 Stan Płomienia. Cele, które stracą co najmniej 1 ranę od płonącej głowy, traktują cię jako osobę posiadającą cechę stworzenia Strach (1).",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m147",
@@ -822,7 +822,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Sprawiasz, że płomienie tańczą i hipnotyzują obserwatorów. Celuj w źródło ognia nie większe niż pochodnia. Jedna losowa postać, która patrzy w stronę ognia, musi zdać Wyzwanie (+0) Test Coolu lub otrzymać 3 Stany Ogłuszenia. Zahipnotyzowane postacie są nieświadome wszystkiego innego, dopóki nie usuną wszystkich stanów ogłuszenia uzyskanych dzięki temu zaklęciu. Zaatakowanie ogłuszonego celu natychmiast usuwa wszystkie stany ogłuszenia uzyskane dzięki temu zaklęciu. Mając +2 SL do testu rzucania, możesz zaczarować większy ogień, taki jak piecyk lub ognisko, które wpływa na 2 losowych obserwatorów. Z +4 SL możesz zaczarować ogromny ogień, taki jak stos lub płonący budynek, który wpływa na wszystkich obserwatorów. WIEDZA OGNIA Wiedza O Ogniu i Jasnym Wiatrze Aqshy nie jest wcale subtelna. Jego zaklęcia są wykrzykiwane z zapałem i manifestują się w bombastyczny sposób, z jasnym płomieniem i palącym żarem. Możesz zadać 1 Stan Płomienia każdemu, kto jest celem zaklęć z Wiedzy Ognia, chyba że posiada on również talent Tajemna Magia (Ogień). Każdy Stan Płomienia w obrębie jardów Premii Siły Woli dodaje +10 do prób Aqshy’ego do testów Przewodzenia i Rzucania. Składniki: Piromanci używają szerokiej gamy łatwopalnych materiałów jako składników, które często ulegają spaleniu podczas rzucania zaklęcia, włączając w to węgiel, oleje, tłuszcze i rumiane drewno. Powszechne są również przedmioty odporne na ogień, takie jak żelazne klucze, rzeźbione fragmenty rusztu i małe kamienie do piekarnika.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m148",
@@ -833,7 +833,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Otulasz się ognistym płaszczem Aqshy'ego, kierując płomień w stronę egidy. Jesteś całkowicie odporny na obrażenia od niemagicznego ognia, w tym na ataki oddechowe potworów i ignorujesz wszelkie otrzymane Stany Płomienia. Otrzymujesz Totem (9) Cechę Stworzenia (WFRP, strona 343) chroniącą przed magicznymi atakami ogniowymi, w tym ogniem spaczenia i zaklęciami z Wiedzy Ognia.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m149",
@@ -844,7 +844,7 @@
         "czas": "Liczba minut równa bonusowi z Wytrzymałości",
         "opis": "Twoje ciało jest pokryte płomieniem, a twoja krew staje się piroforyczna. Cele próbujące cię złapać lub chwycić, otrzymują 8 + SL obrażeń i muszą w każdej rundzie przejść trudny (–20) test opanowania lub puścić. W każdej rundzie, w której zmagasz się z przeciwnikiem, otrzymuje on 1 Stan Płomienia i otrzymuje 8 + SL dodatkowych obrażeń. Jeśli zostaniesz ranny w walce wręcz, na twojego atakującego tryska ognista krew, który musi zdać trudny (+0) test uniku lub zostać trafiony magicznym pociskiem z obrażeniami +3 (ignorując pancerz). Twoje ubrania i wyposażenie są odporne na ogień,",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m150",
@@ -855,7 +855,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Twój głos nabiera bogatego rezonansu, odzwierciedlając ognistą pasję Aqshy’ego. Dotknięci sojusznicy tracą wszystkie stany Złamania i Zmęczenia i zyskują talenty Wywiercone, Nieustraszone i Nieustraszone. Jeśli cel posiada już jeden z tych Talentów, bierze go ponownie.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m151",
@@ -866,7 +866,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Przekazujesz smugę Aqshy, tworząc ścianę ognia. Zapora sieciowa ma szerokość 1 metra i głębokość 1 metra. Za każde +2 SL w teście rzucania możesz wydłużyć długość o jardy Premii Siły Woli. Każdy, kto przekroczy zaporę, zyskuje 1 Stan Płomienia i zostaje trafiony magicznym pociskiem z obrażeniami równymi twojej premii do siły woli.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m152",
@@ -877,7 +877,7 @@
         "czas": "Natychmiast",
         "opis": "Przywołujesz słup ognia, który wystrzeliwuje z ziemi. Burza ma 2 metry średnicy i 2 metry wysokości. Za każde +2 SL w teście rzucania możesz zwiększyć średnicę burzy o 1 jard i wysokość o 2 metry. Cele stojące w miejscu pojawienia się płomieni otrzymują trafienia magicznymi pociskami z obrażeniami +8 i otrzymują 3 stany Płomienia. Dodatkowo zostają wyrzuceni poza obszar burzy i otrzymują Stan Padający. Tylko osoby odporne na działanie magicznego ognia mogą wejść na obszar Burzy Ognia. Zaklęcie trwa do momentu rozproszenia lub do następnego wschodu słońca.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m153",
@@ -888,7 +888,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Otaczasz miecz (broń ręczną) magicznymi płomieniami. Broń ma obrażenia SB+6 i jakość uderzenia (WFRP, strona 298). Każdy trafiony ostrzem zyskuje 1 Stan Płomienia. Jeśli posiadacze nie posiadają talentu Magia Tajemna (Ogień), a udaremnią atak za pomocą płonącego miecza, otrzymują 1 stan Podpalenia ",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m154",
@@ -899,7 +899,7 @@
         "czas": "Natychmiast ",
         "opis": "Przekazując Aqshy przez dłonie, kładziesz je na ranach sojusznika. Cel natychmiast leczy 1k10 ran i usuwa wszystkie stany krwawienia. Co więcej, rany nie ulegają zakażeniu. Cele bez talentu Magia Tajemna (Ogień) muszą przejść Trudny (+0) Test Sposobu lub krzyczeć z bólu. Jeśli im się to nie uda o 6 SL lub więcej, cel zyskuje Stan Nieprzytomności i zostaje trwale okaleczony, budząc się 1k10 godzin później.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m155",
@@ -910,7 +910,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli, days or weeks",
         "opis": "Podburzasz cel, by nie lubił innej osoby. Cel staje się przedmiotem uprzedzeń ( WFRP, strona 190) przeciwko wybranej przez ciebie osobie na czas premii do siły woli. Musisz nazwać lub wskazać zamierzony obiekt gniewu celu. Jeśli ta dwójka jest przyjaciółmi, cel może oprzeć się czarowi za pomocą Średniego (+20) testu Cool. 0Jeśli osiągniesz +4 SL w teście rzucania czaru, cel zostanie opanowany przez gniew i poddany Animozji (WFRP, strona 190) przez dni Bonusu Siły Woli. 0Jeśli osiągniesz +8 SL w teście rzucania, cel zostaje pochłonięty przez płonącą zemstę i podlega Nienawiści (WFRP, strona 190) przez tygodnie Premii za Siłę Woli. Dopóki ta klątwa nie wygaśnie lub nie zostanie rozproszona, cel przestrzega normalnych zasad przeciwstawiania się efektom uprzedzeń, wrogości i nienawiści.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m156",
@@ -921,7 +921,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Kierujesz Aqshy w majestatyczną koronę inspirującego ognia wokół swojego czoła. Otrzymujesz cechę Strach (1) (WFRP, strona 190) i Talent Przywódca Wojny (WFRP, strona 147), gdy zaklęcie jest aktywne. Za każde +2 SL w teście rzucania możesz zwiększyć swoją wartość Strachu o 1 lub ponownie zdobyć talent Przywódca Wojny. Co więcej, zyskaj premię +10 do wszystkich testów Przewodzenia i Rzucania zaklęć Aqshy podczas",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m157",
@@ -932,7 +932,7 @@
         "czas": "1 round",
         "opis": "Subtelnie zmieniasz właściwości materiału, czyniąc cele bardziej łatwopalnymi. Wszystko w obszarze działania, co normalnie nie jest łatwopalne, może się zapalić, nawet woda i kamień. Wszystko w obszarze działania, co jest już łatwopalne, otrzymuje +SL dodatkowe obrażenia od ognia i otrzymuje dodatkowy Stan Płomienia, ilekroć jest to wymagane.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m158",
@@ -943,7 +943,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przywołujesz pomniejszego żywiołaka, który broni twojego obozu. Musisz włożyć ręce w ognisko, ponosząc 6 obrażeń minus premia za wytrzymałość, aby wyciągnąć małe humanoidalne stworzenie z ogniem i czarnymi jak węgiel oczami. Żywiołak ma Ruch 3, Umiejętności Broni równe Twojej Sile Woli, atakuje z Obrażeniami +6 i posiada Cechę Stwora Strach (1). Żywiołak nie może oddalić się na odległość większą niż 12 metrów od ognia i musisz mu pokierować słownie. Ilekroć rzucisz kolejne zaklęcie lub porozmawiasz z kimś innym, po prostu stoi w miejscu. Żywiołak może się tylko poruszać i atakować, ale nie zyskuje przewagi. Jeśli żywiołak zadaje obrażenia przeciwnikowi, otrzymuje on również Stan Płomienia. Nie można go skrzywdzić w żaden inny sposób niż oblanie szklanką lub większą ilością wody, co powoduje jego zniszczenie.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m159",
@@ -954,7 +954,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Podpalasz ziemię i przywołujesz niszczycielski wir stopiona skała. Cele w obszarze działania otrzymują 2 Płonące Poddaje się i zostaje trafiony magicznym pociskiem z obrażeniami +12. Zaklęcie to wykorzystuje zasady Losowego Wiru (strona 20). Na każdym okrągły po tym, jak wir przesunął się na odległość 8 jardów lub mniej, wytwarza +1 mniejszy wir za każde +2 SL (maksymalnie 3). Te mniejsze wiry, z których każdy ma obszar obszarowy (w jardach WPB). rozmiar, natychmiast porusza się losowo, zadając +1 Ablaze Stan i trafienie magicznym pociskiem z obrażeniami +4 oraz przeciwko wszystkim celom na swojej drodze. Mniejsze wiry rozpraszają się po jednym przeprowadzce",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m160",
@@ -965,7 +965,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Kładziesz ręce na nierozpalonych węglach kuźni, nasycając je Aqshy i powodując, że płoną z nienaturalną intensywnością. Wszelkie testy Handlu (Kowali) wykonane podczas działania zaklęcia korzystają z premii +1 SL, łącznie z testami używanymi do wytwarzania magicznych przedmiotów (patrz Archives of the Empire, tom II).",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m161",
@@ -976,7 +976,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Rzucasz wybuchowy podmuch Aqshy. Płomienie wybuchają wściekłym płomieniem, paląc się ciepłem kuźni. To magiczny pocisk z obrażeniami +10, który ignoruje AP i zadaje 2 stany Płomienia i stan Padnięcia. Wszyscy w obszarze działania celu otrzymują obrażenia +5, ignorując AP i muszą zdać Trudny (+0) test uniku lub zyskać 1 Stan Płomienia. Zaklęcie przestaje zachowywać się jak magiczny pocisk, gdy ogień nadal płonie w obszarze działania przez pewien czas. Każdy, kto na koniec rundy znajduje się w obszarze działania, otrzymuje 1k10 + 6 obrażeń, ignorując PA i zyskuje 1 Stan Płomienia.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m162",
@@ -987,7 +987,7 @@
         "czas": "Natychmiast",
         "opis": "Sprawiasz, że przedmiot lub osoba zapala się. Cel otrzymuje 2 Stany Płomienia. Jeśli rzucisz Podpalenie na cel, który ma już Stan Płomienia, możesz zamiast tego rozprzestrzenić płomienie na innych. Rozdaj między innymi 3 nowe Stany Płomienia w promieniu 2 metrów od celu.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m163",
@@ -998,7 +998,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli, days, weeks, or months Rzucający make a normal Ognia inextinguishable by any means. The cel can be up to the size of a campfire and remains burning for Liczba godzin równa bonusowi z Siły Woli. The czas is extended to days with +2 SL on your Casting Test, weeks with +4 SL, and months with +6 SL. ",
         "opis": "Ogień nie zużywa paliwa podczas trwania zaklęcia. Pozostają płonące kłody rozdzielone na mniejsze ogniska nieugaszony. Alternatywnie możesz to wrzucić odwrócić, aby ugasić pożar tej samej wielkości. Nikt inny Zaklęcie może ugasić Nieugaszony Płomień, podobnie jak jego efekt zostanie rozwiany.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m164",
@@ -1009,7 +1009,7 @@
         "czas": "Natychmiast",
         "opis": "Podnosisz żywność lub płyn do stanu bardziej termogenicznego. Wybierz jeden z następujących efektów: 0 Garnek z jedzeniem staje się wyjątkowo ostry. Zjedzenie tego wymaga łatwego (+40) testu wytrzymałościowego, aby uniknąć skutków ubocznych ze strony układu trawiennego. 0Kwartowy dzbanek dowolnego płynu zamienia się w mocny alkohol. Nuta smaku oryginalnego płynu zostaje zachowana. 0 Butelka dowolnego płynu zamienia się w wysoce łatwopalny olej, nadający się do latarni.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m165",
@@ -1020,7 +1020,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przeklinasz swoich wrogów wysuszającą gorączką. Wrogie cele w obszarze działania otrzymują stan zmęczenia w każdej rundzie, w której próbują uciekać, szarżować lub uciekać. Zdejmowanie zbroi i odzieży usuwa jeden uzyskany w ten sposób Stan Zmęczenia. Cele dotknięte jakimkolwiek ogniem (nawet świecą) automatycznie otrzymują Stan Płomienia i otrzymują dodatkowe Obrażenia równe +SL w teście Rzucania ze wszystkich źródeł ognia.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m166",
@@ -1031,7 +1031,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Tworzysz potężną wichurę iskier i popiołów. Cele w obszarze działania otrzymują 8 + SL obrażeń w każdej rundzie i muszą zdać trudny (+0) test atletyki lub otrzymać stan leżący. Łatwopalne obiekty i elementy terenu w okolicy mają 25% szans na zapalenie w każdej rundzie. Tylko twarda osłona zapewnia schronienie przed skutkami płonącej zamieci. Zaklęcie to wykorzystuje zasady Losowego Wiru (strona 20). W dowolnej rundzie, gdy wir przesunie się o 8 jardów lub mniej, wytwarza +1 mniejszy wir na każde +2 SL (maksymalnie 3). Te mniejsze wiry, z których każdy ma rozmiar obszarowy (w jardach WPB), natychmiast poruszają się losowo, zadając +1 Stan Płomienia i trafienie magicznym pociskiem z obrażeniami +4 przeciwko wszystkim celom na swojej drodze. Mniejsze wiry rozpraszają się po jednokrotnym ruchu.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m167",
@@ -1042,7 +1042,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Wysyłasz intensywny płomień, aby wypalić zepsucie na danym obszarze. Wszystko, co jest łatwopalne, zostaje podpalone, a wszystkie stworzenia w okolicy otrzymują +SL Warunki Płomienia. Jeśli lokalizacja zawiera Zepsuty Wpływ, taki jak Dhar, Spaczenie lub obiekt skażony Chaosem, tli się i czernieje, zaczynając się palić. Możesz utrzymać to zaklęcie w kolejnych rundach, zaliczając Wymagający (+0) Test Przewodzenia. Dokładny czas potrzebny do wyeliminowania Zepsucia Wpływu jest ustalany przez MG. Ogólnie rzecz biorąc, niewielka ilość (mniejsza niż żołądź) spaczenia lub niewielki obiekt skażony Chaosem może wymagać 10 rund z premią do siły woli (minimum 1 runda). Kawałek Spaczenia wielkości pięści lub potężniejszy obiekt skażony Chaosem może wymagać dwukrotnie większej ilości czasu. Potężny artefakt Chaosu może zająć wiele godzin lub dłużej. Aby uzyskać szczegółowe informacje na temat wpływów korupcyjnych, zobacz WFRP, strona 182.",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m168",
@@ -1053,7 +1053,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Przywołujesz magiczny czerwony miecz, który unosi się przed tobą. Każde dodatkowe +2 SL w teście rzucania pozwala ci przyzwać dodatkowy miecz (maksymalnie 6 mieczy). W każdej kolejnej rundzie możesz wydać swoją akcję, aby skierować miecze przeciwko celom w zasięgu i polu widzenia. Cel może zostać zaatakowany tylko jednym mieczem na raz. Miecze posiadają Cechę Stworzenia Latanie (20) i uderzają z Umiejętnością Broni 60 i zadają 8 obrażeń, po czym szybko wracają do ciebie. Krwawymi Mieczami można się normalnie bronić i nie zapewniają one Przewagi. The",
         "typ": "Ognia",
-        "img": "Images/OgieńSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
     {
         "id": "m121",
@@ -1064,7 +1064,7 @@
         "czas": "Specjalny",
         "opis": "Uwięzisz duszę celu w butelce, fiolce lub torebce. Ciało celu pozostaje w śpiączce przez czas nieokreślony, dopóki naczynie duszy nie zostanie otwarte w jego bezpośrednim sąsiedztwie przez ametystowego czarodzieja lub kapłana Morra. Ciała w stanie śpiączki należy nakarmić i nawodnić, w przeciwnym razie w końcu umrą. Możesz telepatycznie komunikować się z uwięzioną duszą. Po przebudzeniu cel musi wykonać test pod kątem narażenia na umiarkowane źródło zepsucia (WFRP, strona 182). Jeżeli naczynie duszy zostanie otwarte nieprawidłowo lub będzie oddalone od ciała, cel umiera, a jego dusza staje się Duchem (WFRP, strona 331). Słoików Dusz można używać jako składników wzmacniających zaklęcie Telepatii (patrz strona 125) podczas komunikacji z innymi czarodziejami Ametystu, pod warunkiem, że ofiara spotkała się wcześniej z czarodziejem. Związana dusza staje się medium na planie duchowym, umożliwiającym nieskończony zakres komunikacji. Jeśli zaklęcie zostanie błędnie rzucone, naczynie pęknie, a dusza zostanie uwolniona, jak opisano powyżej.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m122",
@@ -1075,7 +1075,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przywołujesz wirującą chmurę duszącego pyłu. Cele w obszarze działania otrzymują 8 obrażeń, ignorując pancerz, i zaczynają się dusić (WFRP, strona 181), dopóki nie opuszczą chmury. Zaklęcie to wykorzystuje zasady Losowego Wiru (strona 20). Jeśli osiągniesz +4 SL, możesz przywołać Purpurowe Słońce Xereusa w środku chmury. Ta kula ciemności o fioletowych krawędziach o średnicy 1 stopy wywołuje Strach (2) i niszczy wszystko, czego dotknie. Cele trafione kulą muszą zdać trudny (+0) test opanowania, w przeciwnym razie natychmiast zginą. Przeszkody takie jak ściany i drzwi spalają się automatycznie. WIEDZA ŚMIERCI Fioletowy Wiatr Shyish niesie ze sobą suche, zakurzone przeciągi i uporczywy szelest piasku przepływającego przez klepsydrę Czasu. Cele dotknięte zaklęciami z Wiedzy Śmierci są pozbawione życia, osłabione i apatyczne. Możesz przypisać 1 Stan Zmęczenia do dowolnego żywego celu dotkniętego zaklęciem z tej Wiedzy. W dowolnym momencie cel może zyskać tylko jeden Stan Zmęczenia w ten sposób. Składniki: Kości czujących stworzeń są silnie obecne w magii Ametystu, podobnie jak pozostałości śmierci, w tym drewno lub gwoździe z trumien, płyny balsamujące, klepsydry, srebrne monety i ziemia grobowa, wszystkie starannie przedstawione lub wygrawerowane. Powszechne są również fioletowe kamienie szlachetne, materiały i kwiaty (zwłaszcza róże).",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m123",
@@ -1086,7 +1086,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Swoimi słowami ośmielasz sojuszników. Przyjazne cele są odporne na Strach przez czas trwania zaklęcia, a Terror traktuje się zamiast tego jako Strach. Dodatkowo, wszystkie efekty psychologiczne spowodowane smutkiem są trwale usuwane. Zaklęcie to można zamiast tego rzucić na pobliskich wrogów, aby nie zważali na niebezpieczeństwo. Cele, które nie przejdą testu Wyzwania (+0) Cool, nie mogą uciekać z walki przez cały czas działania zaklęcia.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m124",
@@ -1097,7 +1097,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Twoja skóra przybiera bladofioletowy odcień, gdy stajesz się bardziej odporny na śmierć i zepsucie. Wyniki rzutów na trafienie krytyczne przeciwko tobie są modyfikowane o –10, a ty zyskujesz talent Odporność (Trucizna, Choroba i Mutacja). Jeśli znasz już te talenty, dodaj +1 poziom za każde +2 SL.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m125",
@@ -1108,7 +1108,7 @@
         "czas": "3 rounds",
         "opis": "Otaczasz ducha Shyishem, aby odłączyć go od świata. Istoty posiadające zarówno cechy Nieumarłego, jak i Eterycznego muszą w każdej rundzie przejść Wyzwanie (+0) Test Spokoju lub otrzymać Stan Ogłuszenia, gdyż są zmuszone stawić czoła własnemu stanowi istnienia. Duchy, które uzyskają 3 Stany Ogłuszenia, zostają uwolnione z królestwa śmiertelników.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m126",
@@ -1119,7 +1119,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Dotykając ciała niedawno zmarłej duszy (tej, która odeszła ostatniego dnia), przywołujesz na chwilę jej duszę z powrotem. Przez czas trwania zaklęcia możesz komunikować się z martwą duszą, jednak nie może ona podejmować żadnych działań poza rozmową. Nie ma obowiązku ci odpowiadać, ale umarli nie kłamią.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m127",
@@ -1130,7 +1130,7 @@
         "czas": "Liczba rund równa bonusowi z Dowodzenia",
         "opis": "Cele wpadają w histeryczny śmiech i mogą nawet udławić się na śmierć. W każdej rundzie muszą wykonać Wyzwanie (+0) Cool Test lub otrzymać Stan Ogłuszenie i otrzymać własną premię do Siły + 6 Obrażeń, ignorując Pancerz. Obrażenie to ma 50% szans na zastosowanie na głowę i 50% szans na zastosowanie na ciało. Konwulsje celów powodują pękanie narządów i pękanie naczyń krwionośnych. Za każde +2 SL możesz otoczyć jeden cel fioletową energią. Jeśli cel nie przejdzie testu Siły Woli Wymagającej (+0), energia Nieśmiałości dostanie się do jego ust. Cel natychmiast otrzymuje obrażenia od uduszenia (WFRP, strona 181) i kontynuuje duszenie do czasu zakończenia zaklęcia.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m128",
@@ -1141,7 +1141,7 @@
         "czas": "Natychmiast ",
         "opis": "Kiedy wyciągasz rękę, wydaje się ona uschnięta, a nawet szkieletowa, odciągając Shyisha od ciała celu. Liczy się to jako magiczny pocisk z obrażeniami +6, który ignoruje premię za wytrzymałość i punkty pancerza. Za każde 2 Rany zadane tym zaklęciem możesz wyleczyć 1 Ranę do maksymalnej liczby Ran.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m129",
@@ -1152,7 +1152,7 @@
         "czas": "Do wschodzu słońca",
         "opis": "Sprawujesz władzę nad stworzeniami posiadającymi zarówno Cechę Nieumarłą, jak i Eteryczną. Wybierz jeden z następujących efektów: 0 Rozkazuj wszystkim celom, które nie przeszły testu przeciwnej siły woli, aby wykonały twoje polecenie. Możesz nakazać duchom ucieczkę lub walkę, ale tylko zaklęcie Uwolnienie Śmierci może je uśpić. 0Przywołaj Duchy (WFRP, strona 331) równe Twojemu SL. Te duchy są przeciągane przez zasłonę śmiertelności i nie podlegają twoim rozkazom, chyba że ponownie rzucisz zaklęcie. Przywoływanie duchów jest zabronione w Amethyst College.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m130",
@@ -1163,7 +1163,7 @@
         "czas": "Natychmiast",
         "opis": "Uwięzisz wrogów w legendarnym kryształowym labiryncie, który istnieje w eterze. Cele znikają i nie można ich skrzywdzić ani na nie w żaden sposób wpłynąć. Każdy uwięziony cel musi",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m131",
@@ -1174,7 +1174,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Przywołujesz magiczną kosę, którą można władać w walce, korzystając z umiejętności Walki wręcz (broń drzewcowa). Działa jak zwykła kosa z obrażeniami równymi premii do siły woli + 3. Wrogowie z cechą Nieumarła istota nie otrzymują przewagi, gdy są z tobą w zwarciu.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m132",
@@ -1185,7 +1185,7 @@
         "czas": "Initiative Bonus minutes",
         "opis": "Stajesz się świadomy wszystkich zgonów, które miały miejsce w obszarze działania zaklęcia w ciągu ostatniego miesiąca. Każdy +1 SL dodaje kolejny miesiąc do tego okresu. Dowiadujesz się o liczbie i gatunkach stworzeń oraz o tym, kiedy umarły, ale nie o ich imionach i sposobach śmierci. Jeśli znasz imię i nazwisko osoby, która zginęła w okolicy, możesz zadać jej jedno pytanie za każde dodatkowe +2 SL. Na pytania należy odpowiadać pukaniem. Na przykład jedno puknięcie, aby odpowiedzieć „tak” i dwa razy, aby odpowiedzieć „nie” lub wielokrotne pukanie, aby odpowiedzieć na pytania numeryczne.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m133",
@@ -1196,7 +1196,7 @@
         "czas": "Natychmiast ",
         "opis": "Rzucasz lśniącą kulę Shyisha, która wybucha fioletowymi płomieniami, wirując upiornymi twarzami i ustami otwartymi w cichym przerażeniu. Cele w obszarze działania otrzymują +1 Stan Złamania. Cele z cechą Nieumarła istota otrzymują trafienie magicznym pociskiem z obrażeniami +10, które ignorują premię za wytrzymałość i punkty pancerza.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m134",
@@ -1207,7 +1207,7 @@
         "czas": "1 round",
         "opis": "Nasycasz siebie lub inny cel nadprzyrodzoną szybkością. W następnej rundzie cel może poruszyć się na odległość 100 jardów i nadal wykonać akcję. Przeszkody i teren utrudniają normalne poruszanie się. Cele, które zostaną zabite pod wpływem tego zaklęcia, mogą uzyskać natychmiastową akcję bonusową zanim zginą",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m135",
@@ -1218,7 +1218,7 @@
         "czas": "1 round",
         "opis": "Twoje ramiona są osłonięte rękawicami Shyisha, dającymi wielką miażdżącą moc. Twoja siła wzrasta o +10 za każde +1 SL. Automatycznie odnosisz sukces w przypadku ataków w chwytaniu (jeśli spudłujesz, licz wynik jako +0 SL), a obrażenia w chwytaniu ignorują Pancerz.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m136",
@@ -1229,7 +1229,7 @@
         "czas": "Liczba minut lub dni, równa bonusowi z Siły Woli ",
         "opis": "Uśmiercasz jedną z kończyn swojego celu. Kończyna staje się całkowicie bezużyteczna przez minuty z Premią Siły Woli i jest traktowana jako amputowana ręka lub noga (WFRP, strona 180). Zamiast tego Limbwither może zostać rzucony jako totem na grobie. Na pierwszą osobę, która w ciągu najbliższego roku splądruje grób, spada „klątwa rabusia grobowców”. Rzuć losową kończyną, aby ją ogłuszyć. Ta klątwa utrzymuje się przez kilka dni z premią do siły woli.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m137",
@@ -1240,7 +1240,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Okrywasz się zasłoną wykonaną z delikatnych pasm Shyish. Otrzymujesz dodatkowe punkty pancerza + siłę woli we wszystkich lokalizacjach oraz cechę stworzenia Strach (1) (WFRP, strona 339). Za każde +2 SL możesz zwiększyć swój współczynnik Strachu o 1.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m138",
@@ -1251,7 +1251,7 @@
         "czas": "Liczba minut równa Sile Woli ",
         "opis": "Zapisując magiczny krąg, chronisz go Shyishem, tworząc nieprzeniknioną barierę dla Nieumarłych. Stworzenia z",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m139",
@@ -1262,7 +1262,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Korzystając z płaszczyzny duchów, wysyłasz wiadomość telepatyczną do innego czarodzieja Ametystu. Zaklęcie Uwięziony Animus usuwa ograniczenia zasięgu. Próby komunikowania się z innymi postaciami są trudne. Postacie, które otrzymają wiadomość telepatyczną, muszą przejść Wymagający (+0) Test Intuicji, aby zrozumieć wiadomość. Alternatywnie, tego zaklęcia można użyć do odczytania powierzchniowych myśli innego Ametystowego Czarodzieja. Cel może wykonać Wymagający (+0) Test Inteligencji, aby zauważyć tę próbę, a jeśli zostanie wykryty, może wykonać Test Przeciwnej Siły Woli, aby zablokować twoje wtargnięcie.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m140",
@@ -1273,7 +1273,7 @@
         "czas": "Natychmiast",
         "opis": "Sprawiasz, że niemagiczny obiekt natychmiast się starzeje i rozpada w pył. Maksymalne Obciążenie dotkniętego obiektu wynosi 2 plus 1 Obciążenie za każde +2 SL w teście rzucania. Przedmioty posiadające Trwałą Jakość nie kruszą się, lecz zamiast tego tracą wszystkie Właściwości. Możesz rzucić Tide of Years na żywą istotę, jeśli uzyskasz 4 lub więcej SL w teście rzucania. Cel musi przejść Średni (+20) Test Cool, inaczej zestarzeje się w ciągu kilku sekund. Trwale zmniejsza Siłę i Wytrzymałość o 1k10 każde. Demony, Nieumarli i stworzenia roślinne są odporne na ten efekt.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m141",
@@ -1284,7 +1284,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przywołujesz dwa psy stróżujące wykonane z fioletowego cienia. Psów nie można obserwować bezpośrednio, ale postać, która pomyślnie przejdzie Twardy (–20) Test Percepcji, może przez chwilę dojrzeć psy jako niewolnicze bestie z ostrymi jak igły kłami. W twojej turze ogary mogą atakować wrogów w promieniu 4 metrów. Każdy ogar ma Umiejętność Broni 50 i Cechę Broń (Ugryzienie) +8. Psy nie mogą być zaatakowane, jednak nie otrzymują też przewagi",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m142",
@@ -1295,7 +1295,7 @@
         "czas": "Natychmiast ",
         "opis": "Cienkie pasma fioletowej mgły na krótko łączą cię z celem, który znika na twoich oczach. Liczy się to jako magiczny pocisk z obrażeniami +6, który ignoruje Punkty Pancerza i zadaje 1 Stan Zmęczenia. Co więcej, usuwasz wszystkie stany zmęczenia, które aktualnie cierpisz i możesz wyleczyć się do połowy ran zadanych przez cel, zaokrąglając w górę.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m143",
@@ -1306,7 +1306,7 @@
         "czas": "Natychmiast ",
         "opis": "Twój dotyk przynosi śmierć pojedynczemu śmiertelnie rannemu celowi. Jeśli pomyślnie dotkniesz celu, któremu pozostało 0 ran i co najmniej 2 rany krytyczne, śmierć szybko nastąpi. Co więcej, celu nie można wskrzesić jako Nieumarłego.",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m144",
@@ -1317,7 +1317,7 @@
         "czas": "Natychmiast",
         "opis": "Sprawiasz, że żywi wrogowie stają się świadomi własnej śmiertelności. Twój główny cel musi wykonać test pod kątem drobnego narażenia na zepsucie (WFRP, strona 182), a następnie przejść trudny (+0) test opanowania lub otrzymać stan nieprzytomności. Wrogowie znajdujący się w odległości twoich jardów premii inicjatywy od głównego celu muszą przejść średni (+20) test opanowania lub otrzymać stan ogłuszenia. Każdy, kto nie zaliczy testu Spokoju, musi także zdać Łatwy (+40) Test Spokoju lub otrzymać Stan Zmęczenia i Psychologię (Rozpacz). Przez następny tydzień ofiary Rozpaczy każdego ranka otrzymują Stan Zmęczenia",
         "typ": "Śmierci",
-        "img": "Images/ŚmierćSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg"
     },
     {
         "id": "m5",
@@ -1328,7 +1328,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Rzucasz magiczną pułapkę, która daje celowi 2 Stany Splątania o sile równej twojej Sile Woli. Werbel podnosi cel na 2 metry nad ziemię. W następnej rundzie cel jest przyciągany do ciebie i pozostaje wiszący około 5 metrów nad twoją głową i 2 metry przed twoją głową, aż do zakończenia działania zaklęcia, poruszając się wraz z tobą. Za każde +1 SL dodaj jeden Stan Uwikłania lub lewituj cel o 2 metry wyżej (maksymalnie 10 jardów). Po uwolnieniu cel otrzymuje obrażenia od upadku (WFRP, strona 166).",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m6",
@@ -1339,7 +1339,7 @@
         "czas": "Natychmiast",
         "opis": "Czerpiesz z ziemskiego Hysha, aby zmienić kształt ziemi. Ubijane skały i gleba tworzą wzgórze o średnicy około 20 metrów i wysokości 5 metrów. Postacie stojące na wzniesieniu muszą wykonać Trudny (+0) Test Uniku lub otrzymać 20 Obrażeń w losowym miejscu ciała. Nawet ci, którym uda się uniknąć, otrzymują 10 obrażeń. Wzgórze pozostaje na stałe.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m1",
@@ -1350,7 +1350,7 @@
         "czas": "Natychmiast ",
         "opis": "Otwierasz dłonie i pojawia się oczyszczająca aureola Hysha, wpływająca na wszystkie stworzenia w obszarze działania, których Wytrzymałość jest niższa niż Twoja Siła Woli. Cele posiadające cechę Nieumarły lub Demoniczne stworzenie zyskują cechę Niestabilne stworzenie (WFRP, strona 343). Jeśli mają już cechę Niestabilny, ich obrażenia zostają zredukowane do 0.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m2",
@@ -1361,7 +1361,7 @@
         "czas": "Natychmiast ",
         "opis": "Emitujesz jasny, oślepiający błysk światła ze swojej dłoni lub laski. Każdy, kto na ciebie spojrzy, chyba że posiada talent Tajemna Magia (Światło), otrzymuje +SL Oślepienie.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m3",
@@ -1372,7 +1372,7 @@
         "czas": "Intelligence minutes ",
         "opis": "Uspokajasz umysł celu, pozwalając mu jasno myśleć. Cel ignoruje wszelkie negatywne modyfikatory swoich procesów mentalnych, takie jak Stany takie jak Ogłuszenie, Mutacje Umysłowe, Psychologia itd., gdy zaklęcie działa.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m4",
@@ -1383,7 +1383,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Otwierasz dudniącą szczelinę w ziemi. Szczelina ma 3 metry szerokości, długości i głębokości. Możesz zwiększyć długość i głębokość o +1 jard na każde +2 SL do maksymalnej głębokości 10 jardów. Cele stojące na szczelinie lub w jej sąsiedztwie muszą przejść Trudny (+0) Test uniku, aby uniknąć wpadnięcia. Marginalne niepowodzenia pozwalają celom chwycić się krawędzi. Konie i pojazdy upadają automatycznie. Dotknięte konstrukcje mogą się częściowo zawalić. Kiedy zaklęcie się kończy, szczelina zamyka się, a ofiary w środku zostają zmiażdżone, zadając 20 obrażeń, grzebiąc je żywcem. Pochowane ofiary podlegają uduszeniu (WFRP, strona 181).",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m9",
@@ -1394,7 +1394,7 @@
         "czas": "Natychmiast ",
         "opis": "Przywołujesz podmuch Hysha, który przechodzi przez granicę pomiędzy Królestwem Chaosu a światem materialnym. Testowi rzucania przeciwstawia się Siła Woli celu. Jeśli wygrasz, unicestwiasz cel za pomocą cechy Demonicznego Stwora oślepiającym białym światłem, wysyłając go z powrotem tam, skąd przyszedł. Jeśli zaklęcie pomyślnie wygna demona, każdy, kto spojrzy na twój cel, chyba że posiada talent Tajemna Magia (Światło), otrzymuje +SL Oślepienie.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m11",
@@ -1405,7 +1405,7 @@
         "czas": "Natychmiast",
         "opis": "Tworzysz wybuch najczystszego światła. Każdy na dotkniętym obszarze otrzymuje 1 stan Oślepienia, chyba że posiada talent Tajemna Magia (Światło). Demony otrzymują 1 stan ogłuszenia.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m12",
@@ -1416,7 +1416,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Obdarzasz cel jasnością i determinacją, zapewniając +2 SL do testów Siły Woli, aby oprzeć się Urokowi, Blatherowi i Zastraszeniu. Kiedy zostanie rzucony na siebie, możesz zamiast tego zdecydować się na otrzymanie premii +2 SL do testów Uroku, pod warunkiem, że mówisz tylko prawdę. Kolegium Światła marszczy brwi",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m7",
@@ -1427,7 +1427,7 @@
         "czas": "Specjalny",
         "opis": "Podnosisz ziemię w prymitywną ścianę ubitej ziemi i kamienia. Dokładny skład materiału zależy od ukształtowania terenu. Ściana ma 5 metrów długości, 1 metr wysokości i 6 cali grubości. Ściana ma twardą okładkę (WFRP, strona 161). Za każde +2 SL możesz spędzić dodatkową rundę, dodając +5 jardów długości lub +1 jard wysokości. Każdy dodatkowy metr wysokości dodaje 6 cali grubości. Jeden otwór (drzwi lub okno) można pozostawić otwarty w każdym dwumetrowym odcinku ściany. Tworzenie zakrętu lub krzywizny w ścianie wymaga +2 SL. Wielokrotne rzucenie tego zaklęcia może stworzyć skorupę budynku. Jednakże budynek zawali się w ciągu dni Premii Wolności + SL, chyba że posiadasz Umiejętności Wiedzy (Inżynieria) lub Handlu (Kamiarz) albo doradcę z jedną z tych Umiejętności, który jest w stanie udzielić Ci rady podczas rzucania zaklęcia. Zaklęcie to nie może kopać piwnic ani tworzyć podłóg i dachów. Aby ukończyć magicznie zbudowany budynek, wymagane są prace stolarskie. Jeśli korzystasz z zasad artylerii i budowli z Up In Arms, ściana liczy się jako część robót ziemnych.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m8",
@@ -1438,7 +1438,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Twoje oczy stają się białe, gdy postrzegasz Wiatry Magii wyraźniej niż rzeczywistość fizyczna. Otrzymujesz –2 SL do testów percepcji opartej na wizji, chyba że używasz talentu Drugiego Wzroku do odczytywania wiatrów – w takim przypadku zyskujesz premię +20. Możesz zobaczyć zepsucie i rozpoznać mutacje u ludzi i innych cywilizowanych gatunków, ale nie u roślin i zwierząt. Mutacja ukryta pod ubraniem może nadal zostać przeoczona. Możesz powiedzieć, ile cel posiada punktów zepsucia",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
 
     {
@@ -1450,7 +1450,7 @@
         "czas": "Natychmiast ",
         "opis": "Twój cel świeci jasnym, oczyszczającym światłem o jasności ogniska. Odzyskują Rany równe twojej premii do inteligencji + premii do siły woli. Jeśli cel przejdzie Bardzo trudny (-30) Test Wytrzymałości, usuwa również 1 punkt Zepsucia zdobyty w ciągu ostatniej godziny.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m13",
@@ -1461,7 +1461,7 @@
         "czas": "Natychmiast",
         "opis": "Lokalizujesz żądany tom lub grimuar, powodując jego świecenie, co zapewnia premię do siły woli + rundy SL. Jeśli nie znasz tytułu książki, możesz zamiast tego określić temat w 10 lub mniejszej liczbie słów. Im bardziej szczegółowy temat, tym bardziej szczegółowy wynik. W dużych bibliotekach niejasny temat może sprawić, że wiele książek zabłyśnie. Na przykład wyszukiwanie „mrocznych rytuałów” w bibliotece czarnoksiężnika rzuci światło na wiele tomów, podczas gdy „rytuały Tzeentcha wymagające ofiar z ludzi w świetle Morrslieba” znacznie zawężą wybór. Użycie tego zaklęcia natychmiast dodaje 1 + SL do docelowego SL w rozszerzonym teście badawczym. Późniejsze badania zwykle wymagają spędzenia czasu na czytaniu. Jeśli jednak badania są złożone, a biblioteka jest wystarczająco dobrze wyposażona, MG może zaliczyć drugie lub trzecie użycie tego zaklęcia do docelowego SL.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m14",
@@ -1472,7 +1472,7 @@
         "czas": "Target’s Intelligence Bonus rounds ",
         "opis": "Zarzucasz delikatną sieć utkaną z pasm Hysha na swoje cele, których umysły są opanowane przez zagadki i zagadki, pozostawiając je sparaliżowane niezdecydowaniem. Cele zyskują +1 Stanu Ogłuszenia, którego nie mogą stracić podczas działania zaklęcia. Podczas odzyskiwania stanu cele testują swoją inteligencję zamiast umiejętności Wytrzymałość. Cele z cechą Bestial Creature są odporne na to zaklęcie.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m15",
@@ -1483,7 +1483,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Kompresujesz światło w materię stałą wokół jednego obiektu dowolnej wielkości, umożliwiając manipulację telekinetyczną. Możesz przesuwać, obracać lub podnosić maksymalny ciężar Premii Siły Woli + Obciążenia SL z prędkością równą Twojej Premii Siły Woli. Złośliwe wpływy są bezpiecznie przechowywane (WFRP, strona 236) w testach kuli i zepsucia wynikających z oddziaływania obieku na ciebie są zmniejszone o jeden poziom.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m16",
@@ -1494,7 +1494,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Blade dłonie wyrywają się z ziemi u stóp celu. Cele w obszarze działania muszą wykonać Trudny (+0) Test Uniku, aby uniknąć rąk. Cele złapane za ręce zostają Chwycone (WFRP, strona 163) z Siłą równą Twojej Sile Woli. Alternatywnie, zamiast zadawać obrażenia w kolejnych rundach, ręce wciągają cele pod ziemię, gdzie zaczynają się dusić (WFRP, strona 181). Aby skorzystać z tej opcji, czarodziej rzucający zaklęcie musi zadeklarować zamiar uduszenia celu podczas rzucania zaklęcia.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m17",
@@ -1505,7 +1505,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Oświetlasz wnętrze domu światłem dziennym. Możesz oświetlić wieżę lub duży dwór za pomocą +2 SL lub zamek za pomocą +4 SL. Każda zamknięta przestrzeń wypełniona jest światłem przedostającym się przez szczeliny. Demony i Nieumarli muszą zdać Wymagający (+0) Test Siły Woli, aby wejść do budynku. Jeśli przejdą test i wejdą do budynku, otrzymają obrażenia, które ignorują ich premię za wytrzymałość i punkty pancerza równe całkowitej wartości SL w teście rzucania.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m18",
@@ -1516,7 +1516,7 @@
         "czas": "Specjalny",
         "opis": "Nasycasz pojedyncze źródło światła magią oczyszczającą. Wszyscy w promieniu światła są odporni na choroby. Co więcej, czarodzieje otrzymują premię za rozproszenie zaklęć Ciemności i Chaosu równą całkowitej wartości SL w teście rzucania. Zasięg i czas trwania zależą od źródła światła",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m19",
@@ -1527,7 +1527,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Siatka Hysh pokrywa twój umysł, pozwalając ci szybko myśleć. Zyskaj +20 do Inteligencji i Inicjatywy.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m20",
@@ -1538,7 +1538,7 @@
         "czas": "Natychmiast",
         "opis": "Zmieniasz bieg czasu poprzez gobelin losu. Wszystkie przyjazne postacie otrzymują dodatkową akcję (ale nie dodatkowy ruch). Akcje bonusowe przeprowadzane są w kolejności inicjatywy, pomijając postacie wroga lub neutralne. Kiedy wszystkie dodatkowe akcje zostaną rozpatrzone, wznów inicjatywę za od postaci która ma kolejkę po twojej w inicjatywie, nie ważne czy jest to wróg czy przyjaciel",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m21",
@@ -1549,7 +1549,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Możesz wyraźnie zrozumieć każdy język, niezależnie od tego, czy jest on mówiony, pisany czy komunikowany w inny sposób. Możesz także zrozumieć zakodowaną lub zniekształconą komunikację. MG może zrobić wyjątek dla starożytnych, mało znanych języków, takich jak języki Slannów lub Przedwiecznych. Ciemnego Języka również nie da się zrozumieć za pomocą zaklęcia. Nie możesz porozumiewać się w nieznanych językach, możesz je tylko zrozumieć.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m22",
@@ -1560,7 +1560,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Przywołujesz ochronną aurę czystego świętego światła. Profane istoty — te z cechą Nieumarły lub Demoniczny stwór, te z mutacjami i te z większym zepsuciem niż wynosi ich łączna premia do siły woli i premia do wytrzymałości — nie mogą wejść do obszaru działania. Każdy, kto znajduje się już w obszarze, zyskuje Stan Złamania, dopóki nie opuści tego obszaru. Istoty znajdujące się na tym obszarze nie mogą zdobywać żadnych punktów zepsucia, gdy zaklęcie jest aktywne.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m23",
@@ -1571,7 +1571,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Zyskujesz zdolność widzenia przez ciemność, mgłę, dym i mgłę, jak w jasnym świetle dziennym. Możesz także przejrzeć magiczną ciemność, niewidzialność i iluzje, przechodząc Test Przeciwstawnej Siły Woli przeciwko rzucającemu zaklęcie.",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m24",
@@ -1582,7 +1582,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Otaczasz się ochronnym magicznym polem. Ataki wręcz i rakietowe skierowane przeciwko tobie tracą swój wskaźnik obrażeń i zadają tylko rany SL. Całkowicie negujesz wszystkie inne rodzaje obrażeń (takie jak te spowodowane ogniem, upadkiem itp.). Shimmering nie ma wpływu na magiczne ataki",
         "typ": "Światła",
-        "img": "Images/ŚwiatłoSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
 
     },
     {
@@ -1594,7 +1594,7 @@
         "czas": "1 round",
         "opis": "Wzbudzasz rozległy las, powodując, że smagające gałęzie i splątane ciernie atakują uwięzionych w środku. Cele w obszarze działania otrzymują na początku rundy trafienie magicznym pociskiem z obrażeniami +4. Cele, które nie przejdą testu średniego (+20) uniku, otrzymują również stan Krwawienie i Stan Uwikłania o sile 30.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m170",
@@ -1605,7 +1605,7 @@
         "czas": "Liczba minut równa Sile Woli ",
         "opis": "Napełniasz swoje kości i ciało Ghurem, wypaczając swoje ciało w ciało stworzenia. Po rzuceniu wybierz nową formę z dowolnej sekcji Bestii Reiklandu w Bestiariuszu (WFRP, strona 314). Otrzymujesz wszystkie standardowe cechy stworzenia z wyjątkiem cechy Bestii. Co więcej, zamień swój Ruch, Siłę, Wytrzymałość, Zwinność i Zręczność na ruch stworzenia. Przelicz swoje Rany. Za każde +2 SL możesz dodać 1 opcjonalną cechę stwora. Będąc w Postaci Bestii, wyglądasz jak normalna wersja stworzenia, o bursztynowo-brązowym zabarwieniu. Nie możesz mówić, rzucać zaklęć ani próbować rozproszyć. Jeśli straciłeś jakiekolwiek Rany po zakończeniu czaru, tracisz tę samą liczbę Ran, kiedy powrócisz do swojej prawdziwej formy. W ten sposób nie możesz zredukować obrażeń poniżej 0.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m171",
@@ -1616,7 +1616,7 @@
         "czas": "liczba dni równa bonusowi z Siły Woli ",
         "opis": "Twój oddech paruje, a oczy nabierają lśniącego bursztynowego połysku, gdy Ghur cię otacza. Twoje spojrzenie i słowa przekonują 1 istotę z cechami Bestia i Rozmiar (Mały, Średni lub Duży), że jesteś panem jej stada. Walczy aż do śmierci, aby cię chronić. Podlegając twojemu panowaniu, bestia podąża za twoimi poleceniami, instynktownie rozumiejąc proste instrukcje. Jeśli zaklęcie się skończy, stworzenie zachowa wystarczająco dużo szacunku i strachu, aby nie atakować cię, chyba że zostanie do tego zmuszone. Twoi sojusznicy mogą nie mieć tyle szczęścia. WIEDZA BESTII Bursztynowy Wiatr, Ghur, niesie ze sobą chłód, pierwotną dzikość, która wytrąca z równowagi zarówno zwierzęta, jak i czujące stworzenia. Za każdym razem, gdy pomyślnie rzucisz zaklęcie z Wiedzy o Bestiach, możesz także zyskać Cechę Stwora Strach (1) (WFRP, strona 190) na następne 1k10 rund. Składniki: Szamani używają zwierzęcych futer, skóry, kości i skór owiniętych ścięgnami i pokrytych krwawymi runami, aby skupić Bursztynowy Wiatr. Bursztynowi Czarodzieje często wycinają pazury, suszą narządy i maczają pióra w rzadkich humorach. Nierzadko można znaleźć odchody, mocz i inne odchody zwierzęce wykorzystywane podczas pracy nad Bursztynowym Wiatrem.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m172",
@@ -1627,7 +1627,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Twoje paznokcie wyrastają w niesamowicie ostre szpony kryształowego bursztynu. Twoje ataki bez broni są magiczne, zadają obrażenia równe twojej premii do siły oraz premii do siły woli i powodują 1 stan krwawienia za każdym razem, gdy powodują utratę ran.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m173",
@@ -1638,7 +1638,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Przemieniasz swój cel w posąg wykonany z przezroczystego bursztynu. Cel może podjąć trudny (–20) test chłodu, aby się oprzeć. Bursztynowego posągu nie można poruszyć ani uszkodzić, nawet przez choroby czy trucizny, ale może leczyć zarówno naturalnie, jak i magicznie. Zaklęcie kończy się, jeśli posąg zostanie zaatakowany, chociaż pierwszy cios nie zadaje obrażeń. Cele nie zachowują żadnych wspomnień z transu. Chętny cel może wejść w przedłużony okres hibernacji, który trwa przez cały sezon 3-miesięczny, aż do równonocy lub przesilenia. Jeśli rzucisz na siebie trans, zaklęcie nie może zakończyć się przedwcześnie, chyba że ktoś je rozproszy lub",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m174",
@@ -1649,7 +1649,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przywołujesz małe duchy z ziemi, aby nękać i odwracać uwagę wrogów. Duchy nie zadają obrażeń, ale wrogie cele w obszarze działania otrzymują -2 do ruchu i -20 do umiejętności broni, umiejętności balistycznych i zwinności. Cele, które opuszczają ten obszar, są śledzone przez nieznośne duchy, ale otrzymują tylko -1/-10 do tych Cech. Wierzchowce muszą przejść Wymagający (+0) Test Chłodności lub uciekać, dopóki nie zostaną uspokojone pomyślnym Wymagającym (+0) Testem Jazdy. Duchy ziemi są niewidzialne dla wszystkich z wyjątkiem celów i nie można ich w żaden sposób skrzywdzić.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m175",
@@ -1660,7 +1660,7 @@
         "czas": "Liczba minut równa Sile Woli",
         "opis": "Pozwalasz celowi widzieć twoimi oczami. Cel może dowolnie przełączać się między swoją a Twoją perspektywą, bez ograniczeń zasięgu. Twoje pole widzenia może pomóc w niektórych zaklęciach, takich jak teleportacja. Cel nie może jednak rzucać zaklęć przez twoje ciało.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m176",
@@ -1671,7 +1671,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Wzywasz morderstwo wron lub podobnych lokalnych ptaków, aby zaatakować swoich wrogów. Stado zaciekle atakuje wszystkich w obszarze działania, którzy nie posiadają talentu Magia tajemna (Bestie), zadając na koniec rundy obrażenia +7. Stado pozostaje w grze przez cały czas trwania zaklęcia. W ramach swojej Akcji możesz wykonać Średni (+20) Test Uroku na Zwierzętach, aby przesunąć stado do innego celu w zasięgu. Wszystkie istoty znajdujące się w obszarze działania cierpią 1 Blinded Condition. ",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m177",
@@ -1682,7 +1682,7 @@
         "czas": "Liczba minut równa Sile Woli ",
         "opis": "Możesz komunikować się ze wszystkimi stworzeniami posiadającymi Cechę Bestii. Ghur zatyka ci gardło, a twój język brzmi jak warczenie, syczenie i ryczenie, jak przystało na zwierzęta, do których mówisz. Chociaż stworzenia nie są zmuszone do odpowiedzi lub zrobienia tego, co mówisz, większość cię wysłuchuje. Otrzymujesz +20 do wszystkich testów Uroku Zwierząt i Tresury Zwierząt. Kiedy to zaklęcie jest aktywne, możesz rozmawiać tylko ze zwierzętami — nie możesz mówić żadnym cywilizowanym językiem i możesz komunikować się ze swoją drużyną jedynie za pomocą gestów lub języka (bitwa). Nie możesz rzucać zaklęć ani rozpraszać, gdy aktywny jest Język Bestii.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m178",
@@ -1693,7 +1693,7 @@
         "czas": "Natychmiast",
         "opis": "Sprawiasz, że zwierzę domowe staje się dzikie i wściekłe. MG decyduje, czy zwierzę ucieknie do dziczy, czy zwróci się przeciwko swojemu byłemu właścicielowi. Umiejętność Uroku Zwierząt nie może okiełznać celu, a jedynie odwieść go od ataku. Jeźdźcy muszą zdać trudny (–20) test jazdy, aby uniknąć wyrzucenia z wierzchowca. Jeśli w teście rzucania rzucania wyrzucisz +4 lub więcej SL, możesz zamiast tego spowodować, że Człowiek przejdzie odrażającą transformację. Cel może się oprzeć Trudnemu (–10) Testowi Siły Woli. Jeśli celowi się to nie uda, wypuszczają gęste owłosienie na ciele i tracą zdolność mówienia. Działania celu są określane poprzez rzucenie 1k10 w każdej rundzie: Rzut 1–3 Roztargniony: cel drapie się w futro, wypróżnia się lub dłubie w nosie 4–6 Panika: Cel porusza się w losowym kierunku, wpadając na przeszkody lub atakując stworzenia znajdujące się w jego zasięgu ścieżka 7–9 Przyjazny: Cel śmieje się maniakalnie i czołga się lub tańczy w stronę najbliższej postaci. 10 Rozwścieczony: Cel wydaje pierwotny krzyk, powodując Strach (1) u każdego, kto nie ma talentu Tajemna Wiedza (Bestie), kto go słyszy. Dla obu zastosowań Niezłomnej Bestii, cel",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m179",
@@ -1704,7 +1704,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Z łatwością poruszasz się po dzikim terenie. Otrzymujesz +1 do ruchu oraz talenty Scale Sheer Surface i Strider (dowolny 1) (WFRP, strony 144–145). Jeśli posiadasz już te talenty, dodaj tymczasowy poziom +1 oraz kolejny poziom tymczasowy za każde +2 SL w teście rzucania. Otrzymujesz także +10 do testów unikania Splątania.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m180",
@@ -1715,7 +1715,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Przywołujesz dzikie zwierzę, aby służyło ci za wierzchowca. MG wybiera zwykłe, nie-potworne zwierzę występujące na danym terenie. Typowymi przykładami są jelenie, dziki i niedźwiedzie. Tymczasowo zyskujesz odpowiednią umiejętność jazdy równą umiejętnościom językowym (magii). Wierzchowiec będzie walczył w twoim imieniu, ale zachowa swój instynkt samozachowawczy.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m181",
@@ -1726,7 +1726,7 @@
         "czas": "Natychmiast ",
         "opis": "Rzucasz wielką włócznią czystego Ghur w linii prostej. To magiczny pocisk z obrażeniami +12. Uderza pierwszą istotę na swojej drodze, ignorując Punkty Pancerza ze skóry i futer. Jeśli cel otrzyma jakiekolwiek Rany, otrzymuje 1 Stan Krwawienia, po czym włócznia kontynuuje swoją podróż, uderzając każdy cel w ten sam sposób. Włócznia zadaje -1 obrażenia za każdy cel, przez który przechodzi. Jeśli włócznia nie zada żadnych ran, jej postęp zostanie zatrzymany, a zaklęcie dobiegnie końca. Bursztynowa Włócznia zadaje tylko minimalną 1 Ranę (WFRP, strona 159) on the first cel it strikes. ",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m182",
@@ -1737,7 +1737,7 @@
         "czas": "Liczba minut równa Incijatywie",
         "opis": "Twój zmysł węchu staje się wyostrzony i dostrojony do środowiska naturalnego. Zyskaj +20 do testów Tropienia i Percepcji, które opierają się na węchu, w tym testów Drugiego Wzroku na magię węchu. Możesz wyczuć zepsucie i mutację w roślinach, zwierzętach i zwierzęcym łajnie.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m183",
@@ -1748,7 +1748,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Okrywasz się lśniącym płaszczem Ghur. Otrzymujesz +20 do Wytrzymałości oraz Mroczne Widzenie i Strach (1) Cechy stworzeń (WFRP, strona 339), a także talent Wyostrzony zmysł (węch) (WFRP, strona 132).",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m184",
@@ -1759,7 +1759,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Wyjesz do krwistoczerwonych księżyców, aby ożywić siebie i sojuszników. Wszystkie przyjazne cele w obszarze działania zyskują +1 do ruchu oraz +10 do siły i wytrzymałości.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m185",
@@ -1770,7 +1770,7 @@
         "czas": "Strength Bonus rounds",
         "opis": "Obdarzasz siłą dziczy swoich sojuszników. Przyjazne cele w obszarze działania otrzymują premię +30 do siły i wytrzymałości, maksymalnie do 100. To zaklęcie nie działa na ciebie.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m186",
@@ -1781,7 +1781,7 @@
         "czas": "Natychmiast",
         "opis": "Spryskujesz dłonie śmierdzącym piżmem. Wybierać jeden z następujących efektów: Wytryskaj na postać lub obiekt za pomocą łatwego do zidentyfikowania zapach. Testuje lokalizację docelowego wzmocnienia +2 SL. Oznacz obszar do jardów Premii Siły Woli jako swój terytorium. Dzikie zwierzęta wchodzą na oznaczony obszar tylko wtedy, gdy głodują lub są zagrożeni i przekraczają średnią (+20) Fajny test. Potwory nie są odstraszane. Piżmo utrzymuje się przez 1 dzień plus dodatkowy dzień na +2 SL. To nie można go zmyć.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m187",
@@ -1792,7 +1792,7 @@
         "czas": "2 × Liczba rund równa bonusowi z Siły Woli",
         "opis": "Jesteś otoczony ochronną osłoną z bursztynowego światła, która odbija ataki niemagiczne. Aby odeprzeć atak, musisz wykonać Wyzwanie (+0) Test Cool. Jeśli się powiedzie, atak nie uwzględnia już SB w kalkulacji obrażeń. Odbite ataki wręcz są odwracane przeciwko przeciwnikowi, zamiast tego trafiając go, po tym jak osłona usunie SB z kalkulacji obrażeń. Nie ma to wpływu na kusze i broń czarnoprochową.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m188",
@@ -1803,7 +1803,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Wyhodujesz grubą warstwę futra, która chroni cię zarówno przed żywiołami, jak i ostrzami. Stajesz się odporny na ekspozycję na zimno i modyfikujesz wszystkie rzuty na trafienie krytyczne przeciwko tobie o –10. Jednakże zmniejszasz swoją Zwinność i Drużynę o –10.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m189",
@@ -1814,7 +1814,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przywołujesz ogromnego brązowego robaka, który szybko wije się do celu. Cel zostaje automatycznie Chwycony i otrzymuje Stan Uwikłania (WFRP, strona 163). Robak ma siłę 50 do chwytania. Jeśli robak wygra Test Przeciwstawnej Siły, może wykonać jedną z dwóch następujących akcji: 0Dodaj kolejny Stan Uwikłania. 0Wydzielają lepkie enzymy, które rozpuszczają 1 punkt skórzanej lub podobnej zbroi we wszystkich trafionych miejscach. Rozpuszczane są również przedmioty skórzane, takie jak torby i plecaki. Robak nie może zadawać obrażeń podczas chwytania ani nie może zostać w żaden sposób skrzywdzony. Zaklęcie kończy się, jeśli cel breaks free.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m190",
@@ -1825,7 +1825,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Krzyczysz zachęcająco do swoich sojuszników. Natychmiast usuń Złamane Warunki SL+1 od sojuszników w obszarze działania. Sojusznicy na obszarze nie muszą wykonywać dalszych testów Strachu ani Terroru w czasie trwania tego zaklęcia.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m191",
@@ -1836,7 +1836,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Wzywasz dziką moc Ghur, aby cię napełniła, poddając się jej dzikim rozkoszom. Otrzymujesz następujące cechy stworzeń (WFRP strona 338): Nadrzewny, Zbroja (2), Wojowniczy, Duży, Ugryzienie (Premia do Siły +1), Strach (1), Furia, Magia, Broń (Premia do Siły +2). Kiedy zaklęcie działa, nie możesz używać żadnych Umiejętności Językowych ani Wiedzy.",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m192",
@@ -1847,7 +1847,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Przemieniasz się w potworną bestię. Stworzenie nie może mieć więcej niż 20 Inteligencji i musi być Rozmiaru Dużego lub Ogromnego. Dokładny typ potwora jest ustalany przez MG. Przykłady obejmują: 0 Bursztynowy lub Elficki Czarodziej: Półgryf, Hipogryf, Wielki Orzeł, Gryf 0 Zwierzoczłek Szaman, Czarownica, Chaos Sorcerer: Manticore, Hydra, Jabberslythe, Wyvern Twoje ubranie zostaje rozdarte na strzępy w wyniku transformacji i upuszczasz cały trzymany sprzęt. Zachowujesz swoje oryginalne wyniki Inteligencji i Siły Woli; wszystkie inne Charakterystyki zostają zastąpione cechami potwora. W tej formie nie można rzucać zaklęć. Wszystkie Twoje Umiejętności i Talenty zostają zastąpione Umiejętnościami i Cechami Potwora. Jeśli osiągniesz +4 lub więcej SL w swoim teście rzucania, możesz albo: 0Wybrać 1 opcjonalną cechę stworzenia, albo: 0Zamiast tego rzucić transformację na kogoś innego, jako zaklęcie na dotyk. Niechętne cele mogą stawiać opór za pomocą",
         "typ": "Zwierząt",
-        "img": "Images/ZwierzętaSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
     {
         "id": "m49",
@@ -1858,7 +1858,7 @@
         "czas": "Natychmiast",
         "opis": "Przywołujesz setki maleńkich, pomarszczonych duchów ziemi, aby porwać twoich wrogów. Małe kępy wznoszą się z ziemi w obszarze obszarowym, a w każdym kopcu otwierają się drzwi. Hordy duchów wylewają się i chwytają nogi swoich celów. Każdy cel musi przejść Test Siły lub zostać wciągnięty pod ziemię. Cele na koniach mogą wykorzystać Siłę swojego wierzchowca na potrzeby tego testu, jeśli tak wolą. Duchy nie zadają obrażeń i nie można ich skrzywdzić. Cele wciągnięte pod ziemię są dręczone w „przestrzeni pomiędzy światami” przez 1k10 godzin. Kiedy cele w końcu wypełzają z kopca, są pokryte ziemią i robakami i muszą przejść Test na umiarkowane narażenie na zepsucie (WFRP, strona 182). Po zakończeniu zaklęcia duchy uciekają z powrotem pod kopce i do ziemi.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m50",
@@ -1869,7 +1869,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Aby rzucić to zaklęcie, musisz mieć bezpośredni kontakt z ziemią — dotykając jej lub stojąc boso. Na czas trwania zaklęcia każda żywa istota będąca w bezpośrednim kontakcie z ziemią w obszarze obszarowym leczy rany równe twojej premii do siły woli na początku każdej rundy.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m51",
@@ -1880,7 +1880,7 @@
         "czas": "Natychmiast ",
         "opis": "Po pomyślnym rzuceniu zaklęcia natychmiast znikasz w ziemi w dzikim potoku Ghyran. Pojawiasz się na początku następnej rundy w dowolnym miejscu w obrębie jardów Siły Woli, gwałtownie wytryskując z ziemi. Za każde +2 SL w teście rzucania możesz zwiększyć dystans przemierzany przez Twoją Siłę Woli w jardach. Wszyscy wrogowie, z którymi zaatakujesz po wybuchu, zyskują Stan Zaskoczenia. Zaklęcie to nie pozwoli ci poruszać się po litej skale, ale pozwoli ci poruszać się po wodzie. WIEDZA ŻYCIA Zaklęcia rzucane za pomocą Ghyrana, Nefrytowego Wiatru, są przepełnione życiem i zwykle manifestują się żywym, zielonym światłem. Często towarzyszą im zjawiska naturalne, którym nadano nadprzyrodzone właściwości. Pnącza, zarośla, drzewa i rzeki – wszystko to podlega woli druida. Z żywych stworzeń — tych pozbawionych cech Konstrukt, Demoniczny lub Nieumarły stwór — będących celem zaklęć z Wiedzy Życia, usuwane są wszystkie stany Zmęczenia i Krwawienia po zastosowaniu jakichkolwiek innych efektów, gdy zalewa je magia życia. Istoty z cechą Nieumarła istota otrzymują dodatkowe obrażenia od każdego zaklęcia zadającego obrażenia równe twojej premii do siły woli, ignorując premię do wytrzymałości i punkty pancerza. Składniki: Druidzi używają szerokiej gamy naturalnie występujących składników, począwszy od rzadkich nasion i orzechów, humorów zebranych od czujących stworzeń w rytmie życia, niezwykłych soków drzewnych, żyznej gliny, wód źródlanych i różnorodnych żywych składników, w tym roślin i mniejsze zwierzęta.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m52",
@@ -1891,7 +1891,7 @@
         "czas": "1 dzień",
         "opis": "Spędzasz dzień dostrajając się do naturalnego przepływu magii danego obszaru. Na koniec dnia można prognozować najważniejsze wydarzenia sezonowe i pogodowe na nadchodzący rok (takie jak ostatni przymrozek, dobre lub słabe zbiory, suche lato, poważna burza itd.). Nie znasz konkretnych dat, ale jeśli zdobędziesz co najmniej +2 SL, możesz zawęzić swoje przewidywania do okresu 1 tygodnia i dokładnego dnia z +4 SL. Podczas badania okolicy możesz rzucać inne zaklęcia i normalnie się poruszać.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m53",
@@ -1902,7 +1902,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Sprawiasz, że skóra celu staje się twarda i szorstka jak kora drzewa. Pod wpływem zaklęcia dodaj +2 do premii za wytrzymałość celu, ale otrzymaj -10 do Zręczności i Zręczności.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m54",
@@ -1913,7 +1913,7 @@
         "czas": "Natychmiast",
         "opis": "Przywołujesz z ziemi potężny gejzer. Cele w obszarze działania zostają trafione magicznym pociskiem z obrażeniami +4, zostają odrzucone o jardy premii do siły woli w wybranym przez ciebie kierunku i otrzymują stan Leżenie. Możesz nadać dowolnemu celowi stan ogłuszenia za każde dodatkowe +2 SL. Po erupcji gejzeru na swoim miejscu pozostaje zbiornik świeżej wody źródlanej.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m55",
@@ -1924,7 +1924,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli",
         "opis": "Budzisz lub ożywiasz stworzenia roślinne, takie jak Driady, Krewni Drzewa, Bestie Fen i rośliny mięsożerne (zakładając, że uśpione organizmy tego typu znajdują się w Obszarze Efektu). Istoty, które spały lub były uśpione, muszą spędzić 1 rundę na mieszaniu, zanim będą mogły podjąć działanie. Cele natychmiast leczą +SL Rany i na czas trwania czaru otrzymują +SL do wszystkich testów. Za pomocą tego zaklęcia nie możesz kontrolować stworzeń. Stworzenia mogą być zirytowane, jeśli zostaną obudzone poza sezonem, ale jest mało prawdopodobne, że zaatakują cię przez cały czas działania zaklęcia. Duchy natury tego typu przybierają różnorodne formy i zdolności, choć decyzja o ich dokładnych właściwościach należy do MG, zasady Konstruktów (patrz strona 30) mogą zostać wykorzystane do przedstawienia ogólnego pojęcia zdolności i ograniczenia takich stworzeń.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m56",
@@ -1935,7 +1935,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Otaczasz zwłoki świecącą, zieloną magią, aby ożywić je jako swojego sługę. Cel musiał umrzeć w ciągu ostatniej godziny. Stworzenie ożywia się ze swoimi maksymalnymi Ranami. Możesz wydawać proste polecenia celowi, który w przeciwnym razie instynktownie chroni cię przed krzywdą. Cel zachowuje wszystkie swoje niemagiczne Umiejętności, Cechy i Talenty, ale nie może mówić. Chociaż cel nie jest naprawdę żywy i nie pamięta swojego poprzedniego życia, nie klasyfikuje się jako nieumarłym.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m57",
@@ -1946,7 +1946,7 @@
         "czas": "liczba dni równa bonusowi z Siły Woli ",
         "opis": "Zalewasz ciało celu odżywczym Ghyranem. Ofiara nie musi jeść ani pić, ale nadal wydala normalnie, chociaż wszelkie pozostałości są zielonozielone.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m58",
@@ -1957,7 +1957,7 @@
         "czas": "Liczba minut równa Sile Woli",
         "opis": "Zamieniasz cel w żywy kamień. Niechętne cele mogą oprzeć się czarowi za pomocą Testu Przeciwnej Siły Woli. Dotknięte cele mogą się poruszać i walczyć, ale nie mogą mówić, a ich ruch jest zmniejszony o połowę. Siła i Wytrzymałość celu zostają zwiększone o 30, a cel zyskuje 4 dodatkowe Punkty Pancerza w każdej lokalizacji. Cel nie musi oddychać, gdy jest pod wpływem zaklęcia.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m59",
@@ -1968,7 +1968,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Zaklęcie to może być skierowane wyłącznie na skrawek ziemi. Sprawiasz, że gęsty węzeł groźnie kolczastych jeżyn i splątanych pnączy wystrzeliwuje w górę, zakrywając obszar działania. Kiedy zaklęcie jest aktywne, każdy, kto nie posiada talentu Magia Tajemna (Życie), próbując przejść ten obszar pieszo, musi wykonać Trudny (-20) Test Zręczności. Jeśli celowi się nie powiedzie, zyskuje 1 stan Krwawienia i 1 Stan Uwikłania o sile równej twojej Sile Woli. Po zakończeniu zaklęcia narośl pozostaje, ale traci swoje magiczne właściwości.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m60",
@@ -1979,7 +1979,7 @@
         "czas": "Natychmiast",
         "opis": "Zaklęcie to może być skierowane wyłącznie na skrawek ziemi. Przywołujesz mały Krwawy Las, pokrywający obszar działania. Każdy, kto stanie na tym obszarze, natychmiast otrzymuje 10 Obrażeń (modyfikowanych przez TB i Pancerz) i otrzymuje stan Krwawienia z powodu smagania gałęzi i cierni. Krwawy Las pozostaje dopóki nie zostanie wycięty lub spalony. Każdy, kto przejdzie przez Krwawy Las w więcej niż połowie swojego Ruchu, musi wykonać Wymagający (+0) Test Zręczności",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m61",
@@ -1990,7 +1990,7 @@
         "czas": "Liczba minut równa bonusowi z Dowodzenia",
         "opis": "Komunikujesz się telepatycznie z pomniejszymi duchami rzek lub drzew. Aby rzucić to zaklęcie, musisz mieć kontakt z kwestionowaną rzeką lub drzewem. Odpowiedzi Spirits mogą być niejasne, jeśli pytania są zbyt złożone. Duchy rzeczne zazwyczaj odpowiadają na pytania dotyczące wydarzeń w promieniu 1 mili w górę lub w dół rzeki. Drzewa mają podobny zakres świadomości w lesie. Duchy rzek pamiętają ostatnie 24 godziny, podczas gdy duchy drzew mają pamięć obejmującą lata. Jednakże duchy drzew są powolne i ociężałe, wymagają 5 minut lub dłużej, aby odpowiedzieć na tylko jedno pytanie. Duchy mogą poprosić o pomoc w zamian za informacje. Zaklęcie to nie czyni ich skłonnymi do lubienia ciebie i nie zapewnia żadnych korzyści w komunikacji z ożywionymi duchami natury, takimi jak najady i driady.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m62",
@@ -2001,7 +2001,7 @@
         "czas": "Liczba minut równa Sile Woli",
         "opis": "Twoja drużyna porusza się bez wysiłku po lasach. Wszyscy w obszarze działania zyskują talent Stridera (Woodlands) (WFRP, strona 145). Jeśli znają już ten talent, dodaj tymczasowy poziom +1 i kolejny tymczasowy poziom za każde +2 SL. Dodatkowo, jeśli osiągniesz +4 SL, Twoja drużyna może przejść bez śladu, uniemożliwiając śledzenie Twoich ruchów. Zaklęcie kończy się, jeśli twoja drużyna przekroczy inną ścieżkę lub skrzywdzi żywe drzewo.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m63",
@@ -2012,7 +2012,7 @@
         "czas": "Liczba rund równa bonusowi z Siły Woli ",
         "opis": "Twój cel zyskuje cechę Regeneruj stworzenie (WFRP,page 341).",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m64",
@@ -2023,7 +2023,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Otaczasz się wirującymi liśćmi, a Twoje ciało staje się zwinne i giętkie jak gałąź wierzby. Ataki rakietowe skierowane przeciwko tobie otrzymują –2 SL i zyskujesz talent Contortionist (WFRP, strona 135). Zmniejszasz obrażenia od spadającej, miażdżącej lub obuchowej broni (takiej jak maczugi i młoty) o 3.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m65",
@@ -2034,7 +2034,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Korzystając ze strumieni ziemskiej magii, otrzymujesz szczegółową mentalną mapę wszystkich linii mocy i kamiennych kręgów w zasięgu. Ta wiedza zapewnia +2 SL do testów nawigacyjnych wykonywanych w celu zlokalizowania planowanych lub naturalnych linii geomantycznych. Z daleka nie możesz rozpoznać konkretnych kolorów magii, ale możesz wyczuć ogólną siłę każdej linii mocy (mniejszą lub większą) wraz z liczbą kamieni nawigacyjnych w każdym kamiennym kręgu. Więcej informacji o liniach mocy i kamieniach orientacyjnych można znaleźć w rozdziale 14.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m66",
@@ -2045,7 +2045,7 @@
         "czas": "Specjalny ",
         "opis": "Dotykając ziemi, twoje zmysły przepływają przez Ghyran, śledząc pobliski obszar. Po 1 minucie rozmowy otrzymasz mentalną mapę obiektów naturalnych — lądów, lasów, rzek — w zasięgu. O osadach można mówić jako o obszarach czystego terenu lub okopach. Jeśli zwiększysz zasięg za pomocą Overcasting, czas potrzebny na komunikację z lądem wzrasta o 1 minutę na każdy SL.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m67",
@@ -2056,7 +2056,7 @@
         "czas": "Specjalny ",
         "opis": "Sprawiasz, że Ghyran zalewa obszar, który jest zniszczony lub opuszczony. Jako przykłady mocy zaklęcia, którą możesz obrać za cel albo wyschnięte koryto rzeki, studnia, pole, albo zwierzę domowe. Jeśli pomyślnie rzuciłeś zaklęcie, cel ożywa: - Wyschnięta rzeka znów zaczyna płynąć. - Wyschnięta lub zanieczyszczona studnia staje się czysta i świeża. Zasiane pole, winnica lub sad budzi się do życia, a wszystkie jego uprawy natychmiast osiągają pełną dojrzałość. - Chore lub nieproduktywne zwierzę zostaje wyleczone ze wszystkich chorób i znów staje się energiczny i chętny.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m68",
@@ -2067,7 +2067,7 @@
         "czas": "Natychmiast",
         "opis": "Nasycasz pojedynczą roślinę lub drzewo Ghyranem, powodując nagły wzrost. Cel osiąga maksymalną naturalną wysokość. Możesz podwoić maksymalny wzrost za +2 SL i dodatkową rundę spędzoną w koncentracji na rzuceniu zaklęcia, potroić go za +4 SL i dwie dodatkowe rundy koncentracji lub czterokrotnie zwiększyć za +6 SL i trzy dodatkowe rundy koncentracji.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m69",
@@ -2078,7 +2078,7 @@
         "czas": "Liczba godzin równa bonusowi z Siły Woli",
         "opis": "Przemieniasz siebie lub chętny cel w drzewo. Cel widzi i słyszy normalnie i może zostać uszkodzony przez topory, ogień i inne ataki, które mogłyby zaszkodzić drzewu. Niechętne cele mogą spróbować średniej (+20) test Siły Woli by oprzeć się zaklęciu.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m70",
@@ -2089,7 +2089,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Mglistymi spiralnymi schodami wznoszą się bezpośrednio w górę, na wysokość jardów Siły Woli. Wysokość schodów można zwiększyć o dodatkowe metry Siły Woli za każde +2 SL do maksymalnej wysokości 200 jardów. Stojąc na schodach, otrzymujesz 3 punkty pancerza do wszystkich lokalizacji, a wysokość schodów jest dodawana do odległości, jaką muszą pokonać ataki rakietowe przeciwko tobie. Inni Nefrytowi Czarodzieje, którzy znają to zaklęcie, mogą wspiąć się po schodach, wykonując Trudny (+0) Test Wiedzy (Magia), ale dla wszystkich innych schody są nieistotne.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m71",
@@ -2100,7 +2100,7 @@
         "czas": "Liczba minut równa bonusowi z Siły Woli",
         "opis": "Subtelnie zmieniasz właściwości materiału na danym obszarze, czyniąc wszystkie postacie i powierzchnie niepalnymi. Pożary na danym obszarze natychmiast gasną, a stany płomieni są usuwane. Przenośne źródła ognia, takie jak pochodnie, można wnosić na dany obszar, jednakże nic, na co pierwotnie wpływało zaklęcie, nie otrzymuje obrażeń od ognia. Postacie tracą tę odporność na ogień, jeśli opuszczą obszar obszarowy.",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     },
     {
         "id": "m72",
@@ -2111,7 +2111,7 @@
         "czas": "Natychmiast",
         "opis": "Przywołujesz ogromne rezerwy Ghyranu, aby leczyć śmiertelnie rannych, a nawet przywracać życie niedawno zabitym postaciom, wyciągając ich dusze z powrotem przez zasłonę śmiertelników. Cele, które zostały zabite w ostatniej minucie, budzą się z głębokiego snu i muszą przejść test na ekspozycję na umiarkowane narażenie na zepsucie (WFRP, strona 182) po zobaczeniu królestwa śmierci. Zaklęcie nie może przywrócić utraconych kończyn, a zwłoki pozbawione głowy są poza zasięgiem",
         "typ": "Życia",
-        "img": "Images/ŻycieSymbol.png"
+        "img": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg"
     }
     
 ]
