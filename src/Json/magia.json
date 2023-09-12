@@ -995,8 +995,8 @@
         "pz": "3 ",
         "zasięg": "Liczba metrów równa połowie Inicjatywy",
         "cel": "1 Ognia",
-        "czas": "Liczba godzin równa bonusowi z Siły Woli, days, weeks, or months Rzucający make a normal Ognia inextinguishable by any means. The cel can be up to the size of a campfire and remains burning for Liczba godzin równa bonusowi z Siły Woli. The czas is extended to days with +2 SL on your Casting Test, weeks with +4 SL, and months with +6 SL. ",
-        "opis": "Ogień nie zużywa paliwa podczas trwania zaklęcia. Pozostają płonące kłody rozdzielone na mniejsze ogniska nieugaszony. Alternatywnie możesz to wrzucić odwrócić, aby ugasić pożar tej samej wielkości. Nikt inny Zaklęcie może ugasić Nieugaszony Płomień, podobnie jak jego efekt zostanie rozwiany.",
+        "czas": "Liczba godzin równa bonusowi z Siły Woli, days, weeks, or months ",
+        "opis": "Rzucający make a normal Ognia inextinguishable by any means. The cel can be up to the size of a campfire and remains burning for Liczba godzin równa bonusowi z Siły Woli. The czas is extended to days with +2 SL on your Casting Test, weeks with +4 SL, and months with +6 SL.  Ogień nie zużywa paliwa podczas trwania zaklęcia. Pozostają płonące kłody rozdzielone na mniejsze ogniska nieugaszony. Alternatywnie możesz to wrzucić odwrócić, aby ugasić pożar tej samej wielkości. Nikt inny Zaklęcie może ugasić Nieugaszony Płomień, podobnie jak jego efekt zostanie rozwiany.",
         "typ": "Ognia",
         "img": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg"
     },
@@ -1452,17 +1452,7 @@
         "typ": "Światła",
         "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
     },
-    {
-        "id": "m13",
-        "nazwa": "Meissner’s Instantaneous Librarian",
-        "pz": "2 ",
-        "zasięg": "AoE (Intelligence Bonus yards)",
-        "cel": "Rzucający",
-        "czas": "Natychmiast",
-        "opis": "Lokalizujesz żądany tom lub grimuar, powodując jego świecenie, co zapewnia premię do siły woli + rundy SL. Jeśli nie znasz tytułu książki, możesz zamiast tego określić temat w 10 lub mniejszej liczbie słów. Im bardziej szczegółowy temat, tym bardziej szczegółowy wynik. W dużych bibliotekach niejasny temat może sprawić, że wiele książek zabłyśnie. Na przykład wyszukiwanie „mrocznych rytuałów” w bibliotece czarnoksiężnika rzuci światło na wiele tomów, podczas gdy „rytuały Tzeentcha wymagające ofiar z ludzi w świetle Morrslieba” znacznie zawężą wybór. Użycie tego zaklęcia natychmiast dodaje 1 + SL do docelowego SL w rozszerzonym teście badawczym. Późniejsze badania zwykle wymagają spędzenia czasu na czytaniu. Jeśli jednak badania są złożone, a biblioteka jest wystarczająco dobrze wyposażona, MG może zaliczyć drugie lub trzecie użycie tego zaklęcia do docelowego SL.",
-        "typ": "Światła",
-        "img": "/biblioteka-altdorfu/static/media/ŚwiatłoSymbol.5912eb515e5149b215059c3d4b012aa1.svg"
-    },
+
     {
         "id": "m14",
         "nazwa": "Net of Amyntok ",

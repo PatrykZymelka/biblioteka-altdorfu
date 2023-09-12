@@ -1,31 +1,28 @@
+.menu{
+    background-color: #12100c;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-content: space-evenly;
+    width:100vw;
+}
+
 @media only screen and (min-width: 1300px) {
     .menu{
-        background-color: #12100c;
-        background-color: #12100c;
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-        justify-content: space-evenly;
+        
 
     }
 }
 @media only screen and (600px <= width <= 1300px) {
     .menu{
         
-            background-color: #12100c;
-            max-height:50px;
-            display: grid;
-            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-            justify-content: space-evenly;
+            
         
 
     }
 }
 @media only screen and (max-width: 600px) {
     .menu{
-        background-color: #12100c;
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-        justify-content: space-evenly;
+        
     }
     
 }

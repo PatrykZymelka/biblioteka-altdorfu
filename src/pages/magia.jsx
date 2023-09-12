@@ -55,8 +55,8 @@ const Magia = () =>{
     
     return(
         <div className="Page">
-            <div>
-                <h1 className="SideBar"> S</h1>
+            <div className="SideBar">
+                <h1 > S</h1>
             </div>
             <div className="Center">
                 <div className="searchBoxBackground">
@@ -90,8 +90,8 @@ const Magia = () =>{
                     })}
                 </div>
             </div>
-            <div >
-                <h1 className="SideBar">S</h1>
+            <div className="SideBar" >
+                <h1 >S</h1>
             </div>
         </div>
         

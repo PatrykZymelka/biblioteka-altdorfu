@@ -1,71 +1,40 @@
+.Header{
+    align-items: center;
+    display:flex;
+    background-color: #12100c;
+    color:white;
+    text-align: center;
+    font-weight:bold;
+    font-style: italic;
+    flex-direction: column;
+    cursor:pointer;
+    text-decoration: none;
+    border-style:solid;
+    border-bottom:20px;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-color:#ffb300;
+}
 @media only screen and (min-width: 1300px) {
     .Header{
-        align-items: center;
-        display:flex;
-        background-color: #12100c;
-        color:white;
-        text-align: center;
         font-size:4rem;
-        font-weight:bold;
-        font-style: italic;
-        flex-direction: column;
         padding:13px;
-        cursor:pointer;
-        min-width: 640px;
-        text-decoration: none;
-        border-bottom:4px;
-        border-style:solid;
-        border-top:0px;
-        border-left:0px;
-        border-right:0px;
-        border-color:#ffb300;
+
     }
 }
 @media only screen and (600px <= width <= 1300px) {
     .Header{
-        align-items: center;
-        display:flex;
-        background-color: #12100c;
-        color:white;
-        text-align: center;
-        font-size:3rem;
-        font-weight:bold;
-        font-style: italic;
-        flex-direction: column;
+        font-size:2.7rem;
         padding:13px;
-        cursor:pointer;
-        min-width: 640px;
-        text-decoration: none;
-        border-bottom:4px;
-        border-style:solid;
-        border-top:0px;
-        border-left:0px;
-        border-right:0px;
-        border-color:#ffb300;
-        display:flex;
+
+
     }
 }
 @media only screen and (max-width: 600px) {
     .Header{
-        align-items: center;
-        display:flex;
-        background-color: #12100c;
-        color:white;
-        text-align: center;
-        font-size:2rem;
-        font-weight:bold;
-        font-style: italic;
-        flex-direction: column;
-        padding:13px;
-        cursor:pointer;
-        min-width: 640px;
-        text-decoration: none;
-        border-bottom:4px;
-        border-style:solid;
-        border-top:0px;
-        border-left:0px;
-        border-right:0px;
-        border-color:#ffb300;
-        display:flex;
+        font-size:1rem;
+        padding:2px;
+        
     }
     }
