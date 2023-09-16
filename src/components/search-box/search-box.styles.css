@@ -1,9 +1,12 @@
 .search-box {
-    -webkit-appearance: none;
-    padding: 10px;
-    line-height: 30px;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    max-width:100px;
-    
+  -webkit-appearance: none;
+  padding: 10px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+@media only screen and (max-width: 420px) {
+  .search-box {
+    width: 90px;
+  }
 }
