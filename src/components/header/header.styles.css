@@ -1,40 +1,19 @@
-.Header{
-    align-items: center;
-    display:flex;
-    background-color: #12100c;
-    color:white;
-    text-align: center;
-    font-weight:bold;
-    font-style: italic;
-    flex-direction: column;
-    cursor:pointer;
-    text-decoration: none;
-    border-style:solid;
-    border-bottom:20px;
-    border-top:0px;
-    border-left:0px;
-    border-right:0px;
-    border-color:#ffb300;
+.Header {
+  align-items: center;
+  display: flex;
+  background-color: #12100c;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  flex-direction: column;
+  cursor: pointer;
+  text-decoration: none;
+  border-style: solid;
+  border-bottom: 20px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-color: #ffb300;
+  font-size: 3vw;
 }
-@media only screen and (min-width: 1300px) {
-    .Header{
-        font-size:4rem;
-        padding:13px;
-
-    }
-}
-@media only screen and (600px <= width <= 1300px) {
-    .Header{
-        font-size:2.7rem;
-        padding:13px;
-
-
-    }
-}
-@media only screen and (max-width: 600px) {
-    .Header{
-        font-size:1rem;
-        padding:2px;
-        
-    }
-    }

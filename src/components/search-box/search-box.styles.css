@@ -1,12 +1,11 @@
 .search-box {
   -webkit-appearance: none;
   padding: 10px;
-  line-height: 30px;
+  line-height: auto;
   margin-bottom: 30px;
   margin-top: 30px;
-}
-@media only screen and (max-width: 420px) {
-  .search-box {
-    width: 90px;
-  }
+  font-size: 2vw;
+  width: 25vw;
+  background-color: white;
+  padding: 1.5vw;
 }

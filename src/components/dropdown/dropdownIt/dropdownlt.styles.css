@@ -1,7 +1,7 @@
 .dropdown {
-  height: 120px auto;
+  height: auto;
   box-shadow: 2px 2px 10px 5px grey;
-  line-height: 30px;
+  line-height: auto;
   size: 50px;
   position: relative;
   -webkit-user-select: none;
@@ -18,7 +18,7 @@
 .d-button {
   padding: 10px;
   justify-content: space-between;
-  font-size: 2rem;
+  font-size: 1vw;
   background-color: rgb(255, 255, 255);
   cursor: pointer;
   transition: 0.2s;
@@ -34,7 +34,7 @@
   background-color: white;
   position: absolute;
   box-shadow: 2px 2px 10px 5px grey;
-  font-size: 2rem;
+  font-size: 1vw;
 }
 .d-item {
   padding: 10px;
