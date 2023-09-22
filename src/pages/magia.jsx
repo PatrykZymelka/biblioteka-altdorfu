@@ -57,21 +57,21 @@ const Magia = () => {
           <div>
             <Dropdown
               selected={selected}
-              className="drop"
+              className="drop1"
               setSelected={setSelected}
             />
           </div>
           <div>
             <DropdownPZ
               selectedPZ={selectedPZ}
-              className="drop"
+              className="drop2"
               setSelectedPZ={setSelectedPZ}
             />
           </div>
           <div>
             <SearchBox
               onChangeHandler={onSearchChange}
-              className={"search-box"}
+              className="search-box"
               placeholder={"Nazwa zaklęcia"}
             />
           </div>

@@ -3,7 +3,7 @@
   grid-auto-flow: row;
   align-items: center;
   justify-content: center;
-  font-size: 0.7vw;
+  font-size: 0.5vw;
 }
 .Item-List-Cont-Bottom {
   flex: 1;
@@ -18,7 +18,7 @@
   border-color: #ffb300;
   margin-left: 15px;
   margin-right: 15px;
-  font-size: 0.7vw;
+  font-size: 0.5vw;
 }
 .Item {
   background-color: rgb(255, 255, 255);
@@ -35,7 +35,7 @@
 
 .Begin {
   font-weight: bolder;
-  font-size: 1.5vw;
+  font-size: 1vw;
 }
 
 @media only screen and (min-width: 600px) {
@@ -47,7 +47,7 @@
   }
 
   .logo {
-    width: 3rem;
+    width: 3vw;
   }
 }
 
