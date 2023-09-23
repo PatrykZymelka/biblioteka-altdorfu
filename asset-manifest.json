@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/biblioteka-altdorfu/static/css/main.f6380e10.css",
-    "main.js": "/biblioteka-altdorfu/static/js/main.8ddb044c.js",
+    "main.css": "/biblioteka-altdorfu/static/css/main.8716214e.css",
+    "main.js": "/biblioteka-altdorfu/static/js/main.43f5fc74.js",
     "static/js/787.7721af7e.chunk.js": "/biblioteka-altdorfu/static/js/787.7721af7e.chunk.js",
     "index.html": "/biblioteka-altdorfu/index.html",
-    "main.f6380e10.css.map": "/biblioteka-altdorfu/static/css/main.f6380e10.css.map",
-    "main.8ddb044c.js.map": "/biblioteka-altdorfu/static/js/main.8ddb044c.js.map",
+    "main.8716214e.css.map": "/biblioteka-altdorfu/static/css/main.8716214e.css.map",
+    "main.43f5fc74.js.map": "/biblioteka-altdorfu/static/js/main.43f5fc74.js.map",
     "787.7721af7e.chunk.js.map": "/biblioteka-altdorfu/static/js/787.7721af7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6380e10.css",
-    "static/js/main.8ddb044c.js"
+    "static/css/main.8716214e.css",
+    "static/js/main.43f5fc74.js"
   ]
 }
