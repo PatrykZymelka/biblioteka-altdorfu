@@ -1,22 +1,12 @@
 [
   {
     "id":"asdfqweqwe",
-    "title":"Home"
+    "title":"Home",
+    "link":"biblioteka-altdorfu"
   },   
   {
     "id":"asdgqwiut",
-    "title":"Magia"
-  },   
-  {
-    "id":"Asdaqweqexcffzar",
-    "title":"Zasady"
-  },   
-  {
-    "id":"jioqwroiqwnr",
-    "title":"Lore"
-  },
-  {
-    "id":"eqweqweqeq",
-    "title":"Profesje"
-  }   
+    "title":"Magia",
+    "link":"magia"
+  }
   ]

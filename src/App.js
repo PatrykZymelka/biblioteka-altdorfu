@@ -4,11 +4,14 @@ import Header from './components/header/header.jsx';
 import PageMenu from './components/page-menu/page-menu.jsx'
 import pages from './Json/pages.json';
 import {Route, Routes} from "react-router-dom";
-import Home from './pages/home.jsx';
-import Lore from './pages/lore';
+import BibliotekaAltforfu from './pages/biblioteka-altdorfu.jsx';
 import Magia from './pages/magia';
+
+/* 
+import Lore from './pages/lore';
 import Profesje from './pages/profesje';
-import Zasady from './pages/zasady';
+import Zasady from './pages/zasady'; 
+*/
 
 class App extends Component {
   
@@ -35,11 +38,13 @@ class App extends Component {
         </div>
         <div className='Bot'>
         <Routes>
-          <Route path="/Home" element={<Home/>} />
-          <Route path="/lore" element={<Lore/>} />
+          <Route path="/biblioteka-altdorfu" element={<BibliotekaAltforfu/>} />
           <Route path="/magia" element={<Magia/>} />
+          {/* 
+          <Route path="/lore" element={<Lore/>} />
           <Route path="/profesje" element={<Profesje/>} />
           <Route path="/zasady" element={<Zasady/>} />
+          */}
         </Routes>
         </div>
       </div>

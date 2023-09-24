@@ -82,6 +82,7 @@ const Magia = () => {
             return <ItemList className="Item" Mlist={item} />;
           })}
         </div>
+
       </div>
       <div className="SideBar">
         <h1>S</h1>

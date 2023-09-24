@@ -1,9 +1,11 @@
 .Container {
   display: grid;
   justify-content: center;
+  padding-bottom:10vh
 }
 .SideBar {
-  background-color: grey;
+  background-color: rgb(255, 255, 255);
+  color:white;
 }
 .Page {
   display: flex;

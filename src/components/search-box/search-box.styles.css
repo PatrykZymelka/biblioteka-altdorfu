@@ -4,7 +4,6 @@
   line-height: auto;
   margin-bottom: 30px;
   margin-top: 30px;
-
   width: 20vw;
   background-color: white;
   padding: 1vw;
@@ -16,6 +15,6 @@
 }
 @media only screen and (max-width: 600px) {
   .search-box{
-    font-size:  2vw;
+    font-size: 2vw;
   }
 }

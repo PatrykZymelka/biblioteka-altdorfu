@@ -4,12 +4,12 @@ import { Link, useMatch, useResolvedPath } from "react-router-dom";
 
 class PageButtons extends Component{
     render(){
-        const {id,title} = this.props.PagesInfo;
+        const {id,title,link} = this.props.PagesInfo;
         return(
             <div  
             className={`pages`} 
             key={id}>
-                <CustomLink to={`/${title}`} id={id}>{title}</CustomLink>
+                <CustomLink to={`/${link}`} id={id}>{title}</CustomLink>
             </div>
         )
     }
