@@ -1,0 +1,59 @@
+.Sun{
+    position:absolute;
+    height:100vh;
+    left: 0;
+    right: 0;
+    margin: 0;
+    object-fit: contain;
+    animation: rotate 40s linear infinite; 
+    aspect-ratio: 1/ 1;
+}
+
+@keyframes hiding-S{
+     0%{
+        opacity:0;
+    }
+    12.4%{
+        opacity:0;
+        transform:rotate(0deg);
+        scale:1;
+        max-width: 70vw;       
+    }
+    12.8%{
+        opacity:1;
+        max-width: 70vw;
+    }
+    21%{
+        opacity:1;
+        max-width: 70vw;
+    }    
+    24.9%{
+        opacity:0;
+        transform:rotate(60deg);
+        max-width: 70vw;
+    }
+    100%{
+        opacity:0;
+    }
+}
+@keyframes rotate{
+    0%{
+        transform:rotate(0deg);
+    }
+    100%{
+        transform:rotate(360deg);
+    }
+}
+@media only screen and (min-width: 600px) {
+.Sun{
+    width:100vw;
+    aspect-ratio:1/1;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .Sun{
+        width:50vw;
+        height:50vw;
+        
+    }
+}

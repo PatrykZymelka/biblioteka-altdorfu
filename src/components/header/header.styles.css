@@ -16,4 +16,5 @@
   border-right: 0px;
   border-color: #ffb300;
   font-size: 3vw;
+  z-index: 3;
 }
