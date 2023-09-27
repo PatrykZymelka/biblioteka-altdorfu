@@ -1,5 +1,5 @@
 import { Component } from "react";
-import MagAnimatic from "../components/magAnimatic/magAnimatic"
+import MagAnimatic from "../components/HomeStrona/magAnimatic/magAnimatic";
 import Koło from "../Images/Koło.png";
 import "./Pages-Styles/biblioteka-altdorfu.styles.css"
 class Home extends Component{

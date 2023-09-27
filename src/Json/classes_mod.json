@@ -1,0 +1,6100 @@
+[
+    {
+        "category": "Uczeni",
+        "path": "APTEKARZ",
+        "subclasses": [
+            {
+                "subclassname": "Uczeń Aptekarza",
+                "status": "Brąz 3",
+                "skills": [
+                    "Język (Klasyczny)",
+                    "Leczenie",
+                    "Mocna Głowa",
+                    "Rzemiosło (Aptekarstwo)",
+                    "Rzemiosło (Truciciel)",
+                    "Wiedza (Chemia)",
+                    "Wiedza (Medycyna)",
+                    "Wiedza (Rośliny)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Etykieta (Uczeni)",
+                    "Przyrządzanie Mikstur",
+                    "Wytwórca (Aptekarz)"
+                ],
+                "equipment": [
+                    "Księga (Pusta)",
+                    "Mikstura Lecznicza",
+                    "Moździerz z Tłuczkiem",
+                    "Skórzany Kaftan"
+                ]
+            },
+            {
+                "subclassname": "Aptekarz",
+                "status": "Srebro 1",
+                "skills": [
+                    "Charyzma",
+                    "Język (Gildii)",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Wiedza (Nauka)"
+                ],
+                "talents": [
+                    "Aptekarz",
+                    "Etykieta (Członkowie Cechu)",
+                    "Przestępca",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Licencja Cechu Aptekarzy",
+                    "Narzędzia Pracy"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Aptekarski",
+                "status": "Srebro 3",
+                "skills": [
+                    "Badania Naukowe",
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Sekretne Znaki (Cechu)"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Mistrz Rzemiosła (Aptekarz)",
+                    "Mól Książkowy",
+                    "Odporny na (Trucizny)"
+                ],
+                "equipment": [
+                    "Książka (Aptekarstwo)",
+                    "Uczeń",
+                    "Warsztat"
+                ]
+            },
+            {
+                "subclassname": "Główny Aptekarz",
+                "status": "Złoto 1",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Mistrz Rzemiosła (Truciciel)",
+                    "Wyczulony Zmysł (Smak)",
+                    "Zimna Krew",
+                    "Znawca (Aptekarstwo)"
+                ],
+                "equipment": [
+                    "Duży Warsztat",
+                    "Przywilej od Władcy"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Uczeni",
+        "path": "CZARODZIEJ",
+        "subclasses": [
+            {
+                "subclassname": "Uczeń Czarodzieja",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    " Broń"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Magia Prosta (Dowolna)",
+                    "Percepcja Magiczna",
+                    "Zmysł Magii"
+                ],
+                "equipment": [
+                    "Kostur",
+                    "Księga Zaklęć"
+                ]
+            },
+            {
+                "subclassname": "Czarodziej",
+                "status": "Srebro 3",
+                "skills": [
+                    "Charyzma",
+                    "Język (Bitewny)",
+                    "Język (Dowolny)",
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Magia Tajemna (Dowolna Tradycja)",
+                    "Rozpoznanie Artefaktu",
+                    "Ruchliwe Dłonie",
+                    "Szósty Zmysł"
+                ],
+                "equipment": [
+                    "Licencja na Uprawianie Magii"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Magii",
+                "status": "Złoto 1",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Opieka nad Zwierzętami",
+                    "Wiedza (Wojna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Dwie Bronie",
+                    "Groźny",
+                    "Precyzyjne Inkantowanie",
+                    "Wykrywanie",
+                    "Magii"
+                ],
+                "equipment": [
+                    "Lekki Koń Bojowy",
+                    "Przedmiot Magiczny",
+                    "Uczeń"
+                ]
+            },
+            {
+                "subclassname": "Arcymag",
+                "status": "Złoto 2",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Mag Bitewny",
+                    "Straszny",
+                    "Zmysł Walki",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Biblioteka (Magia)",
+                    "Uczeń",
+                    "Warsztat (Magia)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Uczeni",
+        "path": "INŻYNIER",
+        "subclasses": [
+            {
+                "subclassname": "Student Inżynierii",
+                "status": "Brąz 4",
+                "skills": [
+                    "Broń Zasięgowa (Prochowa)",
+                    "Język (Klasyczny)",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Rzemiosło (Inżynier)",
+                    "Wiedza (Inżynier)"
+                ],
+                "talents": [
+                    "Artylerzysta",
+                    "Czytanie/Pisanie",
+                    "Talent Artystyczny",
+                    "Złota",
+                    "Rączka"
+                ],
+                "equipment": [
+                    "Księga (Inżynieria)",
+                    "Młot i Gwoździe"
+                ]
+            },
+            {
+                "subclassname": "Inżynier",
+                "status": "Srebro 2",
+                "skills": [
+                    "Badania Naukowe",
+                    "Broń Zasięgowa (Eksperymentalna)",
+                    "Język (Gildii)",
+                    "Nawigacja",
+                    "Powożenie",
+                    "Unik"
+                ],
+                "talents": [
+                    "Wytwórca (Inżynier)",
+                    "Etykieta (Członkowie Gildii)",
+                    "Strzelec Wyborowy",
+                    "Wyczucie Kierunku"
+                ],
+                "equipment": [
+                    "Licencja Gildii Inżynierów",
+                    "Narzędzia",
+                    "Pracy (Inżyniera)"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Inżynierii",
+                "status": "Srebro 4",
+                "skills": [
+                    "Dowodzenie",
+                    "Jeździectwo (Konie)",
+                    "Język (Khazalid)",
+                    "Sekretne Znaki (Gildii)"
+                ],
+                "talents": [
+                    "Etykieta (Uczeni)",
+                    "Geniusz Arytmetyczny",
+                    "Mistrz",
+                    "Rzemiosła (Inżynieria)",
+                    "Snajper"
+                ],
+                "equipment": [
+                    "Warsztat"
+                ]
+            },
+            {
+                "subclassname": "Inżynier Dyplomowany",
+                "status": "Złoto 2",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Arcydzieło",
+                    "Niewzruszony",
+                    "Szybkie Przeładowanie",
+                    "Znawca (Inżynieria)"
+                ],
+                "equipment": [
+                    "Biblioteka (Inżyniera)",
+                    "Doskonałe Narzędzia",
+                    "Pracy (Inżyniera)",
+                    "Duży Warsztat (Inżyniera)",
+                    "Licencja Cechu"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Uczeni",
+        "path": "KAPŁAN",
+        "subclasses": [
+            {
+                "subclassname": "IKleryk",
+                "status": "Brąz 2",
+                "skills": [
+                    "Atletyka",
+                    "Badania Naukowe",
+                    "Intuicja",
+                    "Modlitwa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Wiedza (Teologia)"
+                ],
+                "talents": [
+                    "Błogosławieństwo (Dowolne Bóstwo)",
+                    "Charyzmatyczny",
+                    "Czytanie/Pisanie",
+                    "Święte Wizje"
+                ],
+                "equipment": [
+                    "Symbol Religijny",
+                    "Szata"
+                ]
+            },
+            {
+                "subclassname": "Kapłan",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Leczenie",
+                    "Plotkowanie",
+                    "Występy (Gawędziarstwo)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Etykieta (Kultyści)",
+                    "Gadanina",
+                    "Inwokacja (Dowolne",
+                    "Bóstwo)",
+                    "Mól Książkowy"
+                ],
+                "equipment": [
+                    "Księga (Religia)",
+                    "Szata Ceremonialna"
+                ]
+            },
+            {
+                "subclassname": "Arcykapłan",
+                "status": "Złoto 1",
+                "skills": [
+                    "Dowodzenie",
+                    "Sztuka (Pisarstwo)",
+                    "Wiedza(Heraldyka)",
+                    "Występy (Przemowy)"
+                ],
+                "talents": [
+                    "Nienawiść (Dowolna)",
+                    "Odporność Psychiczna",
+                    "Porywająca",
+                    "Gorliwość",
+                    "Wyczulony Zmysł (Dowolny)"
+                ],
+                "equipment": [
+                    "Podwładni Kapłani",
+                    "Relikwia",
+                    "Szata Dobrej",
+                    "Jakości",
+                    "Świątynia"
+                ]
+            },
+            {
+                "subclassname": "Lektor",
+                "status": "Złoto 2",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Czysta Dusza",
+                    "Odporny na (Dowolne Zagrożenie)",
+                    "Krasomówstwo",
+                    "Znawca (Teologia)"
+                ],
+                "equipment": [
+                    "Biblioteka (Teologia)",
+                    "Podwładni Arcykapłani"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Uczeni",
+        "path": "LEKARZ",
+        "subclasses": [
+            {
+                "subclassname": "Uczeń Lekarza",
+                "status": "Brąz 4",
+                "skills": [
+                    "Leczenie",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Powożenie",
+                    "Przekupstwo",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Mól Książkowy",
+                    "Ogłuszenie",
+                    "Pierwsza",
+                    "Pomoc"
+                ],
+                "equipment": [
+                    "Bandaże",
+                    "Mikstura Lecznicza"
+                ]
+            },
+            {
+                "subclassname": "Lekarz",
+                "status": "Srebro 3",
+                "skills": [
+                    "Charyzma",
+                    "Język (Gildii)",
+                    "Rzemiosło(Cyrulik)",
+                    "Targowanie",
+                    "Wiedza (Anatomia)",
+                    "Wiedza(Medycyna)"
+                ],
+                "talents": [
+                    "Chirurgia",
+                    "Etykieta (Członkowie Cechu)",
+                    "Przestępca",
+                    "Zimna Krew"
+                ],
+                "equipment": [
+                    "Księga (Medycyna)",
+                    "Licencja Cechu",
+                    "Narzędzia Pracy (Medycyna)"
+                ]
+            },
+            {
+                "subclassname": "Doktor",
+                "status": "Srebro 5",
+                "skills": [
+                    "Badania Naukowe",
+                    "Dowodzenie",
+                    " Mocna"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Etykieta (Uczeni)",
+                    "Morderczy Atak",
+                    "Odporny na (Choroby)"
+                ],
+                "equipment": [
+                    "Uczeń",
+                    "Warsztat (Medyczny)"
+                ]
+            },
+            {
+                "subclassname": "Nadworny Medyk",
+                "status": "Złoto 1",
+                "skills": [
+                    "Wiedza (Szlachta)",
+                    "Występy (Taniec)"
+                ],
+                "talents": [
+                    "Etykieta (Szlachta)",
+                    "Odporność Psychiczna",
+                    "Znawca (Medycyna)",
+                    "Zręczny"
+                ],
+                "equipment": [
+                    "Nominacja",
+                    "Strój Dworski"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Uczeni",
+        "path": "MNISZK",
+        "subclasses": [
+            {
+                "subclassname": "Nowicjuszka",
+                "status": "Brąz 1",
+                "skills": [
+                    "Leczenie",
+                    "Modlitwa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Sztuka (Kaligrafia)",
+                    "Wiedza (Teologia)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Błogosławieństwo (Dowolne Bóstwo)",
+                    "Czytanie/Pisanie",
+                    "Naciągacz",
+                    "Wstrzemięźliwy"
+                ],
+                "equipment": [
+                    "Symbol Religijny",
+                    "Szata"
+                ]
+            },
+            {
+                "subclassname": "Mniszka",
+                "status": "Brąz 4",
+                "skills": [
+                    "Badania Naukowe",
+                    "Broń Biała (Dowolna)",
+                    "Przekonywanie",
+                    "Rzemiosło (Browarnik)",
+                    "Rzemiosło (Winiarz)",
+                    "Rzemiosło (Zielarz)"
+                ],
+                "talents": [
+                    "Etykieta (Kultyści)",
+                    "Inwokacja (Dowolne Bóstwo)",
+                    "Pierwsza",
+                    "Pomoc",
+                    "Święte Wizje"
+                ],
+                "equipment": [
+                    "Księga (Religia)",
+                    "Narzędzia Pracy (Dowolne)",
+                    "Relikwia"
+                ]
+            },
+            {
+                "subclassname": "Przeorysza",
+                "status": "Srebro 2",
+                "skills": [
+                    "Dowodzenie",
+                    "Percepcja",
+                    "Wiedza (Lokalna)",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Odporny na (Dowolne Zagrożenie)",
+                    "Krzepki",
+                    "Znawca",
+                    "Waleczne Serce"
+                ],
+                "equipment": [
+                    "Opactwo",
+                    "Biblioteka (Teologia)"
+                ]
+            },
+            {
+                "subclassname": "Matka Przełożona",
+                "status": "Srebro 5",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Czysta Dusza",
+                    "Odporność Psychiczna",
+                    "Władcza Postura",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Zakon Religijny"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Uczeni",
+        "path": "PRAWNIK",
+        "subclasses": [
+            {
+                "subclassname": "Student Prawa",
+                "status": "Brąz 4",
+                "skills": [
+                    "Badania Naukowe",
+                    "Język (Klasyczny)",
+                    " Mocna"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Etykieta (Uczeni)",
+                    "Gadanina",
+                    "Szybkie Czytanie"
+                ],
+                "equipment": [
+                    "Księga (Prawo)",
+                    "Lupa"
+                ]
+            },
+            {
+                "subclassname": "Prawnik",
+                "status": "Srebro 3",
+                "skills": [
+                    "Przekupstwo",
+                    "Charyzma",
+                    "Plotkowanie",
+                    "Intuicja",
+                    "Język (Gildii)",
+                    "Sekretne Znaki"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Etykieta (Członkowie Gildii)",
+                    "Przekonujący",
+                    "Przestępca"
+                ],
+                "equipment": [
+                    "Licencja Gildii",
+                    "Szaty Dworskie",
+                    "Zestaw do Pisania"
+                ]
+            },
+            {
+                "subclassname": "Adwokat",
+                "status": "Złoto 1",
+                "skills": [
+                    "Sztuka (Pisarstwo)",
+                    "Wiedza (Dowolna)",
+                    "Występy (Przemowy)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Gładkie Słówka",
+                    "Mól Książkowy",
+                    "Porywająca Gorliwość"
+                ],
+                "equipment": [
+                    "Kantor",
+                    "Asystent (Student lub Służący)"
+                ]
+            },
+            {
+                "subclassname": "Sędzia",
+                "status": "Złoto 2",
+                "skills": [
+                    "Opanowanie",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Majętny",
+                    "Szycha",
+                    "Władcza Postura",
+                    "Znawca (Prawo)"
+                ],
+                "equipment": [
+                    "Młotek Sędziego",
+                    "Pretensjonalna Peruka"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "UCZONEG",
+        "subclasses": [
+            {
+                "subclassname": "Student",
+                "status": "Brąz 3",
+                "skills": [
+                    "Badania Naukowe",
+                    "Hazard",
+                    "Język (Klasyczny)",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Wiedza(Dowolna)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Czytanie/Pisanie",
+                    "Geniusz Arytmetyczny",
+                    "Hulaka"
+                ],
+                "equipment": [
+                    "Alkohol",
+                    "Księga",
+                    "Listy Polecające",
+                    "Zestaw",
+                    "do Pisania"
+                ]
+            },
+            {
+                "subclassname": "Uczony",
+                "status": "Srebro 2",
+                "skills": [
+                    "Intuicja",
+                    "Język (Dowolny)",
+                    "Percepcja",
+                    "Rzemiosło (Dowolne)",
+                    "Sztuka (Pisarstwo)",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Etykieta (Uczeni)",
+                    "Mól Książkowy",
+                    "Szybkie Czytanie"
+                ],
+                "equipment": [
+                    "Dostęp do Biblioteki",
+                    "Stopień Naukowy"
+                ]
+            },
+            {
+                "subclassname": "Wykładowca",
+                "status": "Srebro 5",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wiedza (Dowolna)",
+                    "Występy",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Mówca",
+                    "Poliglota",
+                    "Wieża Pamięci",
+                    "Znawca (Dowolna",
+                    "Dziedzina)"
+                ],
+                "equipment": [
+                    "Biret",
+                    "Szata"
+                ]
+            },
+            {
+                "subclassname": "Profesor",
+                "status": "Złoto 1",
+                "skills": [
+                    "Wiedza (Dowolna)",
+                    "Występy (Retoryka)"
+                ],
+                "talents": [
+                    "Arcydzieło",
+                    "Czujny",
+                    "Krasomówstwo",
+                    "Znawca (Dowolna",
+                    "Dziedzina)"
+                ],
+                "equipment": [
+                    " Gabinet"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "AGITATOR",
+        "subclasses": [
+            {
+                "subclassname": "Pamflecista",
+                "status": "Brąz 1",
+                "skills": [
+                    "Charyzma",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Rzemiosło (Drukarstwo)",
+                    "Sztuka (Pisarstwo)",
+                    "Targowanie",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Gadanina",
+                    "Naciągacz",
+                    "Towarzyski"
+                ],
+                "equipment": [
+                    "Młotek i Gwoździe",
+                    "Plik Ulotek",
+                    "Zestaw do",
+                    "Pisania"
+                ]
+            },
+            {
+                "subclassname": "Agitator",
+                "status": "Brąz 2",
+                "skills": [
+                    "Dowodzenie",
+                    "Hazard",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Unik",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Mówca",
+                    "Porywająca Gorliwość",
+                    "Przekonujący",
+                    "Ulicznik"
+                ],
+                "equipment": [
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Podżegacz",
+                "status": "Brąz 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Bijatyka)",
+                    "Percepcja",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Chodu!",
+                    "Cios Poniżej Pasa",
+                    "Gładkie Słówka",
+                    "Zejście",
+                    "z Linii"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Pomocny Pamflecista"
+                ]
+            },
+            {
+                "subclassname": "Demagog",
+                "status": "Brąz 5",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Etykieta (Dowolna Grupa)",
+                    "Intrygant",
+                    "Krasomówstwo"
+                ],
+                "equipment": [
+                    "Imponujący Kapelusz",
+                    "Patron",
+                    "Prasa Drukarska",
+                    "Trzech Pamflecistów"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "KUPC",
+        "subclasses": [
+            {
+                "subclassname": "Handlarz",
+                "status": "Srebro 2",
+                "skills": [
+                    "Charyzma",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Opiekanad",
+                    "Zwierzętami",
+                    "Plotkowanie",
+                    "Powożenie",
+                    "Przekupstwo",
+                    "Targowanie"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Czytanie/Pisanie",
+                    "Gadanina",
+                    "Żyłka",
+                    "Handlowa"
+                ],
+                "equipment": [
+                    "Liczydło",
+                    "Płócienna Plandeka",
+                    "Wóz",
+                    "z Mułem",
+                    "3k10 Srebrnych Szylingów"
+                ]
+            },
+            {
+                "subclassname": "Kupiec",
+                "status": "Srebro 5",
+                "skills": [
+                    "Intuicja",
+                    "Język (Dowolny)",
+                    "Język (Gildii)",
+                    "Percepcja",
+                    "Wiedza (Lokalna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Defraudant",
+                    "Etykieta (Członkowie Gildii)",
+                    "Łapówkarz"
+                ],
+                "equipment": [
+                    "Licencja Cechu",
+                    "Łódź Rzeczna albo 2 Wozy",
+                    "20 Z"
+                ]
+            },
+            {
+                "subclassname": "Kupiec",
+                "status": "Srebro 5",
+                "skills": [
+                    "Intuicja",
+                    "Język (Dowolny)",
+                    "Język (Gildii)",
+                    "Percepcja",
+                    "Wiedza (Lokalna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Defraudant",
+                    "Etykieta (Członkowie Gildii)",
+                    "Łapówkarz"
+                ],
+                "equipment": [
+                    "Licencja Cechu",
+                    "Łódź Rzeczna albo 2 Wozy",
+                    "20 Z"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Kupiectwa",
+                "status": "Złoto 1",
+                "skills": [
+                    "Język (Klasyczny)",
+                    "Opanowanie",
+                    "Nawigacja",
+                    "Sekretne Znaki (Gildii)"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Gładkie Słówka",
+                    "Etykieta (Dowolna Grupa)",
+                    "Numizmatyka"
+                ],
+                "equipment": [
+                    "Kamienica ze Służbą",
+                    "Magazyn",
+                    "100 Z"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Kupiectwa",
+                "status": "Złoto 1",
+                "skills": [
+                    "Język (Klasyczny)",
+                    "Opanowanie",
+                    "Nawigacja",
+                    "Sekretne Znaki (Gildii)",
+                    "Wiedza (Dowolna)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Gładkie Słówka",
+                    "Etykieta (Dowolna Grupa)",
+                    "Numizmatyka",
+                    "Intrygant",
+                    "Majętny",
+                    "Szczęście",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Kamienica ze Służbą",
+                    "Magazyn",
+                    "100 Z"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "MIESZCZK",
+        "subclasses": [
+            {
+                "subclassname": "Przekupka",
+                "status": "Srebro 1",
+                "skills": [
+                    "Charyzma",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Powożenie",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Unik",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Ulicznik",
+                    "Niegodny Uwagi",
+                    "Etykieta (Słudzy)",
+                    "Krzepki"
+                ],
+                "equipment": [
+                    "Mieszkanie na Mieście",
+                    "Mocne Buty"
+                ]
+            },
+            {
+                "subclassname": "Mieszczka",
+                "status": "Srebro 2",
+                "skills": [
+                    "Broń Biała (Bijatyka)",
+                    "Intuicja",
+                    "Muzyka (Dowolna)",
+                    "Przekupstwo",
+                    "Wiedza (Lokalna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Defraudant",
+                    "Etykieta (Dowolna Grupa)",
+                    "Towarzyski",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Skromna Kamienica",
+                    "Służący",
+                    "Pióro i Kałamarz"
+                ]
+            },
+            {
+                "subclassname": "Rajca Miejski",
+                "status": "Srebro 5",
+                "skills": [
+                    "Badania Naukowe",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Łapówkarz",
+                    "Mówca",
+                    "Pomocny"
+                ],
+                "equipment": [
+                    "Powóz z Woźnicą",
+                    "Kamienica"
+                ]
+            },
+            {
+                "subclassname": "Burmistrz",
+                "status": "Złoto 1",
+                "skills": [
+                    "Wiedza (Polityka)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Intrygant",
+                    "Krasomówstwo",
+                    "Władcza",
+                    "Postura"
+                ],
+                "equipment": [
+                    "Dobre Ubranie",
+                    "Duża Kamienica z Ogrodami i Służbą",
+                    "Powóz z Lokajem",
+                    "Sieć Biur"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "RZEMIEŚLNIK",
+        "subclasses": [
+            {
+                "subclassname": "Czeladnik",
+                "status": "Brąz 2",
+                "skills": [
+                    "Atletyka",
+                    "Opanowanie",
+                    "Mocna Głowa",
+                    "Unik",
+                    "Odporność",
+                    "Wycena",
+                    "Skradanie (Miasto)",
+                    "Rzemiosło (Dowolne)"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Mocne Plecy",
+                    "Talent Artystyczny",
+                    "Wytwórca"
+                ],
+                "equipment": [
+                    "Kreda",
+                    "Skórzany Kaftan",
+                    "k10 Szmat"
+                ]
+            },
+            {
+                "subclassname": "Rzemieślnik",
+                "status": "Srebro 1",
+                "skills": [
+                    "Charyzma",
+                    "Język (Cechu)",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Etykieta (Członkowie Cechu)",
+                    "Tragarz",
+                    "Zręczny",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Licencja Cechu",
+                    "Narzędzia Pracy"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Rzemiosła",
+                "status": "Srebro 3",
+                "skills": [
+                    "Badania Naukowe",
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Sekretne Znaki (Cechu)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Mistrz Rzemiosła (Dowolne)",
+                    "Wyczulony",
+                    "Zmysł (Smak albo Dotyk)",
+                    "Złota Rączka"
+                ],
+                "equipment": [
+                    "Uczeń",
+                    "Warsztat"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Cechu",
+                "status": "Złoto 1",
+                "skills": [
+                    "Przekupstwo",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Arcydzieło",
+                    "Intrygant",
+                    "Łapówkarz",
+                    "Mówca"
+                ],
+                "equipment": [
+                    "Cech",
+                    "Dobre Ubranie"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "STRAŻNIK",
+        "subclasses": [
+            {
+                "subclassname": "Rekrut Straży",
+                "status": "Brąz 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Dowolna)",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Percepcja",
+                    "Unik",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Ogłuszenie",
+                    "Musztra",
+                    "Twardziel",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Mundur",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Strażnik",
+                "status": "Srebro 1",
+                "skills": [
+                    "Charyzma",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Wiedza (Lokalna)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Przestępca",
+                    "Szybkobiegacz",
+                    "Widzenie w Ciemności",
+                    "Wtargnięcie",
+                    "z Włamaniem"
+                ],
+                "equipment": [
+                    "Latarnia na Drągu",
+                    "Lampa Oliwna",
+                    "Miedziana Odznaka"
+                ]
+            },
+            {
+                "subclassname": "Sierżant Straży",
+                "status": "Srebro 3",
+                "skills": [
+                    "Dowodzenie",
+                    "Targowanie",
+                    "Wiedza (Prawo)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Etykieta (Żołnierze)",
+                    "Nieustraszony (Przestępcy)",
+                    "Nos",
+                    "do Kłopotów",
+                    "Rozbrojenie"
+                ],
+                "equipment": [
+                    "Hełm",
+                    "Napierśnik",
+                    "Symbol Rangi"
+                ]
+            },
+            {
+                "subclassname": "Kapitan Straży",
+                "status": "Złoto 1",
+                "skills": [
+                    "Wiedza (Polityka)",
+                    "Jeździectwo (Konie)"
+                ],
+                "talents": [
+                    "Krzepki",
+                    "Intrygant",
+                    "Mówca",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Dobra Broń Ręczna",
+                    "Dobry Kapelusz",
+                    "Imponujący Symbol Rangi",
+                    "Koń Wierzchowy z Rzędem"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "SZCZUROŁAP",
+        "subclasses": [
+            {
+                "subclassname": "Łowca Szczurów",
+                "status": "Brąz 3",
+                "skills": [
+                    "Atletyka",
+                    "Tresura (Psy)",
+                    "Oswajanie",
+                    " Mocna"
+                ],
+                "talents": [
+                    "Odporny na (Choroby)",
+                    "Ogłuszenie",
+                    "Silny Cios",
+                    "Widzenie",
+                    "w Ciemności",
+                    "Silne Nogi",
+                    "Szczur Kanałowy",
+                    "Twardziel",
+                    "Waleczne Serce"
+                ],
+                "equipment": [
+                    "Mały",
+                    "ale Zajadły Pies",
+                    "Proca z Amunicją",
+                    "Worek",
+                    "Lampa Davricha",
+                    "Broń Ręczna",
+                    "Skórzana",
+                    "Kurta"
+                ]
+            },
+            {
+                "subclassname": "Kanałów",
+                "status": "Srebro 2",
+                "skills": [],
+                "talents": [],
+                "equipment": []
+            },
+            {
+                "subclassname": "Tępiciel",
+                "status": "Srebro 3",
+                "skills": [
+                    "Dowodzenie",
+                    "Tropienie"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Krzepki",
+                    "Odporność Psychiczna",
+                    "Nieustraszony (Skaveny)"
+                ],
+                "equipment": [
+                    "Asystent",
+                    "Duży i Zajadły Pies",
+                    "Worek",
+                    "Zatrutej Przynęty (10 Porcji Sercoboju)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mieszczanie",
+        "path": "ŚLEDCZEG",
+        "subclasses": [
+            {
+                "subclassname": "Szpicel",
+                "status": "Srebro 1",
+                "skills": [
+                    "Charyzma",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Skradanie (Miasto)",
+                    "Tropienie",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Czujny",
+                    "Niegodny Uwagi",
+                    "Ulicznik"
+                ],
+                "equipment": [
+                    "Dziennik",
+                    "Lampa Oliwna",
+                    "Latarnia",
+                    "Pióro",
+                    "i Kałamarz"
+                ]
+            },
+            {
+                "subclassname": "Śledczy",
+                "status": "Srebro 2",
+                "skills": [
+                    "Broń Biała (Bijatyka)",
+                    "Mocna Głowa",
+                    "Otwieranie Zamków",
+                    "Unik",
+                    "Wiedza (Prawo)",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Cień",
+                    "Etykieta (Dowolna Grupa)",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Lupa",
+                    "Skórzana",
+                    "Kurta",
+                    "Wytrych"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Śledczy",
+                "status": "Srebro 3",
+                "skills": [
+                    "Dowodzenie",
+                    "Przekupstwo",
+                    "Wiedza(Dowolna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Szósty Zmysł",
+                    "Mól Książkowy",
+                    "Wtargnięcie z Włamaniem"
+                ],
+                "equipment": [
+                    "Asystent",
+                    "Biuro"
+                ]
+            },
+            {
+                "subclassname": "Detektyw",
+                "status": "Srebro 5",
+                "skills": [
+                    "Wiedza (Dowolna)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Szybkie Czytanie",
+                    "Wieża Pamięci",
+                    "Wyczulony Zmysł (Dowolny)",
+                    "Znawca (Dowolna Dziedzina)"
+                ],
+                "equipment": [
+                    "Luneta",
+                    "Sieć Informatorów"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "ŻEBRAK",
+        "subclasses": [
+            {
+                "subclassname": "Biedak",
+                "status": "Brąz 0",
+                "skills": [
+                    "Atletyka",
+                    "Charyzma",
+                    "Intuicja",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Skradanie (Miasto)",
+                    "Unik"
+                ],
+                "talents": [
+                    "Naciągacz",
+                    "Niezwykle Odporny",
+                    "Odporny na (Choroby)",
+                    "Wstrzemięźliwy"
+                ],
+                "equipment": [
+                    "Podłej Jakości Koc",
+                    "Kubek"
+                ]
+            },
+            {
+                "subclassname": "Żebrak",
+                "status": "Brąz 2",
+                "skills": [
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Występy(Aktorstwo)",
+                    "Występy (Dowolne)",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Etykieta (Przestępcy)",
+                    "Niegodny Uwagi",
+                    "Przestępca",
+                    "Ulicznik"
+                ],
+                "equipment": [
+                    "Kule do Chodzenia",
+                    "Miska"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Żebraków",
+                "status": "Brąz 4",
+                "skills": [
+                    "Dowodzenie",
+                    "Oswajanie",
+                    "Sekretne Znaki(Włóczykijów)",
+                    "Wiedza"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Gadanina",
+                    "Twardziel",
+                    "Zejście z",
+                    "Linii"
+                ],
+                "equipment": [
+                    "Kryjówka",
+                    "Towarzyszący Biedak",
+                    "Zestaw do Charakteryzacji"
+                ]
+            },
+            {
+                "subclassname": "Król Żebraków",
+                "status": "Srebro 2",
+                "skills": [
+                    "Przekupstwo",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Gładkie Słówka",
+                    "Nieustraszony (Strażnicy)",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Kryjówka",
+                    "Duża Grupa Towarzyszących Żebraków"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "ARTYSTK",
+        "subclasses": [
+            {
+                "subclassname": "Uczennica Artysty",
+                "status": "Srebro 1",
+                "skills": [
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Skradanie (Miasto)",
+                    "Sztuka (Dowolna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Mocne Plecy",
+                    "Talent Artystyczny",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Dłuto albo Pędzel",
+                    "albo Pióro"
+                ]
+            },
+            {
+                "subclassname": "Artystka",
+                "status": "Srebro 3",
+                "skills": [
+                    "Język (Klasyczny)",
+                    "Hazard",
+                    "Intuicja",
+                    "Targowanie",
+                    "Wspinaczka",
+                    "Rzemiosło (Przybory dla artystów)"
+                ],
+                "talents": [
+                    "Hulaka",
+                    "Przestępca",
+                    "Towarzyski",
+                    "Zręczny"
+                ],
+                "equipment": [
+                    "Torba na Ramię Zawierająca Narzędzia",
+                    "Pracy (Artysty)"
+                ]
+            },
+            {
+                "subclassname": "Mistrzyni Sztuki",
+                "status": "Srebro 5",
+                "skills": [
+                    "Charyzma",
+                    "Dowodzenie",
+                    "Wiedza (Sztuka)",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Etykieta (Dowolna Grupa)",
+                    "Nos do Kłopotów",
+                    "Wyczulony",
+                    "Zmysł (Dowolny)",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Patron",
+                    "Uczeń",
+                    "Warsztat (Artysty)"
+                ]
+            },
+            {
+                "subclassname": "Maestro",
+                "status": "Złoto 2",
+                "skills": [
+                    "Badania Naukowe",
+                    "Jeździectwo (Konie)"
+                ],
+                "talents": [
+                    "Arcydzieło",
+                    "Czytanie/Pisanie",
+                    "Oburęczność",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Biblioteka (Sztuka)",
+                    "Duży Warsztat (Artysty)",
+                    "3 Uczniów"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "DORADC",
+        "subclasses": [
+            {
+                "subclassname": "Asystent",
+                "status": "Srebro 2",
+                "skills": [
+                    "Język (Klasyczny)",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Targowanie",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Etykieta (Dowolna Grupa)",
+                    "Niegodny",
+                    "Uwagi",
+                    "Towarzyski"
+                ],
+                "equipment": [
+                    "Zestaw do Pisania"
+                ]
+            },
+            {
+                "subclassname": "Doradca",
+                "status": "Srebro 4",
+                "skills": [
+                    "Hazard",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Przekonywanie",
+                    "Wiedza (Lokalna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Gadanina",
+                    "Intrygant",
+                    "Pomocny",
+                    "Przestępca"
+                ],
+                "equipment": [
+                    "Liberia"
+                ]
+            },
+            {
+                "subclassname": "Radca",
+                "status": "Złoto 1",
+                "skills": [
+                    "Dowodzenie",
+                    "Język (Dowolny)",
+                    "Wiedza(Dowolna)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Gładkie Słówka",
+                    "Hulaka",
+                    "Łapówkarz",
+                    "Przekonujący"
+                ],
+                "equipment": [
+                    "Asystent",
+                    "Dobre Ubranie"
+                ]
+            },
+            {
+                "subclassname": "Kanclerz",
+                "status": "Złoto 3",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Defraudant",
+                    "Szycha",
+                    "Władcza Postura"
+                ],
+                "equipment": [
+                    "Dobry Strój Dworski",
+                    "Koń Wierzchowy",
+                    "z Rzędem",
+                    "Zespół Doradców i Asystentów"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "NAMIESTNIK",
+        "subclasses": [
+            {
+                "subclassname": "Nadzorca",
+                "status": "Srebro 1",
+                "skills": [
+                    "Atletyka",
+                    "Intuicja",
+                    "Mocna Głowa",
+                    "Opanowanie",
+                    "Odporność",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Groźny",
+                    "Ogłuszenie",
+                    "Widzenie w Ciemności"
+                ],
+                "equipment": [
+                    "Klucze",
+                    "Lampa Oliwna",
+                    "Latarnia",
+                    "Liberia"
+                ]
+            },
+            {
+                "subclassname": "Namiestnik",
+                "status": "Srebro 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Broń Zasięgowa(Łuk)",
+                    "Jeździectwo (Konie)",
+                    "Opieka nad Zwierzętami",
+                    "Pływanie",
+                    "Sztuka Przetrwania"
+                ],
+                "talents": [
+                    "Posłuch u Zwierząt",
+                    "Etykieta (Słudzy)",
+                    "Doświadczony",
+                    "Wędrowiec (Dowolne)",
+                    "Włóczykij"
+                ],
+                "equipment": [
+                    "Broń Ręczna albo Łuk z 10 Strzałami",
+                    "Koń",
+                    "Wierzchowy z Rzędem",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Seneszal",
+                "status": "Złoto 1",
+                "skills": [
+                    "Charyzma",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Przywództwo"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Defraudant",
+                    "Numizmatyka",
+                    "Pomocny"
+                ],
+                "equipment": [
+                    "Ceremonialne Berło",
+                    "Grupa Nadzorców",
+                    "i Namiestników",
+                    "Napierśnik"
+                ]
+            },
+            {
+                "subclassname": "Gubernator",
+                "status": "Złoto 3",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Etykieta (Dowolna Grupa)",
+                    "Władcza",
+                    "Postura",
+                    "Znawca (Wiedza Lokalna)"
+                ],
+                "equipment": [
+                    "Asystent",
+                    "Rezydencja Gubernatora",
+                    " Służący"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "POSEŁ",
+        "subclasses": [
+            {
+                "subclassname": "Herold",
+                "status": "Srebro 2",
+                "skills": [
+                    "Atletyka",
+                    "Charyzma",
+                    "Intuicja",
+                    "Jeździectwo(Konie)",
+                    "Odporność",
+                    "Powożenie",
+                    "Unik",
+                    "Wioślarstwo"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Czytanie/Pisanie",
+                    "Etykieta (Szlachta)",
+                    "Gadanina"
+                ],
+                "equipment": [
+                    "Liberia",
+                    "Skórzana Kurta",
+                    "Tuba na Zwoje"
+                ]
+            },
+            {
+                "subclassname": "Poseł",
+                "status": "Srebro 4",
+                "skills": [
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Sztuka (Pisarstwo)",
+                    "Targowanie",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Gładkie Słówka",
+                    "Etykieta (Dowolna Grupa)",
+                    "Doświadczony Wędrowiec"
+                ],
+                "equipment": [
+                    "Pióro i Kałamarz",
+                    "10 Arkuszy Pergaminu"
+                ]
+            },
+            {
+                "subclassname": "Dyplomata",
+                "status": "Złoto 2",
+                "skills": [
+                    "Dowodzenie",
+                    "Język (Dowolny)",
+                    "Nawigacja",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Hulaka",
+                    "Intrygant",
+                    "Towarzyski",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Asystent",
+                    "Dobre Ubranie",
+                    "Mapa"
+                ]
+            },
+            {
+                "subclassname": "Ambasador",
+                "status": "Złoto 5",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Błękitna Krew",
+                    "Błyskotliwość",
+                    "Łapówkarz",
+                    "Władcza Postura"
+                ],
+                "equipment": [
+                    "Asystent",
+                    "Strój Dworski Najlepszej Jakości",
+                    "Ekipa Dyplomatów",
+                    "Herold"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "SŁUŻĄCY",
+        "subclasses": [
+            {
+                "subclassname": "Posługacz",
+                "status": "Srebro 1",
+                "skills": [
+                    "Atletyka",
+                    "Intuicja",
+                    "Odporność",
+                    "Percepcja",
+                    "Powożenie",
+                    "Skradanie (Dowolne)",
+                    "Unik",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Krzepki",
+                    "Mocne Plecy",
+                    "Niegodny Uwagi",
+                    "Odporność",
+                    "Psychiczna"
+                ],
+                "equipment": [
+                    "Szczotka do Podłogi"
+                ]
+            },
+            {
+                "subclassname": "Służący",
+                "status": "Srebro 3",
+                "skills": [
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Opieka nad Zwierzętami",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Cień",
+                    "Dobrze Przygotowany",
+                    "Etykieta (Słudzy)",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Liberia"
+                ]
+            },
+            {
+                "subclassname": "Lokaj",
+                "status": "Srebro 5",
+                "skills": [
+                    "Charyzma",
+                    "Wiedza (Lokalna)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Defraudant",
+                    "Odporny na (Trucizny)",
+                    "Pomocny"
+                ],
+                "equipment": [
+                    "Lampa Oliwna",
+                    "Lampa Sztormowa",
+                    "Liberia",
+                    "Dobrej Jakości",
+                    "Pudełko na Hubkę i Krzesiwo"
+                ]
+            },
+            {
+                "subclassname": "Ochmistrz",
+                "status": "Złoto 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Dowodzenie"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Czytanie/Pisanie",
+                    "Etykieta (Dowolna",
+                    "Grupa)",
+                    "Numizmatyka"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Dobre Ubranie",
+                    "Służący"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "SZLACHCIC",
+        "subclasses": [
+            {
+                "subclassname": "Dziedzic",
+                "status": "Złoto 1",
+                "skills": [
+                    "Broń Biała (Szermiercza)",
+                    "Hazard",
+                    "Dowodzenie",
+                    "Mocna Głowa",
+                    "Muzyka (Dowolna)",
+                    "Przekupstwo",
+                    "Wiedza (Heraldyka)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Błękitna Krew",
+                    "Czytanie/Pisanie",
+                    "Etykieta (Szlachta)",
+                    "Szczęście"
+                ],
+                "equipment": [
+                    "Biżuteria warta 3k10 Z"
+                ]
+            },
+            {
+                "subclassname": "Dziedzic",
+                "status": "Złoto 1",
+                "skills": [
+                    "Broń Biała (Szermiercza)",
+                    "Hazard",
+                    "Dowodzenie",
+                    "Mocna Głowa",
+                    "Muzyka (Dowolna)",
+                    "Przekupstwo",
+                    "Wiedza (Heraldyka)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Błękitna Krew",
+                    "Czytanie/Pisanie",
+                    "Etykieta (Szlachta)",
+                    "Szczęście"
+                ],
+                "equipment": [
+                    "Biżuteria warta 3k10 Z"
+                ]
+            },
+            {
+                "subclassname": "Szlachcic",
+                "status": "Złoto 3",
+                "skills": [
+                    "Broń Biała (Parująca)",
+                    "Charyzma",
+                    "Język(Klasyczny)",
+                    "Jeździectwo (Konie)",
+                    "Plotkowanie",
+                    "Wiedza(Lokalna)"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Charyzmatyczny",
+                    "Hulaka",
+                    "Łapówkarz"
+                ],
+                "equipment": [
+                    "Biżuteria warta 50 Z"
+                ]
+            },
+            {
+                "subclassname": "Szlachcic",
+                "status": "Złoto 3",
+                "skills": [
+                    "Broń Biała (Parująca)",
+                    "Charyzma",
+                    "Język(Klasyczny)",
+                    "Jeździectwo (Konie)",
+                    "Plotkowanie",
+                    "Wiedza(Lokalna)",
+                    "Intuicja",
+                    "Język (Dowolny)",
+                    "Percepcja",
+                    "Wiedza(Polityka)"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Charyzmatyczny",
+                    "Hulaka",
+                    "Łapówkarz",
+                    "Intrygant",
+                    "Mówca",
+                    "Zimna krew",
+                    "Żyłka handlowa"
+                ],
+                "equipment": [
+                    "Biżuteria warta 50 Z"
+                ]
+            },
+            {
+                "subclassname": "Szlachcic",
+                "status": "Złoto 3",
+                "skills": [
+                    "Broń Biała (Parująca)",
+                    "Charyzma",
+                    "Język(Klasyczny)",
+                    "Jeździectwo (Konie)",
+                    "Plotkowanie",
+                    "Wiedza(Lokalna)",
+                    "Intuicja",
+                    "Język (Dowolny)",
+                    "Percepcja",
+                    "Wiedza(Polityka)",
+                    "Tropienie",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Charyzmatyczny",
+                    "Hulaka",
+                    "Łapówkarz",
+                    "Intrygant",
+                    "Mówca",
+                    "Zimna krew",
+                    "Żyłka handlowa",
+                    "Majętny",
+                    "Władcza Postura",
+                    "Wódz",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Biżuteria warta 50 Z"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Dworzanie",
+        "path": "SZPIEG",
+        "subclasses": [
+            {
+                "subclassname": "Informator",
+                "status": "Brąz 3",
+                "skills": [
+                    "Charyzma",
+                    "Hazard",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Skradanie (Dowolne)",
+                    "Targowanie"
+                ],
+                "talents": [
+                    "Cień",
+                    "Gadanina",
+                    "Hulaka",
+                    "Towarzyski"
+                ],
+                "equipment": [
+                    "Płaszcz z Kapturem",
+                    "Torba na Ramię",
+                    "Zawierająca 2 różne Komplety Ubrań",
+                    "Węgiel do Rysowania"
+                ]
+            },
+            {
+                "subclassname": "Szpieg",
+                "status": "Srebro 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Intuicja",
+                    "Sekretne",
+                    "Znaki (Dowolne)",
+                    "Wspinaczka",
+                    "Występy (Aktorstwo)",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Czytanie z Ruchu Warg",
+                    "Etykieta",
+                    "Sekretna Tożsamość"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Informator",
+                    "Sieć Informatorów",
+                    "Teleskop",
+                    "Zestaw do Charakteryzacji"
+                ]
+            },
+            {
+                "subclassname": "Agent",
+                "status": "Złoto 1",
+                "skills": [
+                    "Dowodzenie",
+                    "Język (Dowolny)",
+                    "Opieka nadZwierzętami",
+                    "Tresura (Gołąb)"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Gładkie Słówka",
+                    "Mistrz Charakteryzacji",
+                    "Naśladowca"
+                ],
+                "equipment": [
+                    "Kałamarz i Pióro",
+                    "Księga (Kryptografia)",
+                    "Sieć",
+                    "Szpiegów i Informatorów",
+                    "Strych z Gołębiami Pocztowymi"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Szpiegów",
+                "status": "Złoto 4",
+                "skills": [
+                    "Badania Naukowe",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Intrygant",
+                    "Łapówkarz",
+                    "Wieża Pamięci"
+                ],
+                "equipment": [
+                    "Duża Szpiegowska Sieć Agentów",
+                    "Szpiegów",
+                    "i Informatorów",
+                    "Kantor z Pracownikami"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "ZWADŹC",
+        "subclasses": [
+            {
+                "subclassname": "Szermierz",
+                "status": "Srebro 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Dowolna)",
+                    "Intuicja",
+                    "Język (Klasyczny)",
+                    "Leczenie",
+                    "Odporność",
+                    "Percepcja",
+                    "Unik"
+                ],
+                "talents": [
+                    "Finta",
+                    "Rozproszenie Uwagi",
+                    "Zbicie Broni",
+                    "Zejście z",
+                    "Linii"
+                ],
+                "equipment": [
+                    "Broń Ręczna albo Rapier",
+                    "Torba na Ramię Zawierająca Ubranie",
+                    "i 1k10 Bandaży"
+                ]
+            },
+            {
+                "subclassname": "Zwadźca",
+                "status": "Srebro 5",
+                "skills": [
+                    "Broń Biała (Parująca)",
+                    "Broń Zasięgowa(Prochowa)",
+                    "Charyzma",
+                    "Hazard",
+                    "Opanowanie",
+                    "Rzemiosło(Rusznikarz)"
+                ],
+                "talents": [
+                    "Bitewny Refleks",
+                    "Błyskawiczny Strzał",
+                    "Etykieta (Dowolna Grupa)",
+                    "Odwrócenie Szans"
+                ],
+                "equipment": [
+                    "Lewak albo Łamacz Mieczy",
+                    "Pistolet",
+                    "z Prochem i Amunicją"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Pojedynków",
+                "status": "Złoto 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Dowodzenie",
+                    "Występy (Akrobatyka)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Dwie Bronie",
+                    "Oburęczność",
+                    "Riposta",
+                    "Rozbrojenie"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Dobry Rapier",
+                    "2 Drewniane",
+                    "Miecze Treningowe",
+                    "Zaufany Sekundant"
+                ]
+            },
+            {
+                "subclassname": "Szampierz Sądowy",
+                "status": "Złoto 3",
+                "skills": [
+                    "Broń Biała (Dowolna)",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Atak Wyprzedzający",
+                    "Groźny",
+                    "Mistrz Walki",
+                    "Morderczy",
+                    "Atak"
+                ],
+                "equipment": [
+                    "2 sztuki Broni Dobrej Jakości"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "CHŁOP",
+        "subclasses": [
+            {
+                "subclassname": "Parobek",
+                "status": "Brąz 2",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Bijatyka)",
+                    " Mocna"
+                ],
+                "talents": [
+                    "Mocne Plecy",
+                    "Odporność Psychiczna",
+                    "Włóczykij",
+                    "Wstrzemięźliwy"
+                ],
+                "equipment": [
+                    "Brak"
+                ]
+            },
+            {
+                "subclassname": "Chłop",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Powożenie",
+                    "Rzemiosło (Dowolne)",
+                    "Targowanie",
+                    "Unik",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Posłuch u Zwierząt",
+                    "Twardziel",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Topór)",
+                    "Narzędzia Pracy (Odpowiednie dla",
+                    "Rzemiosła)",
+                    "Skórzany Kaftan"
+                ]
+            },
+            {
+                "subclassname": "Kmieć",
+                "status": "Brąz 4",
+                "skills": [
+                    "Charyzma",
+                    "Dowodzenie",
+                    "Przekupstwo",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Niezwykle Odporny",
+                    "Waleczne",
+                    "Serce",
+                    "Wytwórca (Dowolny)",
+                    " Żyłka"
+                ],
+                "equipment": [
+                    "Wóz z Mułem",
+                    "Dom Wiejski",
+                    "z Warsztatem"
+                ]
+            },
+            {
+                "subclassname": "Starszy Wioskowy",
+                "status": "Srebro 2",
+                "skills": [
+                    "Intuicja",
+                    "Wiedza (Historia)"
+                ],
+                "talents": [
+                    "Mistrz Rzemiosła (Dowolne)",
+                    "Mówca",
+                    "Znawca (Wiedza",
+                    "Lokalna)",
+                    "Zręczny"
+                ],
+                "equipment": [
+                    "Szacunek Wioski"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "GÓRNIK",
+        "subclasses": [
+            {
+                "subclassname": "Poszukiwacz",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Biała (Dwuręczna)",
+                    "Intuicja",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Pływanie",
+                    "Sztuka Przetrwania",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Doświadczony Wędrowiec (Teren Skalisty)",
+                    "Tragarz",
+                    "Włóczykij",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Kiepska Mapa",
+                    "Panew",
+                    "Szpadel",
+                    "Węgiel do",
+                    "Rysowania"
+                ]
+            },
+            {
+                "subclassname": "Górnik",
+                "status": "Brąz 4",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Mocna Głowa",
+                    "Rzemiosło (Materiały Wybuchowe)",
+                    "Sekretne Znaki (Górników)",
+                    "Wspinaczka",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Mocne Plecy",
+                    "Silny Cios",
+                    "Widzenie w",
+                    "Ciemności"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Kilof )",
+                    "Lampa Davricha",
+                    "Lampa Oliwna",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Górniczy",
+                "status": "Brąz 5",
+                "skills": [
+                    "Plotkowanie",
+                    "Rzemiosło (Inżynieria)",
+                    "Skradanie",
+                    "Wiedza (Geologia)"
+                ],
+                "talents": [
+                    "Cios Mierzony",
+                    "Szczur Tunelowy",
+                    "Wytwórca (Materiały",
+                    "Wybuchowe)",
+                    "Złota Rączka"
+                ],
+                "equipment": [
+                    "Hełm",
+                    "Narzędzia Pracy (Inżyniera)",
+                    "Wielka",
+                    "Broń (Dwuręczny Kilof )"
+                ]
+            },
+            {
+                "subclassname": "Sztygar",
+                "status": "Srebro 4",
+                "skills": [
+                    "Charyzma",
+                    "Dowodzenie"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Defraudant",
+                    "Odporność Psychiczna",
+                    "Przekonujący"
+                ],
+                "equipment": [
+                    "Brygada Górników",
+                    "Zestaw do Pisania"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "GUŚLARZ",
+        "subclasses": [
+            {
+                "subclassname": "Uczeń Guślarza",
+                "status": "Brąz 1",
+                "skills": [
+                    "Intuicja",
+                    "Język (Magiczny)",
+                    "Odporność",
+                    "Percepcja",
+                    "Splatanie Magii",
+                    "Sztuka Przetrwania",
+                    "Wiedza (Ludowa)",
+                    "Wiedza (Zioła)"
+                ],
+                "talents": [
+                    "Magia Prosta",
+                    "Doświadczony Wędrowiec (Lasy)",
+                    "Ruchliwe",
+                    "Dłonie",
+                    "Włóczykij"
+                ],
+                "equipment": [
+                    "Kostur",
+                    "Plecak",
+                    "1k10 Amuletów na Szczęście"
+                ]
+            },
+            {
+                "subclassname": "Guślarz",
+                "status": "Brąz 2",
+                "skills": [
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Leczenie",
+                    "Wiedza(Lokalna)",
+                    "Rzemiosło (Amulety)",
+                    "Rzemiosło (Zielarz)"
+                ],
+                "talents": [
+                    "Magia Tajemna (Guślarstwo)",
+                    "Posłuch u Zwierząt",
+                    "Szósty",
+                    "Zmysł",
+                    "Zmysł Magii"
+                ],
+                "equipment": [
+                    "Kataplazm Leczniczy",
+                    "Narzędzia Pracy",
+                    "Zestaw do Leczenia Zatruć"
+                ]
+            },
+            {
+                "subclassname": "Starszy Guślarzy",
+                "status": "Brąz 3",
+                "skills": [
+                    "Targowanie",
+                    "Wiedza (Duchy)",
+                    "Wiedza (Genealogia)",
+                    "Wiedza (Magia)"
+                ],
+                "talents": [
+                    "Czysta Dusza",
+                    "Odporny na (Choroby)",
+                    "Wykrywanie",
+                    "Magii",
+                    "Wytwórca (Zielarz)"
+                ],
+                "equipment": [
+                    "Odosobniona Chata",
+                    "Uczeń"
+                ]
+            },
+            {
+                "subclassname": "Wiedzący",
+                "status": "Brąz 5",
+                "skills": [
+                    "Modlitwa",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Mistrz Rzemiosła (Zielarz)",
+                    "Odporność Psychiczna",
+                    "Widzenie w Ciemności",
+                    "Wyczulony Zmysł (Dowolny)"
+                ],
+                "equipment": [
+                    "Ceremonialny Płaszcz z Wiankiem",
+                    "Zbiór",
+                    "Zwierzęcych Czaszek"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "ŁOWCA",
+        "subclasses": [
+            {
+                "subclassname": "Traper",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Zasięgowa (Proca)",
+                    "Odporność",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Sztuka Przetrwania",
+                    "Wiedza (Zwierzęta)",
+                    "Wspinaczka",
+                    "Zastawianie Pułapek"
+                ],
+                "talents": [
+                    "Doświadczony Wędrowiec (Dowolny Teren)",
+                    "Traper",
+                    "Twardziel",
+                    "Włóczykij"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Mocne Buty i Płaszcz",
+                    "Wybór",
+                    "Sideł na Zwierzęta",
+                    "Proca z 10 Kamiennymi Pociskami"
+                ]
+            },
+            {
+                "subclassname": "Łowca",
+                "status": "Brąz 4",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Broń Zasięgowa(Łuk)",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Sekretne Znaki (Łowców)",
+                    "Skradanie (Wieś)"
+                ],
+                "talents": [
+                    "Błyskawiczny Strzał",
+                    "Celny Strzał",
+                    "Oko Łowcy",
+                    "Strzelec",
+                    "Wyborowy"
+                ],
+                "equipment": [
+                    "Łuk z 10 Strzałami"
+                ]
+            },
+            {
+                "subclassname": "Tropiciel",
+                "status": "Srebro 1",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Nawigacja",
+                    "Pływanie",
+                    "Tropienie"
+                ],
+                "talents": [
+                    "Nieustraszony (Zwierzęta)",
+                    "Prosto Między Oczy",
+                    "Strzał",
+                    "w Dziesiątkę",
+                    "Wyczulony Zmysł (Dowolny)"
+                ],
+                "equipment": [
+                    "Namiot",
+                    "Plecak",
+                    "Zwijane Posłanie"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Łowów",
+                "status": "Srebro 3",
+                "skills": [
+                    "Opieka nad Zwierzętami",
+                    "Tresura (Dowolna)"
+                ],
+                "talents": [
+                    "Krzepki",
+                    "Nieustraszony (Potwory)",
+                    "Snajper",
+                    "Strzał Przebijający"
+                ],
+                "equipment": [
+                    "Koń Wierzchowy z Rzędem",
+                    "Psiarnia z Psami Łowieckimi"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "MISTYK",
+        "subclasses": [
+            {
+                "subclassname": "Wróżbiarz",
+                "status": "Brąz 1",
+                "skills": [
+                    "Charyzma",
+                    "Intuicja",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Unik",
+                    "Występy (Wróżenie)",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Charyzmatyczny",
+                    "Percepcja Magiczna",
+                    "Szczęście"
+                ],
+                "equipment": [
+                    "Talia Kart albo Zestaw Kości",
+                    "Tania Biżuteria"
+                ]
+            },
+            {
+                "subclassname": "Mistyk",
+                "status": "Brąz 2",
+                "skills": [
+                    "Opanowanie",
+                    "Przekupstwo",
+                    "Wiedza(Astrologia)",
+                    "Wycena",
+                    "Występy (Proroctwa)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Dobrze Przygotowany",
+                    "Rozpoznanie Artefaktu",
+                    "Szósty Zmysł",
+                    "Święte Wizje"
+                ],
+                "equipment": [
+                    "Wybór Amuletów"
+                ]
+            },
+            {
+                "subclassname": "Mędrzec",
+                "status": "Brąz 3",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Oswajanie",
+                    "Sztuka(Pisarstwo)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Czarownica!",
+                    "Czytanie/Pisanie",
+                    "Magia Prosta",
+                    "Nos do Kłopotów"
+                ],
+                "equipment": [
+                    "Narzędzia Pracy (Pisarza)"
+                ]
+            },
+            {
+                "subclassname": "Prorok",
+                "status": "Brąz 4",
+                "skills": [
+                    "Splatanie Magii (Azyr)",
+                    "Wiedza(Proroctwa)"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Odporność Psychiczna",
+                    "Magia Tajemna (Niebios)",
+                    "Wykrywanie Magii"
+                ],
+                "equipment": [
+                    "Narzędzia Pracy (Astrologa)Powiem ci",
+                    "dlaczego mamy domy na kołach: dlatego"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "ZARZĄDC",
+        "subclasses": [
+            {
+                "subclassname": "Poborca Podatków",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Unik",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Defraudant",
+                    "Mocne plecy",
+                    "Numizmatyka",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Mała Zamykana Szkatułka"
+                ]
+            },
+            {
+                "subclassname": "Zarządca",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Przekupstwo",
+                    "Przekonywanie",
+                    "Wiedza (Lokalna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Ogłuszenie",
+                    "Przemawianie",
+                    "Przestępca",
+                    "Wtargnięcie",
+                    "z Włamaniem"
+                ],
+                "equipment": [
+                    "Skórzana Kurta",
+                    "3 Poborców Podatków"
+                ]
+            },
+            {
+                "subclassname": "Włodarz",
+                "status": "Złoto 1",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Nawigacja",
+                    "Opieka nadZwierzętami",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Groźny",
+                    "Nos do Kłopotów",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Koń z Siodłem i Uprzężą",
+                    "Napierśnik",
+                    "Zarządca"
+                ]
+            },
+            {
+                "subclassname": "Komornik",
+                "status": "Złoto 3",
+                "skills": [
+                    "Język (Klasyczny)",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Intrygant",
+                    "Władcza Postura",
+                    "Żelazna",
+                    "Wola"
+                ],
+                "equipment": [
+                    "Biblioteka (Prawo)",
+                    "Pieczęć Urzędowa",
+                    "Szata",
+                    "Dobrej Jakości"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Pospólstwo",
+        "path": "ZIELARK",
+        "subclasses": [
+            {
+                "subclassname": "Zbieraczka Ziół",
+                "status": "Brąz 2",
+                "skills": [
+                    "Odporność",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Pływanie",
+                    "Rzemiosło (Zielarz)",
+                    "Sztuka Przetrwania",
+                    "Wiedza (Zioła)",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Doświadczony Wędrowiec (Dowolny Teren)",
+                    "Włóczykij",
+                    "Wyczucie Kierunku",
+                    "Wyczulony Zmysł (Smak)"
+                ],
+                "equipment": [
+                    "Buty",
+                    "Płaszcz",
+                    "Torba na Ramię Zawierająca",
+                    "Wybór Ziół"
+                ]
+            },
+            {
+                "subclassname": "Zielarka",
+                "status": "Brąz 4",
+                "skills": [
+                    "Leczenie",
+                    "Mocna Głowa",
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Tragarz",
+                    "Zręczne Palce",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Sierp)",
+                    "Kataplazm Leczniczy",
+                    "Narzędzia Pracy (Zielarza)"
+                ]
+            },
+            {
+                "subclassname": "Mistrzyni Ziołolecznictwa",
+                "status": "Srebro 1",
+                "skills": [
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Rzemiosło (Trucizny)",
+                    "Wiedza (Medycyna)"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Pierwsza Pomoc",
+                    "Twardziel",
+                    "Wytwórca"
+                ],
+                "equipment": [
+                    "Mikstura Lecznicza",
+                    "Warsztat (Zielarza)",
+                    "Zbieracz Ziół",
+                    "3 Kataplazmy Lecznicze"
+                ]
+            },
+            {
+                "subclassname": "Arcyzielarka",
+                "status": "Srebro 3",
+                "skills": [
+                    "Powożenie",
+                    "Nawigacja"
+                ],
+                "talents": [
+                    "Mistrz Rzemiosła (Zielarstwo)",
+                    "Odporny na (Trucizny)",
+                    "Przyrządzanie Mikstur",
+                    "Znawca (Zioła)"
+                ],
+                "equipment": [
+                    "Wóz z Kucem"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "ZWIADOWC",
+        "subclasses": [
+            {
+                "subclassname": "Przewodnik",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Odporność",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Sztuka Przetrwania",
+                    "Wiedza",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Doświadczony Wędrowiec (Dowolny Teren)",
+                    "Włóczykij",
+                    "Wyczucie Kierunku"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Lina",
+                    "Mocne Buty",
+                    "i Płaszcz",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Zwiadowca",
+                "status": "Brąz 5",
+                "skills": [
+                    "Atletyka",
+                    "Broń Zasięgowa (Łuk)",
+                    "Jeździectwo (Konie)",
+                    "Nawigacja",
+                    "Skradanie (Wieś)",
+                    "Tropienie"
+                ],
+                "talents": [
+                    "Nos do Kłopotów",
+                    "Obieżyświat",
+                    "Widzenie w",
+                    "Ciemności",
+                    "Zmysł Bitewny"
+                ],
+                "equipment": [
+                    "Łuk i 10 Strzał",
+                    "Kaftan Kolczy"
+                ]
+            },
+            {
+                "subclassname": "Przepatrywacz",
+                "status": "Srebro 1",
+                "skills": [
+                    "Opieka nad Zwierzętami",
+                    "Pływanie",
+                    "Sekretne Znaki (Łowców)",
+                    "Targowanie"
+                ],
+                "talents": [
+                    "Niezwykle Odporny",
+                    "Silne Nogi",
+                    "Szósty Zmysł",
+                    "Wyczulony",
+                    "Zmysł (Wzrok)"
+                ],
+                "equipment": [
+                    "Koń Wierzchowy z Rzędem",
+                    "Juki z Prowiantem na 2 Tygodnie",
+                    "Mapa",
+                    "Namiot"
+                ]
+            },
+            {
+                "subclassname": "Odkrywca",
+                "status": "Srebro 5",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Rzemiosło (Kartograf )"
+                ],
+                "talents": [
+                    "Poliglota",
+                    "Twardziel",
+                    "Wytrwały",
+                    "Znawca (Wiedza Lokalna)"
+                ],
+                "equipment": [
+                    "Wybór Map",
+                    "Narzędzia Pracy (Kartografa)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "BICZOWNIK",
+        "subclasses": [
+            {
+                "subclassname": "Gorliwiec",
+                "status": "Brąz 0",
+                "skills": [
+                    "Broń Biała (Korbacz)",
+                    "Intuicja",
+                    "Leczenie",
+                    "Odporność",
+                    "Sztuka Przetrwania",
+                    "Unik",
+                    "Wiedza (Sigmar)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Berserkerska Szarża",
+                    "Czytanie/Pisanie",
+                    "Szał Bojowy",
+                    "Wstrzemięźliwy"
+                ],
+                "equipment": [
+                    "Korbacz",
+                    "Postrzępione Odzienie"
+                ]
+            },
+            {
+                "subclassname": "Biczownik",
+                "status": "Brąz 0",
+                "skills": [
+                    "Atletyka",
+                    "Broń Zasięgowa (Proca)",
+                    "Język (Klasyczny)",
+                    "Opanowanie",
+                    "Sztuka (Ikony)",
+                    "Wiedza"
+                ],
+                "talents": [
+                    "Biczownik",
+                    "Nienawiść (Heretycy)",
+                    "Nieubłagany",
+                    "Twardziel"
+                ],
+                "equipment": [
+                    "Symbol Religijny",
+                    "Proca",
+                    "Tabliczka"
+                ]
+            },
+            {
+                "subclassname": "Pokutnik",
+                "status": "Brąz 0",
+                "skills": [
+                    "Charyzma",
+                    "Język (Dowolny)",
+                    "Percepcja",
+                    "Wiedza (Teologia)"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Obieżyświat",
+                    "Pierwsza Pomoc",
+                    "Wściekły Atak"
+                ],
+                "equipment": [
+                    "Relikwia"
+                ]
+            },
+            {
+                "subclassname": "Piewca Zagłady",
+                "status": "Brąz 0",
+                "skills": [
+                    "Dowodzenie",
+                    "Występy (Przemowy)"
+                ],
+                "talents": [
+                    "Bitewna Furia",
+                    "Nieustraszony (Heretycy)",
+                    "Porywająca",
+                    "Gorliwość",
+                    "Straszny"
+                ],
+                "equipment": [
+                    "Księga (Religia)",
+                    "Towarzysze (włącznie z Pokutnikami Biczownikami i Gorliwcami)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "DOMOKRĄŻC",
+        "subclasses": [
+            {
+                "subclassname": "Włóczykij",
+                "status": "Brąz 1",
+                "skills": [
+                    "Charyzma",
+                    "Intuicja",
+                    "Odporność",
+                    "Plotkowanie",
+                    "Skradanie (Miasto albo Wieś)",
+                    "Sztuka Przetrwania",
+                    "Targowanie",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Chodu!",
+                    "Rybak",
+                    "Włóczykij",
+                    "Złota Rączka"
+                ],
+                "equipment": [
+                    "Plecak",
+                    "Namiot",
+                    "Zwijane Posłanie",
+                    "Towary"
+                ]
+            },
+            {
+                "subclassname": "Domokrążca",
+                "status": "Brąz 4",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Mocna Głowa",
+                    "Opieka nadZwierzętami",
+                    "Oswajanie",
+                    "Rzemiosło (Złota Rączka)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Mocne Plecy",
+                    "Obieżyświat",
+                    "Wyczucie Kierunku",
+                    "Żyłka",
+                    "Handlowa"
+                ],
+                "equipment": [
+                    "Muł z Jukami",
+                    "Narzędzia Pracy (Złotej",
+                    "Rączki)",
+                    "Wybór Rondli i Patelni",
+                    "Towary warte 2k10",
+                    "Srebrnych Monet"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Domokrążców",
+                "status": "Srebro 1",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Percepcja",
+                    "Powożenie",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Dobrze Przygotowany",
+                    "Niezwykle Odporny",
+                    "Numizmatyka",
+                    "Tragarz"
+                ],
+                "equipment": [
+                    "Wóz",
+                    "Towary warte co najmniej 2k10",
+                    "Złotych Monet"
+                ]
+            },
+            {
+                "subclassname": "Wędrowny Handlarz",
+                "status": "Srebro 3",
+                "skills": [
+                    "Wiedza (Geografia)",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Gładkie Słówka",
+                    "Odporność Psychiczna",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Wóz z Koniem Pociągowym",
+                    "Towary warte",
+                    "co najmniej 5k10 Złotych i 50 Srebrnych Monet"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "KUGLARZ",
+        "subclasses": [
+            {
+                "subclassname": "Grajek Uliczny",
+                "status": "Brąz 3",
+                "skills": [
+                    "Atletyka",
+                    "Charyzma",
+                    "Kuglarstwo (Dowolne)",
+                    "Muzyka (Dowolna)",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Występy (Dowolne)",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Charyzmatyczny",
+                    "Naśladowca",
+                    "Mówca"
+                ],
+                "equipment": [
+                    "Instrument",
+                    "Miska"
+                ]
+            },
+            {
+                "subclassname": "Kuglarz",
+                "status": "Brąz 5",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Broń Zasięgowa(Rzucana)",
+                    "Jeździectwo (Dowolne)",
+                    "Kuglarstwo (Dowolne)",
+                    "Muzyka (Dowolna)",
+                    "Występy (Dowolne)"
+                ],
+                "talents": [
+                    "Człowiek Guma",
+                    "Sprężynka",
+                    "Strzał w Dziesiątkę",
+                    "Woltyżerka"
+                ],
+                "equipment": [
+                    "Broń Rzucana (kilka sztuk)",
+                    "Kostium",
+                    "Instrument",
+                    "Wybór Scenariuszy (których jeszcze nie możesz przeczytać)"
+                ]
+            },
+            {
+                "subclassname": "Trubadur",
+                "status": "Srebro 3",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Opieka nad Zwierzętami",
+                    "Sztuka (Pisarstwo)",
+                    "Tresura (Dowolne)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Gadanina",
+                    "Mistrz Charakteryzacji",
+                    "Słuch Absolutny"
+                ],
+                "equipment": [
+                    "Tresowane Zwierzę",
+                    "Zestaw do Pisania"
+                ]
+            },
+            {
+                "subclassname": "Kierownik Trupy",
+                "status": "Złoto 1",
+                "skills": [
+                    "Dowodzenie",
+                    "Powożenie"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Etykieta (Dowolna Grupa)",
+                    "Obieżyświat",
+                    "Żyłka",
+                    "Handlowa"
+                ],
+                "equipment": [
+                    "Garderoba z Kostiumami i Rekwizytami",
+                    "Trupa Kuglarzy",
+                    "Wóz (Scena) z Końmi Pociągowymi"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "ŁOWCY CZAROWNI",
+        "subclasses": [
+            {
+                "subclassname": "Oprawca",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Bijatyka)",
+                    "Charyzma",
+                    "Intuicja",
+                    "Leczenie",
+                    "Mocna Głowa",
+                    "Percepcja",
+                    "Wiedza (Tortury)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Groźny",
+                    "Nieugięty",
+                    "Zimna Krew"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Narzędzia Tortur"
+                ]
+            },
+            {
+                "subclassname": "Łowca Czarownic",
+                "status": "Srebro 3",
+                "skills": [
+                    "Broń Biała (Dowolna)",
+                    "Broń Zasięgowa(Dowolna)",
+                    "Jeździectwo (Konie)",
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Wiedza (Czarownice)"
+                ],
+                "talents": [
+                    "Cień",
+                    "Dwie Bronie",
+                    "Obieżyświat",
+                    "Percepcja Magiczna",
+                    "Strzelec Wyborowy"
+                ],
+                "equipment": [
+                    "Kapelusz (Kornet)",
+                    "Koń Wierzchowy",
+                    "z Rzędem",
+                    "Kusza Pistoletowa albo Pistolet",
+                    "Lina",
+                    "Posrebrzany Miecz",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Inkwizytor",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Odporność",
+                    "Wiedza (Lokalna)",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Odporność Psychiczna",
+                    "Nieustępliwy",
+                    "Nieustraszony",
+                    "Nos do Kłopotów"
+                ],
+                "equipment": [
+                    "Podwładni Oprawcy",
+                    "Ubranie Dobrej Jakości"
+                ]
+            },
+            {
+                "subclassname": "Generał Łowców Czarownic",
+                "status": "Złoto 1",
+                "skills": [
+                    "Wiedza (Chaos)",
+                    "Wiedza (Polityka)"
+                ],
+                "talents": [
+                    "Czysta Dusza",
+                    "Straszny",
+                    "Wykrywanie Magii",
+                    "Żelazna",
+                    "Wola"
+                ],
+                "equipment": [
+                    "Podwładni Łowcy Czarownic",
+                    "Strój Dworski",
+                    "Najlepszej Jakości"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "ŁOWCY NAGRÓ",
+        "subclasses": [
+            {
+                "subclassname": "Pogromczyni Złodziei",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Intuicja",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Sztuka Przetrwania",
+                    "Targowanie"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Cień",
+                    "Ogłuszenie",
+                    "Wtargnięcie z",
+                    "Włamaniem"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Lina",
+                    "Skórzany Kaftan"
+                ]
+            },
+            {
+                "subclassname": "Łowczyni Nagród",
+                "status": "Srebro 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Zasięgowa (Kusza)",
+                    " Broń"
+                ],
+                "talents": [
+                    "Mocne Plecy",
+                    "Nieustępliwy",
+                    "Obieżyświat",
+                    "Strzelec",
+                    "Wyborowy"
+                ],
+                "equipment": [
+                    "Glejty",
+                    "Kajdany",
+                    "Kusza i 10 Bełtów",
+                    "Skórzany Hełm",
+                    "Sieć"
+                ]
+            },
+            {
+                "subclassname": "Mistrzyni Łowców Nagród",
+                "status": "Srebro 5",
+                "skills": [
+                    "Jeździectwo (Konie)",
+                    "Opieka nadZwierzętami",
+                    "Pływanie",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Celny Strzał",
+                    "Cios Mierzony",
+                    "Dwie Bronie",
+                    "Szybkobiegacz"
+                ],
+                "equipment": [
+                    "Kaftan Kolczy",
+                    "Koń",
+                    "Wierzchowy z Siodłem"
+                ]
+            },
+            {
+                "subclassname": "Legenda Łowców Nagród",
+                "status": "Złoto 1",
+                "skills": [
+                    "Powożenie",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Prosto Między Oczy",
+                    "Nieustraszony (Cele",
+                    "Łowów)",
+                    "Twardziel",
+                    "Strzał Przebijający"
+                ],
+                "equipment": [
+                    "Kaftan Kolczy",
+                    "Powóz z Koniem",
+                    "Pociągowym",
+                    "4 pary Kajdan"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "POSŁAŃC",
+        "subclasses": [
+            {
+                "subclassname": "Goniec",
+                "status": "Brąz 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Bijatyka)",
+                    "Unik",
+                    "Nawigacja",
+                    "Odporność",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Bardzo Szybki",
+                    "Chodu!",
+                    "Szybkobiegacz",
+                    "Zejście",
+                    "z Linii"
+                ],
+                "equipment": [
+                    "Tuba na Zwoje"
+                ]
+            },
+            {
+                "subclassname": "Posłaniec",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Jeździectwo (Konie)",
+                    "Opanowanie",
+                    "Opieka nad Zwierzętami",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Obieżyświat",
+                    "Przestępca",
+                    "Wyczucie Kierunku",
+                    "Z Bata"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Koń Wierzchowy",
+                    "z Rzędem",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Kurier",
+                "status": "Srebro 3",
+                "skills": [
+                    "Mocna Głowa",
+                    "Oswajanie",
+                    "Przekupstwo",
+                    "Sztuka Przetrwania"
+                ],
+                "talents": [
+                    "Nieustępliwy",
+                    "Nos do Kłopotów",
+                    "Woltyżerka",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Juki",
+                    "Plecak",
+                    "Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Kapitan Kurierów",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Nienawiść (Banici)",
+                    "Niezwykle Odporny",
+                    "Szycha",
+                    "Żyłka",
+                    "Handlowa"
+                ],
+                "equipment": [
+                    "Kaftan Kolczy",
+                    "Kurierzy",
+                    "Zestaw do Pisania"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wędrowcy",
+        "path": "STRAŻNIKA DRÓ",
+        "subclasses": [
+            {
+                "subclassname": "Mytnik",
+                "status": "Brąz 5",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Broń Zasięgowa(Kusza)",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Targowanie"
+                ],
+                "talents": [
+                    "Defraudant",
+                    "Numizmatyka",
+                    "Strzelec Wyborowy",
+                    "Zimna Krew"
+                ],
+                "equipment": [
+                    "Kusza z 10 Bełtami",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Strażnik Dróg",
+                "status": "Srebro 2",
+                "skills": [
+                    "Intuicja",
+                    "Jeździectwo (Konie)",
+                    "Odporność",
+                    "Opieka nad Zwierzętami",
+                    "Sztuka Przetrwania",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Obieżyświat",
+                    "Przestępca",
+                    "Urodzony w Siodle",
+                    "Z Bata"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Kaftan Kolczy",
+                    "Koń",
+                    "Wierzchowy z Rzędem",
+                    "Lina"
+                ]
+            },
+            {
+                "subclassname": "Sierżant Strażników Dróg",
+                "status": "Srebro 4",
+                "skills": [
+                    "Atletyka",
+                    "Broń Zasięgowa (Prochowa)",
+                    "Charyzma",
+                    "Dowodzenie"
+                ],
+                "talents": [
+                    "Etykieta (Żołnierze)",
+                    "Nienawiść (Dowolne)",
+                    "Nieustraszony",
+                    "Nos do Kłopotów"
+                ],
+                "equipment": [
+                    "Drużyna Strażników Dróg",
+                    "Pistolet z 10",
+                    "Nabojami",
+                    "Tarcza",
+                    "Symbol Rangi"
+                ]
+            },
+            {
+                "subclassname": "Kapitan Strażników Dróg",
+                "status": "Złoto 1",
+                "skills": [
+                    "Nawigacja",
+                    "Wiedza (Imperium)"
+                ],
+                "talents": [
+                    "Mówca",
+                    "Szycha",
+                    "Władcza Postura",
+                    "Zmysł Bitewny"
+                ],
+                "equipment": [
+                    "Kapelusz i Płaszcz Dobrej Jakości",
+                    "Lekki",
+                    "Koń Bojowy",
+                    "Pistolet z 10 Nabojami",
+                    "Oddział Strażników",
+                    " Dróg"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "WOŹNIC",
+        "subclasses": [
+            {
+                "subclassname": "Foryś",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Zasięgowa (Unieruchamiająca)",
+                    "Jeździectwo (Konie)",
+                    "Odporność",
+                    "Opieka nad Zwierzętami",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Powożenie",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Obieżyświat",
+                    "Posłuch u Zwierząt",
+                    "Woltyżerka",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Bicz",
+                    "Ciepły Płaszcz i Rękawice"
+                ]
+            },
+            {
+                "subclassname": "Woźnica",
+                "status": "Srebro 2",
+                "skills": [
+                    "Broń Zasięgowa (Prochowa)",
+                    "Intuicja",
+                    " Mocna"
+                ],
+                "talents": [
+                    "Artylerzysta",
+                    "Odporność Psychiczna",
+                    "Z Bata",
+                    "Zimna",
+                    "Krew"
+                ],
+                "equipment": [
+                    "Garłacz z 10 Nabojami",
+                    "Kapelusz",
+                    "Skórzana",
+                    "Kurta",
+                    "Trąbka od Powozu"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Woźniców",
+                "status": "Srebro 3",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Tresura (Konie)",
+                    "Wiedza(Szlaki)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Celny Strzał",
+                    "Nieustraszony (Banici)",
+                    "Nos do Kłopotów",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Dobry Płaszcz",
+                    "Kaftan Kolczy",
+                    "Pistolet"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Szlaków",
+                "status": "Srebro 5",
+                "skills": [
+                    "Charyzma",
+                    "Dowodzenie"
+                ],
+                "talents": [
+                    "Nieustraszony (Zwierzoludzie)",
+                    "Strzelec Wyborowy",
+                    "Szybkie Przeładowanie",
+                    "Wyczucie Kierunku"
+                ],
+                "equipment": [
+                    "Flota Koni i Powozów",
+                    " Mapy"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "DOKER",
+        "subclasses": [
+            {
+                "subclassname": "Pomocnik Dokera",
+                "status": "Brąz 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Podstawowa)",
+                    " Mocna"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Cios Poniżej Pasa",
+                    "Mocne Plecy",
+                    "Tragarz"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Bosak)",
+                    "Skórzane",
+                    "Rękawice"
+                ]
+            },
+            {
+                "subclassname": "Doker",
+                "status": "Srebro 1",
+                "skills": [
+                    "Hazard",
+                    "Percepcja",
+                    "Przekupstwo",
+                    "Skradanie(Miasto)",
+                    "Występy (Gawędziarstwo)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Etykieta (Członkowie Cechu)",
+                    "Przestępca",
+                    "Silne Nogi",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Fajka i Tytoń",
+                    "Licencja Cechu",
+                    "Skórzany",
+                    "Kaftan",
+                    "Czapka Tragarza"
+                ]
+            },
+            {
+                "subclassname": "Brygadzista",
+                "status": "Srebro 3",
+                "skills": [
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Defraudant",
+                    "Etykieta (Przestępcy)",
+                    "Mówca",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Gang Dokerów",
+                    "Gwizdek"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Dokerów",
+                "status": "Srebro 5",
+                "skills": [
+                    "Charyzma",
+                    "Wiedza (Podatki)"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Groźny",
+                    "Numizmatyka",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Kantor z Pracownikami",
+                    "Zestaw do Pisania"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "FLISAK",
+        "subclasses": [
+            {
+                "subclassname": "Rybak",
+                "status": "Brąz 2",
+                "skills": [
+                    "Atletyka",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Plotkowanie",
+                    "Pływanie",
+                    "Sztuka Przetrwania",
+                    "Unik",
+                    "Wioślarstwo"
+                ],
+                "talents": [
+                    "Doświadczony Wędrowiec (Bagna)",
+                    "Rybak",
+                    "Świetny",
+                    "Pływak",
+                    "Towarzyski"
+                ],
+                "equipment": [
+                    "Skórzane Nogawice",
+                    "Wiadro",
+                    "Wędka",
+                    "z Przynętą"
+                ]
+            },
+            {
+                "subclassname": "Flisak",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Zasięgowa (Rzucana)",
+                    "Broń Zasięgowa(Unieruchamiająca)",
+                    "Hazard",
+                    "Wiedza (Lokalna)",
+                    "Wiedza(Szlaki",
+                    "Rzeczne)",
+                    "Zastawianie Pułapek"
+                ],
+                "talents": [
+                    "Mocne Plecy",
+                    "Włóczykij",
+                    "Wodniak",
+                    "Wytwórca (Szkutnik)"
+                ],
+                "equipment": [
+                    "Pułapka na Węgorze",
+                    "Skórzany Kaftan",
+                    "Sieć",
+                    "Włócznia"
+                ]
+            },
+            {
+                "subclassname": "Znawca Rzeki",
+                "status": "Brąz 5",
+                "skills": [
+                    "Broń Biała (Drzewcowa)",
+                    "Intuicja",
+                    "Percepcja",
+                    "Przekonywanie"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Waleczne Serce",
+                    "Wytrwały",
+                    "Znawca"
+                ],
+                "equipment": [
+                    "Lampa Sztormowa z Oliwą",
+                    "Łódź Wiosłowa"
+                ]
+            },
+            {
+                "subclassname": "Starszy Rzeczny",
+                "status": "Srebro 2",
+                "skills": [
+                    "Wiedza (Ludowa)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Odporność Psychiczna",
+                    "Mistrz",
+                    "Rzemiosła (Szkutnictwo)",
+                    "Mówca"
+                ],
+                "equipment": [
+                    "Chata lub Szkuta"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "PILOTA RZECZNEG",
+        "subclasses": [
+            {
+                "subclassname": "Przewodnik Rzeczny",
+                "status": "Brąz 4",
+                "skills": [
+                    "Intuicja",
+                    "Mocna Głowa",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Pływanie",
+                    "Wiedza (Lokalna)",
+                    "Wiedza (SzlakiRzeczne)",
+                    "Wioślarstwo"
+                ],
+                "talents": [
+                    "Rybak",
+                    "Widzenie w Ciemności",
+                    "Wodniak",
+                    "Wyczucie",
+                    "Kierunku"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Bosak)",
+                    "Lampa Sztormowa",
+                    "z Oliwą"
+                ]
+            },
+            {
+                "subclassname": "Pilot Rzeczny",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Język (Dowolny)",
+                    "Nawigacja",
+                    "Opanowanie",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Etykieta (Cechy)",
+                    "Nos do Kłopotów",
+                    "Pilot Rzeczny",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Lina",
+                    "Łódź Wiosłowa",
+                    "Skórzany Kaftan"
+                ]
+            },
+            {
+                "subclassname": "Starszy Pilot",
+                "status": "Srebro 3",
+                "skills": [
+                    "Targowanie",
+                    "Wiedza (Lokalna)",
+                    "Wiedza(Wraki)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Pilot",
+                    "Urodzony Żeglarz",
+                    "Wyczulony",
+                    "Zmysł (Wzrok)"
+                ],
+                "equipment": [
+                    "Drąg",
+                    "Lampa Sztormowa z Oliwą"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Pilotów",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Żeglarstwo"
+                ],
+                "talents": [
+                    "Czujny",
+                    "Szósty Zmysł",
+                    "Świetny Pływak",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Chłopiec Pokładowy",
+                    "Mała Łódź Rzeczna"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "PIRATA RZECZNEG",
+        "subclasses": [
+            {
+                "subclassname": "Szabrownik",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Pływanie",
+                    "Sztuka Przetrwania",
+                    "Unik",
+                    "Wioślarstwo",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Mocne Plecy",
+                    "Przestępca",
+                    "Rybak",
+                    "Wtargnięcie",
+                    "z Włamaniem"
+                ],
+                "equipment": [
+                    "Duży Worek",
+                    "Łom",
+                    "Skórzane",
+                    "Rękawice"
+                ]
+            },
+            {
+                "subclassname": "Pirat Rzeczny",
+                "status": "Brąz 3",
+                "skills": [
+                    "Intuicja",
+                    "Nawigacja",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Przekupstwo",
+                    "Zastawianie Pułapek"
+                ],
+                "talents": [
+                    "Chodu!",
+                    "Świetny Pływak",
+                    "Traper",
+                    "Włóczykij"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Bosak)",
+                    "Skórzana Kurta",
+                    "Lampa Sztormowa z Oliwą"
+                ]
+            },
+            {
+                "subclassname": "Łupieżca",
+                "status": "Brąz 5",
+                "skills": [
+                    "Broń Zasięgowa (Kusza)",
+                    "Plotkowanie",
+                    "Skradanie",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Etykieta (Przestępcy)",
+                    "Groźny",
+                    "Wodniak"
+                ],
+                "equipment": [
+                    "Kotwiczka z Liną",
+                    "Kusza z 10 Bełtami",
+                    "Łódź",
+                    "Rzeczna"
+                ]
+            },
+            {
+                "subclassname": "Kapitan Łupieżców",
+                "status": "Srebro 2",
+                "skills": [
+                    "Dowodzenie",
+                    "Wiedza (Szlaki Wodne)"
+                ],
+                "talents": [
+                    "Pilot",
+                    "Skrócenie Dystansu",
+                    "Urodzony Wojownik",
+                    "Wściekły",
+                    "Atak"
+                ],
+                "equipment": [
+                    "Beczułka Piwa",
+                    "Flota Łodzi Rzecznych",
+                    "z Załogą Piratów",
+                    " Kajdany"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "PRZEMYTNICZK",
+        "subclasses": [
+            {
+                "subclassname": "Szmuglerka Rzeczna",
+                "status": "Brąz 2",
+                "skills": [
+                    "Atletyka",
+                    "Mocna Głowa",
+                    "Opanowanie",
+                    "Pływanie",
+                    "Przekupstwo",
+                    "Skradanie (Wieśalbo",
+                    "Miasto)",
+                    "Wioślarstwo",
+                    "Żeglarstwo"
+                ],
+                "talents": [
+                    "Doświadczony Wędrowiec (Bagna)",
+                    "Mocne Plecy",
+                    "Przestępca",
+                    "Rybak"
+                ],
+                "equipment": [
+                    "Chusta albo Maska",
+                    "Duży Worek",
+                    "Lampa",
+                    "Sztormowa z Oliwą",
+                    "Pudełko na Hubkę i Krzesiwo"
+                ]
+            },
+            {
+                "subclassname": "Przemytniczka",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Sekretne Znaki (Przemytników)",
+                    "Targowanie",
+                    "Wiedza"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Etykieta (Przestępcy)",
+                    "Wodniak",
+                    "Żyłka",
+                    "Handlowa"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Skórzana Kurta",
+                    "Łódź",
+                    "Wiosłowa",
+                    "2 Beczki"
+                ]
+            },
+            {
+                "subclassname": "Mistrzyni Przemytników",
+                "status": "Brąz 5",
+                "skills": [
+                    "Intuicja",
+                    "Wiedza (Szlaki Rzeczne)",
+                    "Wycena",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Łapówkarz",
+                    "Nieustraszony (Strażnicy Rzeczni)",
+                    "Pilot",
+                    "Świetny Pływak"
+                ],
+                "equipment": [
+                    "Szmugler Rzeczny",
+                    "Szybka Łódź Rzeczna"
+                ]
+            },
+            {
+                "subclassname": "Królowa Przemytników",
+                "status": "Srebro 2",
+                "skills": [
+                    "Dowodzenie",
+                    "Język (Dowolny)"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Doświadczony Wędrowiec (Wybrzeża)",
+                    "Szycha",
+                    "Urodzony Żeglarz"
+                ],
+                "equipment": [
+                    "Mała Flota Łodzi Rzecznych",
+                    "Zestaw do Charakteryzacji"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "PRZEWOŹNIK",
+        "subclasses": [
+            {
+                "subclassname": "Chłopiec Pokładowy",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Bijatyka)",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Plotkowanie",
+                    "Pływanie",
+                    "Unik",
+                    "Wioślarstwo",
+                    "Żeglarstwo"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Mocne Plecy",
+                    "Rybak",
+                    "Świetny Pływak"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Bosak)",
+                    "Drąg",
+                    "Skórzana",
+                    "Kurta"
+                ]
+            },
+            {
+                "subclassname": "Przewoźnik",
+                "status": "Srebro 2",
+                "skills": [
+                    "Atletyka",
+                    "Intuicja",
+                    "Percepcja",
+                    "Targowanie",
+                    "Wiedza (Szlaki Rzeczne)",
+                    "Występy"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Etykieta (Cechy)",
+                    "Obieżyświat",
+                    "Wodniak"
+                ],
+                "equipment": [
+                    "Lina",
+                    "Łódź Wiosłowa"
+                ]
+            },
+            {
+                "subclassname": "Sternik",
+                "status": "Srebro 3",
+                "skills": [
+                    "Leczenie",
+                    "Rzemiosło(Szkutnictwo)",
+                    "Wspinaczka",
+                    "Występy(Śpiewanie)"
+                ],
+                "talents": [
+                    "Defraudant",
+                    "Nos do Kłopotów",
+                    "Silny",
+                    "Cios",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Plecak",
+                    "Narzędzia Pracy"
+                ]
+            },
+            {
+                "subclassname": "Kapitan Barki",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Nawigacja"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Mówca",
+                    "Pilot",
+                    "Wyczucie Kierunku"
+                ],
+                "equipment": [
+                    "Kapelusz",
+                    "Łódź Rzeczna z Załogą"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wodniacy",
+        "path": "STRAŻNIKA RZECZNEG",
+        "subclasses": [
+            {
+                "subclassname": "Rekrut Rzeczny",
+                "status": "Srebro 1",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Podstawowa)",
+                    "Odporność",
+                    "Percepcja",
+                    "Pływanie",
+                    "Unik",
+                    "Wioślarstwo",
+                    "Żeglarstwo"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Mocne Plecy",
+                    "Świetny Pływak",
+                    "Wodniak"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Miecz)",
+                    "Mundur",
+                    "Skórzana",
+                    "Kurta"
+                ]
+            },
+            {
+                "subclassname": "Strażnik Rzeczny",
+                "status": "Srebro 2",
+                "skills": [
+                    "Broń Zasięgowa (Prochowa)",
+                    "Charyzma",
+                    "Przekupstwo",
+                    "Plotkowanie",
+                    "Wiedza (Szlaki Rzeczne)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Artylerzysta",
+                    "Obieżyświat",
+                    "Przestępca",
+                    "Rybak"
+                ],
+                "equipment": [
+                    "Latarnia z Oliwą",
+                    "Pistolet z 10 Nabojami",
+                    "Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Żołnierz Okrętowy",
+                "status": "Srebro 4",
+                "skills": [
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Opanowanie",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Nienawiść (Dowolna)",
+                    "Nieustraszony (Piraci Rzeczni)",
+                    "Pilot",
+                    "Urodzony Żeglarz"
+                ],
+                "equipment": [
+                    "Hełm",
+                    "Kaftan Kolczy",
+                    "Kotwiczka"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Żołnierzy Okrętowych",
+                "status": "Złoto 1",
+                "skills": [
+                    "Nawigacja",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Szycha",
+                    "Władcza Postura",
+                    "Wyczucie Kierunku"
+                ],
+                "equipment": [
+                    "Łodzie Patrolowe z Załogą",
+                    "Symbol Rangi"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "ŻEGLARZ",
+        "subclasses": [
+            {
+                "subclassname": "Szczur Lądowy",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Bijatyka)",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    "Pływanie",
+                    "Wioślarstwo",
+                    "Wspinaczka",
+                    "Żeglarstwo"
+                ],
+                "talents": [
+                    "Doświadczony Wędrowiec (Wybrzeża)",
+                    "Mocne",
+                    "Plecy",
+                    "Rybak",
+                    "Świetny Pływak"
+                ],
+                "equipment": [
+                    "Mop",
+                    "Szczotka",
+                    "Wiadro"
+                ]
+            },
+            {
+                "subclassname": "Żeglarz",
+                "status": "Srebro 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Podstawowa)",
+                    "Język (Dowolny)",
+                    "Odporność",
+                    "Unik",
+                    "Występy (Śpiewanie)"
+                ],
+                "talents": [
+                    "Na Cztery Łapy",
+                    "Obieżyświat",
+                    "Silne Nogi",
+                    "Urodzony",
+                    "Żeglarz"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Bosak)",
+                    "Skórzany Kaftan"
+                ]
+            },
+            {
+                "subclassname": "Bosman",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Rzemiosło"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Silny Cios",
+                    "Wilk Morski",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Narzędzia Pracy (Cieśli)"
+                ]
+            },
+            {
+                "subclassname": "Kapitan Statku",
+                "status": "Złoto 2",
+                "skills": [
+                    "Charyzma",
+                    "Nawigacja"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Mówca",
+                    "Pilot",
+                    "Wyczucie Kierunku"
+                ],
+                "equipment": [
+                    "Luneta",
+                    "Mapy Morskie",
+                    "Sekstant",
+                    "Statek Żeglowny z Załogą"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "BANITA",
+        "subclasses": [
+            {
+                "subclassname": "Zbój",
+                "status": "Brąz 1",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Podstawowa)",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Opanowanie",
+                    "Odporność",
+                    "Sztuka Przetrwania",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Zmysł Bitewny",
+                    "Przestępca",
+                    "Włóczykij",
+                    "Chodu!"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Pudełko na Hubkę i Krzesiwo",
+                    "Skórzany Kaftan",
+                    "Zwijane Posłanie"
+                ]
+            },
+            {
+                "subclassname": "Banita",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Zasięgowa (Łuk)",
+                    "Leczenie",
+                    "Percepcja",
+                    "Skradanie (Wieś)",
+                    "Unik",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Ogłuszenie",
+                    "Strzelec Wyborowy",
+                    "Traper"
+                ],
+                "equipment": [
+                    "Łuk i 10 Strzał",
+                    "Namiot",
+                    "Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Herszt Banitów",
+                "status": "Brąz 4",
+                "skills": [
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Jeździectwo (Konie)",
+                    "Plotkowanie"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Niezwykle Odporny",
+                    "Szybkie Przeładowanie",
+                    "Urodzony w Siodle"
+                ],
+                "equipment": [
+                    "Banda Banitów",
+                    "Hełm",
+                    "Kaftan Kolczy",
+                    "z Rękawami",
+                    "Koń Wierzchowy z Rzędem"
+                ]
+            },
+            {
+                "subclassname": "Król Bandytów",
+                "status": "Srebro 2",
+                "skills": [
+                    "Charyzma",
+                    "Wiedza (Imperium)"
+                ],
+                "talents": [
+                    "Prosto Między Oczy",
+                    "Nieustraszony (Strażnicy Dróg)",
+                    "Żelazna Wola",
+                    "Krzepki"
+                ],
+                "equipment": [
+                    "Hołd od Miejscowych Hersztów Banitów",
+                    " Kryjówka"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "CZAROWNICA",
+        "subclasses": [
+            {
+                "subclassname": "Szeptucha",
+                "status": "Brąz 1",
+                "skills": [
+                    "Język (Magiczny)",
+                    "Odporność",
+                    "Opanowanie",
+                    "Plotkowanie",
+                    "Skradanie (Wieś)",
+                    "Splatanie Magii",
+                    "Zastraszanie",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Magia Prosta",
+                    "Precyzyjne Inkantowanie",
+                    "Przestępca"
+                ],
+                "equipment": [
+                    "Kreda",
+                    "Lalka",
+                    "Szpilki",
+                    "Świece"
+                ]
+            },
+            {
+                "subclassname": "Czarownica",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Biała (Drzewcowa)",
+                    "Intuicja",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Rzemiosło (Zielarz)",
+                    "Unik"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Czarownica!",
+                    "Magia Tajemna (Czarownic)",
+                    "Percepcja Magiczna",
+                    "Szósty Zmysł"
+                ],
+                "equipment": [
+                    "Kostur",
+                    "Narzędzia Pracy (Zielarza)",
+                    "Worek",
+                    "Wybór Ziół"
+                ]
+            },
+            {
+                "subclassname": "Wiedźma",
+                "status": "Brąz 3",
+                "skills": [
+                    "Charyzma",
+                    "Przekupstwo",
+                    "Targowanie",
+                    "Wiedza"
+                ],
+                "talents": [
+                    "Posłuch u Zwierząt",
+                    "Ruchliwe Dłonie",
+                    "Straszny",
+                    "Wykrywanie",
+                    "Magii"
+                ],
+                "equipment": [
+                    "Amulety na Szczęście",
+                    "Plecak",
+                    "Płaszcz",
+                    "z Kilkoma Kieszeniami"
+                ]
+            },
+            {
+                "subclassname": "Czarnoksiężnik",
+                "status": "Brąz 5",
+                "skills": [
+                    "Wiedza (Demonologia)",
+                    "Wiedza (Magia)"
+                ],
+                "talents": [
+                    "Niezwykle Odporny",
+                    "Odporność Psychiczna",
+                    "Szczęście",
+                    "Zmysł Magii"
+                ],
+                "equipment": [
+                    "Czaszka",
+                    "Szata Myślisz"
+                   
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "HIENY CMENTARNE",
+        "subclasses": [
+            {
+                "subclassname": "Porywacz Zwłok",
+                "status": "Brąz 2",
+                "skills": [
+                    "Intuicja",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Skradanie (Dowolne)",
+                    "Unik",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Chodu!",
+                    "Przestępca",
+                    "Mocne Plecy",
+                    "Ulicznik"
+                ],
+                "equipment": [
+                    "Łom",
+                    "Plandeka",
+                    "Płaszcz z Kapturem",
+                    "Taczka"
+                ]
+            },
+            {
+                "subclassname": "Hiena Cmentarna",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Powożenie",
+                    "Przekupstwo",
+                    "Targowanie",
+                    "Wiedza (Medycyna)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Odporny na (Choroby)",
+                    "Widzenie w",
+                    "Ciemności",
+                    "Wtargnięcie z Włamaniem"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Lampa Sztormowa z Oliwą",
+                    "Plecak",
+                    "Szpadel"
+                ]
+            },
+            {
+                "subclassname": "Rabuś Grobowców",
+                "status": "Srebro 1",
+                "skills": [
+                    "Badania Naukowe",
+                    "Otwieranie Zamków",
+                    "Wiedza (Historia)",
+                    "Zastawianie Pułapek"
+                ],
+                "talents": [
+                    "Czytanie/Pisanie",
+                    "Silny Cios",
+                    "Szczur Kanałowy",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Broń Ręczna (Kilof )",
+                    "Lina",
+                    "Narzędzia Pracy",
+                    "Skórzana Kurta",
+                    "Wóz z Koniem"
+                ]
+            },
+            {
+                "subclassname": "Łowca Skarbów",
+                "status": "Srebro 5",
+                "skills": [
+                    "Nawigacja",
+                    "Rzemiosło (Inżynier)"
+                ],
+                "talents": [
+                    "Nieustraszony (Nieumarli)",
+                    "Odporność Psychiczna",
+                    "Szósty Zmysł",
+                    "Traper"
+                ],
+                "equipment": [
+                    "Mapy",
+                    "Namiot",
+                    "Narzędzia",
+                    "Pracy (Inżyniera)",
+                    "Zestaw do Pisania",
+                    "Zwijane",
+                    " Posłanie"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "PASER",
+        "subclasses": [
+            {
+                "subclassname": "Pośrednik",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Unik",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Szuler",
+                    "Towarzyski",
+                    "Ulicznik",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Skradzione Dobra warte 3k10",
+                    "Szylingów"
+                ]
+            },
+            {
+                "subclassname": "Paser",
+                "status": "Srebro 2",
+                "skills": [
+                    "Intuicja",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Rzemiosło(Grawer)",
+                    "Sekretne Znaki (Złodziei)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Etykieta (Przestępcy)",
+                    "Numizmatyka",
+                    "Przestępca"
+                ],
+                "equipment": [
+                    "Monokl",
+                    "Narzędzia Pracy (Grawera)",
+                    "Zestaw do Pisania"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Paserów",
+                "status": "Srebro 3",
+                "skills": [
+                    "Przekupstwo",
+                    "Wiedza (Lokalna)",
+                    "Wiedza",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Geniusz Arytmetyczny",
+                    "Ogłuszenie",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Lombard"
+                ]
+            },
+            {
+                "subclassname": "Broker Informacji",
+                "status": "Srebro 4",
+                "skills": [
+                    "Badania Naukowe",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Groźny",
+                    "Łapówkarz",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Magazyn",
+                    "Sieć Informatorów",
+                    "Wynajęty",
+                    " Mięśniak"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "RAJFUR",
+        "subclasses": [
+            {
+                "subclassname": " Naganiacz",
+                "status": "Brąz 1",
+                "skills": [
+                    "Charyzma",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Przekupstwo",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Występy (Dowolne)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Gadanina",
+                    "Towarzyski",
+                    "Ulicznik"
+                ],
+                "equipment": [
+                    "Flaszka Mocnego Alkoholu"
+                ]
+            },
+            {
+                "subclassname": "Rajfur",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Intuicja",
+                    "Odporność",
+                    "Percepcja",
+                    "Unik",
+                    "Wiedza (Lokalna)"
+                ],
+                "talents": [
+                    "Hulaka",
+                    "Oburęczność",
+                    "Odporny na (Choroby)",
+                    "Przestępca"
+                ],
+                "equipment": [
+                    "Dawka Dziwnokorzenia",
+                    "Dobre Ubranie"
+                ]
+            },
+            {
+                "subclassname": "Stręczyciel",
+                "status": "Srebro 1",
+                "skills": [
+                    "Język (Dowolny)",
+                    "Opanowanie",
+                    "Wiedza(Prawo)",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Defraudant",
+                    "Etykieta (Dowolna",
+                    "Grupa)",
+                    "Żyłka Handlowa"
+                ],
+                "equipment": [
+                    "Sieć Naganiaczy"
+                ]
+            },
+            {
+                "subclassname": "Herszt Rajfurów",
+                "status": "Srebro 3",
+                "skills": [
+                    "Dowodzenie",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Błyskotliwość",
+                    "Łapówkarz",
+                    "Numizmatyka",
+                    "Szycha"
+                ],
+                "equipment": [
+                    "Kamienica z Dyskretnym Wejściem od Tyłu",
+                    "Sieć Rajfurów"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "REKETER",
+        "subclasses": [
+            {
+                "subclassname": "Zbir",
+                "status": "Brąz 3",
+                "skills": [
+                    "Broń Biała (Bijatyka)",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Skradanie (Miasto)",
+                    "Opanowanie",
+                    "Unik",
+                    "Wiedza(Lokalna)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Etykieta (Przestępcy)",
+                    "Groźny",
+                    "Przestępca",
+                    "Silny Cios"
+                ],
+                "equipment": [
+                    "Kastet",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Reketer",
+                "status": "Brąz 5",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Język(Estalijski",
+                    "albo Tileański)",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Wycena"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Defraudant",
+                    "Ogłuszenie",
+                    "Urodzony",
+                    "Wojownik"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Kaftan Kolczy",
+                    "Kapelusz"
+                ]
+            },
+            {
+                "subclassname": "Głowa Gangu",
+                "status": "Srebro 3",
+                "skills": [
+                    "Intuicja",
+                    "Dowodzenie",
+                    "Percepcja",
+                    "Broń Zasięgowa"
+                ],
+                "talents": [
+                    "Krzepki",
+                    "Nieustraszony (Straże)",
+                    "Odporny na (Trucizny)",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Gang Zbirów i Reketerów",
+                    "Kryjówka",
+                    "Kusza",
+                    "Pistoletowa z 10 Bełtami"
+                ]
+            },
+            {
+                "subclassname": "Król Podziemia",
+                "status": "Srebro 5",
+                "skills": [
+                    "Wiedza (Polityka)",
+                    "Wiedza (Prawo)"
+                ],
+                "talents": [
+                    "Majętny",
+                    "Straszny",
+                    "Szycha",
+                    "Władcza Postura"
+                ],
+                "equipment": [
+                    "Dobre Ubranie z Kapeluszem",
+                    "Kilka Podporządkowanych Głów Gangów",
+                    "Sieć Informatorów"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Łotrzykowie",
+        "path": "SZARLATAN",
+        "subclasses": [
+            {
+                "subclassname": "Kanciarz",
+                "status": "Brąz 3",
+                "skills": [
+                    "Charyzma",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    "Przekupstwo",
+                    "Targowanie",
+                    "Występy (Gawędziarstwo)",
+                    "Zwinne Palce"
+                ],
+                "talents": [
+                    "Etykieta (Dowolna Grupa)",
+                    "Szczęście",
+                    "Szuler",
+                    "Szuler",
+                    "Kościany"
+                ],
+                "equipment": [
+                    "Plecak",
+                    "Talia Kart",
+                    "Zestaw Kości",
+                    "2 Komplety",
+                    "Ubrań"
+                ]
+            },
+            {
+                "subclassname": "Szarlatan",
+                "status": "Brąz 5",
+                "skills": [
+                    "Intuicja",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Unik",
+                    "Wycena",
+                    "Występy (Aktorstwo)"
+                ],
+                "talents": [
+                    "Gadanina",
+                    "Przestępca",
+                    "Ruchliwe Dłonie",
+                    "Sekretna",
+                    "Tożsamość"
+                ],
+                "equipment": [
+                    "1 Sfałszowany Dokument",
+                    "2 Komplety Ubrań Dobrej Jakości",
+                    "Wybór Kolorowych Proszków i Płynów",
+                    "Wybór Błyskotek i Amuletów"
+                ]
+            },
+            {
+                "subclassname": "Oszust",
+                "status": "Srebro 2",
+                "skills": [
+                    "Język (Grypsera)",
+                    "Wiedza (Heraldyka)",
+                    "Otwieranie Zamków",
+                    "Sekretne Znaki (Złodziei)"
+                ],
+                "talents": [
+                    "Atrakcyjny",
+                    "Czytanie/Pisanie",
+                    "Gładkie Słówka",
+                    "Żyłka",
+                    "Handlowa"
+                ],
+                "equipment": [
+                    "Zestaw do Charakteryzacji",
+                    "Wytrychy",
+                    "Liczne",
+                    "Sfałszowane Dokumenty"
+                ]
+            },
+            {
+                "subclassname": "Łajdak",
+                "status": "Srebro 4",
+                "skills": [
+                    "Badania Naukowe",
+                    "Wiedza (Genealogia)"
+                ],
+                "talents": [
+                    "Charyzmatyczny",
+                    "Mistrz Charakteryzacji",
+                    "Nos do Kłopotów",
+                    "Towarzyski"
+                ],
+                "equipment": [
+                    "Podrobiona Pieczęć",
+                    "Zestaw do Pisania"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "ZŁODZIEJ",
+        "subclasses": [
+            {
+                "subclassname": "Bandzior",
+                "status": "Brąz 1",
+                "skills": [
+                    "Atletyka",
+                    "Intuicja",
+                    "Odporność",
+                    "Opanowanie",
+                    "Percepcja",
+                    "Skradanie (Miasto)",
+                    "Unik",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Chodu!",
+                    "Ogłuszenie",
+                    "Przestępca",
+                    "Ulicznik"
+                ],
+                "equipment": [
+                    "Łom",
+                    "Skórzany Kaftan",
+                    "Worek"
+                ]
+            },
+            {
+                "subclassname": "Złodziej",
+                "status": "Brąz 3",
+                "skills": [
+                    "Otwieranie Zamków",
+                    "Plotkowanie",
+                    " Sekretne"
+                ],
+                "talents": [
+                    "Cień",
+                    "Etykieta (Przestępcy)",
+                    "Ruchliwe Dłonie",
+                    "Szybki",
+                    "Refleks",
+                    "Wtargnięcie z Włamaniem"
+                ],
+                "equipment": [
+                    "Lina",
+                    "Narzędzia Pracy (Złodziei)"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Złodziejski",
+                "status": "Brąz 5",
+                "skills": [
+                    "Broń Zasięgowa (Kusza)",
+                    "Hazard",
+                    "Przekupstwo",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Traper",
+                    "Widzenie w Ciemności",
+                    "Zejście z Linii",
+                    "Zręczne",
+                    "Palce"
+                ],
+                "equipment": [
+                    "Kusza Pistoletowa z 10 Bełtami"
+                ]
+            },
+            {
+                "subclassname": "Włamywacz",
+                "status": "Srebro 3",
+                "skills": [
+                    "Charyzma",
+                    "Zastawianie Pułapek"
+                ],
+                "talents": [
+                    "Na Cztery Łapy",
+                    "Majętny",
+                    "Silne Nogi",
+                    "Wyborny",
+                    "Wspinacz"
+                ],
+                "equipment": [
+                    "Ciemne Ubranie",
+                    "Chusta albo Maska",
+                    " Kotwiczka"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "GLADIATOR",
+        "subclasses": [
+            {
+                "subclassname": "Pięściarz",
+                "status": "Brąz 4",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Bijatyka)",
+                    "Broń Biała(Dowolna)",
+                    "Hazard",
+                    "Odporność",
+                    "Opanowanie",
+                    "Unik",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Odwrócenie Szans",
+                    "Skrócenie Dystansu",
+                    "Żelazna Szczęka"
+                ],
+                "equipment": [
+                    "Bandaże",
+                    "Kastet",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Gladiator",
+                "status": "Srebro 2",
+                "skills": [
+                    "Targowanie",
+                    "Intuicja",
+                    "Broń Biała (Podstawowa)",
+                    "Broń Biała (Korbacz albo Dwuręczna)",
+                    "Percepcja",
+                    " Broń"
+                ],
+                "talents": [
+                    "Bitewny Refleks",
+                    "Dwie Bronie",
+                    "Oburęczność",
+                    "Tarczownik"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Bicz albo Sieć",
+                    "Korbacz albo",
+                    "Broń Dwuręczna",
+                    "Puklerz albo Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Mistrz Areny",
+                "status": "Srebro 5",
+                "skills": [
+                    "Kuglarstwo (Walka Pokazowa)",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    "Wiedza (Anatomia)"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Krzepki",
+                    "Mistrz Walki",
+                    "Rozbrojenie"
+                ],
+                "equipment": [
+                    "Hełm",
+                    "Napierśnik"
+                ]
+            },
+            {
+                "subclassname": "Legenda Areny",
+                "status": "Złoto 2",
+                "skills": [
+                    "Broń Zasięgowa (Dowolna)",
+                    "Charyzma"
+                ],
+                "talents": [
+                    "Atak Wyprzedzający",
+                    "Nieubłagany",
+                    "Straszny",
+                    "Wściekły",
+                    "Atak"
+                ],
+                "equipment": [
+                    "Hełm Dobrej Jakości"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "KAPŁANA-WOJOWNIK",
+        "subclasses": [
+            {
+                "subclassname": "Nowicjusz Kapłanów-wojowników",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Biała (Dowolna)",
+                    "Dowodzenie",
+                    "Leczenie",
+                    "Modlitwa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Wiedza (Teologia)",
+                    "Unik"
+                ],
+                "talents": [
+                    "Błogosławieństwo (Dowolna Tradycja)",
+                    "Czytanie/Pisanie",
+                    "Etykieta (Kultyści)",
+                    "Odporność Psychiczna"
+                ],
+                "equipment": [
+                    "Broń Biała (Dowolna)",
+                    "Księga (Religia)",
+                    "Skórzany Kaftan",
+                    "Symbol Religijny",
+                    "Szata"
+                ]
+            },
+            {
+                "subclassname": "Kapłan-wojownik",
+                "status": "Srebro 2",
+                "skills": [
+                    "Broń Biała (Dowolna)",
+                    "Broń Zasięgowa(Dowolna)",
+                    "Charyzma",
+                    "Język (Bitewny)",
+                    "Występy (Przemawianie)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Dwie Bronie",
+                    "Inspirujący",
+                    "Inwokacja (Dowolna Tradycja)",
+                    "Obieżyświat"
+                ],
+                "equipment": [
+                    "Broń (Dowolna)",
+                    "Napierśnik"
+                ]
+            },
+            {
+                "subclassname": "Kapłan-sierżant",
+                "status": "Srebro 3",
+                "skills": [
+                    "Intuicja",
+                    "Jeździectwo (Konie)",
+                    "Percepcja",
+                    "Opieka nad zwierzętami"
+                ],
+                "talents": [
+                    "Czysta Dusza",
+                    "Święte Wizje",
+                    "Waleczne Serce",
+                    "Zmysł",
+                    "Bitewny"
+                ],
+                "equipment": [
+                    "Lekki Koń Bojowy z Siodłem i Uprzężą"
+                ]
+            },
+            {
+                "subclassname": "Kapłan-kapitan",
+                "status": "Srebro 4",
+                "skills": [
+                    "Mocna Głowa",
+                    "Wiedza (Sztuka Wojenna)"
+                ],
+                "talents": [
+                    "Nieustraszony (Dowolny)",
+                    "Święta Nienawiść",
+                    "Wódz",
+                    "Wściekły Atak"
+                ],
+                "equipment": [
+                    " Relikwia"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "KAWALERZYST",
+        "subclasses": [
+            {
+                "subclassname": "Jeździec",
+                "status": "Srebro 2",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Jeździectwo (Konie)",
+                    "Język (Bitewny)",
+                    "Odporność",
+                    "Opieka nad Zwierzętami",
+                    "Oswajanie",
+                    "Percepcja",
+                    "Sztuka Przetrwania"
+                ],
+                "talents": [
+                    "Szybki Refleks",
+                    "Urodzony w Siodle",
+                    "Z Bata",
+                    "Zmysł Bitewny"
+                ],
+                "equipment": [
+                    "Koń Wierzchowy z Rzędem",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Kawalerzysta",
+                "status": "Srebro 4",
+                "skills": [
+                    "Broń Biała (Kawaleryjska)",
+                    "Broń Zasięgowa",
+                    "Charyzma",
+                    "Mocna Głowa",
+                    "Opanowanie",
+                    "Plotkowanie"
+                ],
+                "talents": [
+                    "Artylerzysta",
+                    "Etykieta (Żołnierze)",
+                    "Obieżyświat",
+                    "Woltyżerka"
+                ],
+                "equipment": [
+                    "Hełm",
+                    "Lekki Koń Bojowy z Siodłem",
+                    "i Uprzężą",
+                    "Napierśnik",
+                    "Pistolet z 10 Nabojami",
+                    "Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Sierżant Kawalerii",
+                "status": "Złoto 1",
+                "skills": [
+                    "Intuicja",
+                    "Dowodzenie",
+                    "Wiedza (Sztuka Wojenna)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Bitewny Refleks",
+                    "Błyskawiczny Strzał",
+                    "Nienawiść (Dowolna)",
+                    "Wódz"
+                ],
+                "equipment": [
+                    "Szarfa"
+                ]
+            },
+            {
+                "subclassname": "Oficer Kawalerii",
+                "status": "Złoto 2",
+                "skills": [
+                    "Hazard",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Atak Wyprzedzający",
+                    "Celny Strzał",
+                    "Inspirujący",
+                    "Krzepki"
+                ],
+                "equipment": [
+                    "Dobre Ubranie",
+                    "Talia Kart"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "OCHRONIARZ",
+        "subclasses": [
+            {
+                "subclassname": "Stróż",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Hazard",
+                    "Intuicja",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Percepcja",
+                    "Plotkowanie",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Etykieta (Słudzy)",
+                    "Ogłuszenie",
+                    "Szuler Kościany",
+                    "Wytrwały"
+                ],
+                "equipment": [
+                    "Lampa Sztormowa z Oliwą",
+                    "Puklerz",
+                    "Skórzany Kaftan"
+                ]
+            },
+            {
+                "subclassname": "Ochroniarz",
+                "status": "Srebro 2",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Drzewcowa)",
+                    "Broń Zasięgowa (Łuk)",
+                    "Opanowanie",
+                    "Unik",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Nieustępliwy",
+                    "Odwrócenie Szans",
+                    "Silny Cios",
+                    "Tarczownik"
+                ],
+                "equipment": [
+                    "Kaftan Kolczy z Rękawami",
+                    "Łuk i 10",
+                    "Strzał",
+                    "Tarcza",
+                    "Włócznia"
+                ]
+            },
+            {
+                "subclassname": "Gwardzista",
+                "status": "Srebro 3",
+                "skills": [
+                    "Broń Biała (Dwuręczna)",
+                    "Język(Bitewny)",
+                    "Leczenie",
+                    "Wiedza (Etykieta)"
+                ],
+                "talents": [
+                    "Nieustraszony (Intruzi)",
+                    "Niewzruszony",
+                    "Sprężynka",
+                    "Waleczne",
+                    "Serce"
+                ],
+                "equipment": [
+                    "Broń Dwuręczna albo Halabarda",
+                    "Hełm",
+                    "Mundur"
+                ]
+            },
+            {
+                "subclassname": "Oficer Gwardii",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Wiedza (Sztuka Wojenna)"
+                ],
+                "talents": [
+                    "Krzepki",
+                    "Mistrz Walki",
+                    "Wściekły Atak",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    " Napierśnik"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "OPRYCH",
+        "subclasses": [
+            {
+                "subclassname": "Tani Drań",
+                "status": "Brąz 2",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Dowolna)",
+                    "Odporność",
+                    "Plotkowanie",
+                    "Targowanie",
+                    "Unik",
+                    "Występy (Szydzenie)",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Cios Poniżej Pasa",
+                    "Groźny",
+                    "Skrócenie Dystansu",
+                    "Urodzony",
+                    "Wojownik"
+                ],
+                "equipment": [
+                    "Kastet",
+                    "Kaptur albo Maska",
+                    "Skórzana Kurta"
+                ]
+            },
+            {
+                "subclassname": "Oprych",
+                "status": "Srebro 1",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Charyzma",
+                    "Intuicja",
+                    "Jeździectwo (Konie)",
+                    "Percepcja",
+                    "Przekupstwo"
+                ],
+                "talents": [
+                    "Bitewny Refleks",
+                    "Odwrócenie Szans",
+                    "Ogłuszenie",
+                    "Przestępca"
+                ],
+                "equipment": [
+                    "Broń Ręczna",
+                    "Kaftan Kolczy",
+                    "Koń",
+                    "Wierzchowy z Rzędem",
+                    "Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Płatny Morderca",
+                "status": "Srebro 4",
+                "skills": [
+                    "Broń Zasięgowa (Rzucana)",
+                    "Nawigacja",
+                    "Opanowanie",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Cios Mierzony",
+                    "Nieustępliwy",
+                    "Rozbrojenie",
+                    "Strzelec Wyborowy"
+                ],
+                "equipment": [
+                    "Garota",
+                    "Noże do Rzucania",
+                    "Płaszcz",
+                    "Trucizna"
+                ]
+            },
+            {
+                "subclassname": "Skrytobójca",
+                "status": "Złoto 1",
+                "skills": [
+                    "Broń Zasięgowa (Kusza)",
+                    "Występy (Aktorstwo)"
+                ],
+                "talents": [
+                    "Celny Strzał",
+                    "Morderczy Atak",
+                    "Oburęczność",
+                    "Wściekły Atak"
+                ],
+                "equipment": [
+                    "Kusza z 10 Bełtami",
+                    "Zestaw do Charakteryzacji"
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "RYCERZ",
+        "subclasses": [
+            {
+                "subclassname": "Giermek",
+                "status": "Srebro 3",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Kawaleryjska)",
+                    "Jeździectwo(Konie)",
+                    "Leczenie",
+                    "Opieka nad Zwierzętami",
+                    "Oswajanie",
+                    "Rzemiosło",
+                    "Wiedza (Heraldyka)"
+                ],
+                "talents": [
+                    "Etykieta (Dowolna Grupa)",
+                    "Tragarz",
+                    "Urodzony Wojownik",
+                    "Urodzony w Siodle"
+                ],
+                "equipment": [
+                    "Kaftan Kolczy",
+                    "Koń Wierzchowy z Rzędem",
+                    "Narzędzia Pracy (Podkuwanie Koni)",
+                    "Skórzana Kurta",
+                    "Tarcza"
+                ]
+            },
+            {
+                "subclassname": "Rycerz",
+                "status": "Srebro 5",
+                "skills": [
+                    "Broń Biała (Dowolna)",
+                    "Język (Bitewny)",
+                    "Odporność",
+                    "Opanowanie",
+                    "Unik",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Obieżyświat",
+                    "Silny Cios",
+                    "Tarczownik"
+                ],
+                "equipment": [
+                    "Broń Biała (Dowolna)",
+                    "Kopia",
+                    "Rumak",
+                    "z Siodłem i Uprzężą",
+                    "Zbroja Płytowa z Hełmem"
+                ]
+            },
+            {
+                "subclassname": "Pierwszy Rycerz",
+                "status": "Złoto 2",
+                "skills": [
+                    "Charyzma",
+                    "Mocna Głowa",
+                    "Dowodzenie",
+                    "Wiedza (Sztuka Wojenna)"
+                ],
+                "talents": [
+                    "Niewzruszony",
+                    "Nieustraszony (Dowolny)",
+                    "Waleczne",
+                    "Serce",
+                    "Wódz"
+                ],
+                "equipment": [
+                    "Kropierz",
+                    "Mały Oddział Rycerzy"
+                ]
+            },
+            {
+                "subclassname": "Rycerz Wewnętrznego Kręgu",
+                "status": "Złoto 4",
+                "skills": [
+                    "Sekretne Znaki (Zakonu Rycerskiego)",
+                    "Wiedza (Dowolna)"
+                ],
+                "talents": [
+                    "Inspirujący",
+                    "Morderczy Atak",
+                    "Rozbrojenie",
+                    "Żelazna Wola"
+                ],
+                "equipment": [
+                    "Giermek",
+                    "Pełny Hełm z Pióropuszem",
+                    "Duży",
+                    "Oddział lub kilka Małych Oddziałów Rycerzy"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "ZABÓJC",
+        "subclasses": [
+            {
+                "subclassname": "Zabójca Trolli",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Biała (Podstawowa)",
+                    "Hazard",
+                    "Leczenie",
+                    "Mocna Głowa",
+                    "Odporność",
+                    "Opanowanie",
+                    "Unik",
+                    "Wiedza (Trolle)"
+                ],
+                "talents": [
+                    "Dwie Bronie",
+                    "Nieustraszony (Wszystko)",
+                    "Szał Bojowy",
+                    "Zabójca"
+                ],
+                "equipment": [
+                    "Flaszka Mocnego Alkoholu",
+                    "Topór",
+                    "Tatuaże",
+                    "Wstyd i Hańba"
+                ]
+            },
+            {
+                "subclassname": "Zabójca Olbrzymów",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Biała (Dwuręczna)",
+                    "Język(Bitewny)",
+                    "Sztuka Przetrwania",
+                    "Wiedza (Olbrzymy)",
+                    "Wycena",
+                    "Zastraszanie"
+                ],
+                "talents": [
+                    "Groźny",
+                    "Nieubłagany",
+                    "Odwrócenie Szans",
+                    "Twardziel"
+                ],
+                "equipment": [
+                    "Biżuteria",
+                    "Głowa Trolla",
+                    "Wielki Topór"
+                ]
+            },
+            {
+                "subclassname": "Zabójca Smoków",
+                "status": "Brąz 2",
+                "skills": [
+                    "Broń Zasięgowa (Rzucana)",
+                    "Percepcja",
+                    "Wiedza (Smoki)",
+                    "Występy (Gawędziarstwo)"
+                ],
+                "talents": [
+                    "Wściekły Atak",
+                    "Nieustępliwy",
+                    "Krzepki",
+                    "Niezwykle",
+                    "Odporny"
+                ],
+                "equipment": [
+                    "Głowa Olbrzyma",
+                    "Topory do Rzucania"
+                ]
+            },
+            {
+                "subclassname": "Zabójca Demonów",
+                "status": "Brąz 2",
+                "skills": [
+                    "Intuicja",
+                    "Wiedza (Chaos)"
+                ],
+                "talents": [
+                    "Bardzo Silny",
+                    "Silny Cios",
+                    "Straszny",
+                    "Mistrz Walki"
+                ],
+                "equipment": [
+                    "Smoczy Łeb"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Wojownicy",
+        "path": "ŻOŁNIERZ",
+        "subclasses": [
+            {
+                "subclassname": "Rekrut",
+                "status": "Srebro 1",
+                "skills": [
+                    "Atletyka",
+                    "Broń Biała (Podstawowa)",
+                    "Język(Bitewny)",
+                    "Muzyka (Bęben albo Piszczałka)",
+                    "Odporność",
+                    "Opanowanie",
+                    "Unik",
+                    "Wspinaczka"
+                ],
+                "talents": [
+                    "Mocne Plecy",
+                    "Strzelec Wyborowy",
+                    "Szuler Kościany",
+                    "Urodzony",
+                    "Wojownik"
+                ],
+                "equipment": [
+                    "Mundur",
+                    "Skórzany Napierśnik",
+                    "Sztylet"
+                ]
+            },
+            {
+                "subclassname": "Żołnierz",
+                "status": "Srebro 3",
+                "skills": [
+                    "Broń Biała (Dowolna)",
+                    "Broń Zasięgowa(Dowolna)",
+                    "Hazard",
+                    "Mocna Głowa",
+                    "Plotkowanie",
+                    " Sztuka"
+                ],
+                "talents": [
+                    "Etykieta (Żołnierze)",
+                    "Musztra",
+                    "Szybkie Przeładowanie",
+                    "Tarczownik"
+                ],
+                "equipment": [
+                    "Broń (Dowolna)",
+                    "Hełm",
+                    "Napierśnik"
+                ]
+            },
+            {
+                "subclassname": "Sierżant",
+                "status": "Srebro 5",
+                "skills": [
+                    "Dowodzenie",
+                    "Intuicja",
+                    "Leczenie",
+                    "Percepcja"
+                ],
+                "talents": [
+                    "Niewzruszony",
+                    "Walka w Ciasnocie",
+                    "Wódz",
+                    "Zmysł Bitewny"
+                ],
+                "equipment": [
+                    "Oddział Żołnierzy",
+                    "Symbol Rangi"
+                ]
+            },
+            {
+                "subclassname": "Oficer",
+                "status": "Złoto 1",
+                "skills": [
+                    "Nawigacja",
+                    "Wiedza (Sztuka Wojenna)"
+                ],
+                "talents": [
+                    "Inspirujący",
+                    "Mówca",
+                    "Obieżyświat",
+                    "Waleczne Serce"
+                ],
+                "equipment": [
+                    "Awans",
+                    "Lekki Koń Bojowy z Siodłem i Uprzężą",
+                    "Mapa",
+                    "Mundur Dobrej Jakości",
+                    "Oddział Żołnierzy",
+                    "Rozkazy",
+                    "Symbol Rangi"
+                ]
+            }
+        ]
+    }
+]

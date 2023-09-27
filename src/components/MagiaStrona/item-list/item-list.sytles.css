@@ -1,3 +1,5 @@
+
+
 .Item-List-Cont-Top {
   display: grid;
   grid-auto-flow: row;
@@ -53,23 +55,28 @@
 
 @media only screen and (min-width: 600px) {
   .Item-List-Cont-Top {
-    grid-template-columns: 1.5fr 1fr 2fr 1.5fr 2fr 1.5fr;
+    grid-template-columns: 0.3fr 1.5fr 0.5fr 1.4fr 1.7fr 2fr 2fr ;
     column-gap: 20px;
     margin-left: 8px;
     margin-right: 8px;
   }
-
+  .mimg{
+    width:3vw;
+  }
   
 }
 
 @media only screen and (max-width: 600px) {
   .Item-List-Cont-Top {
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    /* grid-template-columns: 0.5fr 2fr 1.5fr 2fr;
+    grid-template-rows: 1fr 1fr; */
     column-gap: 2vw;
-    margin-left: 8px;
     margin-right: 8px;
     font-size: 1.3vw;
+    margin-left:3vw;
   }
   .Item-List-Cont-Bottom {
     font-size: 1.2vw;
@@ -77,6 +84,9 @@
 
   .Begin {
     font-size: 3vw;
+  }
+  .mimg{
+    width:10vw;
   }
   
 }

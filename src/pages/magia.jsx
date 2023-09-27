@@ -1,9 +1,9 @@
 import magia from "../Json/magia.json";
-import ItemList from "../components/item-list/item-list";
+import ItemList from "../components/MagiaStrona/item-list/item-list";
 import "./Pages-Styles/magia.styles.css";
-import SearchBox from "../components/search-box/search-box.component";
-import Dropdown from "../components/dropdown/dropdownIt/dropdownIt";
-import DropdownPZ from "../components/dropdownPZ/dropdownPZ";
+import SearchBox from "../components/MagiaStrona/search-box/search-box.component";
+import Dropdown from "../components/MagiaStrona/dropdown/dropdownIt/dropdownIt";
+import DropdownPZ from "../components/MagiaStrona/dropdownPZ/dropdownPZ";
 import { useState } from "react";
 import { useEffect } from "react";
 
