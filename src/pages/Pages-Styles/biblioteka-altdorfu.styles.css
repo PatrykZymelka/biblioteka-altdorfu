@@ -1,102 +1,102 @@
-.Koło{
-    align-items: center;
-    animation:rotate 40s infinite linear;
-    z-index:3;
+.Koło {
+  align-items: center;
+  animation: rotate 40s infinite linear;
+  z-index: 3;
 }
 
-.Magia{
-    animation: color 40s infinite;
-    align-items: center;
-    display:flex;
-    flex-direction: column;
+.Magia {
+  animation: color 40s infinite;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(171, 164, 66);
+  height: 110vh;
+}
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes color {
+  0% {
+    background-image: rgb(171, 164, 66);
+  }
+  6.25% {
+    background-color: rgb(212, 203, 77);
+  }
+  11.5% {
+    background-color: rgb(235, 224, 76);
+  }
+  12.5% {
+    background-color: rgb(211, 211, 211);
+  }
+  18.75% {
+    background-color: rgb(238, 238, 238);
+  }
+  24% {
+    background-color: rgb(248, 248, 248);
+  }
+  25% {
+    background-color: rgb(210, 130, 61);
+  }
+  31.25% {
+    background-color: rgb(226, 135, 56);
+  }
+  36.5% {
+    background-color: rgb(236, 121, 45);
+  }
+  37.5% {
+    background-color: rgb(191, 79, 67);
+  }
+  43.75% {
+    background-color: rgb(216, 79, 63);
+  }
+  49% {
+    background-color: rgb(228, 65, 65);
+  }
+  50% {
+    background-color: rgb(140, 77, 161);
+  }
+  56.25% {
+    background-color: rgb(167, 76, 197);
+  }
+  61.5% {
+    background-color: rgb(156, 80, 218);
+  }
+  62.5% {
+    background-color: rgb(144, 143, 141);
+  }
+  68.75% {
+    background-color: rgb(172, 171, 170);
+  }
+  74% {
+    background-color: rgb(197, 203, 207);
+  }
+  75% {
+    background-color: rgb(80, 118, 180);
+  }
+  81.25% {
+    background-color: rgb(61, 118, 209);
+  }
+  86.5% {
+    background-color: rgb(64, 149, 230);
+  }
+  87.5% {
+    background-color: rgb(92, 171, 90);
+  }
+  93.75% {
+    background-color: rgb(86, 197, 85);
+  }
+  99% {
+    background-color: rgb(98, 214, 74);
+  }
+  100% {
     background-color: rgb(171, 164, 66);
-    height:110vh;
-}
-@keyframes rotate{
-    0%{
-        transform:rotate(0deg);
-    }
-    100%{
-        transform:rotate(360deg);
-    }
-}
-@keyframes color{
-    0%{
-        background-image:rgb(171, 164, 66);
-    }
-    6.25%{
-        background-color:rgb(212, 203, 77);
-    }
-    11.5%{
-        background-color:rgb(235, 224, 76);
-    }
-    12.5%{
-        background-color:rgb(211, 211, 211)
-    }
-    18.75%{
-        background-color:rgb(238, 238, 238)
-    }
-    24%{
-        background-color:rgb(248, 248, 248)
-    }
-    25%{
-        background-color:rgb(210, 130, 61);
-    }
-    31.25%{
-        background-color:rgb(226, 135, 56);
-    }
-    36.5%{
-        background-color:rgb(236, 121, 45);
-    }
-    37.5%{
-        background-color:rgb(191, 79, 67);
-    }
-    43.75%{
-        background-color:rgb(216, 79, 63);
-    }
-    49%{
-        background-color:rgb(228, 65, 65);
-    }
-    50%{
-        background-color:rgb(140, 77, 161);
-    }
-    56.25%{
-        background-color:rgb(167, 76, 197);
-    }
-    61.5%{
-        background-color:rgb(156, 80, 218);
-    }
-    62.5%{
-        background-color:rgb(144, 143, 141);
-    }
-    68.75%{
-        background-color:rgb(172, 171, 170);
-    }
-    74%{
-        background-color:rgb(197, 203, 207);
-    }
-    75%{
-        background-color:rgb(80, 118, 180);
-    }
-    81.25%{
-        background-color:rgb(61, 118, 209);
-    }
-    86.5%{
-        background-color:rgb(64, 149, 230);
-    }
-    87.5%{
-        background-color:rgb(92, 171, 90);
-    }
-    93.75%{
-        background-color:rgb(86, 197, 85);
-    }
-    99%{
-        background-color:rgb(98, 214, 74);
-    }
-    100%{
-        background-color:rgb(171, 164, 66);
-    }
-/*     0%{
+  }
+  /*     0%{
         background: rgb(2,0,36);
         background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(121,68,9,1) 22%, rgba(255,207,0,1) 100%);
     }
@@ -108,23 +108,22 @@
         background: rgb(97,97,97);
         background: linear-gradient(0deg, rgba(97,97,97,1) 0%, rgba(180,180,180,1) 24%, rgba(203,203,203,1) 49%, rgba(255,255,255,1) 100%);
     } */
-
 }
 @keyframes animateBg {
-    0% {
-      background-position: 0 0;
-    }
-    100% {
-      background-position: 100% 0;
-    }
+  0% {
+    background-position: 0 0;
   }
-  @media only screen and (min-width: 600px) {
-    .Koło{
-        max-width: 100vw;
-    }
+  100% {
+    background-position: 100% 0;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .Koło {
+    max-width: 100vw;
+  }
 }
 @media only screen and (max-width: 600px) {
-    .Koło{
-        max-width: 70vw;
-    }
+  .Koło {
+    max-width: 70vw;
+  }
 }

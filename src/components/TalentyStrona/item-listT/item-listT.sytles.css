@@ -1,11 +1,11 @@
-.Item-List-Cont-TopP {
+.Item-List-Cont-TopT {
   display: grid;
   grid-auto-flow: row;
   align-items: center;
   justify-content: center;
 }
 
-.Item-List-Cont-BottomP {
+.Item-List-Cont-BottomT {
   display: grid;
   border-bottom: 0px;
   border-top: 4px;
@@ -15,14 +15,14 @@
   border-color: #ffb300;
   margin-left: 15px;
   margin-right: 15px;
-  font-size: 0.5em;
+  font-size: 0.75em;
   animation-name: animate-fade;
   animation-duration: 0.25s;
   row-gap: 1vh;
   padding-top: 5px;
   padding-bottom: 5px;
 }
-.ItemP {
+.ItemT {
   background-color: rgb(255, 255, 255);
   transition: 0.15s;
   cursor: pointer;
@@ -35,21 +35,10 @@
   border-style: solid;
   font-size: 12px;
 }
-.ItemP:hover {
+.ItemT:hover {
   scale: 1.01;
 }
-.poziom {
-  display: flex;
-  flex-direction: column;
-  row-gap: 1vh;
-  border-style: solid;
-  border-left: 0;
-  border-right: 0;
-}
-.lower {
-  font-style: italic;
-  font-size: 2em;
-}
+
 @keyframes animate-fade {
   0% {
     opacity: 0;
@@ -64,9 +53,9 @@
   font-size: 2.5em;
 }
 @media only screen and (min-width: 600px) {
-  .Item-List-Cont-TopP {
-    grid-template-columns: 1.5fr 2fr;
-    column-gap: 20px;
+  .Item-List-Cont-TopT {
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5vw;
     margin-left: 8px;
     margin-right: 8px;
     font-size: 1em;
@@ -74,7 +63,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .Item-List-Cont-TopP {
+  .Item-List-Cont-TopT {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

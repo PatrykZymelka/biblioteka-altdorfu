@@ -1,17 +1,22 @@
 [
   {
-    "id":"asdfqweqwe",
-    "title":"Home",
-    "link":"biblioteka-altdorfu"
-  },   
-  {
-    "id":"asdgqwiut",
-    "title":"Magia",
-    "link":"biblioteka-altdorfu/magia"
+    "id": "asdfqweqwe",
+    "title": "Home",
+    "link": "biblioteka-altdorfu"
   },
   {
-    "id":"baswqe",
-    "title":"Profesje",
-    "link":"biblioteka-altdorfu/profesje"
+    "id": "asdgqwiut",
+    "title": "Magia",
+    "link": "biblioteka-altdorfu/magia"
+  },
+  {
+    "id": "baswqe",
+    "title": "Profesje",
+    "link": "biblioteka-altdorfu/profesje"
+  },
+  {
+    "id": "asdarqwrevx",
+    "title": "Talenty",
+    "link": "biblioteka-altdorfu/talenty"
   }
-  ]
+]
