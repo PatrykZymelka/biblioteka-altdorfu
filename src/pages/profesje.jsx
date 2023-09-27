@@ -43,7 +43,7 @@ const Profesje = () =>{
           <h1> S</h1>
         </div>  
         <div className="Center">
-          <div className="searchBoxBackground">
+          <div className="searchBoxBackgroundR">
             <div>
               <DropdownPR
                 selected={selected}

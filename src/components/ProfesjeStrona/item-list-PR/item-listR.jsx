@@ -18,6 +18,7 @@ const ItemList = (props) => {
           <h1 className="MagicText">
             <strong className="Begin">Klasa: {category}</strong>
           </h1>
+          
         </div>
       
       {isActive && (
