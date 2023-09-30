@@ -12,10 +12,14 @@ const ItemList = (props) => {
         onClick={(e) => setIsActive(!isActive)}
       >
         <h1 className="MagicText">
-          <strong className="BeginP">Profesja: {path}</strong>
+          <strong className="BeginP">
+            Profesja: <span className="title">{path}</span>
+          </strong>
         </h1>
         <h1 className="MagicText">
-          <strong className="BeginP">Klasa: {category}</strong>
+          <strong className="BeginP">
+            Klasa: <span className="title">{category}</span>
+          </strong>
         </h1>
       </div>
 

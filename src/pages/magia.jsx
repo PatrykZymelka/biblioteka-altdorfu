@@ -72,7 +72,7 @@ const Magia = () => {
             <SearchBox
               onChangeHandler={onSearchChange}
               className="search-box"
-              placeholder={"Nazwa zaklęcia"}
+              placeholder={"Nazwa"}
             />
           </div>
         </div>
@@ -82,7 +82,6 @@ const Magia = () => {
             return <ItemList className="Item" Mlist={item} />;
           })}
         </div>
-
       </div>
       <div className="SideBar">
         <h1>S</h1>

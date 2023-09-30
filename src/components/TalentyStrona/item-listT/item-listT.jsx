@@ -12,13 +12,14 @@ const ItemList = (props) => {
         onClick={(e) => setIsActive(!isActive)}
       >
         <h1 className="MagicText">
-          <strong className="BeginP">Nazwa: {name}</strong>
+          <strong className="BeginP">
+            Nazwa: <span className="title">{name}</span>
+          </strong>
         </h1>
         <h1 className="MagicText">
-          <strong className="BeginT">Max Liczba Talentu: {maksimum}</strong>
-        </h1>
-        <h1 className="MagicText">
-          <strong className="BeginT">test: {tests}</strong>
+          <strong className="BeginT">
+            Max: <span className="title">{maksimum}</span>
+          </strong>
         </h1>
       </div>
 
@@ -27,6 +28,11 @@ const ItemList = (props) => {
           className="Item-List-Cont-BottomT"
           onClick={(e) => setIsActive(!isActive)}
         >
+          <h1 className="MagicText">
+            <strong className="BeginT">
+              Test: <span className="title">{tests}</span>
+            </strong>
+          </h1>
           <h1 className="MagicText">
             <strong className="BeginT">{description}</strong>
           </h1>

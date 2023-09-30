@@ -37,7 +37,7 @@ const Talenty = () => {
             <SearchBox
               onChangeHandler={onSearchChange}
               className="search-box"
-              placeholder={"Nazwa Talentu"}
+              placeholder={"Nazwa"}
             />
           </div>
         </div>
