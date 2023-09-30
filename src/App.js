@@ -37,16 +37,10 @@ class App extends Component {
         </div>
         <div className="Bot">
           <Routes>
-            <Route
-              path="/biblioteka-altdorfu"
-              element={<BibliotekaAltforfu />}
-            />
-            <Route path="/biblioteka-altdorfu/magia" element={<Magia />} />
-            <Route
-              path="/biblioteka-altdorfu/profesje"
-              element={<Profesje />}
-            />
-            <Route path="/biblioteka-altdorfu/talenty" element={<Talenty />} />
+            <Route path="/" element={<BibliotekaAltforfu />} />
+            <Route path="/magia" element={<Magia />} />
+            <Route path="/profesje" element={<Profesje />} />
+            <Route path="/talenty" element={<Talenty />} />
             {/* 
           <Route path="/lore" element={<Lore/>} />
           <Route path="/zasady" element={<Zasady/>} />

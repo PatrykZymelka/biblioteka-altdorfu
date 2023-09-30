@@ -2,21 +2,21 @@
   {
     "id": "asdfqweqwe",
     "title": "Home",
-    "link": "biblioteka-altdorfu"
+    "link": "/"
   },
   {
     "id": "asdgqwiut",
     "title": "Magia",
-    "link": "biblioteka-altdorfu/magia"
+    "link": "/magia"
   },
   {
     "id": "baswqe",
     "title": "Profesje",
-    "link": "biblioteka-altdorfu/profesje"
+    "link": "/profesje"
   },
   {
     "id": "asdarqwrevx",
     "title": "Talenty",
-    "link": "biblioteka-altdorfu/talenty"
+    "link": "/talenty"
   }
 ]
