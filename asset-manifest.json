@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/biblioteka-altdorfu/static/css/main.2095f6a7.css",
-    "main.js": "/biblioteka-altdorfu/static/js/main.4dad359c.js",
+    "main.js": "/biblioteka-altdorfu/static/js/main.ed903fb6.js",
     "static/js/787.7721af7e.chunk.js": "/biblioteka-altdorfu/static/js/787.7721af7e.chunk.js",
     "static/media/Koło.png": "/biblioteka-altdorfu/static/media/Koło.bd831af026cde107f98f.png",
     "static/media/NieboSymbol.svg": "/biblioteka-altdorfu/static/media/NieboSymbol.8908ac8dcba5c93f079cff391fed782a.svg",
@@ -14,11 +14,11 @@
     "static/media/CieńSymbol.svg": "/biblioteka-altdorfu/static/media/CieńSymbol.9c1bd54cd6a44175194bc421f5b33970.svg",
     "index.html": "/biblioteka-altdorfu/index.html",
     "main.2095f6a7.css.map": "/biblioteka-altdorfu/static/css/main.2095f6a7.css.map",
-    "main.4dad359c.js.map": "/biblioteka-altdorfu/static/js/main.4dad359c.js.map",
+    "main.ed903fb6.js.map": "/biblioteka-altdorfu/static/js/main.ed903fb6.js.map",
     "787.7721af7e.chunk.js.map": "/biblioteka-altdorfu/static/js/787.7721af7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2095f6a7.css",
-    "static/js/main.4dad359c.js"
+    "static/js/main.ed903fb6.js"
   ]
 }
