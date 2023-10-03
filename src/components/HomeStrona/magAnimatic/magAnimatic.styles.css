@@ -1,40 +1,78 @@
 .Sun{
     position:absolute;
-    height:100vh;
+    aspect-ratio:1/1;
+    width:100%;
     left: 0;
     right: 0;
     margin: 0;
-    object-fit: contain;
-    animation: rotate 40s linear infinite; 
-    aspect-ratio: 1/ 1;
+    top:-70%;
+    opacity:0;
+    animation:hiding-S 40s linear infinite; 
+    overflow-x:hidden;
+    overflow-y: hidden;
+
+}
+.Shad{
+    position:absolute;
+    aspect-ratio:1/1;
+    width:100%;
+    left: 0;
+    right: 0;
+    margin: 0;
+    top:-70%;
+    animation:hiding-Shad 40s linear infinite; 
+    overflow-x:hidden;
+    overflow-y: hidden;
+    opacity:0.3;
 }
 
 @keyframes hiding-S{
      0%{
         opacity:0;
+
     }
     12.4%{
         opacity:0;
-        transform:rotate(0deg);
-        scale:1;
-        max-width: 70vw;       
+        transform:translateY(0%);
+        scale:1;     
     }
-    12.8%{
-        opacity:1;
-        max-width: 70vw;
+    14.8%{
+        opacity:0.1;
     }
     21%{
-        opacity:1;
-        max-width: 70vw;
+        opacity:0.1;
     }    
     24.9%{
         opacity:0;
-        transform:rotate(60deg);
-        max-width: 70vw;
+        transform:translateY(40%);
     }
     100%{
         opacity:0;
     }
+}
+@keyframes hiding-Shad{
+    0%{
+       opacity:0;
+
+   }
+   12.4%{
+       opacity:0;
+       transform:translateY(0%);
+       scale:1;     
+   }
+   14.8%{
+       opacity:0.1;
+   }
+   21%{
+       opacity:0.1;
+   }    
+   24.9%{
+       opacity:0;
+       transform:translateY(40%);
+   }
+   100%{
+       opacity:0;
+   }
 }
 @keyframes rotate{
     0%{
@@ -44,16 +82,15 @@
         transform:rotate(360deg);
     }
 }
+
 @media only screen and (min-width: 600px) {
 .Sun{
-    width:100vw;
-    aspect-ratio:1/1;
+
     }
 }
 @media only screen and (max-width: 600px) {
     .Sun{
         width:50vw;
         height:50vw;
-        
     }
 }

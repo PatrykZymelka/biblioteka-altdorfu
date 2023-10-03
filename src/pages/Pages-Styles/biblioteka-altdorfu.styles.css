@@ -2,6 +2,7 @@
   align-items: center;
   animation: rotate 40s infinite linear;
   z-index: 3;
+
 }
 
 .Magia {
@@ -14,9 +15,81 @@
 }
 @keyframes rotate {
   0% {
+    scale:1;
     transform: rotate(0deg);
   }
+
+  11.5% {
+    scale:1;
+  }
+  12%{
+    scale:1.01;
+  }
+  12.5% {
+    scale:1;
+  }
+  24% {
+    scale:1;
+  }
+  24.5%{
+    scale:1.01;
+  }
+  25% {
+    scale:1;
+  }
+  36.5% {
+    scale:1;
+  }
+  37%{
+    scale:1.01;
+  }
+  37.5% {
+    scale:1;
+  }
+  49% {
+    scale:1;
+  }
+  49.5%{
+    scale:1.01;
+  }
+  50% {
+    scale:1;
+  }
+  61.5% {
+    scale:1;
+  }
+  62%{
+    scale:1.01;
+  }
+  62.5% {
+    scale:1;
+  }
+  74% {
+    scale:1;
+  }
+  74.5%{
+    scale:1.01;
+  }
+  75% {
+    scale:1;
+  }
+  86.5% {
+    scale:1;
+  }
+  87%{
+    scale:1.01;
+  }
+  87.5% {
+    scale:1;
+  }
+  99% {
+    scale:1;
+  }
+  99.5%{
+    scale:1.01;
+  } 
   100% {
+    scale:1;
     transform: rotate(360deg);
   }
 }
