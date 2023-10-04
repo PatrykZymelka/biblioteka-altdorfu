@@ -1,11 +1,11 @@
-.Sun{
+.Death{
     position:absolute;
     aspect-ratio:1/1;
     width:100%;
     left: 0;
     right: 0;
     margin: 0;
-    top:-70%;
+    top:0%;
     opacity:0;
     animation:hiding-S 40s linear infinite; 
     overflow-x:hidden;
@@ -19,7 +19,7 @@
     left: 0;
     right: 0;
     margin: 0;
-    top:-70%;
+    top:0%;
     animation:hiding-Shad 40s linear infinite; 
     overflow-x:hidden;
     overflow-y: hidden;
@@ -89,8 +89,7 @@
     }
 }
 @media only screen and (max-width: 600px) {
-    .Sun{
-        width:50vw;
-        height:50vw;
+    .Death{
+        height: 100%;
     }
 }

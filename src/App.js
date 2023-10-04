@@ -1,6 +1,5 @@
 import { Component } from "react";
 import "./App.css";
-import Header from "./components/Overlay/header/header";
 import PageMenu from "./components/Overlay/page-menu/page-menu";
 import pages from "./Json/pages.json";
 import { Route, Routes } from "react-router-dom";
@@ -32,7 +31,6 @@ class App extends Component {
     return (
       <div className="App">
         <div className="Top">
-          <Header />
           <PageMenu PagesInfo={PagesInfo} />
         </div>
         <div className="Bot">

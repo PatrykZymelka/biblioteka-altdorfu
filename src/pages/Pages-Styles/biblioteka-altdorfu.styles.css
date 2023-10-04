@@ -1,4 +1,56 @@
-.Koło {
+.Strona{
+    height: 100vh;
+    text-align: center;
+    font-size:30px;
+    background-color: rgb(20, 19, 19);
+    padding-top:5vh;
+    
+
+}
+.Title{
+  margin-top:0;
+  color:white;
+}
+.opis{
+  margin-top:0;
+ margin-bottom:0;
+ color:#ffb300;
+}
+@media only screen and (min-width: 600px) {
+  .Title{
+
+    font-size:5em
+  }
+  .opis{ 
+    margin-left:25vw;
+    margin-right:25vw;
+    font-size:1em;
+}
+}
+@media only screen and (max-width: 600px) {
+  .Title{
+
+    font-size:1.2em
+  }
+  .opis{ 
+    margin-left:2vw;
+    margin-right:2vw;
+    font-size:0.5em;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Koło {
   align-items: center;
   animation: rotate 40s infinite linear;
   z-index: 3;
@@ -180,8 +232,8 @@
     12.5%{
         background: rgb(97,97,97);
         background: linear-gradient(0deg, rgba(97,97,97,1) 0%, rgba(180,180,180,1) 24%, rgba(203,203,203,1) 49%, rgba(255,255,255,1) 100%);
-    } */
-}
+    } 
+ }
 @keyframes animateBg {
   0% {
     background-position: 0 0;
@@ -196,7 +248,10 @@
   }
 }
 @media only screen and (max-width: 600px) {
+  .Magia{
+    height:90%
+  }
   .Koło {
     max-width: 70vw;
   }
-}
+} */

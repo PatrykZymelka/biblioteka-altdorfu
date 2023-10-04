@@ -1,6 +1,5 @@
 .pages {
   background-color: #12100c;
-  margin-top: 10px;
   display: flex;
   flex: 1;
   cursor: pointer;
@@ -10,16 +9,12 @@
   max-height: 50px;
   transition-duration: 0.35s;
   padding-bottom: 10px;
-  border-style: solid;
-  border-color: black;
-  border-top: 0;
-  border-bottom: 0;
 }
 .text {
   color: white;
   text-decoration: none;
   transition-duration: 0.25s;
-  font-size: 3vw;
+  font-size: 1em;
 }
 
 .text:hover {
@@ -32,4 +27,14 @@
 }
 .pages:hover {
   border-color: #ffb300;
+}
+@media only screen and (min-width: 600px) {
+  .text{
+    font-size: 1.em;
+  }
+}
+@media only screen and (max-width: 600px) {
+.text{
+  font-size: 0.6em;
+}
 }
