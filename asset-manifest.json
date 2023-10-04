@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/biblioteka-altdorfu/static/css/main.2095f6a7.css",
-    "main.js": "/biblioteka-altdorfu/static/js/main.e5c4e589.js",
+    "main.css": "/biblioteka-altdorfu/static/css/main.63cd4779.css",
+    "main.js": "/biblioteka-altdorfu/static/js/main.cb137619.js",
     "static/js/787.7721af7e.chunk.js": "/biblioteka-altdorfu/static/js/787.7721af7e.chunk.js",
-    "static/media/Koło.png": "/biblioteka-altdorfu/static/media/Koło.bd831af026cde107f98f.png",
     "static/media/NieboSymbol.svg": "/biblioteka-altdorfu/static/media/NieboSymbol.8908ac8dcba5c93f079cff391fed782a.svg",
     "static/media/ŻycieSymbol.svg": "/biblioteka-altdorfu/static/media/ŻycieSymbol.d669a24e8c633f8925933b2497ee0d44.svg",
     "static/media/OgieńSymbol.svg": "/biblioteka-altdorfu/static/media/OgieńSymbol.7b3f94652ebe2bc38771f7aa456755ba.svg",
@@ -13,12 +12,12 @@
     "static/media/ŚmierćSymbol.svg": "/biblioteka-altdorfu/static/media/ŚmierćSymbol.f408c7e83e1834e15823acb0af5c86be.svg",
     "static/media/CieńSymbol.svg": "/biblioteka-altdorfu/static/media/CieńSymbol.9c1bd54cd6a44175194bc421f5b33970.svg",
     "index.html": "/biblioteka-altdorfu/index.html",
-    "main.2095f6a7.css.map": "/biblioteka-altdorfu/static/css/main.2095f6a7.css.map",
-    "main.e5c4e589.js.map": "/biblioteka-altdorfu/static/js/main.e5c4e589.js.map",
+    "main.63cd4779.css.map": "/biblioteka-altdorfu/static/css/main.63cd4779.css.map",
+    "main.cb137619.js.map": "/biblioteka-altdorfu/static/js/main.cb137619.js.map",
     "787.7721af7e.chunk.js.map": "/biblioteka-altdorfu/static/js/787.7721af7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2095f6a7.css",
-    "static/js/main.e5c4e589.js"
+    "static/css/main.63cd4779.css",
+    "static/js/main.cb137619.js"
   ]
 }
