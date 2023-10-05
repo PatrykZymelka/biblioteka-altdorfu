@@ -4,6 +4,8 @@ import "./page-menu.styles.css";
 import { Link } from "react-router-dom";
 import logo from "../../../Images/Logo.png"
 
+
+
 class PageMenu extends Component{
 
 render(){
@@ -21,6 +23,7 @@ render(){
                     );
                 })}
             </nav>
+          
         </div>
     )
 }

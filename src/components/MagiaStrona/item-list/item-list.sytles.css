@@ -6,6 +6,7 @@
   align-items: center;
   justify-content: center;
   font-size: 0.5vw;
+  transition: 0.15s;
 }
 
 .Item-List-Cont-Bottom {
@@ -18,7 +19,7 @@
   border-right: 0px;
   border-left: 0px;
   border-style: solid;
-  border-color: #ffb300;
+  border-color: var(--primary);
   margin-left: 15px;
   margin-right: 15px;
   font-size: 0.5vw;
@@ -26,7 +27,7 @@
   animation-duration:0.25s;
 }
 .Item {
-  background-color: rgb(255, 255, 255);
+  background-color: var(--secondary);
   transition: 0.15s;
   cursor: pointer;
   -webkit-user-select: none;
@@ -35,9 +36,13 @@
   width: 95%;
   animation-name:animate-fade;
   animation-duration:0.25s;
+  color:var(--text);
+  border-style:solid;
+  border-color: var(--border)
 }
 .Item:hover {
   scale: 1.01;
+  
 }
 
 .Begin {

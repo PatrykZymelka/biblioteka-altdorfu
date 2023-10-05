@@ -1,7 +1,7 @@
 [
     {
         "category": "Uczeni",
-        "path": "APTEKARZ",
+        "path": "Aptekarz",
         "subclasses": [
             {
                 "subclassname": "Uczeń Aptekarza",
@@ -94,14 +94,20 @@
     },
     {
         "category": "Uczeni",
-        "path": "CZARODZIEJ",
+        "path": "Czarodziej",
         "subclasses": [
             {
                 "subclassname": "Uczeń Czarodzieja",
                 "status": "Brąz 3",
                 "skills": [
                     "Broń Biała (Podstawowa)",
-                    " Broń"
+                    "Broń Biała (Drzewcowa)",
+                    "Intuicja",
+                    "Język (Magiczny)",
+                    "Percepcja",
+                    "Splatanie Magii (Dowolny Kolor)",
+                    "Unik",
+                    "Wiedza (Magia)"
                 ],
                 "talents": [
                     "Czytanie/Pisanie",
@@ -148,8 +154,7 @@
                     "Dwie Bronie",
                     "Groźny",
                     "Precyzyjne Inkantowanie",
-                    "Wykrywanie",
-                    "Magii"
+                    "Wykrywanie Magii"
                 ],
                 "equipment": [
                     "Lekki Koń Bojowy",
@@ -180,7 +185,7 @@
     },
     {
         "category": "Uczeni",
-        "path": "INŻYNIER",
+        "path": "Inżynier",
         "subclasses": [
             {
                 "subclassname": "Student Inżynierii",
@@ -199,8 +204,7 @@
                     "Artylerzysta",
                     "Czytanie/Pisanie",
                     "Talent Artystyczny",
-                    "Złota",
-                    "Rączka"
+                    "Złota Rączka"
                 ],
                 "equipment": [
                     "Księga (Inżynieria)",
@@ -226,8 +230,7 @@
                 ],
                 "equipment": [
                     "Licencja Gildii Inżynierów",
-                    "Narzędzia",
-                    "Pracy (Inżyniera)"
+                    "Narzędzia Pracy (Inżyniera)"
                 ]
             },
             {
@@ -242,8 +245,7 @@
                 "talents": [
                     "Etykieta (Uczeni)",
                     "Geniusz Arytmetyczny",
-                    "Mistrz",
-                    "Rzemiosła (Inżynieria)",
+                    "Mistrz Rzemiosła (Inżynieria)",
                     "Snajper"
                 ],
                 "equipment": [
@@ -265,8 +267,7 @@
                 ],
                 "equipment": [
                     "Biblioteka (Inżyniera)",
-                    "Doskonałe Narzędzia",
-                    "Pracy (Inżyniera)",
+                    "Doskonałe Narzędzia Pracy (Inżyniera)",
                     "Duży Warsztat (Inżyniera)",
                     "Licencja Cechu"
                 ]
@@ -275,10 +276,10 @@
     },
     {
         "category": "Uczeni",
-        "path": "KAPŁAN",
+        "path": "Kapłan",
         "subclasses": [
             {
-                "subclassname": "IKleryk",
+                "subclassname": "Kleryk",
                 "status": "Brąz 2",
                 "skills": [
                     "Atletyka",

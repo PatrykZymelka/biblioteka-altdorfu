@@ -2,19 +2,21 @@
     height: 100vh;
     text-align: center;
     font-size:30px;
-    background-color: rgb(20, 19, 19);
+    background-color:var(--background);
     padding-top:5vh;
-    
-
+    font-family:'Uncial+Antiqua'
 }
+
 .Title{
   margin-top:0;
-  color:white;
+  color:var(--text)
 }
 .opis{
+  padding-top:10vh;
   margin-top:0;
  margin-bottom:0;
- color:#ffb300;
+ color:var(--text);
+ white-space: pre-wrap;
 }
 @media only screen and (min-width: 600px) {
   .Title{
@@ -22,8 +24,8 @@
     font-size:5em
   }
   .opis{ 
-    margin-left:25vw;
-    margin-right:25vw;
+    margin-left:5vw;
+    margin-right:5vw;
     font-size:1em;
 }
 }
@@ -35,7 +37,7 @@
   .opis{ 
     margin-left:2vw;
     margin-right:2vw;
-    font-size:0.5em;
+    font-size:0.7em;
 }
 }
 

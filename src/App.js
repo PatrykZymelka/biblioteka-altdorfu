@@ -7,6 +7,7 @@ import BibliotekaAltforfu from "./pages/biblioteka-altdorfu.jsx";
 import Magia from "./pages/magia";
 import Profesje from "./pages/profesje";
 import Talenty from "./pages/talenty";
+
 /* 
 import Lore from './pages/lore';
 import Zasady from './pages/zasady'; 
@@ -30,10 +31,11 @@ class App extends Component {
     const { PagesInfo } = this.state;
     return (
       <div className="App">
-        <div className="Top">
+        <div className="ttop">
           <PageMenu PagesInfo={PagesInfo} />
         </div>
         <div className="Bot">
+        
           <Routes>
             <Route path="/" element={<BibliotekaAltforfu />} />
             <Route path="/magia" element={<Magia />} />
