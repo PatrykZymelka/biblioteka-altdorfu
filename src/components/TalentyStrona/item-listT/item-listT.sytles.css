@@ -39,6 +39,7 @@
 }
 .ItemT:hover {
   scale: 1.01;
+  border-color:var(--primary);
 }
 
 @keyframes animate-fade {

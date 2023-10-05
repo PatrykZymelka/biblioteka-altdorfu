@@ -41,7 +41,9 @@
 }
 .ItemP:hover {
   scale: 1.01;
+  border-color: var(--primary)
 }
+
 .poziom {
   display: flex;
   flex-direction: column;
@@ -49,6 +51,10 @@
   border-style: solid;
   border-left: 0;
   border-right: 0;
+  transition: 0.15s;
+}
+.poziom:hover{
+  border-color:var(--primary);
 }
 .lower {
   font-style: italic;

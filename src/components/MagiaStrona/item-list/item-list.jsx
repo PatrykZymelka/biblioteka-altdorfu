@@ -37,7 +37,8 @@ const ItemList = (props) => {
         </div>
       
       {isActive && (
-        <div className="Item-List-Cont-Bottom">
+        <div className="Item-List-Cont-Bottom"
+          onClick={(e) => setIsActive(!isActive)}>
           <h1 className="MagicText">{opis}</h1>
         </div>
       )}

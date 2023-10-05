@@ -10,6 +10,9 @@
   background-color: var(--secondary);
   color:var(--text)
 }
+.search-box:hover{
+ border-color: var(--primary);
+}
 @media only screen and (min-width: 600px) {
 .search-box{
   font-size: 1.5vw;

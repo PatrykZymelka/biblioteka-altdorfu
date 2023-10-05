@@ -38,10 +38,11 @@
   animation-duration:0.25s;
   color:var(--text);
   border-style:solid;
-  border-color: var(--border)
+  border-color: var(--border);
 }
 .Item:hover {
   scale: 1.01;
+  border-color: var(--primary)
   
 }
 

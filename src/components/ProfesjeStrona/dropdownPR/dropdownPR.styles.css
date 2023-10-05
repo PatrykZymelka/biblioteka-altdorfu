@@ -28,6 +28,10 @@
   background-color: var(--secondary);
   
 }
+.d-button:hover{
+  border-color: var(--text);
+  scale:1.02
+}
 
 .d-content {
   font-weight: 500;

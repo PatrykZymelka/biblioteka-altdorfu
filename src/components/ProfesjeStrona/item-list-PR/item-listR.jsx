@@ -26,7 +26,7 @@ const ItemList = (props) => {
       {isActive && (
         <div
           className="Item-List-Cont-BottomP"
-          onClick={(e) => setIsActive(!isActive)}
+          
         >
           {subclasses.map((item) => {
             return (
