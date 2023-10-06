@@ -1,7 +1,8 @@
 import { Component } from "react";
 /* import MagAnimatic from "../components/HomeStrona/magAnimatic/magAnimatic";
 import Koło from "../Images/Koło.png"; */
-import "./Pages-Styles/biblioteka-altdorfu.styles.css"
+import "./Pages-Styles/biblioteka-altdorfu.styles.css";
+import Title from "../Images/Title.png";
 
 class Home extends Component{
     render(){
@@ -15,10 +16,7 @@ class Home extends Component{
                     </div>
                 </div> */}
                 <div classname="Welcome">
-                    <h2 className="opis">Witajcie w</h2>
-                    <h1 className="Title">
-                        Wielkiej Bibliotece Altdorfu
-                    </h1>
+                    <img src={Title} alt="Witajcie W Wielkiej Bibliotece Altdorfu" className="Title"/>
                 </div>
                 
             </div>

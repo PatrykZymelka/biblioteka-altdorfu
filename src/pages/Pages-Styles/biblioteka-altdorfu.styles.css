@@ -9,36 +9,22 @@
 
 .Title{
   margin-top:0;
-  color:var(--text)
+  max-width:1000px;
+  max-height:600px;
 }
-.opis{
-  padding-top:10vh;
-  margin-top:0;
- margin-bottom:0;
- color:var(--text);
- white-space: pre-wrap;
-}
+
 @media only screen and (min-width: 600px) {
   .Title{
 
-    font-size:5em
+    width:70vw;
+    
   }
-  .opis{ 
-    margin-left:5vw;
-    margin-right:5vw;
-    font-size:1em;
-}
 }
 @media only screen and (max-width: 600px) {
   .Title{
+    width:90vw;
 
-    font-size:2em
   }
-  .opis{ 
-    margin-left:2vw;
-    margin-right:2vw;
-    font-size:0.7em;
-}
 }
 
 
