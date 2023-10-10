@@ -36,10 +36,19 @@ const Magia = () => {
   }, [selected, Magia, searchField, selectedPunkty]);
 
   useEffect(() => {
-    const newNameChange = selectedMagia.filter((item) => {
-      return item.nazwa.toLowerCase().includes(searchField);
+    const filteredItems = selectedMagia.filter((item) => {
+      return item.nazwa.toLowerCase().includes(searchField.toLowerCase());
     });
-    setNameFilter(newNameChange);
+    const sortedItems = filteredItems.sort((a, b) => {
+      const aLower = a.nazwa.toLowerCase();
+      const bLower = b.nazwa.toLowerCase();
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
+  
+      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+    });
+  
+    setNameFilter(sortedItems);
   }, [Magia, searchField, selectedMagia, selectedPZ]);
 
   const onSearchChange = (event) => {

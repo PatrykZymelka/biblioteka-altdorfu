@@ -15,10 +15,19 @@ const Talenty = () => {
   }, []);
 
   useEffect(() => {
-    const newNameChange = Talent.filter((item) => {
-      return item.name.toLowerCase().includes(searchField);
+    const filteredItems = Talent.filter((item) => {
+      return item.name.toLowerCase().includes(searchField.toLowerCase());
     });
-    setNameFilter(newNameChange);
+    const sortedItems = filteredItems.sort((a, b) => {
+      const aLower = a.name.toLowerCase();
+      const bLower = b.name.toLowerCase();
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
+  
+      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+    });
+  
+    setNameFilter(sortedItems);
   }, [Talent, searchField]);
 
   const onSearchChange = (event) => {

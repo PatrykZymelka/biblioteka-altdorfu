@@ -26,10 +26,19 @@ const Profesje = () => {
   }, [selected, Class, searchField]);
 
   useEffect(() => {
-    const newNameChange = selectedClass.filter((item) => {
-      return item.path.toLowerCase().includes(searchField);
+    const filteredItems = selectedClass.filter((item) => {
+      return item.path.toLowerCase().includes(searchField.toLowerCase());
     });
-    setNameFilter(newNameChange);
+    const sortedItems = filteredItems.sort((a, b) => {
+      const aLower = a.path.toLowerCase();
+      const bLower = b.path.toLowerCase();
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
+  
+      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+    });
+  
+    setNameFilter(sortedItems);
   }, [Class, searchField, selectedClass]);
 
   const onSearchChange = (event) => {
