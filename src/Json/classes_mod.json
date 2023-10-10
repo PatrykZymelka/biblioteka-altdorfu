@@ -1373,8 +1373,7 @@
         ],
         "equipment": [
           "Dobry Strój Dworski",
-          "Koń Wierzchowy",
-          "z Rzędem",
+          "Koń Wierzchowy z Rzędem",
           "Zespół Doradców i Asystentów"
         ]
       }
@@ -1382,7 +1381,7 @@
   },
   {
     "category": "Dworzanie",
-    "path": "NAMIESTNIK",
+    "path": "Namiestnik",
     "subclasses": [
       {
         "subclassname": "Nadzorca",
@@ -1432,8 +1431,7 @@
         "talents": ["Czytanie/Pisanie", "Defraudant", "Numizmatyka", "Pomocny"],
         "equipment": [
           "Ceremonialne Berło",
-          "Grupa Nadzorców",
-          "i Namiestników",
+          "Grupa Nadzorców i Namiestników",
           "Napierśnik"
         ]
       },
@@ -1444,8 +1442,7 @@
         "talents": [
           "Charyzmatyczny",
           "Etykieta (Dowolna Grupa)",
-          "Władcza",
-          "Postura",
+          "Władcza Postura",
           "Znawca (Wiedza Lokalna)"
         ],
         "equipment": ["Asystent", "Rezydencja Gubernatora", " Służący"]
@@ -1454,7 +1451,7 @@
   },
   {
     "category": "Dworzanie",
-    "path": "POSEŁ",
+    "path": "Poseł",
     "subclasses": [
       {
         "subclassname": "Herold",
@@ -1463,7 +1460,7 @@
           "Atletyka",
           "Charyzma",
           "Intuicja",
-          "Jeździectwo(Konie)",
+          "Jeździectwo (Konie)",
           "Odporność",
           "Powożenie",
           "Unik",
@@ -1529,7 +1526,7 @@
   },
   {
     "category": "Dworzanie",
-    "path": "SŁUŻĄCY",
+    "path": "Służący",
     "subclasses": [
       {
         "subclassname": "Posługacz",
@@ -1586,8 +1583,7 @@
           "Lampa Oliwna",
           "Lampa Sztormowa",
           "Liberia",
-          "Dobrej Jakości",
-          "Pudełko na Hubkę i Krzesiwo"
+          "Dobrej Jakości Pudełko na Hubkę i Krzesiwo"
         ]
       },
       {
@@ -1597,8 +1593,7 @@
         "talents": [
           "Błyskotliwość",
           "Czytanie/Pisanie",
-          "Etykieta (Dowolna",
-          "Grupa)",
+          "Etykieta (Dowolna Grupa)",
           "Numizmatyka"
         ],
         "equipment": ["Broń Ręczna", "Dobre Ubranie", "Służący"]
@@ -1607,7 +1602,7 @@
   },
   {
     "category": "Dworzanie",
-    "path": "SZLACHCIC",
+    "path": "Szlachcic",
     "subclasses": [
       {
         "subclassname": "Dziedzic",
@@ -1671,14 +1666,14 @@
         "skills": [
           "Broń Biała (Parująca)",
           "Charyzma",
-          "Język(Klasyczny)",
+          "Język (Klasyczny)",
           "Jeździectwo (Konie)",
           "Plotkowanie",
-          "Wiedza(Lokalna)",
+          "Wiedza (Lokalna)",
           "Intuicja",
           "Język (Dowolny)",
           "Percepcja",
-          "Wiedza(Polityka)"
+          "Wiedza (Polityka)"
         ],
         "talents": [
           "Atrakcyjny",
@@ -1729,7 +1724,7 @@
   },
   {
     "category": "Dworzanie",
-    "path": "SZPIEG",
+    "path": "Szpieg",
     "subclasses": [
       {
         "subclassname": "Informator",
@@ -1758,8 +1753,7 @@
         "skills": [
           "Broń Biała (Podstawowa)",
           "Intuicja",
-          "Sekretne",
-          "Znaki (Dowolne)",
+          "Sekretne Znaki (Dowolne)",
           "Wspinaczka",
           "Występy (Aktorstwo)",
           "Zwinne Palce"
@@ -1784,7 +1778,7 @@
         "skills": [
           "Dowodzenie",
           "Język (Dowolny)",
-          "Opieka nadZwierzętami",
+          "Opieka nad Zwierzętami",
           "Tresura (Gołąb)"
         ],
         "talents": [
@@ -1812,9 +1806,7 @@
           "Wieża Pamięci"
         ],
         "equipment": [
-          "Duża Szpiegowska Sieć Agentów",
-          "Szpiegów",
-          "i Informatorów",
+          "Duża Szpiegowska Sieć Agentów, Szpiegów i Informatorów",
           "Kantor z Pracownikami"
         ]
       }
@@ -1822,7 +1814,7 @@
   },
   {
     "category": "Pospólstwo",
-    "path": "ZWADŹC",
+    "path": "Zwadźca",
     "subclasses": [
       {
         "subclassname": "Szermierz",
@@ -1841,13 +1833,11 @@
           "Finta",
           "Rozproszenie Uwagi",
           "Zbicie Broni",
-          "Zejście z",
-          "Linii"
+          "Zejście z Linii"
         ],
         "equipment": [
           "Broń Ręczna albo Rapier",
-          "Torba na Ramię Zawierająca Ubranie",
-          "i 1k10 Bandaży"
+          "Torba na Ramię Zawierająca Ubranie i 1k10 Bandaży"
         ]
       },
       {
@@ -1859,7 +1849,7 @@
           "Charyzma",
           "Hazard",
           "Opanowanie",
-          "Rzemiosło(Rusznikarz)"
+          "Rzemiosło (Rusznikarz)"
         ],
         "talents": [
           "Bitewny Refleks",
@@ -1869,8 +1859,7 @@
         ],
         "equipment": [
           "Lewak albo Łamacz Mieczy",
-          "Pistolet",
-          "z Prochem i Amunicją"
+          "Pistolet z Prochem i Amunicją"
         ]
       },
       {
@@ -1886,8 +1875,7 @@
         "equipment": [
           "Broń Ręczna",
           "Dobry Rapier",
-          "2 Drewniane",
-          "Miecze Treningowe",
+          "2 Drewniane Miecze Treningowe",
           "Zaufany Sekundant"
         ]
       },
@@ -1899,8 +1887,7 @@
           "Atak Wyprzedzający",
           "Groźny",
           "Mistrz Walki",
-          "Morderczy",
-          "Atak"
+          "Morderczy Atak"
         ],
         "equipment": ["2 sztuki Broni Dobrej Jakości"]
       }
@@ -1908,12 +1895,12 @@
   },
   {
     "category": "Pospólstwo",
-    "path": "CHŁOP",
+    "path": "Chłop",
     "subclasses": [
       {
         "subclassname": "Parobek",
         "status": "Brąz 2",
-        "skills": ["Atletyka", "Broń Biała (Bijatyka)", " Mocna"],
+        "skills": ["Atletyka", "Broń Biała (Bijatyka)", "Mocna Głowa"],
         "talents": [
           "Mocne Plecy",
           "Odporność Psychiczna",
@@ -1941,8 +1928,7 @@
         ],
         "equipment": [
           "Broń Ręczna (Topór)",
-          "Narzędzia Pracy (Odpowiednie dla",
-          "Rzemiosła)",
+          "Narzędzia Pracy (Odpowiednie dla Rzemiosła)",
           "Skórzany Kaftan"
         ]
       },
@@ -1952,10 +1938,9 @@
         "skills": ["Charyzma", "Dowodzenie", "Przekupstwo", "Zastraszanie"],
         "talents": [
           "Niezwykle Odporny",
-          "Waleczne",
-          "Serce",
+          "Waleczne Serce",
           "Wytwórca (Dowolny)",
-          " Żyłka"
+          "Żyłka Handlowa"
         ],
         "equipment": ["Wóz z Mułem", "Dom Wiejski", "z Warsztatem"]
       },
@@ -1966,8 +1951,7 @@
         "talents": [
           "Mistrz Rzemiosła (Dowolne)",
           "Mówca",
-          "Znawca (Wiedza",
-          "Lokalna)",
+          "Znawca (Wiedza Lokalna)",
           "Zręczny"
         ],
         "equipment": ["Szacunek Wioski"]
@@ -1976,7 +1960,7 @@
   },
   {
     "category": "Pospólstwo",
-    "path": "GÓRNIK",
+    "path": "Górnik",
     "subclasses": [
       {
         "subclassname": "Poszukiwacz",
@@ -1997,13 +1981,7 @@
           "Włóczykij",
           "Wytrwały"
         ],
-        "equipment": [
-          "Kiepska Mapa",
-          "Panew",
-          "Szpadel",
-          "Węgiel do",
-          "Rysowania"
-        ]
+        "equipment": ["Kiepska Mapa", "Panew", "Szpadel", "Węgiel do Rysowania"]
       },
       {
         "subclassname": "Górnik",
@@ -2020,8 +1998,7 @@
           "Bardzo Silny",
           "Mocne Plecy",
           "Silny Cios",
-          "Widzenie w",
-          "Ciemności"
+          "Widzenie w Ciemności"
         ],
         "equipment": [
           "Broń Ręczna (Kilof )",
@@ -2042,15 +2019,13 @@
         "talents": [
           "Cios Mierzony",
           "Szczur Tunelowy",
-          "Wytwórca (Materiały",
-          "Wybuchowe)",
+          "Wytwórca (Materiały Wybuchowe)",
           "Złota Rączka"
         ],
         "equipment": [
           "Hełm",
           "Narzędzia Pracy (Inżyniera)",
-          "Wielka",
-          "Broń (Dwuręczny Kilof )"
+          "Wielka Broń (Dwuręczny Kilof )"
         ]
       },
       {
@@ -2069,7 +2044,7 @@
   },
   {
     "category": "Pospólstwo",
-    "path": "GUŚLARZ",
+    "path": "Guślarz",
     "subclasses": [
       {
         "subclassname": "Uczeń Guślarza",
@@ -2107,8 +2082,7 @@
         "talents": [
           "Magia Tajemna (Guślarstwo)",
           "Posłuch u Zwierząt",
-          "Szósty",
-          "Zmysł",
+          "Szósty Zmysł",
           "Zmysł Magii"
         ],
         "equipment": [
@@ -2129,8 +2103,7 @@
         "talents": [
           "Czysta Dusza",
           "Odporny na (Choroby)",
-          "Wykrywanie",
-          "Magii",
+          "Wykrywanie Magii",
           "Wytwórca (Zielarz)"
         ],
         "equipment": ["Odosobniona Chata", "Uczeń"]
@@ -2147,15 +2120,14 @@
         ],
         "equipment": [
           "Ceremonialny Płaszcz z Wiankiem",
-          "Zbiór",
-          "Zwierzęcych Czaszek"
+          "Zbiór Zwierzęcych Czaszek"
         ]
       }
     ]
   },
   {
     "category": "Pospólstwo",
-    "path": "ŁOWCA",
+    "path": "Łowca",
     "subclasses": [
       {
         "subclassname": "Traper",
@@ -2179,8 +2151,7 @@
         "equipment": [
           "Broń Ręczna",
           "Mocne Buty i Płaszcz",
-          "Wybór",
-          "Sideł na Zwierzęta",
+          "Wybór Sideł na Zwierzęta",
           "Proca z 10 Kamiennymi Pociskami"
         ]
       },
@@ -2199,8 +2170,7 @@
           "Błyskawiczny Strzał",
           "Celny Strzał",
           "Oko Łowcy",
-          "Strzelec",
-          "Wyborowy"
+          "Strzelec Wyborowy"
         ],
         "equipment": ["Łuk z 10 Strzałami"]
       },
@@ -2211,8 +2181,7 @@
         "talents": [
           "Nieustraszony (Zwierzęta)",
           "Prosto Między Oczy",
-          "Strzał",
-          "w Dziesiątkę",
+          "Strzał w Dziesiątkę",
           "Wyczulony Zmysł (Dowolny)"
         ],
         "equipment": ["Namiot", "Plecak", "Zwijane Posłanie"]
@@ -2233,7 +2202,7 @@
   },
   {
     "category": "Pospólstwo",
-    "path": "MISTYK",
+    "path": "Mistyk",
     "subclasses": [
       {
         "subclassname": "Wróżbiarz",
@@ -2302,16 +2271,13 @@
           "Magia Tajemna (Niebios)",
           "Wykrywanie Magii"
         ],
-        "equipment": [
-          "Narzędzia Pracy (Astrologa)Powiem ci",
-          "dlaczego mamy domy na kołach: dlatego"
-        ]
+        "equipment": ["Narzędzia Pracy (Astrologa)"]
       }
     ]
   },
   {
     "category": "Pospólstwo",
-    "path": "ZARZĄDC",
+    "path": "Zarządca",
     "subclasses": [
       {
         "subclassname": "Poborca Podatków",
@@ -2344,8 +2310,7 @@
           "Ogłuszenie",
           "Przemawianie",
           "Przestępca",
-          "Wtargnięcie",
-          "z Włamaniem"
+          "Wtargnięcie z Włamaniem"
         ],
         "equipment": ["Skórzana Kurta", "3 Poborców Podatków"]
       },
@@ -2369,21 +2334,19 @@
           "Błyskotliwość",
           "Intrygant",
           "Władcza Postura",
-          "Żelazna",
-          "Wola"
+          "Żelazna Wola"
         ],
         "equipment": [
           "Biblioteka (Prawo)",
           "Pieczęć Urzędowa",
-          "Szata",
-          "Dobrej Jakości"
+          "Szata Dobrej Jakości"
         ]
       }
     ]
   },
   {
     "category": "Pospólstwo",
-    "path": "ZIELARK",
+    "path": "Zielarka",
     "subclasses": [
       {
         "subclassname": "Zbieraczka Ziół",
@@ -2407,8 +2370,7 @@
         "equipment": [
           "Buty",
           "Płaszcz",
-          "Torba na Ramię Zawierająca",
-          "Wybór Ziół"
+          "Torba na Ramię Zawierająca Wybór Ziół"
         ]
       },
       {
@@ -2462,7 +2424,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "ZWIADOWC",
+    "path": "Zwiadowca",
     "subclasses": [
       {
         "subclassname": "Przewodnik",
@@ -2486,8 +2448,7 @@
         "equipment": [
           "Broń Ręczna",
           "Lina",
-          "Mocne Buty",
-          "i Płaszcz",
+          "Mocne Buty i Płaszcz",
           "Skórzana Kurta"
         ]
       },
@@ -2505,8 +2466,7 @@
         "talents": [
           "Nos do Kłopotów",
           "Obieżyświat",
-          "Widzenie w",
-          "Ciemności",
+          "Widzenie w Ciemności",
           "Zmysł Bitewny"
         ],
         "equipment": ["Łuk i 10 Strzał", "Kaftan Kolczy"]
@@ -2524,8 +2484,7 @@
           "Niezwykle Odporny",
           "Silne Nogi",
           "Szósty Zmysł",
-          "Wyczulony",
-          "Zmysł (Wzrok)"
+          "Wyczulony Zmysł (Wzrok)"
         ],
         "equipment": [
           "Koń Wierzchowy z Rzędem",
@@ -2550,7 +2509,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "BICZOWNIK",
+    "path": "Biczownik",
     "subclasses": [
       {
         "subclassname": "Gorliwiec",
@@ -2624,7 +2583,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "DOMOKRĄŻC",
+    "path": "Domokrążca",
     "subclasses": [
       {
         "subclassname": "Włóczykij",
@@ -2648,7 +2607,7 @@
         "skills": [
           "Jeździectwo (Konie)",
           "Mocna Głowa",
-          "Opieka nadZwierzętami",
+          "Opieka nad Zwierzętami",
           "Oswajanie",
           "Rzemiosło (Złota Rączka)",
           "Wycena"
@@ -2657,16 +2616,13 @@
           "Mocne Plecy",
           "Obieżyświat",
           "Wyczucie Kierunku",
-          "Żyłka",
-          "Handlowa"
+          "Żyłka Handlowa"
         ],
         "equipment": [
           "Muł z Jukami",
-          "Narzędzia Pracy (Złotej",
-          "Rączki)",
+          "Narzędzia Pracy (Złotej Rączki)",
           "Wybór Rondli i Patelni",
-          "Towary warte 2k10",
-          "Srebrnych Monet"
+          "Towary warte 2k10 Srebrnych Monet"
         ]
       },
       {
@@ -2693,15 +2649,14 @@
         ],
         "equipment": [
           "Wóz z Koniem Pociągowym",
-          "Towary warte",
-          "co najmniej 5k10 Złotych i 50 Srebrnych Monet"
+          "Towary warte co najmniej 5k10 Złotych i 50 Srebrnych Monet"
         ]
       }
     ]
   },
   {
     "category": "Wędrowcy",
-    "path": "KUGLARZ",
+    "path": "Kuglarz",
     "subclasses": [
       {
         "subclassname": "Grajek Uliczny",
@@ -2768,8 +2723,7 @@
           "Czujny",
           "Etykieta (Dowolna Grupa)",
           "Obieżyświat",
-          "Żyłka",
-          "Handlowa"
+          "Żyłka Handlowa"
         ],
         "equipment": [
           "Garderoba z Kostiumami i Rekwizytami",
@@ -2781,7 +2735,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "ŁOWCY CZAROWNI",
+    "path": "Łowca Czarownic",
     "subclasses": [
       {
         "subclassname": "Oprawca",
@@ -2804,7 +2758,7 @@
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Dowolna)",
-          "Broń Zasięgowa(Dowolna)",
+          "Broń Zasięgowa (Dowolna)",
           "Jeździectwo (Konie)",
           "Opanowanie",
           "Plotkowanie",
@@ -2819,8 +2773,7 @@
         ],
         "equipment": [
           "Kapelusz (Kornet)",
-          "Koń Wierzchowy",
-          "z Rzędem",
+          "Koń Wierzchowy z Rzędem",
           "Kusza Pistoletowa albo Pistolet",
           "Lina",
           "Posrebrzany Miecz",
@@ -2852,8 +2805,7 @@
           "Czysta Dusza",
           "Straszny",
           "Wykrywanie Magii",
-          "Żelazna",
-          "Wola"
+          "Żelazna Wola"
         ],
         "equipment": [
           "Podwładni Łowcy Czarownic",
@@ -2865,7 +2817,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "ŁOWCY NAGRÓ",
+    "path": "Łowca Nagród",
     "subclasses": [
       {
         "subclassname": "Pogromczyni Złodziei",
@@ -2884,21 +2836,26 @@
           "Charyzmatyczny",
           "Cień",
           "Ogłuszenie",
-          "Wtargnięcie z",
-          "Włamaniem"
+          "Wtargnięcie z Włamaniem"
         ],
         "equipment": ["Broń Ręczna", "Lina", "Skórzany Kaftan"]
       },
       {
         "subclassname": "Łowczyni Nagród",
         "status": "Srebro 3",
-        "skills": ["Atletyka", "Broń Zasięgowa (Kusza)", " Broń"],
+        "skills": [
+          "Atletyka",
+          "Broń Zasięgowa (Kusza)",
+          " Broń zasięgowa (Unieruchamiająca)",
+          "Odporność",
+          "Tropienie",
+          "Zastraszanie"
+        ],
         "talents": [
           "Mocne Plecy",
           "Nieustępliwy",
           "Obieżyświat",
-          "Strzelec",
-          "Wyborowy"
+          "Strzelec Wyborowy"
         ],
         "equipment": [
           "Glejty",
@@ -2931,15 +2888,13 @@
         "skills": ["Powożenie", "Wiedza (Prawo)"],
         "talents": [
           "Prosto Między Oczy",
-          "Nieustraszony (Cele",
-          "Łowów)",
+          "Nieustraszony (Cele Łowów)",
           "Twardziel",
           "Strzał Przebijający"
         ],
         "equipment": [
           "Kaftan Kolczy",
-          "Powóz z Koniem",
-          "Pociągowym",
+          "Powóz z Koniem Pociągowym",
           "4 pary Kajdan"
         ]
       }
@@ -2947,7 +2902,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "POSŁAŃC",
+    "path": "Posłaniec",
     "subclasses": [
       {
         "subclassname": "Goniec",
@@ -2966,8 +2921,7 @@
           "Bardzo Szybki",
           "Chodu!",
           "Szybkobiegacz",
-          "Zejście",
-          "z Linii"
+          "Zejście z Linii"
         ],
         "equipment": ["Tuba na Zwoje"]
       },
@@ -2985,8 +2939,7 @@
         "talents": ["Obieżyświat", "Przestępca", "Wyczucie Kierunku", "Z Bata"],
         "equipment": [
           "Broń Ręczna",
-          "Koń Wierzchowy",
-          "z Rzędem",
+          "Koń Wierzchowy z Rzędem",
           "Skórzana Kurta"
         ]
       },
@@ -3024,7 +2977,7 @@
   },
   {
     "category": "Wędrowcy",
-    "path": "STRAŻNIKA DRÓ",
+    "path": "Strażniczka Dróg",
     "subclasses": [
       {
         "subclassname": "Mytnik",
@@ -3062,8 +3015,7 @@
         "equipment": [
           "Broń Ręczna",
           "Kaftan Kolczy",
-          "Koń",
-          "Wierzchowy z Rzędem",
+          "Koń Wierzchowy z Rzędem",
           "Lina"
         ]
       },
@@ -3084,8 +3036,7 @@
         ],
         "equipment": [
           "Drużyna Strażników Dróg",
-          "Pistolet z 10",
-          "Nabojami",
+          "Pistolet z 10 Nabojami",
           "Tarcza",
           "Symbol Rangi"
         ]
@@ -3097,18 +3048,16 @@
         "talents": ["Mówca", "Szycha", "Władcza Postura", "Zmysł Bitewny"],
         "equipment": [
           "Kapelusz i Płaszcz Dobrej Jakości",
-          "Lekki",
-          "Koń Bojowy",
+          "Lekki Koń Bojowy",
           "Pistolet z 10 Nabojami",
-          "Oddział Strażników",
-          " Dróg"
+          "Oddział Strażników Dróg"
         ]
       }
     ]
   },
   {
-    "category": "Wodniacy",
-    "path": "WOŹNIC",
+    "category": "Wędrowcy",
+    "path": "Woźnica",
     "subclasses": [
       {
         "subclassname": "Foryś",
@@ -3134,19 +3083,17 @@
       {
         "subclassname": "Woźnica",
         "status": "Srebro 2",
-        "skills": ["Broń Zasięgowa (Prochowa)", "Intuicja", " Mocna"],
+        "skills": ["Broń Zasięgowa (Prochowa)", "Intuicja", "Mocna Głowa"],
         "talents": [
           "Artylerzysta",
           "Odporność Psychiczna",
           "Z Bata",
-          "Zimna",
-          "Krew"
+          "Zimna Krew"
         ],
         "equipment": [
           "Garłacz z 10 Nabojami",
           "Kapelusz",
-          "Skórzana",
-          "Kurta",
+          "Skórzana Kurta",
           "Trąbka od Powozu"
         ]
       },
@@ -3177,18 +3124,18 @@
           "Szybkie Przeładowanie",
           "Wyczucie Kierunku"
         ],
-        "equipment": ["Flota Koni i Powozów", " Mapy"]
+        "equipment": ["Flota Koni i Powozów", "Mapy"]
       }
     ]
   },
   {
     "category": "Wodniacy",
-    "path": "DOKER",
+    "path": "Doker",
     "subclasses": [
       {
         "subclassname": "Pomocnik Dokera",
         "status": "Brąz 3",
-        "skills": ["Atletyka", "Broń Biała (Podstawowa)", " Mocna"],
+        "skills": ["Atletyka", "Broń Biała (Podstawowa)", "Mocna Głowa"],
         "talents": [
           "Bardzo Silny",
           "Cios Poniżej Pasa",

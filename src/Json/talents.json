@@ -74,8 +74,8 @@
   {
     "name": "Błyskawiczny Strzał",
     "maksimum": "Bonus ze Zwinności",
-    "tests": "Broń Zasięgowa, gdy wykorzystujesz Talent Błyskawiczny ",
-    "description": "StrzałJeśli posiadasz naładowaną broń dystansową, możesz z niej wystrzelić poza Kolejnością Inicjatywy, zanim zareaguje którykolwiek z uczestników walki. Rzut na trafienie wykonaj z uwzględnieniem wszystkich modyfikatorów. Użycie tego Talentu wymaga poświęcenia zarówno Akcji, jak i Ruchu z nadchodzącej Tury i kiedy nadejdzie twoja kolej, będą one traktowane jako wykorzystane. Jeśli ten Talent chcą wykorzystać dwie lub więcej postaci, pierwsza strzela ta, która wykupiła go więcej razy. Jeśli i na tym polu mamy remis, obydwie postacie strzelają równocześnie i wynik ich ataków powinien być rozliczony jednocześnie."
+    "tests": "Broń Zasięgowa, gdy wykorzystujesz Talent Błyskawiczny Strzał",
+    "description": "Jeśli posiadasz naładowaną broń dystansową, możesz z niej wystrzelić poza Kolejnością Inicjatywy, zanim zareaguje którykolwiek z uczestników walki. Rzut na trafienie wykonaj z uwzględnieniem wszystkich modyfikatorów. Użycie tego Talentu wymaga poświęcenia zarówno Akcji, jak i Ruchu z nadchodzącej Tury i kiedy nadejdzie twoja kolej, będą one traktowane jako wykorzystane. Jeśli ten Talent chcą wykorzystać dwie lub więcej postaci, pierwsza strzela ta, która wykupiła go więcej razy. Jeśli i na tym polu mamy remis, obydwie postacie strzelają równocześnie i wynik ich ataków powinien być rozliczony jednocześnie."
   },
   {
     "name": "Błyskotliwość",
@@ -98,8 +98,8 @@
   {
     "name": "Chirurgia",
     "maksimum": "Premia z Inteligencji",
-    "tests": "Leczenie poza walką, czyli kiedy możesz właściwie zająć ",
-    "description": "się rannymLata nauki trudnego rzemiosła chirurga pozwalają ci dokonywać cudu operacji, zabiegu niezbędnego przy leczeniu najgroźniejszych obrażeń. W opisie wybranych Trafień Krytycznych znajdziecie informację, że wymagają one interwencji chirurga. Właśnie ty jesteś w stanie im zaradzić. Operacja to Wydłużony Wymagający (+0) Test Leczenia. Liczba wymaganych PS jest ustalana przez MG, ale zwykle to 510. Podczas procedury zadajesz pacjentowi 1k10 obrażeń i nakładasz na niego Stan Krwawienie za każdym razem, gdy wykonujesz Test. To oznacza, że chory może umrzeć, a szansa na to jest wysoka. Po operacji pacjent musi wykonać Przeciętny (+20) Test Odporności, a jego niepowodzenie oznacza drobną infekcję (patrz strona 187)."
+    "tests": "Leczenie poza walką, czyli kiedy możesz właściwie zająć się rannym",
+    "description": "Lata nauki trudnego rzemiosła chirurga pozwalają ci dokonywać cudu operacji, zabiegu niezbędnego przy leczeniu najgroźniejszych obrażeń. W opisie wybranych Trafień Krytycznych znajdziecie informację, że wymagają one interwencji chirurga. Właśnie ty jesteś w stanie im zaradzić. Operacja to Wydłużony Wymagający (+0) Test Leczenia. Liczba wymaganych PS jest ustalana przez MG, ale zwykle to 510. Podczas procedury zadajesz pacjentowi 1k10 obrażeń i nakładasz na niego Stan Krwawienie za każdym razem, gdy wykonujesz Test. To oznacza, że chory może umrzeć, a szansa na to jest wysoka. Po operacji pacjent musi wykonać Przeciętny (+20) Test Odporności, a jego niepowodzenie oznacza drobną infekcję (patrz strona 187)."
   },
   {
     "name": "Chodu!",
@@ -134,8 +134,8 @@
   {
     "name": "Człowiek Guma",
     "maksimum": "Bonus ze Zwinności",
-    "tests": "Kuglarstwo lub Testy Zwinności w sytuacji, gdy przydaje ",
-    "description": "się gibkośćJesteś w stanie wyginać swoje ciało i manipulować nim na sposoby, które zdają się przeczyć naturze. Dzięki temu możesz przeciskać się przez niewielkie otwory lub zmuszać członki do nieprawdopodobnych rzeczy. Granice tego wyznacza MG i udany Test Zwinności."
+    "tests": "Kuglarstwo lub Testy Zwinności w sytuacji, gdy przydaje się gibkość",
+    "description": "Jesteś w stanie wyginać swoje ciało i manipulować nim na sposoby, które zdają się przeczyć naturze. Dzięki temu możesz przeciskać się przez niewielkie otwory lub zmuszać członki do nieprawdopodobnych rzeczy. Granice tego wyznacza MG i udany Test Zwinności."
   },
   {
     "name": "Czujny",
@@ -182,8 +182,8 @@
   {
     "name": "Dwie Bronie",
     "maksimum": "Bonus ze Zwinności",
-    "tests": "Broń Biała lub Zasięgowa, kiedy atakujesz dwoma sztu-",
-    "description": "kami orężaKiedy jesteś uzbrojony w dwie bronie, podczas swojej Akcji możesz zaatakować obydwiema naraz. Najpierw wykonaj Test trafienia dla broni, którą trzymasz w wiodącej ręce, a jeśli trafisz, określ normalnie obrażenia. Zostaw kości 1k100 na stole, przydadzą się za chwilę. Skoro pierwszy atak się udał i zostały zadane obrażenia, możesz użyć drugiej broni, by uderzyć jeszcze raz. Wykorzystujesz wynik pierwszego rzutu, ale odwracasz kolejność kostek. I tak rzut na trafienie 34 stanie się 43. Pamiętaj, by obniżyć go o modyfikator wynikający z walki słabszą ręką (20, chyba że posiadasz Talent Oburęczność). Drugi atak też jest Testem Przeciwstawnym. Twój przeciwnik wykonuje Test obrony, na nowo określane są obrażenia. Wyjątkiem jest sytuacja, gdy pierwszy atak zakończył się Trafieniem Krytycznym. Jeśli tak się stanie, wykorzystaj wynik rzutu w Tabeli Trafień Krytycznych do określenia, czy drugi atak trafił, czy nie. Na przykład, jeśli pierwszy atak trafił przeciwnika krytycznie w głowę, a wynik rzutu w Tabeli Trafień Krytycznych to 56 (Poważna rana oka), to korzystasz z tego rezultatu jako wyniku rzutu na trafienie w drugim ataku. Jeśli atakujesz obydwiema broniami, twoje rzuty na obronę obarczone są modyfikatorem 10 do końca twojej następnej Tury. Nie zyskujesz Przewagi za trafienie lub zranienie przeciwnika, jeśli korzystasz z tego Talentu, chyba że trafisz obydwoma atakami.IV135"
+    "tests": "Broń Biała lub Zasięgowa, kiedy atakujesz dwoma sztukami oręża",
+    "description": "Kiedy jesteś uzbrojony w dwie bronie, podczas swojej Akcji możesz zaatakować obydwiema naraz. Najpierw wykonaj Test trafienia dla broni, którą trzymasz w wiodącej ręce, a jeśli trafisz, określ normalnie obrażenia. Zostaw kości 1k100 na stole, przydadzą się za chwilę. Skoro pierwszy atak się udał i zostały zadane obrażenia, możesz użyć drugiej broni, by uderzyć jeszcze raz. Wykorzystujesz wynik pierwszego rzutu, ale odwracasz kolejność kostek. I tak rzut na trafienie 34 stanie się 43. Pamiętaj, by obniżyć go o modyfikator wynikający z walki słabszą ręką (20, chyba że posiadasz Talent Oburęczność). Drugi atak też jest Testem Przeciwstawnym. Twój przeciwnik wykonuje Test obrony, na nowo określane są obrażenia. Wyjątkiem jest sytuacja, gdy pierwszy atak zakończył się Trafieniem Krytycznym. Jeśli tak się stanie, wykorzystaj wynik rzutu w Tabeli Trafień Krytycznych do określenia, czy drugi atak trafił, czy nie. Na przykład, jeśli pierwszy atak trafił przeciwnika krytycznie w głowę, a wynik rzutu w Tabeli Trafień Krytycznych to 56 (Poważna rana oka), to korzystasz z tego rezultatu jako wyniku rzutu na trafienie w drugim ataku. Jeśli atakujesz obydwiema broniami, twoje rzuty na obronę obarczone są modyfikatorem 10 do końca twojej następnej Tury. Nie zyskujesz Przewagi za trafienie lub zranienie przeciwnika, jeśli korzystasz z tego Talentu, chyba że trafisz obydwoma atakami.IV135"
   },
   {
     "name": "Etykieta (Grupa Społeczna)",
@@ -207,10 +207,10 @@
     "name": "Geniusz Arytmetyczny",
     "maksimum": "Bonus z Inteligencji",
     "tests": "Wycena, Hazard",
-    "description": "Masz dar do cyferek i z łatwością potrafisz rozwiązywać problemy matematyczne. Na sesji wolno używać ci kalkulatora, by pokazać geniusz swojej postaci (chyba że go nie potrzebujesz i li"
+    "description": "Masz dar do cyferek i z łatwością potrafisz rozwiązywać problemy matematyczne. Na sesji wolno używać ci kalkulatora, by pokazać geniusz swojej postaci (chyba że go nie potrzebujesz i liczysz w pamięci)."
   },
   {
-    "name": "czysz w pamięci).Gładkie Słówka",
+    "name": "Gładkie Słówka",
     "maksimum": "Bonus z Ogłady",
     "tests": "Charyzma podczas kłamania",
     "description": "Jak Ranald Podstępny, potrafisz tak przeplatać prawdę z kłamstwem, że nie można odróżnić jednego od drugiego. Gdy wykorzystujesz Charyzmę do kłamania, twoi rozmówcy nie mogą wykonywać Przeciwstawnego Testu Intuicji, by sprawdzić, czy przypadkiem ich nie okłamujesz."
@@ -267,13 +267,13 @@
     "name": "Mag Bitewny",
     "maksimum": "1",
     "tests": "",
-    "description": "Zostałeś wyszkolony w rzucaniu czarów podczas bitwy. W swojej Turze możesz rzucić jeden czar o Poziomie Zaklęcia 5 lub niższym w Akcji Darmowej (Test wykonujesz normalnie). Nie używasz zatem pełnej Akcji i możesz ją wykorzystać w dowolny "
+    "description": "Zostałeś wyszkolony w rzucaniu czarów podczas bitwy. W swojej Turze możesz rzucić jeden czar o Poziomie Zaklęcia 5 lub niższym w Akcji Darmowej (Test wykonujesz normalnie). Nie używasz zatem pełnej Akcji i możesz ją wykorzystać w dowolny sposób. Jednak w tej Turze nie możesz rzucić już kolejnego czaru."
   },
   {
-    "name": "sposób. Jednak w tej Turze nie możesz rzucić już kolejnego czaru.Magia Chaosu (Tradycja)",
-    "maksimum": "Liczba dostępnych czarów w wybranej tradycji ma-",
+    "name": "Magia Chaosu (Tradycja)",
+    "maksimum": "Liczba dostępnych czarów w wybranej tradycji magii Chaosu.",
     "tests": "",
-    "description": "gii Chaosu.Przez przypadek (lub wręcz przeciwnie) część twojej duszy przypadła jednemu z Mrocznych Bogów i jesteś w stanie korzystać z wszetecznej magii Chaosu. Twój złowrogi patron zapewnia ci dostęp do jednego czaru z wybranej tradycji (najczęściej Nurgla, Slaanesha lub Tzeentcha), a wraz z nim otrzymujesz Punkt Zepsucia, gdy bluźniercza formuła wypala się w twoim umyśle, byś nigdy jej nie zapomniał.Za każdym razem, gdy wykupujesz ten Talent, musisz zapłacić za niego 100 PD, a więc jest inaczej niż w przypadku innych tradycji. W zamian za to otrzymujesz czar z wybranej tradycji i 1 Punkt Zepsucia. Więcej informacji na temat czarów znajduje się w Rozdziale 8: Magia. W normalnych warunkach możesz znać tylko jedną tradycję magii Chaosu."
+    "description": "Przez przypadek (lub wręcz przeciwnie) część twojej duszy przypadła jednemu z Mrocznych Bogów i jesteś w stanie korzystać z wszetecznej magii Chaosu. Twój złowrogi patron zapewnia ci dostęp do jednego czaru z wybranej tradycji (najczęściej Nurgla, Slaanesha lub Tzeentcha), a wraz z nim otrzymujesz Punkt Zepsucia, gdy bluźniercza formuła wypala się w twoim umyśle, byś nigdy jej nie zapomniał.Za każdym razem, gdy wykupujesz ten Talent, musisz zapłacić za niego 100 PD, a więc jest inaczej niż w przypadku innych tradycji. W zamian za to otrzymujesz czar z wybranej tradycji i 1 Punkt Zepsucia. Więcej informacji na temat czarów znajduje się w Rozdziale 8: Magia. W normalnych warunkach możesz znać tylko jedną tradycję magii Chaosu."
   },
   {
     "name": "Magia Prosta",
@@ -309,10 +309,10 @@
     "name": "Mistrz Rzemiosła (Rzemiosło)",
     "maksimum": "Bonus ze Zręczności",
     "tests": "Pasujący Wydłużony Test tego Rzemiosła",
-    "description": "Jesteś wybitnie wykwalifikowany w danym rzemiośle. Możesz zmniejszyć liczbę wymaganych PS podczas Testu Wydłużonego "
+    "description": "Jesteś wybitnie wykwalifikowany w danym rzemiośle. Możesz zmniejszyć liczbę wymaganych PS podczas Testu Wydłużonego tego Rzemiosła o tyle, ile razy wykupiłeś ten Talent."
   },
   {
-    "name": "tego Rzemiosła o tyle, ile razy wykupiłeś ten Talent.Mistrz Walki",
+    "name": "Mistrz Walki",
     "maksimum": "Bonus ze Zwinności",
     "tests": "",
     "description": "Lata nagromadzonego doświadczenia pozwalają ci trzymać przeciwników w szachu. Każde wykupienie tego Talentu sprawia, że gdy określana jest przewaga liczebna w walce, ty liczysz się jak jedna osoba więcej (dwie przy pierwszym wykupieniu, trzy przy drugim itd.). Talent ten działa tylko wtedy, gdy przeciwników jest faktycznie więcej od grupy, w której znajduje się postać. Na stronie 162 znajdują się zasady mówiące o tym, jak stosować przewagę liczebną."
@@ -339,13 +339,13 @@
     "name": "Mówca",
     "maksimum": "Bonus z Ogłady",
     "tests": "",
-    "description": "Jesteś umiejętnym oratorem i wiesz, jak urabiać tłumy. Poniższa tabela wskazuje, ile osób ulegnie twojemu wpływowi, gdy wykonasz Test Charyzmy (patrz strona 119) podczas przemawiania.Liczba wykupień TalentuLiczba przekonanych1 zwykła x52 zwykła x103 zwykła x204 zwykła x505 zwykła x1006 zwykła x2007 zwykła x5008 zwykła x10009 wszyscy, którzy słyszą twój słowiczy głos"
+    "description": "Jesteś umiejętnym oratorem i wiesz, jak urabiać tłumy. W zależności od ilości wykupień tego talentu ustalasz ile osób ulegnie twojemu wpływowi, gdy wykonasz Test Charyzmy (patrz strona 119) podczas przemawiania. Jeżeli wykupiłeś ten talent: (1 raz) Liczba przekonanych osób = zwykła x 5 | (2 razy) Liczba przekonanych osób = zwykła x 10 | (3 razy) Liczba przekonanych osób = zwykła x 20 | (4 razy) Liczba przekonanych osób = zwykła x 50 | (5 razy) Liczba przekonanych osób = zwykła x 100 | (6 razy) Liczba przekonanych osób = zwykła x 200 | (7 razy) Liczba przekonanych osób = zwykła x 500 | (8 razy) Liczba przekonanych osób = zwykła x 1000 | (9 razy) Liczba przekonanych osób = wszyscy którzy słyszą twój głos"
   },
   {
     "name": "Musztra",
     "maksimum": "Bonus z Walki Wręcz",
-    "tests": "Broń Biała, kiedy jesteś w pobliżu sojuszniczej postaci ",
-    "description": "z tym TalentemZostałeś wyszkolony w walce obok innych żołnierzy. Jeśli przeciwnik sprawi, że stracisz Przewagę, a znajdujesz się obok innej, aktywnej postaci z Talentem Musztra, możesz zachować 1 Przewagę za każde wykupienie tego Talentu."
+    "tests": "Broń Biała, kiedy jesteś w pobliżu sojuszniczej postaci z tym Talentem",
+    "description": "Zostałeś wyszkolony w walce obok innych żołnierzy. Jeśli przeciwnik sprawi, że stracisz Przewagę, a znajdujesz się obok innej, aktywnej postaci z Talentem Musztra, możesz zachować 1 Przewagę za każde wykupienie tego Talentu."
   },
   {
     "name": "Na Cztery Łapy",
@@ -398,8 +398,8 @@
   {
     "name": "Nieustraszony (typ wroga)",
     "maksimum": "Bonus z Siły Woli",
-    "tests": "Opanowanie przeciwko wrogiemu Zastraszaniu oraz Te-",
-    "description": "stom Strachu i GrozyJesteś tak odważny lub szalony, że strach przed pewnymi istotami jest dla ciebie wspomnieniem. Za pomocą jednego Przeciętnego (+20) Testu Opanowania możesz sprawić, że nie dotyczą cię efekty Zastraszania, Strachu i Grozy, powodowane przez określoną grupę wrogów. Oto typowe przykłady takich wrogów: Banici, Czarownice, Strażnicy, Wampiry, Zielonoskórzy, Zwierzoludzie.IV139"
+    "tests": "Opanowanie przeciwko wrogiemu Zastraszaniu oraz Testom Strachu i Grozy",
+    "description": "Jesteś tak odważny lub szalony, że strach przed pewnymi istotami jest dla ciebie wspomnieniem. Za pomocą jednego Przeciętnego (+20) Testu Opanowania możesz sprawić, że nie dotyczą cię efekty Zastraszania, Strachu i Grozy, powodowane przez określoną grupę wrogów. Oto typowe przykłady takich wrogów: Banici, Czarownice, Strażnicy, Wampiry, Zielonoskórzy, Zwierzoludzie.IV139"
   },
   {
     "name": "Niewzruszony",
@@ -435,10 +435,10 @@
     "name": "Oburęczność",
     "maksimum": "2",
     "tests": "",
-    "description": "Twoja słabsza ręka jest sprawniejsza niż u innych ludzi. Być może zostałeś tego nauczony, być może to wrodzona cecha, ale efekt jest ten sam: modyfikator do Testów wykonywanych „drugą” ręką zostaje zmniejszony z 20 do 10. Jeśli wykupisz ten Talent drugi "
+    "description": "Twoja słabsza ręka jest sprawniejsza niż u innych ludzi. Być może zostałeś tego nauczony, być może to wrodzona cecha, ale efekt jest ten sam: modyfikator do Testów wykonywanych „drugą” ręką zostaje zmniejszony z 20 do 10. Jeśli wykupisz ten Talent drugi raz, modyfikatora nie stosuje się do twojej postaci."
   },
   {
-    "name": "raz, modyfikatora nie stosuje się do twojej postaci.Odporność na Magię",
+    "name": "Odporność na Magię",
     "maksimum": "1",
     "tests": "",
     "description": "Jesteś uodporniony na zaklęcia. Poziom Sukcesów czarów rzucanych na Ciebie jest obniżony o 2 za każde wykupienie tego Talentu. Poziom Sukcesów jest obniżany tylko od najwyższej Odporności na Magię w obszarze oddziaływania czaru. Co więcej, nie możesz wykupić Talentów: Magia Tajemna, Błogosławieństwo, Inwokacja, Magia Prosta i Czarownica!."
@@ -470,8 +470,8 @@
   {
     "name": "Oko Łowcy",
     "maksimum": "Bonus z Inicjatywy",
-    "tests": "Dowolny wiążący się z Tropieniem lub polowaniem na ",
-    "description": "zwierzynęJesteś dobrym myśliwym i znasz najlepsze sposoby szukania zwierzyny. Kiedy podróżujesz po bogatych w nią ziemiach, jesteś automatycznie w stanie wyżywić siebie i tylu towarzyszy, ile razy wykupiłeś ten Talent, jeśli tylko masz czas, by zapolować, oraz odpowiednie wyposażenie. Więcej pożywienia możesz zapewnić, wykorzystując zasady znajdujące się na stronie 129.UMIEJĘTNOŚCI I TALENTY IVWARHAMMER FANTASY ROLEPLAY"
+    "tests": "Dowolny wiążący się z Tropieniem lub polowaniem na zwierzynę",
+    "description": "Jesteś dobrym myśliwym i znasz najlepsze sposoby szukania zwierzyny. Kiedy podróżujesz po bogatych w nią ziemiach, jesteś automatycznie w stanie wyżywić siebie i tylu towarzyszy, ile razy wykupiłeś ten Talent, jeśli tylko masz czas, by zapolować, oraz odpowiednie wyposażenie. Więcej pożywienia możesz zapewnić, wykorzystując zasady znajdujące się na stronie 129.UMIEJĘTNOŚCI I TALENTY IVWARHAMMER FANTASY ROLEPLAY"
   },
   {
     "name": "Percepcja Magiczna",
@@ -488,8 +488,8 @@
   {
     "name": "Pilot",
     "maksimum": "Bonus z Inicjatywy",
-    "tests": "Wiosłowanie lub Żeglowanie podczas wytyczania kursu ",
-    "description": "przez nieznane wodyPotrafisz kierować okrętem po zdradliwych akwenach. Kiedy nie powiedzie ci się Test na niepewnych wodach, możesz odwrócić kolejność kości, jeżeli nowy wynik pozwoli ci odnieść sukces. Maksymalnie możesz w ten sposób osiągnąć +1 PS, ponieważ w ostatniej chwili wypatrzyłeś niebezpieczeństwo."
+    "tests": "Wiosłowanie lub Żeglowanie podczas wytyczania kursu przez nieznane wody",
+    "description": "Potrafisz kierować okrętem po zdradliwych akwenach. Kiedy nie powiedzie ci się Test na niepewnych wodach, możesz odwrócić kolejność kości, jeżeli nowy wynik pozwoli ci odnieść sukces. Maksymalnie możesz w ten sposób osiągnąć +1 PS, ponieważ w ostatniej chwili wypatrzyłeś niebezpieczeństwo."
   },
   {
     "name": "Pilot Rzeczny",
@@ -506,8 +506,8 @@
   {
     "name": "Pomocny",
     "maksimum": "Bonus z Ogłady",
-    "tests": "Testy społeczne, by wpłynąć na stojących wyżej w hierar-",
-    "description": "chiiWiesz, co i kiedy powiedzieć oraz jak najlepiej wypaść w oczach szlachetniej od ciebie urodzonych. Kiedy z powodzeniem użyjesz Umiejętności, by wpłynąć na tych, którzy mają wyższy od ciebie Status, możesz wybrać, czy wykorzystać normalnie obliczaną liczbę PS, czy zamiast niej użyć cyfry jedności kości, którymi rzucałeś. W ten sposób rzut 46 może dać +6 PS."
+    "tests": "Testy społeczne, by wpłynąć na stojących wyżej w hierarchii",
+    "description": "Wiesz, co i kiedy powiedzieć oraz jak najlepiej wypaść w oczach szlachetniej od ciebie urodzonych. Kiedy z powodzeniem użyjesz Umiejętności, by wpłynąć na tych, którzy mają wyższy od ciebie Status, możesz wybrać, czy wykorzystać normalnie obliczaną liczbę PS, czy zamiast niej użyć cyfry jedności kości, którymi rzucałeś. W ten sposób rzut 46 może dać +6 PS."
   },
   {
     "name": "Porywająca Gorliwość",
@@ -536,8 +536,8 @@
   {
     "name": "Przekonujący",
     "maksimum": "Bonus z Ogłady",
-    "tests": "Charyzma, gdy prowadzisz debatę lub się z kimś spierasz ",
-    "description": "na argumentyPrzywykłeś do debatowania i obrony swojego zdania. Jeśli uda ci się Test Charyzmy, możesz normalnie obliczyć PS lub określić ich liczbę, odczytując wynik z kości jedności. Udany Test z wynikiem 24 może dać ci więc 4 PS."
+    "tests": "Charyzma, gdy prowadzisz debatę lub się z kimś spierasz na argumenty",
+    "description": "Przywykłeś do debatowania i obrony swojego zdania. Jeśli uda ci się Test Charyzmy, możesz normalnie obliczyć PS lub określić ich liczbę, odczytując wynik z kości jedności. Udany Test z wynikiem 24 może dać ci więc 4 PS."
   },
   {
     "name": "Przestępca",
@@ -561,13 +561,13 @@
     "name": "Rozbrojenie",
     "maksimum": "Bonus z Inicjatywy",
     "tests": "Broń Biała w sytuacjach związanych z tym Talentem",
-    "description": "Celnym uderzeniem lub sprawnym ruchem nadgarstka jesteś w stanie wytrącić broń przeciwnikowi z dłoni. W ramach swojej Akcji wykonaj Przeciwstawny Test Broni Białej przeciwko wrogiemu Testowi Broni Białej. Jeśli ci się powiedzie, wybijasz broń z ręki przeciwnika, która odlatuje o 1k3 metry w losowym kierunku. MG może zadecydować o tym, co dzieje się jeszcze. Jeśli wygrasz o 2 PS, ty decydujesz, jak daleko odleci broń, zamiast określać to losowo. Jeśli wygrasz o 4 PS, możesz też zadecydować, w którą stronę pofrunie. Jeżeli wygrasz Test o 6 PS lub więcej, łapiesz oręż przeciwnika, o ile masz wolną rękę. Ten Talent na nic się nie przyda, jeśli "
+    "description": "Celnym uderzeniem lub sprawnym ruchem nadgarstka jesteś w stanie wytrącić broń przeciwnikowi z dłoni. W ramach swojej Akcji wykonaj Przeciwstawny Test Broni Białej przeciwko wrogiemu Testowi Broni Białej. Jeśli ci się powiedzie, wybijasz broń z ręki przeciwnika, która odlatuje o 1k3 metry w losowym kierunku. MG może zadecydować o tym, co dzieje się jeszcze. Jeśli wygrasz o 2 PS, ty decydujesz, jak daleko odleci broń, zamiast określać to losowo. Jeśli wygrasz o 4 PS, możesz też zadecydować, w którą stronę pofrunie. Jeżeli wygrasz Test o 6 PS lub więcej, łapiesz oręż przeciwnika, o ile masz wolną rękę. Ten Talent na nic się nie przyda, jeśli wróg nie używa broni lub jest większy od ciebie."
   },
   {
-    "name": "wróg nie używa broni lub jest większy od ciebie.Rozpoznanie Artefaktu",
+    "name": "Rozpoznanie Artefaktu",
     "maksimum": "Bonus z Inicjatywy",
-    "tests": "Test Intuicji związany z wykrywaniem magicznych arte-",
-    "description": "faktówJesteś w stanie wykryć, czy w danym przedmiocie zaklęta jest magia. Możesz wykonać Test Intuicji, gdy go dotykasz. Jeśli Test się powiedzie, każdy PS pozwala ci poznać jedną zasadę, która ma zastosowanie wobec przedmiotu (jeśli tak w ogóle jest). W zwykłych przypadkach możesz wykonać tylko jeden Test wobec danego artefaktu."
+    "tests": "Test Intuicji związany z wykrywaniem magicznych artefaktów",
+    "description": "Jesteś w stanie wykryć, czy w danym przedmiocie zaklęta jest magia. Możesz wykonać Test Intuicji, gdy go dotykasz. Jeśli Test się powiedzie, każdy PS pozwala ci poznać jedną zasadę, która ma zastosowanie wobec przedmiotu (jeśli tak w ogóle jest). W zwykłych przypadkach możesz wykonać tylko jeden Test wobec danego artefaktu."
   },
   {
     "name": "Rozproszenie Uwagi",
@@ -578,8 +578,8 @@
   {
     "name": "Ruchliwe dłonie",
     "maksimum": "Bonus ze Zręczności",
-    "tests": "Zwinne Palce, Broń Biała (Bijatyka), aby dotknąć przeciw-",
-    "description": "nikaManipulujesz dłońmi z zaskakującą zręcznością. Gapiom i przypadkowym obserwatorom nie przysługuje bierny Test Percepcji, gdy wykorzystujesz Umiejętność Zwinne Palce, chyba że żywią oni wobec ciebie podejrzenia i obserwują twoje ruchy. Testy Broni Białej (Bijatyki) wykonywane, by dotknąć przeciwnika, wykonujesz z premią +10 x liczba wykupień tego Talentu."
+    "tests": "Zwinne Palce, Broń Biała (Bijatyka), aby dotknąć przeciwnika",
+    "description": "Manipulujesz dłońmi z zaskakującą zręcznością. Gapiom i przypadkowym obserwatorom nie przysługuje bierny Test Percepcji, gdy wykorzystujesz Umiejętność Zwinne Palce, chyba że żywią oni wobec ciebie podejrzenia i obserwują twoje ruchy. Testy Broni Białej (Bijatyki) wykonywane, by dotknąć przeciwnika, wykonujesz z premią +10 x liczba wykupień tego Talentu."
   },
   {
     "name": "Rybak",
@@ -590,8 +590,8 @@
   {
     "name": "Sekretna Tożsamość",
     "maksimum": "Bonus z Inteligencji",
-    "tests": "Występy (Aktorstwo), by uwiarygodnić swoją sekretną ",
-    "description": "tożsamośćPosiadasz alter ego, które jest bogatszym lub biedniejszym człowiekiem od ciebie. Wybierz Profesję, na którą przystanie MG. Dopóki jesteś odpowiednio ubrany, dopóty możesz korzystać z oferowanego przez nią Statusu, a nie z rzeczywiście posiadanej. To oznacza, że korzystasz z jej modyfikatorów do Testów Ogłady, a nawet możesz zignorować skutki działania Talentu Przestępca. Utrzymywanie sekretnej tożsamości wymaga udanych Testów Umiejętności Występy (Aktorstwo), gdy spotykasz kogoś, kto może cię przejrzeć. Każde wykupienie tego Talentu pozwala ci na stworzenie dodatkowej sekretnej tożsamości.UMIEJĘTNOŚCI I TALENTY IVWARHAMMER FANTASY ROLEPLAY142"
+    "tests": "Występy (Aktorstwo), by uwiarygodnić swoją sekretną tożsamość",
+    "description": "Posiadasz alter ego, które jest bogatszym lub biedniejszym człowiekiem od ciebie. Wybierz Profesję, na którą przystanie MG. Dopóki jesteś odpowiednio ubrany, dopóty możesz korzystać z oferowanego przez nią Statusu, a nie z rzeczywiście posiadanej. To oznacza, że korzystasz z jej modyfikatorów do Testów Ogłady, a nawet możesz zignorować skutki działania Talentu Przestępca. Utrzymywanie sekretnej tożsamości wymaga udanych Testów Umiejętności Występy (Aktorstwo), gdy spotykasz kogoś, kto może cię przejrzeć. Każde wykupienie tego Talentu pozwala ci na stworzenie dodatkowej sekretnej tożsamości.UMIEJĘTNOŚCI I TALENTY IVWARHAMMER FANTASY ROLEPLAY142"
   },
   {
     "name": "Silne Nogi",
@@ -614,8 +614,8 @@
   {
     "name": "Słuch Absolutny",
     "maksimum": "Bonus z Inicjatywy",
-    "tests": "Występy (Śpiewanie), Języki (tonalne, takie jak Eltharin, ",
-    "description": "Kitajski czy Magiczny)Jesteś w stanie dokładnie powtórzyć i zidentyfikować notację nutową. Co więcej, dodaj Umiejętność Występy (Śpiewanie) do listy Umiejętności swojej każdej bieżącej Profesji, a jeśli znajduje się ona na liście, koszt każdego Rozwinięcia spada o 5 PD."
+    "tests": "Występy (Śpiewanie), Języki (tonalne, takie jak Eltharin, Kitajski czy Magiczny)",
+    "description": "Jesteś w stanie dokładnie powtórzyć i zidentyfikować notację nutową. Co więcej, dodaj Umiejętność Występy (Śpiewanie) do listy Umiejętności swojej każdej bieżącej Profesji, a jeśli znajduje się ona na liście, koszt każdego Rozwinięcia spada o 5 PD."
   },
   {
     "name": "Snajper",
@@ -698,11 +698,11 @@
   {
     "name": "Szybkie Czytanie",
     "maksimum": "Bonus z Inteligencji",
-    "tests": "Badania Naukowe i Język, gdy ważne jest szybkie przy-",
-    "description": "swajanie treściCzytasz księgi z zadziwiającą szybkością. Możesz odwrócić kolejność kości nieudanego Testu Badań Naukowych, jeśli to przyniesie ci sukces. Jeżeli szybkie przeczytanie tekstu odgrywa rolę podczas walki, to w ciągu Rundy możesz przeanalizować tyle stron, ile PS uzyskasz dzięki udanemu Testowi Języków plus tyle, ile razy wykupiłeś ten Talent (minimum jedną, jeśli "
+    "tests": "Badania Naukowe i Język, gdy ważne jest szybkie przyswajanie treści",
+    "description": "Czytasz księgi z zadziwiającą szybkością. Możesz odwrócić kolejność kości nieudanego Testu Badań Naukowych, jeśli to przyniesie ci sukces. Jeżeli szybkie przeczytanie tekstu odgrywa rolę podczas walki, to w ciągu Rundy możesz przeanalizować tyle stron, ile PS uzyskasz dzięki udanemu Testowi Języków plus tyle, ile razy wykupiłeś ten Talent (minimum jedną, jeśli Test się nie powiódł)."
   },
   {
-    "name": "Test się nie powiódł).Szybkie Przeładowanie",
+    "name": "Szybkie Przeładowanie",
     "maksimum": "Bonus ze Zręczności",
     "tests": "",
     "description": "Potrafisz z łatwością przeładowywać bronie strzeleckie. Dodaj PS równe liczbie wykupień tego Talentu do Testów przeładowania broni dystansowej."
@@ -819,10 +819,10 @@
     "name": "Wieża Pamięci",
     "maksimum": "Bonus z Inteligencji",
     "tests": "",
-    "description": "Ta technika pamięciowa została opracowana przez kult Vereny, a swoje korzenie ma w praktykach elfich mistrzów wiedzy z Hoeth. Wieża Pamięci pozwala ci bezbłędnie przypomnieć sobie fakty i wydarzenia, ponieważ kolekcjonujesz je w wyimaginowanej wieży. Przywoływanie sekwencji tylu wspomnień, ile wynosi twoja Inteligencja, nie wymaga żadnego Testu, ale zapamiętywanie każdych dodatkowych 10 informacji wymaga Testu Inteligencji o zwiększającym się stopniu trudności, by je sobie poprawnie przypomnieć. Stopień trudności zaczyna się od Bardzo Łatwego (+60) dla 10 faktów, później staje się Łatwy (+40) dla 20, Przeciętny (+20) dla 30 i tak dalej. Jednym z najoczywistszych zastosowań tego Talentu są gry hazardowe, Talent może dać premię od +20 do +60 do Testów Umiejętności Hazard, w zależności od tego, jak bardzo pomocna w grze jest pamięć. MG może uznać, że Wieża Pamięci przyda się w innych sytuacjach, odpowiednio modyfikując Testy. Za każdym razem, gdy wykupujesz ten Talent, możesz zapamiętać dodatkową sekwencję (odpowiednią wartości Inteligencji) faktów bez potrzeby usuwania "
+    "description": "Ta technika pamięciowa została opracowana przez kult Vereny, a swoje korzenie ma w praktykach elfich mistrzów wiedzy z Hoeth. Wieża Pamięci pozwala ci bezbłędnie przypomnieć sobie fakty i wydarzenia, ponieważ kolekcjonujesz je w wyimaginowanej wieży. Przywoływanie sekwencji tylu wspomnień, ile wynosi twoja Inteligencja, nie wymaga żadnego Testu, ale zapamiętywanie każdych dodatkowych 10 informacji wymaga Testu Inteligencji o zwiększającym się stopniu trudności, by je sobie poprawnie przypomnieć. Stopień trudności zaczyna się od Bardzo Łatwego (+60) dla 10 faktów, później staje się Łatwy (+40) dla 20, Przeciętny (+20) dla 30 i tak dalej. Jednym z najoczywistszych zastosowań tego Talentu są gry hazardowe, Talent może dać premię od +20 do +60 do Testów Umiejętności Hazard, w zależności od tego, jak bardzo pomocna w grze jest pamięć. MG może uznać, że Wieża Pamięci przyda się w innych sytuacjach, odpowiednio modyfikując Testy. Za każdym razem, gdy wykupujesz ten Talent, możesz zapamiętać dodatkową sekwencję (odpowiednią wartości Inteligencji) faktów bez potrzeby usuwania z pamięci poprzedniej."
   },
   {
-    "name": "z pamięci poprzedniej.Wilk Morski",
+    "name": "Wilk Morski",
     "maksimum": "Bonus ze Zwinności",
     "tests": "Żeglowanie (każdy statek morski)",
     "description": "Jesteś doświadczonym żeglarzem i przywykłeś do życia na morzu. Nie dotyczą cię negatywne modyfikatory do Testów spowodowane przez kiepską pogodę, kołysanie statku itp. Co więcej, liczysz się za dwóch członków załogi, gdy trzeba obsadzić jednostkę wychodzącą w morze."
@@ -988,5 +988,11 @@
     "maksimum": "Bonus z Siły Woli",
     "tests": "Opanowanie przeciwstawiane Zastraszaniu",
     "description": "Masz w sobie niezłomną wolę i sam z siebie nigdy się nie cofniesz. Wykorzystanie przeciwko tobie Zastraszania nie powoduje u ciebie Strachu i nie uciszy cię w wygłaszaniu poglądów przeciwko agresorom."
+  },
+  {
+    "name": "Żyłka Handlowa",
+    "maksimum": "Bonus z Ogłady",
+    "tests": "Targowanie",
+    "description": "Jesteś sprawnym przekupniem i znasz sposoby na dobicie targu. Kiedy używasz Umiejętności Targowanie, obniżasz lub podwyższasz cenę o dodatkowe 10%. Uwaga: MG ma prawo do limitowania zmniejszania cen, by pokazać, że kupiec nie sprzeda przedmiotu poniżej poniesionych przez siebie kosztów."
   }
 ]
