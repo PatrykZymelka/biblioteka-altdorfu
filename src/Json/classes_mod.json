@@ -537,7 +537,7 @@
     ]
   },
   {
-    "category": "Mieszczanie",
+    "category": "Uczeni",
     "path": "Uczony",
     "subclasses": [
       {
@@ -1168,7 +1168,7 @@
     ]
   },
   {
-    "category": "Dworzanie",
+    "category": "Mieszczanie",
     "path": "Żebrak",
     "subclasses": [
       {
@@ -1813,7 +1813,7 @@
     ]
   },
   {
-    "category": "Pospólstwo",
+    "category": "Dworzanie",
     "path": "Zwadźca",
     "subclasses": [
       {
@@ -2423,7 +2423,7 @@
     ]
   },
   {
-    "category": "Wędrowcy",
+    "category": "Pospólstwo",
     "path": "Zwiadowca",
     "subclasses": [
       {
@@ -3135,7 +3135,16 @@
       {
         "subclassname": "Pomocnik Dokera",
         "status": "Brąz 3",
-        "skills": ["Atletyka", "Broń Biała (Podstawowa)", "Mocna Głowa"],
+        "skills": [
+          "Atletyka",
+          "Broń Biała (Podstawowa)",
+          "Mocna Głowa",
+          "Odporność",
+          "Plotkowanie",
+          "Pływanie",
+          "Unik",
+          "Wspinaczka"
+        ],
         "talents": [
           "Bardzo Silny",
           "Cios Poniżej Pasa",
@@ -3192,7 +3201,7 @@
   },
   {
     "category": "Wodniacy",
-    "path": "FLISAK",
+    "path": "Flisak",
     "subclasses": [
       {
         "subclassname": "Rybak",
@@ -3214,7 +3223,7 @@
           "Pływak",
           "Towarzyski"
         ],
-        "equipment": ["Skórzane Nogawice", "Wiadro", "Wędka", "z Przynętą"]
+        "equipment": ["Skórzane Nogawice", "Wiadro", "Wędka z Przynętą"]
       },
       {
         "subclassname": "Flisak",
@@ -3250,7 +3259,12 @@
           "Percepcja",
           "Przekonywanie"
         ],
-        "talents": ["Bardzo Silny", "Waleczne Serce", "Wytrwały", "Znawca"],
+        "talents": [
+          "Bardzo Silny",
+          "Waleczne Serce",
+          "Wytrwały",
+          "Znawca (Szlaki Rzeczne)"
+        ],
         "equipment": ["Lampa Sztormowa z Oliwą", "Łódź Wiosłowa"]
       },
       {
@@ -3260,8 +3274,7 @@
         "talents": [
           "Czujny",
           "Odporność Psychiczna",
-          "Mistrz",
-          "Rzemiosła (Szkutnictwo)",
+          "Mistrz Rzemiosła (Szkutnictwo)",
           "Mówca"
         ],
         "equipment": ["Chata lub Szkuta"]
@@ -3270,7 +3283,7 @@
   },
   {
     "category": "Wodniacy",
-    "path": "PILOTA RZECZNEG",
+    "path": "Pilot Rzeczny",
     "subclasses": [
       {
         "subclassname": "Przewodnik Rzeczny",
@@ -3289,10 +3302,9 @@
           "Rybak",
           "Widzenie w Ciemności",
           "Wodniak",
-          "Wyczucie",
-          "Kierunku"
+          "Wyczucie Kierunku"
         ],
-        "equipment": ["Broń Ręczna (Bosak)", "Lampa Sztormowa", "z Oliwą"]
+        "equipment": ["Broń Ręczna (Bosak)", "Lampa Sztormowa z Oliwą"]
       },
       {
         "subclassname": "Pilot Rzeczny",
@@ -3342,7 +3354,7 @@
   },
   {
     "category": "Wodniacy",
-    "path": "PIRATA RZECZNEG",
+    "path": "Pirat Rzeczny",
     "subclasses": [
       {
         "subclassname": "Szabrownik",
@@ -3361,10 +3373,9 @@
           "Mocne Plecy",
           "Przestępca",
           "Rybak",
-          "Wtargnięcie",
-          "z Włamaniem"
+          "Wtargnięcie z Włamaniem"
         ],
-        "equipment": ["Duży Worek", "Łom", "Skórzane", "Rękawice"]
+        "equipment": ["Duży Worek", "Łom", "Skórzane Rękawice"]
       },
       {
         "subclassname": "Pirat Rzeczny",
@@ -3390,7 +3401,7 @@
         "skills": [
           "Broń Zasięgowa (Kusza)",
           "Plotkowanie",
-          "Skradanie",
+          "Skradanie (Wieś)",
           "Zastraszanie"
         ],
         "talents": [
@@ -3399,12 +3410,7 @@
           "Groźny",
           "Wodniak"
         ],
-        "equipment": [
-          "Kotwiczka z Liną",
-          "Kusza z 10 Bełtami",
-          "Łódź",
-          "Rzeczna"
-        ]
+        "equipment": ["Kotwiczka z Liną", "Kusza z 10 Bełtami", "Łódź Rzeczna"]
       },
       {
         "subclassname": "Kapitan Łupieżców",
@@ -3414,21 +3420,19 @@
           "Pilot",
           "Skrócenie Dystansu",
           "Urodzony Wojownik",
-          "Wściekły",
-          "Atak"
+          "Wściekły Atak"
         ],
         "equipment": [
           "Beczułka Piwa",
-          "Flota Łodzi Rzecznych",
-          "z Załogą Piratów",
-          " Kajdany"
+          "Flota Łodzi Rzecznych z Załogą Piratów",
+          "Kajdany"
         ]
       }
     ]
   },
   {
     "category": "Wodniacy",
-    "path": "PRZEMYTNICZK",
+    "path": "Przemytniczka",
     "subclasses": [
       {
         "subclassname": "Szmuglerka Rzeczna",
@@ -3439,8 +3443,7 @@
           "Opanowanie",
           "Pływanie",
           "Przekupstwo",
-          "Skradanie (Wieśalbo",
-          "Miasto)",
+          "Skradanie (Wieś albo Miasto)",
           "Wioślarstwo",
           "Żeglarstwo"
         ],
@@ -3453,8 +3456,7 @@
         "equipment": [
           "Chusta albo Maska",
           "Duży Worek",
-          "Lampa",
-          "Sztormowa z Oliwą",
+          "Lampa Sztormowa z Oliwą",
           "Pudełko na Hubkę i Krzesiwo"
         ]
       },
@@ -3467,20 +3469,18 @@
           "Plotkowanie",
           "Sekretne Znaki (Przemytników)",
           "Targowanie",
-          "Wiedza"
+          "Wiedza (Lokalna)"
         ],
         "talents": [
           "Bardzo Silny",
           "Etykieta (Przestępcy)",
           "Wodniak",
-          "Żyłka",
-          "Handlowa"
+          "Żyłka Handlowa"
         ],
         "equipment": [
           "Broń Ręczna",
           "Skórzana Kurta",
-          "Łódź",
-          "Wiosłowa",
+          "Łódź Wiosłowa",
           "2 Beczki"
         ]
       },
@@ -3517,7 +3517,7 @@
   },
   {
     "category": "Wodniacy",
-    "path": "PRZEWOŹNIK",
+    "path": "Przewoźnik",
     "subclasses": [
       {
         "subclassname": "Chłopiec Pokładowy",
@@ -3538,7 +3538,7 @@
           "Rybak",
           "Świetny Pływak"
         ],
-        "equipment": ["Broń Ręczna (Bosak)", "Drąg", "Skórzana", "Kurta"]
+        "equipment": ["Broń Ręczna (Bosak)", "Drąg", "Skórzana Kurta"]
       },
       {
         "subclassname": "Przewoźnik",
@@ -3564,15 +3564,14 @@
         "status": "Srebro 3",
         "skills": [
           "Leczenie",
-          "Rzemiosło(Szkutnictwo)",
+          "Rzemiosło (Szkutnictwo)",
           "Wspinaczka",
-          "Występy(Śpiewanie)"
+          "Występy (Śpiewanie)"
         ],
         "talents": [
           "Defraudant",
           "Nos do Kłopotów",
-          "Silny",
-          "Cios",
+          "Silny Cios",
           "Żyłka Handlowa"
         ],
         "equipment": ["Plecak", "Narzędzia Pracy"]
@@ -3588,7 +3587,7 @@
   },
   {
     "category": "Wodniacy",
-    "path": "STRAŻNIKA RZECZNEG",
+    "path": "Strażnik Rzeczny",
     "subclasses": [
       {
         "subclassname": "Rekrut Rzeczny",
@@ -3604,7 +3603,7 @@
           "Żeglarstwo"
         ],
         "talents": ["Bardzo Silny", "Mocne Plecy", "Świetny Pływak", "Wodniak"],
-        "equipment": ["Broń Ręczna (Miecz)", "Mundur", "Skórzana", "Kurta"]
+        "equipment": ["Broń Ręczna (Miecz)", "Mundur", "Skórzana Kurta"]
       },
       {
         "subclassname": "Strażnik Rzeczny",
@@ -3642,8 +3641,8 @@
     ]
   },
   {
-    "category": "Łotrzykowie",
-    "path": "ŻEGLARZ",
+    "category": "Wodniacy",
+    "path": "Żeglarz",
     "subclasses": [
       {
         "subclassname": "Szczur Lądowy",
@@ -3660,8 +3659,7 @@
         ],
         "talents": [
           "Doświadczony Wędrowiec (Wybrzeża)",
-          "Mocne",
-          "Plecy",
+          "Mocne Plecy",
           "Rybak",
           "Świetny Pływak"
         ],
@@ -3682,8 +3680,7 @@
           "Na Cztery Łapy",
           "Obieżyświat",
           "Silne Nogi",
-          "Urodzony",
-          "Żeglarz"
+          "Urodzony Żeglarz"
         ],
         "equipment": ["Broń Ręczna (Bosak)", "Skórzany Kaftan"]
       },
@@ -4265,7 +4262,7 @@
     ]
   },
   {
-    "category": "Wojownicy",
+    "category": "Łotrzykowie",
     "path": "ZŁODZIEJ",
     "subclasses": [
       {
