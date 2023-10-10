@@ -3707,7 +3707,7 @@
   },
   {
     "category": "Łotrzykowie",
-    "path": "BANITA",
+    "path": "Banita",
     "subclasses": [
       {
         "subclassname": "Zbój",
@@ -3767,8 +3767,7 @@
         "equipment": [
           "Banda Banitów",
           "Hełm",
-          "Kaftan Kolczy",
-          "z Rękawami",
+          "Kaftan Kolczy z Rękawami",
           "Koń Wierzchowy z Rzędem"
         ]
       },
@@ -3788,7 +3787,7 @@
   },
   {
     "category": "Łotrzykowie",
-    "path": "CZAROWNICA",
+    "path": "Czarownica",
     "subclasses": [
       {
         "subclassname": "Szeptucha",
@@ -3844,14 +3843,12 @@
           "Posłuch u Zwierząt",
           "Ruchliwe Dłonie",
           "Straszny",
-          "Wykrywanie",
-          "Magii"
+          "Wykrywanie Magii"
         ],
         "equipment": [
           "Amulety na Szczęście",
           "Plecak",
-          "Płaszcz",
-          "z Kilkoma Kieszeniami"
+          "Płaszcz z Kilkoma Kieszeniami"
         ]
       },
       {
@@ -3870,7 +3867,7 @@
   },
   {
     "category": "Łotrzykowie",
-    "path": "HIENY CMENTARNE",
+    "path": "Hiena Cmentarna",
     "subclasses": [
       {
         "subclassname": "Porywacz Zwłok",
@@ -3902,8 +3899,7 @@
         "talents": [
           "Bardzo Silny",
           "Odporny na (Choroby)",
-          "Widzenie w",
-          "Ciemności",
+          "Widzenie w Ciemności",
           "Wtargnięcie z Włamaniem"
         ],
         "equipment": [
@@ -3929,7 +3925,7 @@
           "Wytrwały"
         ],
         "equipment": [
-          "Broń Ręczna (Kilof )",
+          "Broń Ręczna (Kilof)",
           "Lina",
           "Narzędzia Pracy",
           "Skórzana Kurta",
@@ -3952,15 +3948,14 @@
           "Narzędzia",
           "Pracy (Inżyniera)",
           "Zestaw do Pisania",
-          "Zwijane",
-          " Posłanie"
+          "Zwijane Posłanie"
         ]
       }
     ]
   },
   {
     "category": "Łotrzykowie",
-    "path": "PASER",
+    "path": "Paser",
     "subclasses": [
       {
         "subclassname": "Pośrednik",
@@ -4007,7 +4002,7 @@
         "skills": [
           "Przekupstwo",
           "Wiedza (Lokalna)",
-          "Wiedza",
+          "Wiedza (Sztuka)",
           "Występy (Gawędziarstwo)"
         ],
         "talents": [
@@ -4023,16 +4018,16 @@
         "status": "Srebro 4",
         "skills": ["Badania Naukowe", "Wiedza (Heraldyka)"],
         "talents": ["Cios Poniżej Pasa", "Groźny", "Łapówkarz", "Żelazna Wola"],
-        "equipment": ["Magazyn", "Sieć Informatorów", "Wynajęty", " Mięśniak"]
+        "equipment": ["Magazyn", "Sieć Informatorów", "Wynajęty Mięśniak"]
       }
     ]
   },
   {
     "category": "Łotrzykowie",
-    "path": "RAJFUR",
+    "path": "Rajfun",
     "subclasses": [
       {
-        "subclassname": " Naganiacz",
+        "subclassname": "Naganiacz",
         "status": "Brąz 1",
         "skills": [
           "Charyzma",
@@ -4073,8 +4068,7 @@
         "talents": [
           "Charyzmatyczny",
           "Defraudant",
-          "Etykieta (Dowolna",
-          "Grupa)",
+          "Etykieta (Dowolna Grupa)",
           "Żyłka Handlowa"
         ],
         "equipment": ["Sieć Naganiaczy"]
@@ -4093,7 +4087,7 @@
   },
   {
     "category": "Łotrzykowie",
-    "path": "REKETER",
+    "path": "Reketer",
     "subclasses": [
       {
         "subclassname": "Zbir",
@@ -4105,7 +4099,7 @@
           "Skradanie (Miasto)",
           "Opanowanie",
           "Unik",
-          "Wiedza(Lokalna)",
+          "Wiedza (Lokalna)",
           "Zastraszanie"
         ],
         "talents": [
@@ -4132,8 +4126,7 @@
           "Cios Poniżej Pasa",
           "Defraudant",
           "Ogłuszenie",
-          "Urodzony",
-          "Wojownik"
+          "Urodzony Wojownik"
         ],
         "equipment": ["Broń Ręczna", "Kaftan Kolczy", "Kapelusz"]
       },
@@ -4150,8 +4143,7 @@
         "equipment": [
           "Gang Zbirów i Reketerów",
           "Kryjówka",
-          "Kusza",
-          "Pistoletowa z 10 Bełtami"
+          "Kusza Pistoletowa z 10 Bełtami"
         ]
       },
       {
@@ -4169,7 +4161,7 @@
   },
   {
     "category": "Łotrzykowie",
-    "path": "SZARLATAN",
+    "path": "Szarlatan",
     "subclasses": [
       {
         "subclassname": "Kanciarz",
@@ -4188,15 +4180,13 @@
           "Etykieta (Dowolna Grupa)",
           "Szczęście",
           "Szuler",
-          "Szuler",
-          "Kościany"
+          "Szuler Kościany"
         ],
         "equipment": [
           "Plecak",
           "Talia Kart",
           "Zestaw Kości",
-          "2 Komplety",
-          "Ubrań"
+          "2 Komplety Ubrań"
         ]
       },
       {
@@ -4214,8 +4204,7 @@
           "Gadanina",
           "Przestępca",
           "Ruchliwe Dłonie",
-          "Sekretna",
-          "Tożsamość"
+          "Sekretna Tożsamość"
         ],
         "equipment": [
           "1 Sfałszowany Dokument",
@@ -4237,14 +4226,12 @@
           "Atrakcyjny",
           "Czytanie/Pisanie",
           "Gładkie Słówka",
-          "Żyłka",
-          "Handlowa"
+          "Żyłka Handlowa"
         ],
         "equipment": [
           "Zestaw do Charakteryzacji",
           "Wytrychy",
-          "Liczne",
-          "Sfałszowane Dokumenty"
+          "Liczne Sfałszowane Dokumenty"
         ]
       },
       {
@@ -4263,7 +4250,7 @@
   },
   {
     "category": "Łotrzykowie",
-    "path": "ZŁODZIEJ",
+    "path": "Złodziej",
     "subclasses": [
       {
         "subclassname": "Bandzior",
@@ -4284,13 +4271,12 @@
       {
         "subclassname": "Złodziej",
         "status": "Brąz 3",
-        "skills": ["Otwieranie Zamków", "Plotkowanie", " Sekretne"],
+        "skills": ["Otwieranie Zamków", "Plotkowanie", " Sekretne Znaki (Złodziej)", "Wiedza(Lokalna)", "Wycena", "Zwinne Palce"],
         "talents": [
           "Cień",
           "Etykieta (Przestępcy)",
           "Ruchliwe Dłonie",
-          "Szybki",
-          "Refleks",
+          "Szybki Refleks",
           "Wtargnięcie z Włamaniem"
         ],
         "equipment": ["Lina", "Narzędzia Pracy (Złodziei)"]
@@ -4308,8 +4294,7 @@
           "Traper",
           "Widzenie w Ciemności",
           "Zejście z Linii",
-          "Zręczne",
-          "Palce"
+          "Zręczne Palce"
         ],
         "equipment": ["Kusza Pistoletowa z 10 Bełtami"]
       },
@@ -4321,8 +4306,7 @@
           "Na Cztery Łapy",
           "Majętny",
           "Silne Nogi",
-          "Wyborny",
-          "Wspinacz"
+          "Wyborny Wspinacz"
         ],
         "equipment": ["Ciemne Ubranie", "Chusta albo Maska", " Kotwiczka"]
       }
@@ -4330,7 +4314,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "GLADIATOR",
+    "path": "Gladiator",
     "subclasses": [
       {
         "subclassname": "Pięściarz",
@@ -4362,7 +4346,7 @@
           "Broń Biała (Podstawowa)",
           "Broń Biała (Korbacz albo Dwuręczna)",
           "Percepcja",
-          " Broń"
+          "Broń zasięgowa (Unieruchamiająca)"
         ],
         "talents": [
           "Bitewny Refleks",
@@ -4373,8 +4357,7 @@
         "equipment": [
           "Broń Ręczna",
           "Bicz albo Sieć",
-          "Korbacz albo",
-          "Broń Dwuręczna",
+          "Korbacz albo Broń Dwuręczna",
           "Puklerz albo Tarcza"
         ]
       },
@@ -4398,8 +4381,7 @@
           "Atak Wyprzedzający",
           "Nieubłagany",
           "Straszny",
-          "Wściekły",
-          "Atak"
+          "Wściekły Atak"
         ],
         "equipment": ["Hełm Dobrej Jakości"]
       }
@@ -4407,7 +4389,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "KAPŁANA-WOJOWNIK",
+    "path": "Kapłan Wojownik",
     "subclasses": [
       {
         "subclassname": "Nowicjusz Kapłanów-wojowników",
@@ -4441,7 +4423,7 @@
         "status": "Srebro 2",
         "skills": [
           "Broń Biała (Dowolna)",
-          "Broń Zasięgowa(Dowolna)",
+          "Broń Zasięgowa (Dowolna)",
           "Charyzma",
           "Język (Bitewny)",
           "Występy (Przemawianie)",
@@ -4468,8 +4450,7 @@
           "Czysta Dusza",
           "Święte Wizje",
           "Waleczne Serce",
-          "Zmysł",
-          "Bitewny"
+          "Zmysł Bitewny"
         ],
         "equipment": ["Lekki Koń Bojowy z Siodłem i Uprzężą"]
       },
@@ -4489,7 +4470,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "KAWALERZYST",
+    "path": "Kawalerzysta",
     "subclasses": [
       {
         "subclassname": "Jeździec",
@@ -4517,7 +4498,7 @@
         "status": "Srebro 4",
         "skills": [
           "Broń Biała (Kawaleryjska)",
-          "Broń Zasięgowa",
+          "Broń Zasięgowa (Prochowa)",
           "Charyzma",
           "Mocna Głowa",
           "Opanowanie",
@@ -4531,8 +4512,7 @@
         ],
         "equipment": [
           "Hełm",
-          "Lekki Koń Bojowy z Siodłem",
-          "i Uprzężą",
+          "Lekki Koń Bojowy z Siodłem i Uprzężą",
           "Napierśnik",
           "Pistolet z 10 Nabojami",
           "Tarcza"
@@ -4571,7 +4551,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "OCHRONIARZ",
+    "path": "Ochroniarz",
     "subclasses": [
       {
         "subclassname": "Stróż",
@@ -4613,8 +4593,7 @@
         ],
         "equipment": [
           "Kaftan Kolczy z Rękawami",
-          "Łuk i 10",
-          "Strzał",
+          "Łuk i 10 Strzał",
           "Tarcza",
           "Włócznia"
         ]
@@ -4624,7 +4603,7 @@
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Dwuręczna)",
-          "Język(Bitewny)",
+          "Język (Bitewny)",
           "Leczenie",
           "Wiedza (Etykieta)"
         ],
@@ -4632,8 +4611,7 @@
           "Nieustraszony (Intruzi)",
           "Niewzruszony",
           "Sprężynka",
-          "Waleczne",
-          "Serce"
+          "Waleczne Serce"
         ],
         "equipment": ["Broń Dwuręczna albo Halabarda", "Hełm", "Mundur"]
       },
@@ -4648,7 +4626,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "OPRYCH",
+    "path": "Oprych",
     "subclasses": [
       {
         "subclassname": "Tani Drań",
@@ -4667,8 +4645,7 @@
           "Cios Poniżej Pasa",
           "Groźny",
           "Skrócenie Dystansu",
-          "Urodzony",
-          "Wojownik"
+          "Urodzony Wojownik"
         ],
         "equipment": ["Kastet", "Kaptur albo Maska", "Skórzana Kurta"]
       },
@@ -4692,8 +4669,7 @@
         "equipment": [
           "Broń Ręczna",
           "Kaftan Kolczy",
-          "Koń",
-          "Wierzchowy z Rzędem",
+          "Koń Wierzchowy z Rzędem",
           "Tarcza"
         ]
       },
@@ -4730,7 +4706,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "RYCERZ",
+    "path": "Rycerz",
     "subclasses": [
       {
         "subclassname": "Giermek",
@@ -4774,8 +4750,7 @@
         "equipment": [
           "Broń Biała (Dowolna)",
           "Kopia",
-          "Rumak",
-          "z Siodłem i Uprzężą",
+          "Rumak z Siodłem i Uprzężą",
           "Zbroja Płytowa z Hełmem"
         ]
       },
@@ -4791,8 +4766,7 @@
         "talents": [
           "Niewzruszony",
           "Nieustraszony (Dowolny)",
-          "Waleczne",
-          "Serce",
+          "Waleczne Serce",
           "Wódz"
         ],
         "equipment": ["Kropierz", "Mały Oddział Rycerzy"]
@@ -4810,15 +4784,14 @@
         "equipment": [
           "Giermek",
           "Pełny Hełm z Pióropuszem",
-          "Duży",
-          "Oddział lub kilka Małych Oddziałów Rycerzy"
+          "Duży Oddział lub kilka Małych Oddziałów Rycerzy"
         ]
       }
     ]
   },
   {
     "category": "Wojownicy",
-    "path": "ZABÓJC",
+    "path": "Zabójca",
     "subclasses": [
       {
         "subclassname": "Zabójca Trolli",
@@ -4873,8 +4846,7 @@
           "Wściekły Atak",
           "Nieustępliwy",
           "Krzepki",
-          "Niezwykle",
-          "Odporny"
+          "Niezwykle Odporny"
         ],
         "equipment": ["Głowa Olbrzyma", "Topory do Rzucania"]
       },
@@ -4889,7 +4861,7 @@
   },
   {
     "category": "Wojownicy",
-    "path": "ŻOŁNIERZ",
+    "path": "Żołnierz",
     "subclasses": [
       {
         "subclassname": "Rekrut",
@@ -4897,7 +4869,7 @@
         "skills": [
           "Atletyka",
           "Broń Biała (Podstawowa)",
-          "Język(Bitewny)",
+          "Język (Bitewny)",
           "Muzyka (Bęben albo Piszczałka)",
           "Odporność",
           "Opanowanie",
@@ -4908,8 +4880,7 @@
           "Mocne Plecy",
           "Strzelec Wyborowy",
           "Szuler Kościany",
-          "Urodzony",
-          "Wojownik"
+          "Urodzony Wojownik"
         ],
         "equipment": ["Mundur", "Skórzany Napierśnik", "Sztylet"]
       },
@@ -4922,7 +4893,7 @@
           "Hazard",
           "Mocna Głowa",
           "Plotkowanie",
-          " Sztuka"
+          "Sztuka Przetrwania"
         ],
         "talents": [
           "Etykieta (Żołnierze)",
