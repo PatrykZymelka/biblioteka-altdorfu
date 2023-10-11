@@ -7,6 +7,7 @@ import BibliotekaAltforfu from "./pages/biblioteka-altdorfu.jsx";
 import Magia from "./pages/magia";
 import Profesje from "./pages/profesje";
 import Talenty from "./pages/talenty";
+import Skills from "./pages/umiejętności"
 
 /* 
 import Lore from './pages/lore';
@@ -41,6 +42,7 @@ class App extends Component {
             <Route path="/magia" element={<Magia />} />
             <Route path="/profesje" element={<Profesje />} />
             <Route path="/talenty" element={<Talenty />} />
+            <Route path="/umiejętności" element={<Skills />} />
             {/* 
           <Route path="/lore" element={<Lore/>} />
           <Route path="/zasady" element={<Zasady/>} />

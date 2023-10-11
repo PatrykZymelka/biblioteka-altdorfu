@@ -1,4 +1,4 @@
-.dropdown {
+.dropdownS {
   height: auto;
   line-height: auto;
   position: relative;
@@ -14,7 +14,7 @@
   scale: 0.99;
 }
 
-.d-button{
+.d-button {
   padding: 10px;
   justify-content: space-between;
   color: var(--text);
@@ -33,7 +33,7 @@
   scale:1.02
 }
 
-.d-content {
+.d-contentS {
   font-weight: 500;
   color: var(--text);
   background-color: var(--secondary);
@@ -41,10 +41,7 @@
   display:flex;
   flex-direction: column;
   flex:auto;
-  width:20vw;
-  height:30vh;
-  overflow: hidden;
-  overflow-y: scroll;
+  height:auto;
   align-content: center;
   
   
@@ -60,18 +57,27 @@
   color: #4d4949;
 }
 @media only screen and (min-width: 600px) {
-  .d-content {
+  .d-contentS {
     font-size: 1.2vw;
+    width:20VW;
   }
   .d-button {
     font-size: 1.2vw;
+  }
+  .dropdownS {
+    
   }
 }
 @media only screen and (max-width: 600px) {
-  .d-content {
+  .d-contentS {
     font-size: 3vw;
+    width:40vw;
   }
   .d-button {
     font-size: 3vw;
+  }
+  .dropdownS {
+    width:40vw;
+
   }
 }

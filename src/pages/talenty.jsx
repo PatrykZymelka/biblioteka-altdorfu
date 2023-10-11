@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import talents from "../Json/talents.json";
 import "./Pages-Styles/talenty.styles.css";
-import SearchBox from "../components/MagiaStrona/search-box/search-box.component";
+import SearchBox from "../components/SkillsStrona/search-boxS/search-box.component"
 import ItemList from "../components/TalentyStrona/item-listT/item-listT.jsx";
 
 const Talenty = () => {

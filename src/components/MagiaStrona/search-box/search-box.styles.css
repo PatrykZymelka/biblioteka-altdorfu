@@ -5,8 +5,10 @@
   margin-bottom: 30px;
   margin-top: 30px;
   width: 20vw;
-
+  border-style:solid;
+  border-color:var(--text);
   padding: 1vw;
+  border-width: 3px;
   background-color: var(--secondary);
   color:var(--text)
 }

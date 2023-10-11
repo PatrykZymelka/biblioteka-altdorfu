@@ -1,24 +1,24 @@
 import {useState} from "react";
-import "./dropdownPR.styles.css"
+import "./dropdownS.styles.css"
 
 function DropdownIt({selected, setSelected}){
     const [isActive, setIsActive] = useState(false);
-    const options = ["","Dworzanie", "Mieszczanie", "Uczeni",  "Łotrzykowie",  "Pospólstwo", "Wędrowcy", "Wodniacy", "Wojownicy"]
+    const options = ["","Podstawowa", "Zaawansowana"]
     return(
-        <div className="dropdownPR">
-            <div className="d-buttonPR" onClick={(e) =>
+        <div className="dropdownS">
+            <div className="d-button" onClick={(e) =>
             setIsActive(!isActive)}>
-                Klasa: {selected}
+                Typ: {selected}
                 <span />
             </div>
             {isActive && (
-            <div className="d-contentPR">
+            <div className="d-contentS">
                 {options.map((option) => (
                     <div onClick={(e) => {
                             setSelected(option);
                             setIsActive(false);
                         }}
-                        className="d-itemPR">
+                        className="d-item">
                         {option} 
                     </div>
                 ))}

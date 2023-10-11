@@ -1,4 +1,4 @@
-.search-boxPR{
+.search-boxS{
   -webkit-appearance: none;
   padding: 10px;
   line-height: auto;
@@ -11,16 +11,17 @@
   background-color: var(--secondary);
   color:var(--text)
 }
-.search-boxPR:hover{
+.search-boxS:hover{
  border-color: var(--primary);
 }
 @media only screen and (min-width: 600px) {
-.search-boxPR{
+.search-boxS{
   font-size: 1.5vw;
+
 }
 }
 @media only screen and (max-width: 600px) {
-  .search-boxPR{
+  .search-boxS{
     font-size: 4vw;
     width:40vw;
   }

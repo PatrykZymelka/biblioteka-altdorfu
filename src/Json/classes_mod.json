@@ -364,7 +364,7 @@
       {
         "subclassname": "Doktor",
         "status": "Srebro 5",
-        "skills": ["Badania Naukowe", "Dowodzenie", " Mocna"],
+        "skills": ["Badania Naukowe", "Dowodzenie", " Mocna Głowa", "Zastraszanie"],
         "talents": [
           "Błyskotliwość",
           "Etykieta (Uczeni)",
@@ -1023,7 +1023,7 @@
       {
         "subclassname": "Łowca Szczurów",
         "status": "Brąz 3",
-        "skills": ["Atletyka", "Tresura (Psy)", "Oswajanie", " Mocna"],
+        "skills": ["Atletyka", "Tresura (Psy)", "Oswajanie", "Mocna Głowa","Odporność", "Broń Biała (Podstawowa)","Broń Zasięgowa (Proca)", "Skradanie (Miasto albo Podziemia"],
         "talents": [
           "Odporny na (Choroby)",
           "Ogłuszenie",
@@ -1900,7 +1900,7 @@
       {
         "subclassname": "Parobek",
         "status": "Brąz 2",
-        "skills": ["Atletyka", "Broń Biała (Bijatyka)", "Mocna Głowa"],
+        "skills": ["Atletyka", "Broń Biała (Bijatyka)", "Mocna Głowa", "ODPORNOŚĆ", "Opieka nad Zwierzętami","Plotkowanie","Sztuka Przetrwania","Wiedza (Lokalna)"],
         "talents": [
           "Mocne Plecy",
           "Odporność Psychiczna",
@@ -3083,7 +3083,7 @@
       {
         "subclassname": "Woźnica",
         "status": "Srebro 2",
-        "skills": ["Broń Zasięgowa (Prochowa)", "Intuicja", "Mocna Głowa"],
+        "skills": ["Broń Zasięgowa (Prochowa)", "Intuicja", "Mocna Głowa", "Plotkowanie", "Nawigacja", "Wiedza (Lokalna)"],
         "talents": [
           "Artylerzysta",
           "Odporność Psychiczna",

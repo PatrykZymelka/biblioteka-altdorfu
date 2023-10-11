@@ -8,7 +8,7 @@ function DropdownIt({selectedPZ, setSelectedPZ}){
         <div className="dropdown">
             <div className="d-button" onClick={(e) =>
             setIsActive(!isActive)}>
-                Liczba PZ: {selectedPZ}
+                PZ: {selectedPZ}
                 <span />
             </div>
             {isActive && (
