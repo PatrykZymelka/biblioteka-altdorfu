@@ -32,12 +32,18 @@ const Profesje = () => {
     const sortedItems = filteredItems.sort((a, b) => {
       const aLower = a.path.toLowerCase();
       const bLower = b.path.toLowerCase();
-      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-  
-      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+
+      return (
+        aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower)
+      );
     });
-  
+
     setNameFilter(sortedItems);
   }, [Class, searchField, selectedClass]);
 

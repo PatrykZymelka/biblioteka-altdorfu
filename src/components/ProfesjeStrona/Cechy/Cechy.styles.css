@@ -1,0 +1,52 @@
+.Tabela {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.TopCechy {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  justify-content: center;
+  justify-items: center;
+  border-style: solid;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0px;
+  border-color: var(--border);
+  border-width: 2px;
+}
+.BotCechy {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  justify-content: center;
+  justify-items: center;
+}
+.it {
+  display: grid;
+  border-style: solid;
+  border-bottom: 0px;
+  border-top: 0px;
+  border-color: var(--border);
+  color: var(--text);
+  width: 100%;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  font-size: 18px;
+  border-width: 1px;
+}
+@media only screen and (min-width: 710px) {
+  .i {
+    font-size: 1.2em;
+  }
+}
+@media only screen and (max-width: 710px) {
+  .i {
+    font-size: 0.5em;
+  }
+  .it {
+    border-width: 0.01em;
+  }
+}

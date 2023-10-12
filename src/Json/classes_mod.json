@@ -2,6 +2,7 @@
   {
     "category": "Uczeni",
     "path": "Aptekarz",
+    "cechy": [" ", " ", " ", "☩", "⚙", " ", "☩", "☩", "⛊", "⚒"],
     "subclasses": [
       {
         "subclassname": "Uczeń Aptekarza",
@@ -82,6 +83,7 @@
   {
     "category": "Uczeni",
     "path": "Czarodziej",
+    "cechy": ["☩", " ", " ", " ", "⚙", "⚒", " ", "☩", "☩", "⛊"],
     "subclasses": [
       {
         "subclassname": "Uczeń Czarodzieja",
@@ -152,6 +154,7 @@
   {
     "category": "Uczeni",
     "path": "Inżynier",
+    "cechy": [" ", "☩", " ", "⚙", "⚒", " ", "☩", "☩", "⛊", " "],
     "subclasses": [
       {
         "subclassname": "Student Inżynierii",
@@ -235,6 +238,7 @@
   {
     "category": "Uczeni",
     "path": "Kapłan",
+    "cechy": [" ", " ", " ", "☩", "⛊", "☩", " ", "⚙", "☩", "⚒"],
     "subclasses": [
       {
         "subclassname": "Kleryk",
@@ -316,6 +320,7 @@
   {
     "category": "Uczeni",
     "path": "Lekarz",
+    "cechy": [" ", " ", " ", " ", "⚙", "⛊", "☩", "☩", "☩", "⚒"],
     "subclasses": [
       {
         "subclassname": "Uczeń Lekarza",
@@ -364,7 +369,12 @@
       {
         "subclassname": "Doktor",
         "status": "Srebro 5",
-        "skills": ["Badania Naukowe", "Dowodzenie", " Mocna Głowa", "Zastraszanie"],
+        "skills": [
+          "Badania Naukowe",
+          "Dowodzenie",
+          " Mocna Głowa",
+          "Zastraszanie"
+        ],
         "talents": [
           "Błyskotliwość",
           "Etykieta (Uczeni)",
@@ -390,6 +400,7 @@
   {
     "category": "Uczeni",
     "path": "Mniszka",
+    "cechy": [" ", " ", " ", "⛊", "⚙", " ", "☩", "☩", "⚒", "☩"],
     "subclasses": [
       {
         "subclassname": "Nowicjuszka",
@@ -469,6 +480,7 @@
   {
     "category": "Uczeni",
     "path": "Prawnik",
+    "cechy": [" ", " ", " ", "⛊", "☩", " ", "☩", "☩", "⚙", "⚒"],
     "subclasses": [
       {
         "subclassname": "Student Prawa",
@@ -539,6 +551,7 @@
   {
     "category": "Uczeni",
     "path": "Uczony",
+    "cechy": [" ", " ", " ", "☩", "⚒", " ", "⛊", "☩", "☩", "⚙"],
     "subclasses": [
       {
         "subclassname": "Student",
@@ -619,6 +632,7 @@
   {
     "category": "Mieszczanie",
     "path": "Agitator",
+    "cechy": ["⚙", "☩", " ", " ", "⛊", "⚒", " ", "☩", " ", "☩"],
     "subclasses": [
       {
         "subclassname": "Pamflecista",
@@ -694,6 +708,7 @@
   {
     "category": "Mieszczanie",
     "path": "Kupiec",
+    "cechy": ["⛊", " ", " ", " ", "⚙", "☩", " ", "⚒", "☩", "☩"],
     "subclasses": [
       {
         "subclassname": "Handlarz",
@@ -804,6 +819,7 @@
   {
     "category": "Mieszczanie",
     "path": "Mieszczka",
+    "cechy": [" ", " ", " ", " ", "⚒", "☩", "⚙", "☩", "⛊", "☩"],
     "subclasses": [
       {
         "subclassname": "Przekupka",
@@ -879,6 +895,7 @@
   {
     "category": "Mieszczanie",
     "path": "Rzemieślnik",
+    "cechy": [" ", " ", "☩", "☩", " ", " ", "☩", "⛊", "⚙", "⚒"],
     "subclasses": [
       {
         "subclassname": "Czeladnik",
@@ -949,6 +966,7 @@
   {
     "category": "Mieszczanie",
     "path": "Strażnik",
+    "cechy": ["☩", " ", "☩", " ", "⚙", " ", " ", "⛊", "⚒", "☩"],
     "subclasses": [
       {
         "subclassname": "Rekrut Straży",
@@ -1019,11 +1037,21 @@
   {
     "category": "Mieszczanie",
     "path": "Szczurołap",
+    "cechy": ["☩", "☩", "⛊", "⚒", "⚙", " ", " ", " ", "☩", " "],
     "subclasses": [
       {
         "subclassname": "Łowca Szczurów",
         "status": "Brąz 3",
-        "skills": ["Atletyka", "Tresura (Psy)", "Oswajanie", "Mocna Głowa","Odporność", "Broń Biała (Podstawowa)","Broń Zasięgowa (Proca)", "Skradanie (Miasto albo Podziemia"],
+        "skills": [
+          "Atletyka",
+          "Tresura (Psy)",
+          "Oswajanie",
+          "Mocna Głowa",
+          "Odporność",
+          "Broń Biała (Podstawowa)",
+          "Broń Zasięgowa (Proca)",
+          "Skradanie (Miasto albo Podziemia"
+        ],
         "talents": [
           "Odporny na (Choroby)",
           "Ogłuszenie",
@@ -1100,6 +1128,7 @@
   {
     "category": "Mieszczanie",
     "path": "Śledczy",
+    "cechy": [" ", " ", " ", " ", "☩", "☩", "⚙", "☩", "⛊", "⚒"],
     "subclasses": [
       {
         "subclassname": "Szpicel",
@@ -1170,6 +1199,7 @@
   {
     "category": "Mieszczanie",
     "path": "Żebrak",
+    "cechy": ["⚙", " ", " ", "☩", "⛊", "☩", " ", " ", "⚒", "☩"],
     "subclasses": [
       {
         "subclassname": "Biedak",
@@ -1249,6 +1279,7 @@
   {
     "category": "Dworzanie",
     "path": "Artystka",
+    "cechy": [" ", " ", "☩", " ", "☩", " ", "☩", "⛊", "⚙", "⚒"],
     "subclasses": [
       {
         "subclassname": "Uczennica Artysty",
@@ -1313,6 +1344,7 @@
   {
     "category": "Dworzanie",
     "path": "Doradca",
+    "cechy": [" ", " ", " ", "☩", "☩", "☩", " ", "⚙", "⛊", "⚒"],
     "subclasses": [
       {
         "subclassname": "Asystent",
@@ -1382,6 +1414,7 @@
   {
     "category": "Dworzanie",
     "path": "Namiestnik",
+    "cechy": ["⚒", " ", "☩", "☩", " ", " ", " ", "⛊", "☩", "⚙"],
     "subclasses": [
       {
         "subclassname": "Nadzorca",
@@ -1452,6 +1485,7 @@
   {
     "category": "Dworzanie",
     "path": "Poseł",
+    "cechy": [" ", " ", " ", "☩", "⚙", "☩", " ", "⚒", "⛊", "☩"],
     "subclasses": [
       {
         "subclassname": "Herold",
@@ -1527,6 +1561,7 @@
   {
     "category": "Dworzanie",
     "path": "Służący",
+    "cechy": [" ", " ", "☩", "☩", "⚒", "☩", " ", "⚙", " ", "⛊"],
     "subclasses": [
       {
         "subclassname": "Posługacz",
@@ -1603,6 +1638,7 @@
   {
     "category": "Dworzanie",
     "path": "Szlachcic",
+    "cechy": ["☩", " ", " ", " ", "☩", " ", "☩", "⚙", "⛊", "⚒"],
     "subclasses": [
       {
         "subclassname": "Dziedzic",
@@ -1725,6 +1761,7 @@
   {
     "category": "Dworzanie",
     "path": "Szpieg",
+    "cechy": ["⚒", " ", " ", " ", "⚙", "☩", " ", "⛊", "☩", "☩"],
     "subclasses": [
       {
         "subclassname": "Informator",
@@ -1815,6 +1852,7 @@
   {
     "category": "Dworzanie",
     "path": "Zwadźca",
+    "cechy": ["☩", "⚒", "⚙", " ", "☩", "☩", " ", " ", "⛊", " "],
     "subclasses": [
       {
         "subclassname": "Szermierz",
@@ -1896,11 +1934,21 @@
   {
     "category": "Pospólstwo",
     "path": "Chłop",
+    "cechy": ["⚒", " ", "☩", "☩", " ", "☩", " ", "⛊", " ", "⚙"],
     "subclasses": [
       {
         "subclassname": "Parobek",
         "status": "Brąz 2",
-        "skills": ["Atletyka", "Broń Biała (Bijatyka)", "Mocna Głowa", "ODPORNOŚĆ", "Opieka nad Zwierzętami","Plotkowanie","Sztuka Przetrwania","Wiedza (Lokalna)"],
+        "skills": [
+          "Atletyka",
+          "Broń Biała (Bijatyka)",
+          "Mocna Głowa",
+          "ODPORNOŚĆ",
+          "Opieka nad Zwierzętami",
+          "Plotkowanie",
+          "Sztuka Przetrwania",
+          "Wiedza (Lokalna)"
+        ],
         "talents": [
           "Mocne Plecy",
           "Odporność Psychiczna",
@@ -1961,6 +2009,7 @@
   {
     "category": "Pospólstwo",
     "path": "Górnik",
+    "cechy": ["⚒", " ", "☩", "☩", "⚙", " ", " ", " ", "☩", "⛊"],
     "subclasses": [
       {
         "subclassname": "Poszukiwacz",
@@ -2045,6 +2094,7 @@
   {
     "category": "Pospólstwo",
     "path": "Guślarz",
+    "cechy": [" ", " ", " ", "☩", "☩", " ", "☩", "⚒", "⛊", "⚙"],
     "subclasses": [
       {
         "subclassname": "Uczeń Guślarza",
@@ -2128,6 +2178,7 @@
   {
     "category": "Pospólstwo",
     "path": "Łowca",
+    "cechy": [" ", "⚒", "☩", "☩", "⚙", " ", "☩", "⛊", " ", " "],
     "subclasses": [
       {
         "subclassname": "Traper",
@@ -2203,6 +2254,7 @@
   {
     "category": "Pospólstwo",
     "path": "Mistyk",
+    "cechy": [" ", " ", " ", " ", "☩", "⚙", "☩", "⛊", "⚒", "☩"],
     "subclasses": [
       {
         "subclassname": "Wróżbiarz",
@@ -2278,6 +2330,7 @@
   {
     "category": "Pospólstwo",
     "path": "Zarządca",
+    "cechy": ["☩", " ", " ", " ", "☩", "⚙", " ", "⛊", "☩", "⚒"],
     "subclasses": [
       {
         "subclassname": "Poborca Podatków",
@@ -2347,6 +2400,7 @@
   {
     "category": "Pospólstwo",
     "path": "Zielarka",
+    "cechy": [" ", " ", " ", "☩", "☩", "☩", "⚒", "⛊", " ", "⚙"],
     "subclasses": [
       {
         "subclassname": "Zbieraczka Ziół",
@@ -2425,6 +2479,7 @@
   {
     "category": "Pospólstwo",
     "path": "Zwiadowca",
+    "cechy": [" ", "⚒", " ", "☩", "☩", "☩", "⛊", "⚙", " ", " "],
     "subclasses": [
       {
         "subclassname": "Przewodnik",
@@ -2510,6 +2565,7 @@
   {
     "category": "Wędrowcy",
     "path": "Biczownik",
+    "cechy": ["☩", " ", "☩", "☩", "⚙", " ", " ", " ", "⚒", "⛊"],
     "subclasses": [
       {
         "subclassname": "Gorliwiec",
@@ -2584,6 +2640,7 @@
   {
     "category": "Wędrowcy",
     "path": "Domokrążca",
+    "cechy": [" ", " ", " ", "☩", "⚙", " ", "☩", "⛊", "☩", "⚒"],
     "subclasses": [
       {
         "subclassname": "Włóczykij",
@@ -2657,6 +2714,7 @@
   {
     "category": "Wędrowcy",
     "path": "Kuglarz",
+    "cechy": ["⚒", "⚙", " ", "⛊", " ", "☩", "☩", " ", " ", "☩"],
     "subclasses": [
       {
         "subclassname": "Grajek Uliczny",
@@ -2736,6 +2794,7 @@
   {
     "category": "Wędrowcy",
     "path": "Łowca Czarownic",
+    "cechy": ["☩", "⚒", " ", "☩", " ", " ", " ", "⛊", "☩", "⚙"],
     "subclasses": [
       {
         "subclassname": "Oprawca",
@@ -2818,6 +2877,7 @@
   {
     "category": "Wędrowcy",
     "path": "Łowca Nagród",
+    "cechy": ["☩", "⚒", "⚙", "☩", " ", "☩", " ", "⛊", " ", " "],
     "subclasses": [
       {
         "subclassname": "Pogromczyni Złodziei",
@@ -2903,6 +2963,7 @@
   {
     "category": "Wędrowcy",
     "path": "Posłaniec",
+    "cechy": ["⚒", " ", " ", "☩", "☩", "☩", " ", " ", "⚙", "⛊"],
     "subclasses": [
       {
         "subclassname": "Goniec",
@@ -2978,6 +3039,7 @@
   {
     "category": "Wędrowcy",
     "path": "Strażniczka Dróg",
+    "cechy": ["⚒", "☩", " ", "☩", "☩", " ", " ", "⛊", " ", "⚙"],
     "subclasses": [
       {
         "subclassname": "Mytnik",
@@ -3058,6 +3120,7 @@
   {
     "category": "Wędrowcy",
     "path": "Woźnica",
+    "cechy": ["⚙", "☩", " ", "☩", "⛊", "⚒", " ", " ", "☩", " "],
     "subclasses": [
       {
         "subclassname": "Foryś",
@@ -3083,7 +3146,14 @@
       {
         "subclassname": "Woźnica",
         "status": "Srebro 2",
-        "skills": ["Broń Zasięgowa (Prochowa)", "Intuicja", "Mocna Głowa", "Plotkowanie", "Nawigacja", "Wiedza (Lokalna)"],
+        "skills": [
+          "Broń Zasięgowa (Prochowa)",
+          "Intuicja",
+          "Mocna Głowa",
+          "Plotkowanie",
+          "Nawigacja",
+          "Wiedza (Lokalna)"
+        ],
         "talents": [
           "Artylerzysta",
           "Odporność Psychiczna",
@@ -3131,6 +3201,7 @@
   {
     "category": "Wodniacy",
     "path": "Doker",
+    "cechy": ["☩", " ", "⚒", "☩", "☩", " ", " ", "⛊", "⚙", " "],
     "subclasses": [
       {
         "subclassname": "Pomocnik Dokera",
@@ -3202,6 +3273,7 @@
   {
     "category": "Wodniacy",
     "path": "Flisak",
+    "cechy": ["⚒", " ", " ", "☩", "⚙", "☩", "☩", " ", " ", "⛊"],
     "subclasses": [
       {
         "subclassname": "Rybak",
@@ -3284,6 +3356,7 @@
   {
     "category": "Wodniacy",
     "path": "Pilot Rzeczny",
+    "cechy": ["☩", " ", " ", "☩", "☩", " ", " ", "⚙", "⚒", "⛊"],
     "subclasses": [
       {
         "subclassname": "Przewodnik Rzeczny",
@@ -3355,6 +3428,7 @@
   {
     "category": "Wodniacy",
     "path": "Pirat Rzeczny",
+    "cechy": ["☩", "⚙", "☩", " ", "☩", " ", " ", " ", "⚒", "⛊"],
     "subclasses": [
       {
         "subclassname": "Szabrownik",
@@ -3433,6 +3507,7 @@
   {
     "category": "Wodniacy",
     "path": "Przemytniczka",
+    "cechy": [" ", " ", " ", " ", "⚒", "☩", "☩", "⚙", "☩", "⛊"],
     "subclasses": [
       {
         "subclassname": "Szmuglerka Rzeczna",
@@ -3518,6 +3593,7 @@
   {
     "category": "Wodniacy",
     "path": "Przewoźnik",
+    "cechy": [" ", " ", "☩", "☩", "⚒", "☩", "⚙", "⛊", " ", " "],
     "subclasses": [
       {
         "subclassname": "Chłopiec Pokładowy",
@@ -3588,6 +3664,7 @@
   {
     "category": "Wodniacy",
     "path": "Strażnik Rzeczny",
+    "cechy": ["⚒", "☩", "☩", " ", "⚙", " ", " ", "⛊", " ", "☩"],
     "subclasses": [
       {
         "subclassname": "Rekrut Rzeczny",
@@ -3643,6 +3720,7 @@
   {
     "category": "Wodniacy",
     "path": "Żeglarz",
+    "cechy": ["⚒", " ", " ", " ", "⚙", "☩", "☩", "⛊", " ", "☩"],
     "subclasses": [
       {
         "subclassname": "Szczur Lądowy",
@@ -3708,6 +3786,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Banita",
+    "cechy": ["☩", "⚒", "☩", "☩", "⚙", " ", " ", " ", " ", "⛊"],
     "subclasses": [
       {
         "subclassname": "Zbój",
@@ -3788,6 +3867,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Czarownica",
+    "cechy": ["☩", " ", " ", "☩", "⚒", " ", " ", "⛊", "☩", "⚙"],
     "subclasses": [
       {
         "subclassname": "Szeptucha",
@@ -3868,6 +3948,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Hiena Cmentarna",
+    "cechy": ["⚒", " ", "☩", " ", "☩", " ", "⚙", "⛊", "☩", " "],
     "subclasses": [
       {
         "subclassname": "Porywacz Zwłok",
@@ -3956,6 +4037,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Paser",
+    "cechy": [" ", " ", " ", " ", "☩", "☩", "⚒", "⚙", "⛊", "☩"],
     "subclasses": [
       {
         "subclassname": "Pośrednik",
@@ -4025,6 +4107,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Rajfun",
+    "cechy": [" ", " ", " ", " ", "⚒", "☩", "☩", "⛊", "⚙", "☩"],
     "subclasses": [
       {
         "subclassname": "Naganiacz",
@@ -4088,6 +4171,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Reketer",
+    "cechy": ["☩", " ", "☩", "☩", " ", " ", " ", "⛊", "⚙", "⚒"],
     "subclasses": [
       {
         "subclassname": "Zbir",
@@ -4162,6 +4246,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Szarlatan",
+    "cechy": [" ", " ", " ", " ", "☩", "⚙", "☩", "⛊", "⚒", "☩"],
     "subclasses": [
       {
         "subclassname": "Kanciarz",
@@ -4251,6 +4336,7 @@
   {
     "category": "Łotrzykowie",
     "path": "Złodziej",
+    "cechy": [" ", " ", "⚙", " ", "☩", "☩", "⚒", " ", "☩", "⛊"],
     "subclasses": [
       {
         "subclassname": "Bandzior",
@@ -4271,7 +4357,14 @@
       {
         "subclassname": "Złodziej",
         "status": "Brąz 3",
-        "skills": ["Otwieranie Zamków", "Plotkowanie", " Sekretne Znaki (Złodziej)", "Wiedza(Lokalna)", "Wycena", "Zwinne Palce"],
+        "skills": [
+          "Otwieranie Zamków",
+          "Plotkowanie",
+          " Sekretne Znaki (Złodziej)",
+          "Wiedza(Lokalna)",
+          "Wycena",
+          "Zwinne Palce"
+        ],
         "talents": [
           "Cień",
           "Etykieta (Przestępcy)",
@@ -4315,6 +4408,7 @@
   {
     "category": "Wojownicy",
     "path": "Gladiator",
+    "cechy": ["☩", " ", "☩", "☩", "⚒", "⚙", " ", " ", " ", "⛊"],
     "subclasses": [
       {
         "subclassname": "Pięściarz",
@@ -4390,6 +4484,7 @@
   {
     "category": "Wojownicy",
     "path": "Kapłan Wojownik",
+    "cechy": ["☩", " ", "⚒", "☩", "⚙", " ", " ", " ", "☩", "⛊"],
     "subclasses": [
       {
         "subclassname": "Nowicjusz Kapłanów-wojowników",
@@ -4464,13 +4559,14 @@
           "Wódz",
           "Wściekły Atak"
         ],
-        "equipment": [" Relikwia"]
+        "equipment": ["Święte Relikwia"]
       }
     ]
   },
   {
     "category": "Wojownicy",
     "path": "Kawalerzysta",
+    "cechy": ["☩", "⚒", "☩", " ", "⚙", "☩", " ", " ", " ", "⛊"],
     "subclasses": [
       {
         "subclassname": "Jeździec",
@@ -4552,6 +4648,7 @@
   {
     "category": "Wojownicy",
     "path": "Ochroniarz",
+    "cechy": ["☩", " ", "⚙", "☩", "⚒", "☩", " ", "⛊", " ", " "],
     "subclasses": [
       {
         "subclassname": "Stróż",
@@ -4627,6 +4724,7 @@
   {
     "category": "Wojownicy",
     "path": "Oprych",
+    "cechy": ["☩", "⚙", " ", "☩", "⚒", "☩", " ", " ", " ", "⛊"],
     "subclasses": [
       {
         "subclassname": "Tani Drań",
@@ -4707,6 +4805,7 @@
   {
     "category": "Wojownicy",
     "path": "Rycerz",
+    "cechy": ["⚒", " ", "☩", " ", "☩", "☩", " ", " ", "⚙", "⛊"],
     "subclasses": [
       {
         "subclassname": "Giermek",
@@ -4792,6 +4891,7 @@
   {
     "category": "Wojownicy",
     "path": "Zabójca",
+    "cechy": ["☩", " ", "☩", "⚒", "⛊", "⚙", " ", " ", "☩", " "],
     "subclasses": [
       {
         "subclassname": "Zabójca Trolli",
@@ -4862,6 +4962,7 @@
   {
     "category": "Wojownicy",
     "path": "Żołnierz",
+    "cechy": ["☩", "⚒", " ", "☩", "⚙", " ", " ", " ", "☩", "⛊"],
     "subclasses": [
       {
         "subclassname": "Rekrut",
@@ -4929,6 +5030,85 @@
           "Rozkazy",
           "Symbol Rangi"
         ]
+      }
+    ]
+  },
+  {
+    "category": "Wojownicy",
+    "path": "Kapłan Myrmidii",
+    "cechy": ["☩", " ", "⚙", " ", "☩", "☩", " ", "⚒", "⛊", " "],
+    "subclasses": [
+      {
+        "subclassname": "Pierwszy Orzeł",
+        "status": "Srebro 2",
+        "skills": [
+          "Opanowanie",
+          "Unik",
+          "Język (Bitewny)",
+          "Dowodzenie",
+          "Wiedza (Wojna)",
+          "Wiedza (Teologia)",
+          "Broń Biała (Podstawowa)",
+          "Broń Biała (Drzewcowa)",
+          "Percepcja",
+          "Modlitwa"
+        ],
+        "talents": [
+          "Błogosławieństwo (Myrmidia)",
+          "Etykieta (Kultyści)",
+          "Czytanie/Pisanie",
+          "Mól Książkowy"
+        ],
+        "equipment": [
+          "Święta Księga Myrmidii",
+          "Skórzana Kurta",
+          "Symbol Myrmidii",
+          "Białe Szaty",
+          "Włócznia"
+        ]
+      },
+      {
+        "subclassname": "Kapłan Wojenny",
+        "status": "Srebro 3",
+        "skills": [
+          "Charyzma",
+          "Leczenie",
+          "Intuicja",
+          "Broń Biała (Dowolna)",
+          "Broń Zasięgowa (Dowolna)",
+          "Występy (Przemowy)"
+        ],
+        "talents": [
+          "Musztra",
+          "Inspirujący",
+          "Inwokacja (Myrmidia)",
+          "Tarczownik"
+        ],
+        "equipment": ["Napierśnik i Hełm", "Tarcza"]
+      },
+      {
+        "subclassname": "Kapłan Sierżant",
+        "status": "Srebro 4",
+        "skills": ["Broń Biała (Dowolna)", "Badania Naukowe"],
+        "talents": [
+          "Zmysł Bitewny",
+          "Święte Wizje",
+          "Czysta Dusza",
+          "Waleczne Serce"
+        ],
+        "equipment": ["Zbroja Płytowa"]
+      },
+      {
+        "subclassname": "Kapłan Kapitan",
+        "status": "Srebro 5",
+        "skills": ["Opieka nad Zwierzętami", "Jeździectwo (Konie)"],
+        "talents": [
+          "Mistrz Walki",
+          "Bitewny Refleks",
+          "Nieustraszony (Dowolny)",
+          "Wódz"
+        ],
+        "equipment": ["Relikwie (Myrmidii)"]
       }
     ]
   }

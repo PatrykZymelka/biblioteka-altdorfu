@@ -1,9 +1,10 @@
 import "./item-listR.sytles.css";
 import { useState } from "react";
+import Cechy from "../Cechy/Cechy";
 
 const ItemList = (props) => {
   const [isActive, setIsActive] = useState(false);
-  const { category, path, subclasses } = props.Mlist;
+  const { category, path, subclasses, cechy } = props.Mlist;
 
   return (
     <div key={path} className="ItemP">
@@ -24,15 +25,13 @@ const ItemList = (props) => {
       </div>
 
       {isActive && (
-        <div
-          className="Item-List-Cont-BottomP"
-          
-        >
+        <div className="Item-List-Cont-BottomP">
+          <Cechy cechy={cechy} />
           {subclasses.map((item) => {
             return (
               <div className="poziom">
                 <strong className="higher">
-                  <strong className="P">Nazwa:</strong>{" "}
+                  <strong className="P"></strong>{" "}
                   <strong className="lower">{item.subclassname}</strong>
                 </strong>
                 <strong className="higher">
