@@ -1,41 +1,34 @@
-import React, {Component} from 'react';
-import "./menu.styles.css"
-import { Link} from "react-router-dom";
+import "./menu.styles.css";
+import { Link } from "react-router-dom";
+import { useState } from "react";
+import Titles from "../../../Json/pages.json";
 
-class Menu extends Component {
-  constructor(props, context) {
-    super(props, context);
- 
-  this.state = {
-    visible: false
+function Menu() {
+  const [isActive, setActive] = useState(false);
+
+  const toggleClass = () => {
+    setActive(!isActive);
   };
-}
-  render() {
-    const { visible } = this.state;
-    return (
-      <div className='all'>
-            <div id='slide_nav'>     
-                <p id="slide_nav_button" onClick={() => this.setState({visible: !visible })}>☰</p>
-            </div>
-            <div>
-                <ul className='slide_menu' style={{ display: (visible ? 'grid' : 'none') }}>
-                    <Link to="/magia" className="text">
-                        Magia
-                    </Link>
-                    <Link to="/profesje" className="text">
-                        Profesje
-                    </Link>
-                    <Link to="/talenty" className="text">
-                        Talenty
-                    </Link>
-                    <Link to="/umiejętności" className="text">
-                        Umiejętności
-                    </Link>
-                    
-                </ul>
-          </div>
+
+  return (
+    <div className="all">
+      <div className="slide_nav">
+        <p className="slide_nav_button" onClick={toggleClass}>
+          ☰
+        </p>
       </div>
-    );
-  }
+      <div className="sm">
+        <ul className={isActive ? "slide_menu" : "inv"} onClick={toggleClass}>
+          {Titles.map((item) => {
+            return (
+              <Link to={item.link} className="text">
+                {item.title}
+              </Link>
+            );
+          })}
+        </ul>
+      </div>
+    </div>
+  );
 }
 export default Menu;

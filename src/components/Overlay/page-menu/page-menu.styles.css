@@ -1,44 +1,50 @@
-.menu{
-    
-    padding-left:5vw;
+.menu {
+  padding-left: 5vw;
+  padding-right: 10vw;
 }
-.bar{
-    display:grid;
+.bar {
+  display: grid;
 
-    background-color: #12100c;
-    width:100%;
-    z-index: 3;
-    font-size: 20px;
-    border-style:solid;
-    border-color:#ffb300;
-    border-top:0;
-    border-left:0;
-    border-right:0;
-        
-    
+  background-color: #12100c;
+  width: 100%;
+  z-index: 3;
+  font-size: 20px;
+  border-style: solid;
+  border-color: #ffb300;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
 }
-.Bar{
-  display:flex;
+.Bar {
+  display: flex;
   justify-content: flex-start;
   align-items: center;
-  column-gap:5vw;
+  column-gap: 5vw;
 }
 
-.Logo{
-    height:2.5em;
+.Logo {
+  height: 2.5em;
 }
-@media only screen and (min-width: 800px) {
-    .menu{    
-      display: flex;
-      justify-content: flex-start;
-      align-items: center;
-      column-gap:5vw;
-    }
+.burger {
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-self: center;
+  justify-items: center;
 }
-@media only screen and (max-width: 800px) {
-    .menu{    
-      display:flex;
-      justify-content: space-between;
+@media only screen and (min-width: 600px) {
+  .menu {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 5vw;
+  }
 }
-
+@media only screen and (max-width: 600px) {
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
