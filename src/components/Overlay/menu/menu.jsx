@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import "./menu.styles.css"
-import { Link, useMatch, useResolvedPath } from "react-router-dom";
+import { Link} from "react-router-dom";
 
 class Menu extends Component {
   constructor(props, context) {

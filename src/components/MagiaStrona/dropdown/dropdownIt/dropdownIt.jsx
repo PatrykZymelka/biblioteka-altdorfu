@@ -18,7 +18,8 @@ function DropdownIt({selected, setSelected}){
                             setSelected(option);
                             setIsActive(false);
                         }}
-                        className="d-item">
+                        className="d-item"
+                        key={options}>
                         {option} 
                     </div>
                 ))}

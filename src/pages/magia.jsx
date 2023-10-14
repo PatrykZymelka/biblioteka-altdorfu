@@ -63,21 +63,21 @@ const Magia = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackground">
-          <div>
+          <div className="cent">
             <Dropdown
               selected={selected}
               className="drop1"
               setSelected={setSelected}
             />
           </div>
-          <div>
+          <div className="cent">
             <DropdownPZ
               selectedPZ={selectedPZ}
               className="drop2"
               setSelectedPZ={setSelectedPZ}
             />
           </div>
-          <div>
+          <div className="cent">
             <SearchBox
               onChangeHandler={onSearchChange}
               className="search-box"
@@ -88,7 +88,7 @@ const Magia = () => {
 
         <div className="Container">
           {NameFilter.map((item) => {
-            return <ItemList className="Item" Mlist={item} />;
+            return <ItemList className="Item" Mlist={item} key={magia.id}/>;
           })}
         </div>
       </div>

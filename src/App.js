@@ -36,7 +36,6 @@ class App extends Component {
           <PageMenu PagesInfo={PagesInfo} />
         </div>
         <div className="Bot">
-        
           <Routes>
             <Route path="/" element={<BibliotekaAltforfu />} />
             <Route path="/magia" element={<Magia />} />

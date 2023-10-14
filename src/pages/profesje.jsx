@@ -77,7 +77,7 @@ const Profesje = () => {
 
         <div className="Container">
           {NameFilter.map((item) => {
-            return <ItemlistPR className="Item" Mlist={item} />;
+            return <ItemlistPR className="Item" Mlist={item} key={classes.path}/>;
           })}
         </div>
       </div>

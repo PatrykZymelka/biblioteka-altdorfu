@@ -18,7 +18,8 @@ function DropdownIt({selectedPZ, setSelectedPZ}){
                             setSelectedPZ(option);
                             setIsActive(false);
                         }}
-                        className="d-item">
+                        className="d-item"
+                        key={options}>
                         {option} 
                     </div>
                 ))}

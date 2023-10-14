@@ -26,6 +26,11 @@
 .Center {
   flex: 1;
 }
+.cent{
+  display:grid;
+  justify-content: center
+  
+}
 @media only screen and (min-width: 600px) {
   .Container {
     row-gap: 20px;
