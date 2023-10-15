@@ -1,5 +1,4 @@
 [
-  
   {
     "id": "asdgqwiut",
     "title": "Magia",
@@ -19,5 +18,10 @@
     "id": "azzsaeqwzz",
     "title": "Umiejętności",
     "link": "/umiejętności"
+  },
+  {
+    "id": "agdassdggdsggagsgsg",
+    "title": "Zasady",
+    "link": "/zasady"
   }
 ]
