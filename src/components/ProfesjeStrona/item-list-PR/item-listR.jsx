@@ -31,8 +31,8 @@ const ItemList = (props) => {
             return (
               <div className="poziom">
                 <strong className="higher">
-                  <strong className="P"></strong>{" "}
-                  <strong className="lower">{item.subclassname}</strong>
+                  <strong className="P">{item.subclassname}</strong>
+                  
                 </strong>
                 <strong className="higher">
                   <strong className="P">Status: </strong>

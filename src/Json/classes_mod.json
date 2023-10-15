@@ -5,7 +5,7 @@
     "cechy": [" ", " ", " ", "☩", "⚙", " ", "☩", "☩", "⛊", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Uczeń Aptekarza",
+        "subclassname": "☩ - Uczeń Aptekarza",
         "status": "Brąz 3",
         "skills": [
           "Język (Klasyczny)",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "subclassname": "Aptekarz",
+        "subclassname": "⚒ - Aptekarz",
         "status": "Srebro 1",
         "skills": [
           "Charyzma",
@@ -50,7 +50,7 @@
         "equipment": ["Licencja Cechu Aptekarzy", "Narzędzia Pracy"]
       },
       {
-        "subclassname": "Mistrz Aptekarski",
+        "subclassname": "⚙ - Mistrz Aptekarski",
         "status": "Srebro 3",
         "skills": [
           "Badania Naukowe",
@@ -67,7 +67,7 @@
         "equipment": ["Książka (Aptekarstwo)", "Uczeń", "Warsztat"]
       },
       {
-        "subclassname": "Główny Aptekarz",
+        "subclassname": "⛊ - Główny Aptekarz",
         "status": "Złoto 1",
         "skills": ["Jeździectwo (Konie)", "Zastraszanie"],
         "talents": [
@@ -86,7 +86,7 @@
     "cechy": ["☩", " ", " ", " ", "⚙", "⚒", " ", "☩", "☩", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Uczeń Czarodzieja",
+        "subclassname": "☩ - Uczeń Czarodzieja",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -107,7 +107,7 @@
         "equipment": ["Kostur", "Księga Zaklęć"]
       },
       {
-        "subclassname": "Czarodziej",
+        "subclassname": "⚒ - Czarodziej",
         "status": "Srebro 3",
         "skills": [
           "Charyzma",
@@ -126,7 +126,7 @@
         "equipment": ["Licencja na Uprawianie Magii"]
       },
       {
-        "subclassname": "Mistrz Magii",
+        "subclassname": "⚙ - Mistrz Magii",
         "status": "Złoto 1",
         "skills": [
           "Jeździectwo (Konie)",
@@ -143,7 +143,7 @@
         "equipment": ["Lekki Koń Bojowy", "Przedmiot Magiczny", "Uczeń"]
       },
       {
-        "subclassname": "Arcymag",
+        "subclassname": "⛊ - Arcymag",
         "status": "Złoto 2",
         "skills": ["Język (Dowolny)", "Wiedza (Dowolna)"],
         "talents": ["Mag Bitewny", "Straszny", "Zmysł Walki", "Żelazna Wola"],
@@ -157,7 +157,7 @@
     "cechy": [" ", "☩", " ", "⚙", "⚒", " ", "☩", "☩", "⛊", " "],
     "subclasses": [
       {
-        "subclassname": "Student Inżynierii",
+        "subclassname": "☩ - Student Inżynierii",
         "status": "Brąz 4",
         "skills": [
           "Broń Zasięgowa (Prochowa)",
@@ -178,7 +178,7 @@
         "equipment": ["Księga (Inżynieria)", "Młot i Gwoździe"]
       },
       {
-        "subclassname": "Inżynier",
+        "subclassname": "⚒ - Inżynier",
         "status": "Srebro 2",
         "skills": [
           "Badania Naukowe",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Inżynierii",
+        "subclassname": "⚙ - Mistrz Inżynierii",
         "status": "Srebro 4",
         "skills": [
           "Dowodzenie",
@@ -217,7 +217,7 @@
         "equipment": ["Warsztat"]
       },
       {
-        "subclassname": "Inżynier Dyplomowany",
+        "subclassname": "⛊ - Inżynier Dyplomowany",
         "status": "Złoto 2",
         "skills": ["Język (Dowolny)", "Wiedza (Dowolna)"],
         "talents": [
@@ -241,7 +241,7 @@
     "cechy": [" ", " ", " ", "☩", "⛊", "☩", " ", "⚙", "☩", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Kleryk",
+        "subclassname": "☩ - Kleryk",
         "status": "Brąz 2",
         "skills": [
           "Atletyka",
@@ -262,7 +262,7 @@
         "equipment": ["Symbol Religijny", "Szata"]
       },
       {
-        "subclassname": "Kapłan",
+        "subclassname": "⚒ - Kapłan",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -281,7 +281,7 @@
         "equipment": ["Księga (Religia)", "Szata Ceremonialna"]
       },
       {
-        "subclassname": "Arcykapłan",
+        "subclassname": "⚙ - Arcykapłan",
         "status": "Złoto 1",
         "skills": [
           "Dowodzenie",
@@ -304,7 +304,7 @@
         ]
       },
       {
-        "subclassname": "Lektor",
+        "subclassname": "⛊ - Lektor",
         "status": "Złoto 2",
         "skills": ["Język (Dowolny)", "Wiedza (Polityka)"],
         "talents": [
@@ -323,7 +323,7 @@
     "cechy": [" ", " ", " ", " ", "⚙", "⛊", "☩", "☩", "☩", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Uczeń Lekarza",
+        "subclassname": "☩ - Uczeń Lekarza",
         "status": "Brąz 4",
         "skills": [
           "Leczenie",
@@ -344,7 +344,7 @@
         "equipment": ["Bandaże", "Mikstura Lecznicza"]
       },
       {
-        "subclassname": "Lekarz",
+        "subclassname": "⚒ - Lekarz",
         "status": "Srebro 3",
         "skills": [
           "Charyzma",
@@ -367,7 +367,7 @@
         ]
       },
       {
-        "subclassname": "Doktor",
+        "subclassname": "⚙ - Doktor",
         "status": "Srebro 5",
         "skills": [
           "Badania Naukowe",
@@ -384,7 +384,7 @@
         "equipment": ["Uczeń", "Warsztat (Medyczny)"]
       },
       {
-        "subclassname": "Nadworny Medyk",
+        "subclassname": "⛊ - Nadworny Medyk",
         "status": "Złoto 1",
         "skills": ["Wiedza (Szlachta)", "Występy (Taniec)"],
         "talents": [
@@ -403,7 +403,7 @@
     "cechy": [" ", " ", " ", "⛊", "⚙", " ", "☩", "☩", "⚒", "☩"],
     "subclasses": [
       {
-        "subclassname": "Nowicjuszka",
+        "subclassname": "☩ - Nowicjuszka",
         "status": "Brąz 1",
         "skills": [
           "Leczenie",
@@ -424,7 +424,7 @@
         "equipment": ["Symbol Religijny", "Szata"]
       },
       {
-        "subclassname": "Mniszka",
+        "subclassname": "⚒ - Mniszka",
         "status": "Brąz 4",
         "skills": [
           "Badania Naukowe",
@@ -447,7 +447,7 @@
         ]
       },
       {
-        "subclassname": "Przeorysza",
+        "subclassname": "⚙ - Przeorysza",
         "status": "Srebro 2",
         "skills": [
           "Dowodzenie",
@@ -464,7 +464,7 @@
         "equipment": ["Opactwo", "Biblioteka (Teologia)"]
       },
       {
-        "subclassname": "Matka Przełożona",
+        "subclassname": "⛊ - Matka Przełożona",
         "status": "Srebro 5",
         "skills": ["Język (Dowolny)", "Wiedza (Dowolna)"],
         "talents": [
@@ -483,7 +483,7 @@
     "cechy": [" ", " ", " ", "⛊", "☩", " ", "☩", "☩", "⚙", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Student Prawa",
+        "subclassname": "☩ - Student Prawa",
         "status": "Brąz 4",
         "skills": [
           "Badania Naukowe",
@@ -504,7 +504,7 @@
         "equipment": ["Księga (Prawo)", "Lupa"]
       },
       {
-        "subclassname": "Prawnik",
+        "subclassname": "⚒ - Prawnik",
         "status": "Srebro 3",
         "skills": [
           "Przekupstwo",
@@ -523,7 +523,7 @@
         "equipment": ["Licencja Gildii", "Szaty Dworskie", "Zestaw do Pisania"]
       },
       {
-        "subclassname": "Adwokat",
+        "subclassname": "⚙ - Adwokat",
         "status": "Złoto 1",
         "skills": [
           "Sztuka (Pisarstwo)",
@@ -540,7 +540,7 @@
         "equipment": ["Kantor", "Asystent (Student lub Służący)"]
       },
       {
-        "subclassname": "Sędzia",
+        "subclassname": "⛊ - Sędzia",
         "status": "Złoto 2",
         "skills": ["Opanowanie", "Wiedza (Polityka)"],
         "talents": ["Majętny", "Szycha", "Władcza Postura", "Znawca (Prawo)"],
@@ -554,7 +554,7 @@
     "cechy": [" ", " ", " ", "☩", "⚒", " ", "⛊", "☩", "☩", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Student",
+        "subclassname": "☩ - Student",
         "status": "Brąz 3",
         "skills": [
           "Badania Naukowe",
@@ -580,7 +580,7 @@
         ]
       },
       {
-        "subclassname": "Uczony",
+        "subclassname": "⚒ - Uczony",
         "status": "Srebro 2",
         "skills": [
           "Intuicja",
@@ -599,7 +599,7 @@
         "equipment": ["Dostęp do Biblioteki", "Stopień Naukowy"]
       },
       {
-        "subclassname": "Wykładowca",
+        "subclassname": "⚙ - Wykładowca",
         "status": "Srebro 5",
         "skills": [
           "Język (Dowolny)",
@@ -616,7 +616,7 @@
         "equipment": ["Biret", "Szata"]
       },
       {
-        "subclassname": "Profesor",
+        "subclassname": "⛊ - Profesor",
         "status": "Złoto 1",
         "skills": ["Wiedza (Dowolna)", "Występy (Retoryka)"],
         "talents": [
@@ -635,7 +635,7 @@
     "cechy": ["⚙", "☩", " ", " ", "⛊", "⚒", " ", "☩", " ", "☩"],
     "subclasses": [
       {
-        "subclassname": "Pamflecista",
+        "subclassname": "☩ - Pamflecista",
         "status": "Brąz 1",
         "skills": [
           "Charyzma",
@@ -651,7 +651,7 @@
         "equipment": ["Młotek i Gwoździe", "Plik Ulotek", "Zestaw do Pisania"]
       },
       {
-        "subclassname": "Agitator",
+        "subclassname": "⚒ - Agitator",
         "status": "Brąz 2",
         "skills": [
           "Dowodzenie",
@@ -670,7 +670,7 @@
         "equipment": ["Skórzana Kurta"]
       },
       {
-        "subclassname": "Podżegacz",
+        "subclassname": "⚙ - Podżegacz",
         "status": "Brąz 3",
         "skills": [
           "Atletyka",
@@ -687,7 +687,7 @@
         "equipment": ["Broń Ręczna", "Pomocny Pamflecista"]
       },
       {
-        "subclassname": "Demagog",
+        "subclassname": "⛊ - Demagog",
         "status": "Brąz 5",
         "skills": ["Jeździectwo (Konie)", "Wiedza (Heraldyka)"],
         "talents": [
@@ -711,7 +711,7 @@
     "cechy": ["⛊", " ", " ", " ", "⚙", "☩", " ", "⚒", "☩", "☩"],
     "subclasses": [
       {
-        "subclassname": "Handlarz",
+        "subclassname": "☩ - Handlarz",
         "status": "Srebro 2",
         "skills": [
           "Charyzma",
@@ -737,7 +737,7 @@
         ]
       },
       {
-        "subclassname": "Kupiec",
+        "subclassname": "⚒ - Kupiec",
         "status": "Srebro 5",
         "skills": [
           "Intuicja",
@@ -756,7 +756,7 @@
         "equipment": ["Licencja Cechu", "Łódź Rzeczna albo 2 Wozy", "20 Z"]
       },
       {
-        "subclassname": "Kupiec",
+        "subclassname": "⚙ - Kupiec",
         "status": "Srebro 5",
         "skills": [
           "Intuicja",
@@ -775,7 +775,7 @@
         "equipment": ["Licencja Cechu", "Łódź Rzeczna albo 2 Wozy", "20 Z"]
       },
       {
-        "subclassname": "Mistrz Kupiectwa",
+        "subclassname": "⛊ - Mistrz Kupiectwa",
         "status": "Złoto 1",
         "skills": [
           "Język (Klasyczny)",
@@ -790,29 +790,6 @@
           "Numizmatyka"
         ],
         "equipment": ["Kamienica ze Służbą", "Magazyn", "100 Z"]
-      },
-      {
-        "subclassname": "Mistrz Kupiectwa",
-        "status": "Złoto 1",
-        "skills": [
-          "Język (Klasyczny)",
-          "Opanowanie",
-          "Nawigacja",
-          "Sekretne Znaki (Gildii)",
-          "Wiedza (Dowolna)",
-          "Zastraszanie"
-        ],
-        "talents": [
-          "Czujny",
-          "Gładkie Słówka",
-          "Etykieta (Dowolna Grupa)",
-          "Numizmatyka",
-          "Intrygant",
-          "Majętny",
-          "Szczęście",
-          "Żelazna Wola"
-        ],
-        "equipment": ["Kamienica ze Służbą", "Magazyn", "100 Z"]
       }
     ]
   },
@@ -822,7 +799,7 @@
     "cechy": [" ", " ", " ", " ", "⚒", "☩", "⚙", "☩", "⛊", "☩"],
     "subclasses": [
       {
-        "subclassname": "Przekupka",
+        "subclassname": "☩ - Przekupka",
         "status": "Srebro 1",
         "skills": [
           "Charyzma",
@@ -843,7 +820,7 @@
         "equipment": ["Mieszkanie na Mieście", "Mocne Buty"]
       },
       {
-        "subclassname": "Mieszczka",
+        "subclassname": "⚒ - Mieszczka",
         "status": "Srebro 2",
         "skills": [
           "Broń Biała (Bijatyka)",
@@ -862,7 +839,7 @@
         "equipment": ["Skromna Kamienica", "Służący", "Pióro i Kałamarz"]
       },
       {
-        "subclassname": "Rajca Miejski",
+        "subclassname": "⚙ - Rajca Miejski",
         "status": "Srebro 5",
         "skills": [
           "Badania Naukowe",
@@ -874,7 +851,7 @@
         "equipment": ["Powóz z Woźnicą", "Kamienica"]
       },
       {
-        "subclassname": "Burmistrz",
+        "subclassname": "⛊ - Burmistrz",
         "status": "Złoto 1",
         "skills": ["Wiedza (Polityka)", "Zastraszanie"],
         "talents": [
@@ -898,7 +875,7 @@
     "cechy": [" ", " ", "☩", "☩", " ", " ", "☩", "⛊", "⚙", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Czeladnik",
+        "subclassname": "☩ - Czeladnik",
         "status": "Brąz 2",
         "skills": [
           "Atletyka",
@@ -919,7 +896,7 @@
         "equipment": ["Kreda", "Skórzany Kaftan", "k10 Szmat"]
       },
       {
-        "subclassname": "Rzemieślnik",
+        "subclassname": "⚒ - Rzemieślnik",
         "status": "Srebro 1",
         "skills": [
           "Charyzma",
@@ -938,7 +915,7 @@
         "equipment": ["Licencja Cechu", "Narzędzia Pracy"]
       },
       {
-        "subclassname": "Mistrz Rzemiosła",
+        "subclassname": "⚙ - Mistrz Rzemiosła",
         "status": "Srebro 3",
         "skills": [
           "Badania Naukowe",
@@ -955,7 +932,7 @@
         "equipment": ["Uczeń", "Warsztat"]
       },
       {
-        "subclassname": "Mistrz Cechu",
+        "subclassname": "⛊ - Mistrz Cechu",
         "status": "Złoto 1",
         "skills": ["Przekupstwo", "Zastraszanie"],
         "talents": ["Arcydzieło", "Intrygant", "Łapówkarz", "Mówca"],
@@ -969,7 +946,7 @@
     "cechy": ["☩", " ", "☩", " ", "⚙", " ", " ", "⛊", "⚒", "☩"],
     "subclasses": [
       {
-        "subclassname": "Rekrut Straży",
+        "subclassname": "☩ - Rekrut Straży",
         "status": "Brąz 3",
         "skills": [
           "Atletyka",
@@ -985,7 +962,7 @@
         "equipment": ["Broń Ręczna", "Mundur", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Strażnik",
+        "subclassname": "⚒ - Strażnik",
         "status": "Srebro 1",
         "skills": [
           "Charyzma",
@@ -1004,7 +981,7 @@
         "equipment": ["Latarnia na Drągu", "Lampa Oliwna", "Miedziana Odznaka"]
       },
       {
-        "subclassname": "Sierżant Straży",
+        "subclassname": "⚙ - Sierżant Straży",
         "status": "Srebro 3",
         "skills": [
           "Dowodzenie",
@@ -1021,7 +998,7 @@
         "equipment": ["Hełm", "Napierśnik", "Symbol Rangi"]
       },
       {
-        "subclassname": "Kapitan Straży",
+        "subclassname": "⛊ - Kapitan Straży",
         "status": "Złoto 1",
         "skills": ["Wiedza (Polityka)", "Jeździectwo (Konie)"],
         "talents": ["Krzepki", "Intrygant", "Mówca", "Szycha"],
@@ -1040,7 +1017,7 @@
     "cechy": ["☩", "☩", "⛊", "⚒", "⚙", " ", " ", " ", "☩", " "],
     "subclasses": [
       {
-        "subclassname": "Łowca Szczurów",
+        "subclassname": "☩ - Łowca Szczurów",
         "status": "Brąz 3",
         "skills": [
           "Atletyka",
@@ -1072,7 +1049,7 @@
         ]
       },
       {
-        "subclassname": "Szczurołap",
+        "subclassname": "⚒ - Szczurołap",
         "status": "Srebro 1",
         "skills": [
           "Opieka nad Zwierzętami",
@@ -1091,7 +1068,7 @@
         "equipment": ["Sidła na zwierzęta", "Drąg na martwe szczury"]
       },
       {
-        "subclassname": "Strażnik Kanałów",
+        "subclassname": "⚙ - Strażnik Kanałów",
         "status": "Srebro 2",
         "skills": [
           "Broń Zasięgowa (Kusza Pistoletowa)",
@@ -1108,7 +1085,7 @@
         "equipment": ["Lampa Davricha", "Broń Ręczna", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Tępiciel",
+        "subclassname": "⛊ - Tępiciel",
         "status": "Srebro 3",
         "skills": ["Dowodzenie", "Tropienie"],
         "talents": [
@@ -1131,7 +1108,7 @@
     "cechy": [" ", " ", " ", " ", "☩", "☩", "⚙", "☩", "⛊", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Szpicel",
+        "subclassname": "☩ - Szpicel",
         "status": "Srebro 1",
         "skills": [
           "Charyzma",
@@ -1152,7 +1129,7 @@
         ]
       },
       {
-        "subclassname": "Śledczy",
+        "subclassname": "⚒ - Śledczy",
         "status": "Srebro 2",
         "skills": [
           "Broń Biała (Bijatyka)",
@@ -1171,7 +1148,7 @@
         "equipment": ["Broń Ręczna", "Lupa", "Skórzana", "Kurta", "Wytrych"]
       },
       {
-        "subclassname": "Mistrz Śledczy",
+        "subclassname": "⚙ - Mistrz Śledczy",
         "status": "Srebro 3",
         "skills": ["Dowodzenie", "Przekupstwo", "Wiedza (Dowolna)", "Wycena"],
         "talents": [
@@ -1183,7 +1160,7 @@
         "equipment": ["Asystent", "Biuro"]
       },
       {
-        "subclassname": "Detektyw",
+        "subclassname": "⛊ - Detektyw",
         "status": "Srebro 5",
         "skills": ["Wiedza (Dowolna)", "Zastraszanie"],
         "talents": [
@@ -1202,7 +1179,7 @@
     "cechy": ["⚙", " ", " ", "☩", "⛊", "☩", " ", " ", "⚒", "☩"],
     "subclasses": [
       {
-        "subclassname": "Biedak",
+        "subclassname": "☩ - Biedak",
         "status": "Brąz 0",
         "skills": [
           "Atletyka",
@@ -1223,7 +1200,7 @@
         "equipment": ["Podłej Jakości Koc", "Kubek"]
       },
       {
-        "subclassname": "Żebrak",
+        "subclassname": "⚒ - Żebrak",
         "status": "Brąz 2",
         "skills": [
           "Percepcja",
@@ -1242,7 +1219,7 @@
         "equipment": ["Kule do Chodzenia", "Miska"]
       },
       {
-        "subclassname": "Mistrz Żebraków",
+        "subclassname": "⚙ - Mistrz Żebraków",
         "status": "Brąz 4",
         "skills": [
           "Dowodzenie",
@@ -1263,7 +1240,7 @@
         ]
       },
       {
-        "subclassname": "Król Żebraków",
+        "subclassname": "⛊ - Król Żebraków",
         "status": "Srebro 2",
         "skills": ["Przekupstwo", "Zastraszanie"],
         "talents": [
@@ -1282,7 +1259,7 @@
     "cechy": [" ", " ", "☩", " ", "☩", " ", "☩", "⛊", "⚙", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Uczennica Artysty",
+        "subclassname": "☩ - Uczennica Artysty",
         "status": "Srebro 1",
         "skills": [
           "Mocna Głowa",
@@ -1298,7 +1275,7 @@
         "equipment": ["Dłuto albo Pędzel", "albo Pióro"]
       },
       {
-        "subclassname": "Artystka",
+        "subclassname": "⚒ - Artystka",
         "status": "Srebro 3",
         "skills": [
           "Język (Klasyczny)",
@@ -1312,7 +1289,7 @@
         "equipment": ["Torba na Ramię Zawierająca Narzędzia", "Pracy (Artysty)"]
       },
       {
-        "subclassname": "Mistrzyni Sztuki",
+        "subclassname": "⚙ - Mistrzyni Sztuki",
         "status": "Srebro 5",
         "skills": [
           "Charyzma",
@@ -1329,7 +1306,7 @@
         "equipment": ["Patron", "Uczeń", "Warsztat (Artysty)"]
       },
       {
-        "subclassname": "Maestro",
+        "subclassname": "⛊ - Maestro",
         "status": "Złoto 2",
         "skills": ["Badania Naukowe", "Jeździectwo (Konie)"],
         "talents": ["Arcydzieło", "Czytanie/Pisanie", "Oburęczność", "Szycha"],
@@ -1347,7 +1324,7 @@
     "cechy": [" ", " ", " ", "☩", "☩", "☩", " ", "⚙", "⛊", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Asystent",
+        "subclassname": "☩ - Asystent",
         "status": "Srebro 2",
         "skills": [
           "Język (Klasyczny)",
@@ -1368,7 +1345,7 @@
         "equipment": ["Zestaw do Pisania"]
       },
       {
-        "subclassname": "Doradca",
+        "subclassname": "⚒ - Doradca",
         "status": "Srebro 4",
         "skills": [
           "Hazard",
@@ -1382,7 +1359,7 @@
         "equipment": ["Liberia"]
       },
       {
-        "subclassname": "Radca",
+        "subclassname": "⚙ - Radca",
         "status": "Złoto 1",
         "skills": [
           "Dowodzenie",
@@ -1394,7 +1371,7 @@
         "equipment": ["Asystent", "Dobre Ubranie"]
       },
       {
-        "subclassname": "Kanclerz",
+        "subclassname": "⛊ - Kanclerz",
         "status": "Złoto 3",
         "skills": ["Jeździectwo (Konie)", "Wiedza (Heraldyka)"],
         "talents": [
@@ -1417,7 +1394,7 @@
     "cechy": ["⚒", " ", "☩", "☩", " ", " ", " ", "⛊", "☩", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Nadzorca",
+        "subclassname": "☩ - Nadzorca",
         "status": "Srebro 1",
         "skills": [
           "Atletyka",
@@ -1433,7 +1410,7 @@
         "equipment": ["Klucze", "Lampa Oliwna", "Latarnia", "Liberia"]
       },
       {
-        "subclassname": "Namiestnik",
+        "subclassname": "⚒ - Namiestnik",
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -1458,7 +1435,7 @@
         ]
       },
       {
-        "subclassname": "Seneszal",
+        "subclassname": "⚙ - Seneszal",
         "status": "Złoto 1",
         "skills": ["Charyzma", "Plotkowanie", "Przekupstwo", "Przywództwo"],
         "talents": ["Czytanie/Pisanie", "Defraudant", "Numizmatyka", "Pomocny"],
@@ -1469,7 +1446,7 @@
         ]
       },
       {
-        "subclassname": "Gubernator",
+        "subclassname": "⛊ - Gubernator",
         "status": "Złoto 3",
         "skills": ["Język (Dowolny)", "Wycena"],
         "talents": [
@@ -1488,7 +1465,7 @@
     "cechy": [" ", " ", " ", "☩", "⚙", "☩", " ", "⚒", "⛊", "☩"],
     "subclasses": [
       {
-        "subclassname": "Herold",
+        "subclassname": "☩ - Herold",
         "status": "Srebro 2",
         "skills": [
           "Atletyka",
@@ -1509,7 +1486,7 @@
         "equipment": ["Liberia", "Skórzana Kurta", "Tuba na Zwoje"]
       },
       {
-        "subclassname": "Poseł",
+        "subclassname": "⚒ - Poseł",
         "status": "Srebro 4",
         "skills": [
           "Opanowanie",
@@ -1528,7 +1505,7 @@
         "equipment": ["Pióro i Kałamarz", "10 Arkuszy Pergaminu"]
       },
       {
-        "subclassname": "Dyplomata",
+        "subclassname": "⚙ - Dyplomata",
         "status": "Złoto 2",
         "skills": [
           "Dowodzenie",
@@ -1540,7 +1517,7 @@
         "equipment": ["Asystent", "Dobre Ubranie", "Mapa"]
       },
       {
-        "subclassname": "Ambasador",
+        "subclassname": "⛊ - Ambasador",
         "status": "Złoto 5",
         "skills": ["Język (Dowolny)", "Wiedza (Dowolna)"],
         "talents": [
@@ -1564,7 +1541,7 @@
     "cechy": [" ", " ", "☩", "☩", "⚒", "☩", " ", "⚙", " ", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Posługacz",
+        "subclassname": "☩ - Posługacz",
         "status": "Srebro 1",
         "skills": [
           "Atletyka",
@@ -1586,7 +1563,7 @@
         "equipment": ["Szczotka do Podłogi"]
       },
       {
-        "subclassname": "Służący",
+        "subclassname": "⚒ - Służący",
         "status": "Srebro 3",
         "skills": [
           "Hazard",
@@ -1605,7 +1582,7 @@
         "equipment": ["Liberia"]
       },
       {
-        "subclassname": "Lokaj",
+        "subclassname": "⚙ - Lokaj",
         "status": "Srebro 5",
         "skills": ["Charyzma", "Wiedza (Lokalna)", "Zastraszanie"],
         "talents": [
@@ -1622,7 +1599,7 @@
         ]
       },
       {
-        "subclassname": "Ochmistrz",
+        "subclassname": "⛊ - Ochmistrz",
         "status": "Złoto 1",
         "skills": ["Broń Biała (Podstawowa)", "Dowodzenie"],
         "talents": [
@@ -1641,7 +1618,7 @@
     "cechy": ["☩", " ", " ", " ", "☩", " ", "☩", "⚙", "⛊", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Dziedzic",
+        "subclassname": "☩ - Dziedzic",
         "status": "Złoto 1",
         "skills": [
           "Broń Biała (Szermiercza)",
@@ -1662,28 +1639,7 @@
         "equipment": ["Biżuteria warta 3k10 Z"]
       },
       {
-        "subclassname": "Dziedzic",
-        "status": "Złoto 1",
-        "skills": [
-          "Broń Biała (Szermiercza)",
-          "Hazard",
-          "Dowodzenie",
-          "Mocna Głowa",
-          "Muzyka (Dowolna)",
-          "Przekupstwo",
-          "Wiedza (Heraldyka)",
-          "Zastraszanie"
-        ],
-        "talents": [
-          "Błękitna Krew",
-          "Czytanie/Pisanie",
-          "Etykieta (Szlachta)",
-          "Szczęście"
-        ],
-        "equipment": ["Biżuteria warta 3k10 Z"]
-      },
-      {
-        "subclassname": "Szlachcic",
+        "subclassname": "⚒ - Szlachcic",
         "status": "Złoto 3",
         "skills": [
           "Broń Biała (Parująca)",
@@ -1694,67 +1650,39 @@
           "Wiedza(Lokalna)"
         ],
         "talents": ["Atrakcyjny", "Charyzmatyczny", "Hulaka", "Łapówkarz"],
-        "equipment": ["Biżuteria warta 50 Z"]
+        "equipment": ["Biżuteria warta 500 ZK", "Lusterko Ręczne albo Floret Dobrej Jakości", "500 ZK", "4 Komplety Strojów Dworskich Najlepszej Jakości", "Prowincja"]
       },
       {
-        "subclassname": "Szlachcic",
-        "status": "Złoto 3",
+        "subclassname": "⚙ - Magnat",
+        "status": "Złoto 5",
         "skills": [
-          "Broń Biała (Parująca)",
-          "Charyzma",
-          "Język (Klasyczny)",
-          "Jeździectwo (Konie)",
-          "Plotkowanie",
-          "Wiedza (Lokalna)",
           "Intuicja",
           "Język (Dowolny)",
           "Percepcja",
           "Wiedza (Polityka)"
         ],
         "talents": [
-          "Atrakcyjny",
-          "Charyzmatyczny",
-          "Hulaka",
-          "Łapówkarz",
           "Intrygant",
           "Mówca",
           "Zimna krew",
           "Żyłka handlowa"
         ],
-        "equipment": ["Biżuteria warta 50 Z"]
+        "equipment": ["Biżuteria warta 200 ZK", "Lenno", "Sygnet", "2 Komplety Strojów Dworskich Dobrej Jakości", "200 ZK"]
       },
       {
-        "subclassname": "Szlachcic",
-        "status": "Złoto 3",
+        "subclassname": "⛊ - Lord",
+        "status": "Złoto 7",
         "skills": [
-          "Broń Biała (Parująca)",
-          "Charyzma",
-          "Język(Klasyczny)",
-          "Jeździectwo (Konie)",
-          "Plotkowanie",
-          "Wiedza(Lokalna)",
-          "Intuicja",
-          "Język (Dowolny)",
-          "Percepcja",
-          "Wiedza(Polityka)",
           "Tropienie",
           "Wiedza (Dowolna)"
         ],
         "talents": [
-          "Atrakcyjny",
-          "Charyzmatyczny",
-          "Hulaka",
-          "Łapówkarz",
-          "Intrygant",
-          "Mówca",
-          "Zimna krew",
-          "Żyłka handlowa",
           "Majętny",
           "Władcza Postura",
           "Wódz",
           "Żelazna Wola"
         ],
-        "equipment": ["Biżuteria warta 50 Z"]
+        "equipment": ["Biżuteria warta 500 ZK", "Lusterko Ręczne albo Floret Dobrej Jakości", "500 ZK", "4 Komplety Strojów Dworskich Najlepszej Jakości", "Prowincja"]
       }
     ]
   },
@@ -1764,7 +1692,7 @@
     "cechy": ["⚒", " ", " ", " ", "⚙", "☩", " ", "⛊", "☩", "☩"],
     "subclasses": [
       {
-        "subclassname": "Informator",
+        "subclassname": "☩ - Informator",
         "status": "Brąz 3",
         "skills": [
           "Charyzma",
@@ -1785,7 +1713,7 @@
         ]
       },
       {
-        "subclassname": "Szpieg",
+        "subclassname": "⚒ - Szpieg",
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -1810,7 +1738,7 @@
         ]
       },
       {
-        "subclassname": "Agent",
+        "subclassname": "⚙ - Agent",
         "status": "Złoto 1",
         "skills": [
           "Dowodzenie",
@@ -1833,7 +1761,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Szpiegów",
+        "subclassname": "⛊ - Mistrz Szpiegów",
         "status": "Złoto 4",
         "skills": ["Badania Naukowe", "Wiedza (Dowolna)"],
         "talents": [
@@ -1855,7 +1783,7 @@
     "cechy": ["☩", "⚒", "⚙", " ", "☩", "☩", " ", " ", "⛊", " "],
     "subclasses": [
       {
-        "subclassname": "Szermierz",
+        "subclassname": "☩ - Szermierz",
         "status": "Srebro 3",
         "skills": [
           "Atletyka",
@@ -1879,7 +1807,7 @@
         ]
       },
       {
-        "subclassname": "Zwadźca",
+        "subclassname": "⚒ - Zwadźca",
         "status": "Srebro 5",
         "skills": [
           "Broń Biała (Parująca)",
@@ -1901,7 +1829,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Pojedynków",
+        "subclassname": "⚙ - Mistrz Pojedynków",
         "status": "Złoto 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -1918,7 +1846,7 @@
         ]
       },
       {
-        "subclassname": "Szampierz Sądowy",
+        "subclassname": "⛊ - Szampierz Sądowy",
         "status": "Złoto 3",
         "skills": ["Broń Biała (Dowolna)", "Wiedza (Prawo)"],
         "talents": [
@@ -1937,7 +1865,7 @@
     "cechy": ["⚒", " ", "☩", "☩", " ", "☩", " ", "⛊", " ", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Parobek",
+        "subclassname": "☩ - Parobek",
         "status": "Brąz 2",
         "skills": [
           "Atletyka",
@@ -1958,7 +1886,7 @@
         "equipment": ["Brak"]
       },
       {
-        "subclassname": "Chłop",
+        "subclassname": "⚒ - Chłop",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -1981,7 +1909,7 @@
         ]
       },
       {
-        "subclassname": "Kmieć",
+        "subclassname": "⚙ - Kmieć",
         "status": "Brąz 4",
         "skills": ["Charyzma", "Dowodzenie", "Przekupstwo", "Zastraszanie"],
         "talents": [
@@ -1993,7 +1921,7 @@
         "equipment": ["Wóz z Mułem", "Dom Wiejski", "z Warsztatem"]
       },
       {
-        "subclassname": "Starszy Wioskowy",
+        "subclassname": "⛊ - Starszy Wioskowy",
         "status": "Srebro 2",
         "skills": ["Intuicja", "Wiedza (Historia)"],
         "talents": [
@@ -2012,7 +1940,7 @@
     "cechy": ["⚒", " ", "☩", "☩", "⚙", " ", " ", " ", "☩", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Poszukiwacz",
+        "subclassname": "☩ - Poszukiwacz",
         "status": "Brąz 2",
         "skills": [
           "Broń Biała (Dwuręczna)",
@@ -2033,7 +1961,7 @@
         "equipment": ["Kiepska Mapa", "Panew", "Szpadel", "Węgiel do Rysowania"]
       },
       {
-        "subclassname": "Górnik",
+        "subclassname": "⚒ - Górnik",
         "status": "Brąz 4",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -2057,7 +1985,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Górniczy",
+        "subclassname": "⚙ - Mistrz Górniczy",
         "status": "Brąz 5",
         "skills": [
           "Plotkowanie",
@@ -2078,7 +2006,7 @@
         ]
       },
       {
-        "subclassname": "Sztygar",
+        "subclassname": "⛊ - Sztygar",
         "status": "Srebro 4",
         "skills": ["Charyzma", "Dowodzenie"],
         "talents": [
@@ -2097,7 +2025,7 @@
     "cechy": [" ", " ", " ", "☩", "☩", " ", "☩", "⚒", "⛊", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Uczeń Guślarza",
+        "subclassname": "☩ - Uczeń Guślarza",
         "status": "Brąz 1",
         "skills": [
           "Intuicja",
@@ -2119,7 +2047,7 @@
         "equipment": ["Kostur", "Plecak", "1k10 Amuletów na Szczęście"]
       },
       {
-        "subclassname": "Guślarz",
+        "subclassname": "⚒ - Guślarz",
         "status": "Brąz 2",
         "skills": [
           "Opanowanie",
@@ -2142,7 +2070,7 @@
         ]
       },
       {
-        "subclassname": "Starszy Guślarzy",
+        "subclassname": "⚙ - Starszy Guślarzy",
         "status": "Brąz 3",
         "skills": [
           "Targowanie",
@@ -2159,7 +2087,7 @@
         "equipment": ["Odosobniona Chata", "Uczeń"]
       },
       {
-        "subclassname": "Wiedzący",
+        "subclassname": "⛊ - Wiedzący",
         "status": "Brąz 5",
         "skills": ["Modlitwa", "Zastraszanie"],
         "talents": [
@@ -2181,7 +2109,7 @@
     "cechy": [" ", "⚒", "☩", "☩", "⚙", " ", "☩", "⛊", " ", " "],
     "subclasses": [
       {
-        "subclassname": "Traper",
+        "subclassname": "☩ - Traper",
         "status": "Brąz 2",
         "skills": [
           "Broń Zasięgowa (Proca)",
@@ -2207,7 +2135,7 @@
         ]
       },
       {
-        "subclassname": "Łowca",
+        "subclassname": "⚒ - Łowca",
         "status": "Brąz 4",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -2226,7 +2154,7 @@
         "equipment": ["Łuk z 10 Strzałami"]
       },
       {
-        "subclassname": "Tropiciel",
+        "subclassname": "⚙ - Tropiciel",
         "status": "Srebro 1",
         "skills": ["Jeździectwo (Konie)", "Nawigacja", "Pływanie", "Tropienie"],
         "talents": [
@@ -2238,7 +2166,7 @@
         "equipment": ["Namiot", "Plecak", "Zwijane Posłanie"]
       },
       {
-        "subclassname": "Mistrz Łowów",
+        "subclassname": "⛊ - Mistrz Łowów",
         "status": "Srebro 3",
         "skills": ["Opieka nad Zwierzętami", "Tresura (Dowolna)"],
         "talents": [
@@ -2257,7 +2185,7 @@
     "cechy": [" ", " ", " ", " ", "☩", "⚙", "☩", "⛊", "⚒", "☩"],
     "subclasses": [
       {
-        "subclassname": "Wróżbiarz",
+        "subclassname": "☩ - Wróżbiarz",
         "status": "Brąz 1",
         "skills": [
           "Charyzma",
@@ -2278,7 +2206,7 @@
         "equipment": ["Talia Kart albo Zestaw Kości", "Tania Biżuteria"]
       },
       {
-        "subclassname": "Mistyk",
+        "subclassname": "⚒ - Mistyk",
         "status": "Brąz 2",
         "skills": [
           "Opanowanie",
@@ -2297,7 +2225,7 @@
         "equipment": ["Wybór Amuletów"]
       },
       {
-        "subclassname": "Mędrzec",
+        "subclassname": "⚙ - Mędrzec",
         "status": "Brąz 3",
         "skills": [
           "Język (Dowolny)",
@@ -2314,7 +2242,7 @@
         "equipment": ["Narzędzia Pracy (Pisarza)"]
       },
       {
-        "subclassname": "Prorok",
+        "subclassname": "⛊ - Prorok",
         "status": "Brąz 4",
         "skills": ["Splatanie Magii (Azyr)", "Wiedza(Proroctwa)"],
         "talents": [
@@ -2333,7 +2261,7 @@
     "cechy": ["☩", " ", " ", " ", "☩", "⚙", " ", "⛊", "☩", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Poborca Podatków",
+        "subclassname": "☩ - Poborca Podatków",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -2349,7 +2277,7 @@
         "equipment": ["Broń Ręczna", "Mała Zamykana Szkatułka"]
       },
       {
-        "subclassname": "Zarządca",
+        "subclassname": "⚒ - Zarządca",
         "status": "Srebro 5",
         "skills": [
           "Dowodzenie",
@@ -2368,7 +2296,7 @@
         "equipment": ["Skórzana Kurta", "3 Poborców Podatków"]
       },
       {
-        "subclassname": "Włodarz",
+        "subclassname": "⚙ - Włodarz",
         "status": "Złoto 1",
         "skills": [
           "Jeździectwo (Konie)",
@@ -2380,7 +2308,7 @@
         "equipment": ["Koń z Siodłem i Uprzężą", "Napierśnik", "Zarządca"]
       },
       {
-        "subclassname": "Komornik",
+        "subclassname": "⛊ - Komornik",
         "status": "Złoto 3",
         "skills": ["Język (Klasyczny)", "Wiedza (Prawo)"],
         "talents": [
@@ -2403,7 +2331,7 @@
     "cechy": [" ", " ", " ", "☩", "☩", "☩", "⚒", "⛊", " ", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Zbieraczka Ziół",
+        "subclassname": "☩ - Zbieraczka Ziół",
         "status": "Brąz 2",
         "skills": [
           "Odporność",
@@ -2428,7 +2356,7 @@
         ]
       },
       {
-        "subclassname": "Zielarka",
+        "subclassname": "⚒ - Zielarka",
         "status": "Brąz 4",
         "skills": [
           "Leczenie",
@@ -2446,7 +2374,7 @@
         ]
       },
       {
-        "subclassname": "Mistrzyni Ziołolecznictwa",
+        "subclassname": "⚙ - Mistrzyni Ziołolecznictwa",
         "status": "Srebro 1",
         "skills": [
           "Dowodzenie",
@@ -2463,7 +2391,7 @@
         ]
       },
       {
-        "subclassname": "Arcyzielarka",
+        "subclassname": "⛊ - Arcyzielarka",
         "status": "Srebro 3",
         "skills": ["Powożenie", "Nawigacja"],
         "talents": [
@@ -2482,7 +2410,7 @@
     "cechy": [" ", "⚒", " ", "☩", "☩", "☩", "⛊", "⚙", " ", " "],
     "subclasses": [
       {
-        "subclassname": "Przewodnik",
+        "subclassname": "☩ - Przewodnik",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -2508,7 +2436,7 @@
         ]
       },
       {
-        "subclassname": "Zwiadowca",
+        "subclassname": "⚒ - Zwiadowca",
         "status": "Brąz 5",
         "skills": [
           "Atletyka",
@@ -2527,7 +2455,7 @@
         "equipment": ["Łuk i 10 Strzał", "Kaftan Kolczy"]
       },
       {
-        "subclassname": "Przepatrywacz",
+        "subclassname": "⚙ - Przepatrywacz",
         "status": "Srebro 1",
         "skills": [
           "Opieka nad Zwierzętami",
@@ -2549,7 +2477,7 @@
         ]
       },
       {
-        "subclassname": "Odkrywca",
+        "subclassname": "⛊ - Odkrywca",
         "status": "Srebro 5",
         "skills": ["Język (Dowolny)", "Rzemiosło (Kartograf )"],
         "talents": [
@@ -2568,7 +2496,7 @@
     "cechy": ["☩", " ", "☩", "☩", "⚙", " ", " ", " ", "⚒", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Gorliwiec",
+        "subclassname": "☩ - Gorliwiec",
         "status": "Brąz 0",
         "skills": [
           "Broń Biała (Korbacz)",
@@ -2589,7 +2517,7 @@
         "equipment": ["Korbacz", "Postrzępione Odzienie"]
       },
       {
-        "subclassname": "Biczownik",
+        "subclassname": "⚒ - Biczownik",
         "status": "Brąz 0",
         "skills": [
           "Atletyka",
@@ -2608,7 +2536,7 @@
         "equipment": ["Symbol Religijny", "Proca", "Tabliczka"]
       },
       {
-        "subclassname": "Pokutnik",
+        "subclassname": "⚙ - Pokutnik",
         "status": "Brąz 0",
         "skills": [
           "Charyzma",
@@ -2620,7 +2548,7 @@
         "equipment": ["Relikwia"]
       },
       {
-        "subclassname": "Piewca Zagłady",
+        "subclassname": "⛊ - Piewca Zagłady",
         "status": "Brąz 0",
         "skills": ["Dowodzenie", "Występy (Przemowy)"],
         "talents": [
@@ -2643,7 +2571,7 @@
     "cechy": [" ", " ", " ", "☩", "⚙", " ", "☩", "⛊", "☩", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Włóczykij",
+        "subclassname": "☩ - Włóczykij",
         "status": "Brąz 1",
         "skills": [
           "Charyzma",
@@ -2659,7 +2587,7 @@
         "equipment": ["Plecak", "Namiot", "Zwijane Posłanie", "Towary"]
       },
       {
-        "subclassname": "Domokrążca",
+        "subclassname": "⚒ - Domokrążca",
         "status": "Brąz 4",
         "skills": [
           "Jeździectwo (Konie)",
@@ -2683,7 +2611,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Domokrążców",
+        "subclassname": "⚙ - Mistrz Domokrążców",
         "status": "Srebro 1",
         "skills": ["Język (Dowolny)", "Percepcja", "Powożenie", "Zastraszanie"],
         "talents": [
@@ -2695,7 +2623,7 @@
         "equipment": ["Wóz", "Towary warte co najmniej 2k10", "Złotych Monet"]
       },
       {
-        "subclassname": "Wędrowny Handlarz",
+        "subclassname": "⛊ - Wędrowny Handlarz",
         "status": "Srebro 3",
         "skills": ["Wiedza (Geografia)", "Wiedza (Lokalna)"],
         "talents": [
@@ -2717,7 +2645,7 @@
     "cechy": ["⚒", "⚙", " ", "⛊", " ", "☩", "☩", " ", " ", "☩"],
     "subclasses": [
       {
-        "subclassname": "Grajek Uliczny",
+        "subclassname": "☩ - Grajek Uliczny",
         "status": "Brąz 3",
         "skills": [
           "Atletyka",
@@ -2733,7 +2661,7 @@
         "equipment": ["Instrument", "Miska"]
       },
       {
-        "subclassname": "Kuglarz",
+        "subclassname": "⚒ - Kuglarz",
         "status": "Brąz 5",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -2757,7 +2685,7 @@
         ]
       },
       {
-        "subclassname": "Trubadur",
+        "subclassname": "⚙ - Trubadur",
         "status": "Srebro 3",
         "skills": [
           "Język (Dowolny)",
@@ -2774,7 +2702,7 @@
         "equipment": ["Tresowane Zwierzę", "Zestaw do Pisania"]
       },
       {
-        "subclassname": "Kierownik Trupy",
+        "subclassname": "⛊ - Kierownik Trupy",
         "status": "Złoto 1",
         "skills": ["Dowodzenie", "Powożenie"],
         "talents": [
@@ -2797,7 +2725,7 @@
     "cechy": ["☩", "⚒", " ", "☩", " ", " ", " ", "⛊", "☩", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Oprawca",
+        "subclassname": "☩ - Oprawca",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Bijatyka)",
@@ -2813,7 +2741,7 @@
         "equipment": ["Broń Ręczna", "Narzędzia Tortur"]
       },
       {
-        "subclassname": "Łowca Czarownic",
+        "subclassname": "⚒ - Łowca Czarownic",
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Dowolna)",
@@ -2840,7 +2768,7 @@
         ]
       },
       {
-        "subclassname": "Inkwizytor",
+        "subclassname": "⚙ - Inkwizytor",
         "status": "Srebro 5",
         "skills": [
           "Dowodzenie",
@@ -2857,7 +2785,7 @@
         "equipment": ["Podwładni Oprawcy", "Ubranie Dobrej Jakości"]
       },
       {
-        "subclassname": "Generał Łowców Czarownic",
+        "subclassname": "⛊ - Generał Łowców Czarownic",
         "status": "Złoto 1",
         "skills": ["Wiedza (Chaos)", "Wiedza (Polityka)"],
         "talents": [
@@ -2880,7 +2808,7 @@
     "cechy": ["☩", "⚒", "⚙", "☩", " ", "☩", " ", "⛊", " ", " "],
     "subclasses": [
       {
-        "subclassname": "Pogromczyni Złodziei",
+        "subclassname": "☩ - Pogromczyni Złodziei",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -2901,7 +2829,7 @@
         "equipment": ["Broń Ręczna", "Lina", "Skórzany Kaftan"]
       },
       {
-        "subclassname": "Łowczyni Nagród",
+        "subclassname": "⚒ - Łowczyni Nagród",
         "status": "Srebro 3",
         "skills": [
           "Atletyka",
@@ -2926,7 +2854,7 @@
         ]
       },
       {
-        "subclassname": "Mistrzyni Łowców Nagród",
+        "subclassname": "⚙ - Mistrzyni Łowców Nagród",
         "status": "Srebro 5",
         "skills": [
           "Jeździectwo (Konie)",
@@ -2943,7 +2871,7 @@
         "equipment": ["Kaftan Kolczy", "Koń", "Wierzchowy z Siodłem"]
       },
       {
-        "subclassname": "Legenda Łowców Nagród",
+        "subclassname": "⛊ - Legenda Łowców Nagród",
         "status": "Złoto 1",
         "skills": ["Powożenie", "Wiedza (Prawo)"],
         "talents": [
@@ -2966,7 +2894,7 @@
     "cechy": ["⚒", " ", " ", "☩", "☩", "☩", " ", " ", "⚙", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Goniec",
+        "subclassname": "☩ - Goniec",
         "status": "Brąz 3",
         "skills": [
           "Atletyka",
@@ -2987,7 +2915,7 @@
         "equipment": ["Tuba na Zwoje"]
       },
       {
-        "subclassname": "Posłaniec",
+        "subclassname": "⚒ - Posłaniec",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -3005,7 +2933,7 @@
         ]
       },
       {
-        "subclassname": "Kurier",
+        "subclassname": "⚙ - Kurier",
         "status": "Srebro 3",
         "skills": [
           "Mocna Głowa",
@@ -3022,7 +2950,7 @@
         "equipment": ["Juki", "Plecak", "Tarcza"]
       },
       {
-        "subclassname": "Kapitan Kurierów",
+        "subclassname": "⛊ - Kapitan Kurierów",
         "status": "Srebro 5",
         "skills": ["Dowodzenie", "Zastraszanie"],
         "talents": [
@@ -3042,7 +2970,7 @@
     "cechy": ["⚒", "☩", " ", "☩", "☩", " ", " ", "⛊", " ", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Mytnik",
+        "subclassname": "☩ - Mytnik",
         "status": "Brąz 5",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -3063,7 +2991,7 @@
         "equipment": ["Kusza z 10 Bełtami", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Strażnik Dróg",
+        "subclassname": "⚒ - Strażnik Dróg",
         "status": "Srebro 2",
         "skills": [
           "Intuicja",
@@ -3082,7 +3010,7 @@
         ]
       },
       {
-        "subclassname": "Sierżant Strażników Dróg",
+        "subclassname": "⚙ - Sierżant Strażników Dróg",
         "status": "Srebro 4",
         "skills": [
           "Atletyka",
@@ -3104,7 +3032,7 @@
         ]
       },
       {
-        "subclassname": "Kapitan Strażników Dróg",
+        "subclassname": "⛊ - Kapitan Strażników Dróg",
         "status": "Złoto 1",
         "skills": ["Nawigacja", "Wiedza (Imperium)"],
         "talents": ["Mówca", "Szycha", "Władcza Postura", "Zmysł Bitewny"],
@@ -3123,7 +3051,7 @@
     "cechy": ["⚙", "☩", " ", "☩", "⛊", "⚒", " ", " ", "☩", " "],
     "subclasses": [
       {
-        "subclassname": "Foryś",
+        "subclassname": "☩ - Foryś",
         "status": "Srebro 1",
         "skills": [
           "Broń Zasięgowa (Unieruchamiająca)",
@@ -3144,7 +3072,7 @@
         "equipment": ["Bicz", "Ciepły Płaszcz i Rękawice"]
       },
       {
-        "subclassname": "Woźnica",
+        "subclassname": "⚒ - Woźnica",
         "status": "Srebro 2",
         "skills": [
           "Broń Zasięgowa (Prochowa)",
@@ -3168,7 +3096,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Woźniców",
+        "subclassname": "⚙ - Mistrz Woźniców",
         "status": "Srebro 3",
         "skills": [
           "Język (Dowolny)",
@@ -3185,7 +3113,7 @@
         "equipment": ["Dobry Płaszcz", "Kaftan Kolczy", "Pistolet"]
       },
       {
-        "subclassname": "Mistrz Szlaków",
+        "subclassname": "⛊ - Mistrz Szlaków",
         "status": "Srebro 5",
         "skills": ["Charyzma", "Dowodzenie"],
         "talents": [
@@ -3204,7 +3132,7 @@
     "cechy": ["☩", " ", "⚒", "☩", "☩", " ", " ", "⛊", "⚙", " "],
     "subclasses": [
       {
-        "subclassname": "Pomocnik Dokera",
+        "subclassname": "☩ - Pomocnik Dokera",
         "status": "Brąz 3",
         "skills": [
           "Atletyka",
@@ -3225,7 +3153,7 @@
         "equipment": ["Broń Ręczna (Bosak)", "Skórzane", "Rękawice"]
       },
       {
-        "subclassname": "Doker",
+        "subclassname": "⚒ - Doker",
         "status": "Srebro 1",
         "skills": [
           "Hazard",
@@ -3250,7 +3178,7 @@
         ]
       },
       {
-        "subclassname": "Brygadzista",
+        "subclassname": "⚙ - Brygadzista",
         "status": "Srebro 3",
         "skills": ["Dowodzenie", "Intuicja", "Opanowanie", "Wycena"],
         "talents": [
@@ -3262,7 +3190,7 @@
         "equipment": ["Gang Dokerów", "Gwizdek"]
       },
       {
-        "subclassname": "Mistrz Dokerów",
+        "subclassname": "⛊ - Mistrz Dokerów",
         "status": "Srebro 5",
         "skills": ["Charyzma", "Wiedza (Podatki)"],
         "talents": ["Czytanie/Pisanie", "Groźny", "Numizmatyka", "Szycha"],
@@ -3276,7 +3204,7 @@
     "cechy": ["⚒", " ", " ", "☩", "⚙", "☩", "☩", " ", " ", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Rybak",
+        "subclassname": "☩ - Rybak",
         "status": "Brąz 2",
         "skills": [
           "Atletyka",
@@ -3298,7 +3226,7 @@
         "equipment": ["Skórzane Nogawice", "Wiadro", "Wędka z Przynętą"]
       },
       {
-        "subclassname": "Flisak",
+        "subclassname": "⚒ - Flisak",
         "status": "Brąz 3",
         "skills": [
           "Broń Zasięgowa (Rzucana)",
@@ -3323,7 +3251,7 @@
         ]
       },
       {
-        "subclassname": "Znawca Rzeki",
+        "subclassname": "⚙ - Znawca Rzeki",
         "status": "Brąz 5",
         "skills": [
           "Broń Biała (Drzewcowa)",
@@ -3340,7 +3268,7 @@
         "equipment": ["Lampa Sztormowa z Oliwą", "Łódź Wiosłowa"]
       },
       {
-        "subclassname": "Starszy Rzeczny",
+        "subclassname": "⛊ - Starszy Rzeczny",
         "status": "Srebro 2",
         "skills": ["Wiedza (Ludowa)", "Występy (Gawędziarstwo)"],
         "talents": [
@@ -3359,7 +3287,7 @@
     "cechy": ["☩", " ", " ", "☩", "☩", " ", " ", "⚙", "⚒", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Przewodnik Rzeczny",
+        "subclassname": "☩ - Przewodnik Rzeczny",
         "status": "Brąz 4",
         "skills": [
           "Intuicja",
@@ -3380,7 +3308,7 @@
         "equipment": ["Broń Ręczna (Bosak)", "Lampa Sztormowa z Oliwą"]
       },
       {
-        "subclassname": "Pilot Rzeczny",
+        "subclassname": "⚒ - Pilot Rzeczny",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -3399,7 +3327,7 @@
         "equipment": ["Lina", "Łódź Wiosłowa", "Skórzany Kaftan"]
       },
       {
-        "subclassname": "Starszy Pilot",
+        "subclassname": "⚙ - Starszy Pilot",
         "status": "Srebro 3",
         "skills": [
           "Targowanie",
@@ -3417,7 +3345,7 @@
         "equipment": ["Drąg", "Lampa Sztormowa z Oliwą"]
       },
       {
-        "subclassname": "Mistrz Pilotów",
+        "subclassname": "⛊ - Mistrz Pilotów",
         "status": "Srebro 5",
         "skills": ["Dowodzenie", "Żeglarstwo"],
         "talents": ["Czujny", "Szósty Zmysł", "Świetny Pływak", "Wytrwały"],
@@ -3431,7 +3359,7 @@
     "cechy": ["☩", "⚙", "☩", " ", "☩", " ", " ", " ", "⚒", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Szabrownik",
+        "subclassname": "☩ - Szabrownik",
         "status": "Brąz 2",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -3452,7 +3380,7 @@
         "equipment": ["Duży Worek", "Łom", "Skórzane Rękawice"]
       },
       {
-        "subclassname": "Pirat Rzeczny",
+        "subclassname": "⚒ - Pirat Rzeczny",
         "status": "Brąz 3",
         "skills": [
           "Intuicja",
@@ -3470,7 +3398,7 @@
         ]
       },
       {
-        "subclassname": "Łupieżca",
+        "subclassname": "⚙ - Łupieżca",
         "status": "Brąz 5",
         "skills": [
           "Broń Zasięgowa (Kusza)",
@@ -3487,7 +3415,7 @@
         "equipment": ["Kotwiczka z Liną", "Kusza z 10 Bełtami", "Łódź Rzeczna"]
       },
       {
-        "subclassname": "Kapitan Łupieżców",
+        "subclassname": "⛊ - Kapitan Łupieżców",
         "status": "Srebro 2",
         "skills": ["Dowodzenie", "Wiedza (Szlaki Wodne)"],
         "talents": [
@@ -3510,7 +3438,7 @@
     "cechy": [" ", " ", " ", " ", "⚒", "☩", "☩", "⚙", "☩", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Szmuglerka Rzeczna",
+        "subclassname": "☩ - Szmuglerka Rzeczna",
         "status": "Brąz 2",
         "skills": [
           "Atletyka",
@@ -3536,7 +3464,7 @@
         ]
       },
       {
-        "subclassname": "Przemytniczka",
+        "subclassname": "⚒ - Przemytniczka",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -3560,7 +3488,7 @@
         ]
       },
       {
-        "subclassname": "Mistrzyni Przemytników",
+        "subclassname": "⚙ - Mistrzyni Przemytników",
         "status": "Brąz 5",
         "skills": [
           "Intuicja",
@@ -3577,7 +3505,7 @@
         "equipment": ["Szmugler Rzeczny", "Szybka Łódź Rzeczna"]
       },
       {
-        "subclassname": "Królowa Przemytników",
+        "subclassname": "⛊ - Królowa Przemytników",
         "status": "Srebro 2",
         "skills": ["Dowodzenie", "Język (Dowolny)"],
         "talents": [
@@ -3596,7 +3524,7 @@
     "cechy": [" ", " ", "☩", "☩", "⚒", "☩", "⚙", "⛊", " ", " "],
     "subclasses": [
       {
-        "subclassname": "Chłopiec Pokładowy",
+        "subclassname": "☩ - Chłopiec Pokładowy",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Bijatyka)",
@@ -3617,7 +3545,7 @@
         "equipment": ["Broń Ręczna (Bosak)", "Drąg", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Przewoźnik",
+        "subclassname": "⚒ - Przewoźnik",
         "status": "Srebro 2",
         "skills": [
           "Atletyka",
@@ -3636,7 +3564,7 @@
         "equipment": ["Lina", "Łódź Wiosłowa"]
       },
       {
-        "subclassname": "Sternik",
+        "subclassname": "⚙ - Sternik",
         "status": "Srebro 3",
         "skills": [
           "Leczenie",
@@ -3653,7 +3581,7 @@
         "equipment": ["Plecak", "Narzędzia Pracy"]
       },
       {
-        "subclassname": "Kapitan Barki",
+        "subclassname": "⛊ - Kapitan Barki",
         "status": "Srebro 5",
         "skills": ["Dowodzenie", "Nawigacja"],
         "talents": ["Groźny", "Mówca", "Pilot", "Wyczucie Kierunku"],
@@ -3667,7 +3595,7 @@
     "cechy": ["⚒", "☩", "☩", " ", "⚙", " ", " ", "⛊", " ", "☩"],
     "subclasses": [
       {
-        "subclassname": "Rekrut Rzeczny",
+        "subclassname": "☩ - Rekrut Rzeczny",
         "status": "Srebro 1",
         "skills": [
           "Atletyka",
@@ -3683,7 +3611,7 @@
         "equipment": ["Broń Ręczna (Miecz)", "Mundur", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Strażnik Rzeczny",
+        "subclassname": "⚒ - Strażnik Rzeczny",
         "status": "Srebro 2",
         "skills": [
           "Broń Zasięgowa (Prochowa)",
@@ -3697,7 +3625,7 @@
         "equipment": ["Latarnia z Oliwą", "Pistolet z 10 Nabojami", "Tarcza"]
       },
       {
-        "subclassname": "Żołnierz Okrętowy",
+        "subclassname": "⚙ - Żołnierz Okrętowy",
         "status": "Srebro 4",
         "skills": ["Dowodzenie", "Intuicja", "Opanowanie", "Wspinaczka"],
         "talents": [
@@ -3709,7 +3637,7 @@
         "equipment": ["Hełm", "Kaftan Kolczy", "Kotwiczka"]
       },
       {
-        "subclassname": "Mistrz Żołnierzy Okrętowych",
+        "subclassname": "⛊ - Mistrz Żołnierzy Okrętowych",
         "status": "Złoto 1",
         "skills": ["Nawigacja", "Wiedza (Prawo)"],
         "talents": ["Groźny", "Szycha", "Władcza Postura", "Wyczucie Kierunku"],
@@ -3723,7 +3651,7 @@
     "cechy": ["⚒", " ", " ", " ", "⚙", "☩", "☩", "⛊", " ", "☩"],
     "subclasses": [
       {
-        "subclassname": "Szczur Lądowy",
+        "subclassname": "☩ - Szczur Lądowy",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Bijatyka)",
@@ -3744,7 +3672,7 @@
         "equipment": ["Mop", "Szczotka", "Wiadro"]
       },
       {
-        "subclassname": "Żeglarz",
+        "subclassname": "⚒ - Żeglarz",
         "status": "Srebro 3",
         "skills": [
           "Atletyka",
@@ -3763,14 +3691,14 @@
         "equipment": ["Broń Ręczna (Bosak)", "Skórzany Kaftan"]
       },
       {
-        "subclassname": "Bosman",
+        "subclassname": "⚙ - Bosman",
         "status": "Srebro 5",
         "skills": ["Dowodzenie", "Opanowanie", "Percepcja", "Rzemiosło"],
         "talents": ["Bardzo Silny", "Silny Cios", "Wilk Morski", "Wytrwały"],
         "equipment": ["Narzędzia Pracy (Cieśli)"]
       },
       {
-        "subclassname": "Kapitan Statku",
+        "subclassname": "⛊ - Kapitan Statku",
         "status": "Złoto 2",
         "skills": ["Charyzma", "Nawigacja"],
         "talents": ["Błyskotliwość", "Mówca", "Pilot", "Wyczucie Kierunku"],
@@ -3789,7 +3717,7 @@
     "cechy": ["☩", "⚒", "☩", "☩", "⚙", " ", " ", " ", " ", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Zbój",
+        "subclassname": "☩ - Zbój",
         "status": "Brąz 1",
         "skills": [
           "Atletyka",
@@ -3810,7 +3738,7 @@
         ]
       },
       {
-        "subclassname": "Banita",
+        "subclassname": "⚒ - Banita",
         "status": "Brąz 2",
         "skills": [
           "Broń Zasięgowa (Łuk)",
@@ -3829,7 +3757,7 @@
         "equipment": ["Łuk i 10 Strzał", "Namiot", "Tarcza"]
       },
       {
-        "subclassname": "Herszt Banitów",
+        "subclassname": "⚙ - Herszt Banitów",
         "status": "Brąz 4",
         "skills": [
           "Dowodzenie",
@@ -3851,7 +3779,7 @@
         ]
       },
       {
-        "subclassname": "Król Bandytów",
+        "subclassname": "⛊ - Król Bandytów",
         "status": "Srebro 2",
         "skills": ["Charyzma", "Wiedza (Imperium)"],
         "talents": [
@@ -3870,7 +3798,7 @@
     "cechy": ["☩", " ", " ", "☩", "⚒", " ", " ", "⛊", "☩", "⚙"],
     "subclasses": [
       {
-        "subclassname": "Szeptucha",
+        "subclassname": "☩ - Szeptucha",
         "status": "Brąz 1",
         "skills": [
           "Język (Magiczny)",
@@ -3891,7 +3819,7 @@
         "equipment": ["Kreda", "Lalka", "Szpilki", "Świece"]
       },
       {
-        "subclassname": "Czarownica",
+        "subclassname": "⚒ - Czarownica",
         "status": "Brąz 2",
         "skills": [
           "Broń Biała (Drzewcowa)",
@@ -3916,7 +3844,7 @@
         ]
       },
       {
-        "subclassname": "Wiedźma",
+        "subclassname": "⚙ - Wiedźma",
         "status": "Brąz 3",
         "skills": ["Charyzma", "Przekupstwo", "Targowanie", "Wiedza"],
         "talents": [
@@ -3932,7 +3860,7 @@
         ]
       },
       {
-        "subclassname": "Czarnoksiężnik",
+        "subclassname": "⛊ - Czarnoksiężnik",
         "status": "Brąz 5",
         "skills": ["Wiedza (Demonologia)", "Wiedza (Magia)"],
         "talents": [
@@ -3951,7 +3879,7 @@
     "cechy": ["⚒", " ", "☩", " ", "☩", " ", "⚙", "⛊", "☩", " "],
     "subclasses": [
       {
-        "subclassname": "Porywacz Zwłok",
+        "subclassname": "☩ - Porywacz Zwłok",
         "status": "Brąz 2",
         "skills": [
           "Intuicja",
@@ -3967,7 +3895,7 @@
         "equipment": ["Łom", "Plandeka", "Płaszcz z Kapturem", "Taczka"]
       },
       {
-        "subclassname": "Hiena Cmentarna",
+        "subclassname": "⚒ - Hiena Cmentarna",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -3991,7 +3919,7 @@
         ]
       },
       {
-        "subclassname": "Rabuś Grobowców",
+        "subclassname": "⚙ - Rabuś Grobowców",
         "status": "Srebro 1",
         "skills": [
           "Badania Naukowe",
@@ -4014,7 +3942,7 @@
         ]
       },
       {
-        "subclassname": "Łowca Skarbów",
+        "subclassname": "⛊ - Łowca Skarbów",
         "status": "Srebro 5",
         "skills": ["Nawigacja", "Rzemiosło (Inżynier)"],
         "talents": [
@@ -4040,7 +3968,7 @@
     "cechy": [" ", " ", " ", " ", "☩", "☩", "⚒", "⚙", "⛊", "☩"],
     "subclasses": [
       {
-        "subclassname": "Pośrednik",
+        "subclassname": "☩ - Pośrednik",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4056,7 +3984,7 @@
         "equipment": ["Broń Ręczna", "Skradzione Dobra warte 3k10", "Szylingów"]
       },
       {
-        "subclassname": "Paser",
+        "subclassname": "⚒ - Paser",
         "status": "Srebro 2",
         "skills": [
           "Intuicja",
@@ -4079,7 +4007,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Paserów",
+        "subclassname": "⚙ - Mistrz Paserów",
         "status": "Srebro 3",
         "skills": [
           "Przekupstwo",
@@ -4096,7 +4024,7 @@
         "equipment": ["Lombard"]
       },
       {
-        "subclassname": "Broker Informacji",
+        "subclassname": "⛊ - Broker Informacji",
         "status": "Srebro 4",
         "skills": ["Badania Naukowe", "Wiedza (Heraldyka)"],
         "talents": ["Cios Poniżej Pasa", "Groźny", "Łapówkarz", "Żelazna Wola"],
@@ -4110,7 +4038,7 @@
     "cechy": [" ", " ", " ", " ", "⚒", "☩", "☩", "⛊", "⚙", "☩"],
     "subclasses": [
       {
-        "subclassname": "Naganiacz",
+        "subclassname": "☩ - Naganiacz",
         "status": "Brąz 1",
         "skills": [
           "Charyzma",
@@ -4126,7 +4054,7 @@
         "equipment": ["Flaszka Mocnego Alkoholu"]
       },
       {
-        "subclassname": "Rajfur",
+        "subclassname": "⚒ - Rajfur",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4145,7 +4073,7 @@
         "equipment": ["Dawka Dziwnokorzenia", "Dobre Ubranie"]
       },
       {
-        "subclassname": "Stręczyciel",
+        "subclassname": "⚙ - Stręczyciel",
         "status": "Srebro 1",
         "skills": ["Język (Dowolny)", "Opanowanie", "Wiedza(Prawo)", "Wycena"],
         "talents": [
@@ -4157,7 +4085,7 @@
         "equipment": ["Sieć Naganiaczy"]
       },
       {
-        "subclassname": "Herszt Rajfurów",
+        "subclassname": "⛊ - Herszt Rajfurów",
         "status": "Srebro 3",
         "skills": ["Dowodzenie", "Wiedza (Heraldyka)"],
         "talents": ["Błyskotliwość", "Łapówkarz", "Numizmatyka", "Szycha"],
@@ -4174,7 +4102,7 @@
     "cechy": ["☩", " ", "☩", "☩", " ", " ", " ", "⛊", "⚙", "⚒"],
     "subclasses": [
       {
-        "subclassname": "Zbir",
+        "subclassname": "☩ - Zbir",
         "status": "Brąz 3",
         "skills": [
           "Broń Biała (Bijatyka)",
@@ -4195,7 +4123,7 @@
         "equipment": ["Kastet", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Reketer",
+        "subclassname": "⚒ - Reketer",
         "status": "Brąz 5",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4215,7 +4143,7 @@
         "equipment": ["Broń Ręczna", "Kaftan Kolczy", "Kapelusz"]
       },
       {
-        "subclassname": "Głowa Gangu",
+        "subclassname": "⚙ - Głowa Gangu",
         "status": "Srebro 3",
         "skills": ["Intuicja", "Dowodzenie", "Percepcja", "Broń Zasięgowa"],
         "talents": [
@@ -4231,7 +4159,7 @@
         ]
       },
       {
-        "subclassname": "Król Podziemia",
+        "subclassname": "⛊ - Król Podziemia",
         "status": "Srebro 5",
         "skills": ["Wiedza (Polityka)", "Wiedza (Prawo)"],
         "talents": ["Majętny", "Straszny", "Szycha", "Władcza Postura"],
@@ -4249,7 +4177,7 @@
     "cechy": [" ", " ", " ", " ", "☩", "⚙", "☩", "⛊", "⚒", "☩"],
     "subclasses": [
       {
-        "subclassname": "Kanciarz",
+        "subclassname": "☩ - Kanciarz",
         "status": "Brąz 3",
         "skills": [
           "Charyzma",
@@ -4275,7 +4203,7 @@
         ]
       },
       {
-        "subclassname": "Szarlatan",
+        "subclassname": "⚒ - Szarlatan",
         "status": "Brąz 5",
         "skills": [
           "Intuicja",
@@ -4299,7 +4227,7 @@
         ]
       },
       {
-        "subclassname": "Oszust",
+        "subclassname": "⚙ - Oszust",
         "status": "Srebro 2",
         "skills": [
           "Język (Grypsera)",
@@ -4320,7 +4248,7 @@
         ]
       },
       {
-        "subclassname": "Łajdak",
+        "subclassname": "⛊ - Łajdak",
         "status": "Srebro 4",
         "skills": ["Badania Naukowe", "Wiedza (Genealogia)"],
         "talents": [
@@ -4339,7 +4267,7 @@
     "cechy": [" ", " ", "⚙", " ", "☩", "☩", "⚒", " ", "☩", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Bandzior",
+        "subclassname": "☩ - Bandzior",
         "status": "Brąz 1",
         "skills": [
           "Atletyka",
@@ -4355,7 +4283,7 @@
         "equipment": ["Łom", "Skórzany Kaftan", "Worek"]
       },
       {
-        "subclassname": "Złodziej",
+        "subclassname": "⚒ - Złodziej",
         "status": "Brąz 3",
         "skills": [
           "Otwieranie Zamków",
@@ -4375,7 +4303,7 @@
         "equipment": ["Lina", "Narzędzia Pracy (Złodziei)"]
       },
       {
-        "subclassname": "Mistrz Złodziejski",
+        "subclassname": "⚙ - Mistrz Złodziejski",
         "status": "Brąz 5",
         "skills": [
           "Broń Zasięgowa (Kusza)",
@@ -4392,7 +4320,7 @@
         "equipment": ["Kusza Pistoletowa z 10 Bełtami"]
       },
       {
-        "subclassname": "Włamywacz",
+        "subclassname": "⛊ - Włamywacz",
         "status": "Srebro 3",
         "skills": ["Charyzma", "Zastawianie Pułapek"],
         "talents": [
@@ -4411,7 +4339,7 @@
     "cechy": ["☩", " ", "☩", "☩", "⚒", "⚙", " ", " ", " ", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Pięściarz",
+        "subclassname": "☩ - Pięściarz",
         "status": "Brąz 4",
         "skills": [
           "Atletyka",
@@ -4432,7 +4360,7 @@
         "equipment": ["Bandaże", "Kastet", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Gladiator",
+        "subclassname": "⚒ - Gladiator",
         "status": "Srebro 2",
         "skills": [
           "Targowanie",
@@ -4456,7 +4384,7 @@
         ]
       },
       {
-        "subclassname": "Mistrz Areny",
+        "subclassname": "⚙ - Mistrz Areny",
         "status": "Srebro 5",
         "skills": [
           "Kuglarstwo (Walka Pokazowa)",
@@ -4468,7 +4396,7 @@
         "equipment": ["Hełm", "Napierśnik"]
       },
       {
-        "subclassname": "Legenda Areny",
+        "subclassname": "⛊ - Legenda Areny",
         "status": "Złoto 2",
         "skills": ["Broń Zasięgowa (Dowolna)", "Charyzma"],
         "talents": [
@@ -4487,7 +4415,7 @@
     "cechy": ["☩", " ", "⚒", "☩", "⚙", " ", " ", " ", "☩", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Nowicjusz Kapłanów-wojowników",
+        "subclassname": "☩ - Nowicjusz Kapłanów-wojowników",
         "status": "Brąz 2",
         "skills": [
           "Broń Biała (Dowolna)",
@@ -4514,7 +4442,7 @@
         ]
       },
       {
-        "subclassname": "Kapłan-wojownik",
+        "subclassname": "⚒ - Kapłan-wojownik",
         "status": "Srebro 2",
         "skills": [
           "Broń Biała (Dowolna)",
@@ -4533,7 +4461,7 @@
         "equipment": ["Broń (Dowolna)", "Napierśnik"]
       },
       {
-        "subclassname": "Kapłan-sierżant",
+        "subclassname": "⚙ - Kapłan-sierżant",
         "status": "Srebro 3",
         "skills": [
           "Intuicja",
@@ -4550,7 +4478,7 @@
         "equipment": ["Lekki Koń Bojowy z Siodłem i Uprzężą"]
       },
       {
-        "subclassname": "Kapłan-kapitan",
+        "subclassname": "⛊ - Kapłan-kapitan",
         "status": "Srebro 4",
         "skills": ["Mocna Głowa", "Wiedza (Sztuka Wojenna)"],
         "talents": [
@@ -4569,7 +4497,7 @@
     "cechy": ["☩", "⚒", "☩", " ", "⚙", "☩", " ", " ", " ", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Jeździec",
+        "subclassname": "☩ - Jeździec",
         "status": "Srebro 2",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4590,7 +4518,7 @@
         "equipment": ["Koń Wierzchowy z Rzędem", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Kawalerzysta",
+        "subclassname": "⚒ - Kawalerzysta",
         "status": "Srebro 4",
         "skills": [
           "Broń Biała (Kawaleryjska)",
@@ -4615,7 +4543,7 @@
         ]
       },
       {
-        "subclassname": "Sierżant Kawalerii",
+        "subclassname": "⚙ - Sierżant Kawalerii",
         "status": "Złoto 1",
         "skills": [
           "Intuicja",
@@ -4632,7 +4560,7 @@
         "equipment": ["Szarfa"]
       },
       {
-        "subclassname": "Oficer Kawalerii",
+        "subclassname": "⛊ - Oficer Kawalerii",
         "status": "Złoto 2",
         "skills": ["Hazard", "Wiedza (Heraldyka)"],
         "talents": [
@@ -4651,7 +4579,7 @@
     "cechy": ["☩", " ", "⚙", "☩", "⚒", "☩", " ", "⛊", " ", " "],
     "subclasses": [
       {
-        "subclassname": "Stróż",
+        "subclassname": "☩ - Stróż",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4672,7 +4600,7 @@
         "equipment": ["Lampa Sztormowa z Oliwą", "Puklerz", "Skórzany Kaftan"]
       },
       {
-        "subclassname": "Ochroniarz",
+        "subclassname": "⚒ - Ochroniarz",
         "status": "Srebro 2",
         "skills": [
           "Atletyka",
@@ -4696,7 +4624,7 @@
         ]
       },
       {
-        "subclassname": "Gwardzista",
+        "subclassname": "⚙ - Gwardzista",
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Dwuręczna)",
@@ -4713,7 +4641,7 @@
         "equipment": ["Broń Dwuręczna albo Halabarda", "Hełm", "Mundur"]
       },
       {
-        "subclassname": "Oficer Gwardii",
+        "subclassname": "⛊ - Oficer Gwardii",
         "status": "Srebro 5",
         "skills": ["Dowodzenie", "Wiedza (Sztuka Wojenna)"],
         "talents": ["Krzepki", "Mistrz Walki", "Wściekły Atak", "Żelazna Wola"],
@@ -4727,7 +4655,7 @@
     "cechy": ["☩", "⚙", " ", "☩", "⚒", "☩", " ", " ", " ", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Tani Drań",
+        "subclassname": "☩ - Tani Drań",
         "status": "Brąz 2",
         "skills": [
           "Atletyka",
@@ -4748,7 +4676,7 @@
         "equipment": ["Kastet", "Kaptur albo Maska", "Skórzana Kurta"]
       },
       {
-        "subclassname": "Oprych",
+        "subclassname": "⚒ - Oprych",
         "status": "Srebro 1",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4772,7 +4700,7 @@
         ]
       },
       {
-        "subclassname": "Płatny Morderca",
+        "subclassname": "⚙ - Płatny Morderca",
         "status": "Srebro 4",
         "skills": [
           "Broń Zasięgowa (Rzucana)",
@@ -4789,7 +4717,7 @@
         "equipment": ["Garota", "Noże do Rzucania", "Płaszcz", "Trucizna"]
       },
       {
-        "subclassname": "Skrytobójca",
+        "subclassname": "⛊ - Skrytobójca",
         "status": "Złoto 1",
         "skills": ["Broń Zasięgowa (Kusza)", "Występy (Aktorstwo)"],
         "talents": [
@@ -4808,7 +4736,7 @@
     "cechy": ["⚒", " ", "☩", " ", "☩", "☩", " ", " ", "⚙", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Giermek",
+        "subclassname": "☩ - Giermek",
         "status": "Srebro 3",
         "skills": [
           "Atletyka",
@@ -4835,7 +4763,7 @@
         ]
       },
       {
-        "subclassname": "Rycerz",
+        "subclassname": "⚒ - Rycerz",
         "status": "Srebro 5",
         "skills": [
           "Broń Biała (Dowolna)",
@@ -4854,7 +4782,7 @@
         ]
       },
       {
-        "subclassname": "Pierwszy Rycerz",
+        "subclassname": "⚙ - Pierwszy Rycerz",
         "status": "Złoto 2",
         "skills": [
           "Charyzma",
@@ -4871,7 +4799,7 @@
         "equipment": ["Kropierz", "Mały Oddział Rycerzy"]
       },
       {
-        "subclassname": "Rycerz Wewnętrznego Kręgu",
+        "subclassname": "⛊ - Rycerz Wewnętrznego Kręgu",
         "status": "Złoto 4",
         "skills": ["Sekretne Znaki (Zakonu Rycerskiego)", "Wiedza (Dowolna)"],
         "talents": [
@@ -4894,7 +4822,7 @@
     "cechy": ["☩", " ", "☩", "⚒", "⛊", "⚙", " ", " ", "☩", " "],
     "subclasses": [
       {
-        "subclassname": "Zabójca Trolli",
+        "subclassname": "☩ - Zabójca Trolli",
         "status": "Brąz 2",
         "skills": [
           "Broń Biała (Podstawowa)",
@@ -4920,7 +4848,7 @@
         ]
       },
       {
-        "subclassname": "Zabójca Olbrzymów",
+        "subclassname": "⚒ - Zabójca Olbrzymów",
         "status": "Brąz 2",
         "skills": [
           "Broń Biała (Dwuręczna)",
@@ -4934,7 +4862,7 @@
         "equipment": ["Biżuteria", "Głowa Trolla", "Wielki Topór"]
       },
       {
-        "subclassname": "Zabójca Smoków",
+        "subclassname": "⚙ - Zabójca Smoków",
         "status": "Brąz 2",
         "skills": [
           "Broń Zasięgowa (Rzucana)",
@@ -4951,7 +4879,7 @@
         "equipment": ["Głowa Olbrzyma", "Topory do Rzucania"]
       },
       {
-        "subclassname": "Zabójca Demonów",
+        "subclassname": "⛊ - Zabójca Demonów",
         "status": "Brąz 2",
         "skills": ["Intuicja", "Wiedza (Chaos)"],
         "talents": ["Bardzo Silny", "Silny Cios", "Straszny", "Mistrz Walki"],
@@ -4965,7 +4893,7 @@
     "cechy": ["☩", "⚒", " ", "☩", "⚙", " ", " ", " ", "☩", "⛊"],
     "subclasses": [
       {
-        "subclassname": "Rekrut",
+        "subclassname": "☩ - Rekrut",
         "status": "Srebro 1",
         "skills": [
           "Atletyka",
@@ -4986,7 +4914,7 @@
         "equipment": ["Mundur", "Skórzany Napierśnik", "Sztylet"]
       },
       {
-        "subclassname": "Żołnierz",
+        "subclassname": "⚒ - Żołnierz",
         "status": "Srebro 3",
         "skills": [
           "Broń Biała (Dowolna)",
@@ -5005,7 +4933,7 @@
         "equipment": ["Broń (Dowolna)", "Hełm", "Napierśnik"]
       },
       {
-        "subclassname": "Sierżant",
+        "subclassname": "⚙ - Sierżant",
         "status": "Srebro 5",
         "skills": ["Dowodzenie", "Intuicja", "Leczenie", "Percepcja"],
         "talents": [
@@ -5017,7 +4945,7 @@
         "equipment": ["Oddział Żołnierzy", "Symbol Rangi"]
       },
       {
-        "subclassname": "Oficer",
+        "subclassname": "⛊ - Oficer",
         "status": "Złoto 1",
         "skills": ["Nawigacja", "Wiedza (Sztuka Wojenna)"],
         "talents": ["Inspirujący", "Mówca", "Obieżyświat", "Waleczne Serce"],
@@ -5039,7 +4967,7 @@
     "cechy": ["☩", " ", "⚙", " ", "☩", "☩", " ", "⚒", "⛊", " "],
     "subclasses": [
       {
-        "subclassname": "Pierwszy Orzeł",
+        "subclassname": "☩ - Pierwszy Orzeł",
         "status": "Srebro 2",
         "skills": [
           "Opanowanie",
@@ -5068,7 +4996,7 @@
         ]
       },
       {
-        "subclassname": "Kapłan Wojenny",
+        "subclassname": "⚒ - Kapłan Wojenny",
         "status": "Srebro 3",
         "skills": [
           "Charyzma",
@@ -5087,7 +5015,7 @@
         "equipment": ["Napierśnik i Hełm", "Tarcza"]
       },
       {
-        "subclassname": "Kapłan Sierżant",
+        "subclassname": "⚙ - Kapłan Sierżant",
         "status": "Srebro 4",
         "skills": ["Broń Biała (Dowolna)", "Badania Naukowe"],
         "talents": [
@@ -5099,7 +5027,7 @@
         "equipment": ["Zbroja Płytowa"]
       },
       {
-        "subclassname": "Kapłan Kapitan",
+        "subclassname": "⛊ - Kapłan Kapitan",
         "status": "Srebro 5",
         "skills": ["Opieka nad Zwierzętami", "Jeździectwo (Konie)"],
         "talents": [

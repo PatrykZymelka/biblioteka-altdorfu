@@ -45,21 +45,6 @@
     "description": "Ta Umiejętność określa twoją zdolność do przewodzenia innym oraz wzbudzania w nich szacunku. Choć zwykle ujawnia się ona na polu bitwy, to urodzony przywódca potrafi błyskawicznie reagować na zagrożenia takie jak pożar, a szlachcic sprawnie wyda polecenia służbie. Udany Test Dowodzenia pozwala ci kierować grupą innych istot w liczbie równej twojemu Bonusowi z Ogłady + uzyskanym PS. Jeśli polecenia kierujesz do tych, którzy są ci podlegli – jak arystokrata do służby czy sierżant do podkomendnych – jest to Test Zwykły. Jeżeli nie istnieje hierarchia przywództwa lub polecenie jest wyjątkowo niebezpieczne, na przykład zwykli piechurzy mają zaatakować hydrę, należy wykonać Test Przeciwstawny, zwykle przeciw Opanowaniu. W walce Test Dowodzenia może zachęcić podwładnych do bardziej zaciekłej walki. Powodzenie w nim daje premię +10 do wszelkich Testów Psychologii aż do końca następnej Rundy. Co więcej, dzięki tej Umiejętności możesz przenosić Przewagę na sprzymierzeńców, którzy są w stanie cię usłyszeć. Po udanym Teście Dowodzenia jesteś w stanie przenieść Przewagę na wybranego towarzysza, a za każdy PS możesz dodać +1 Przewagę ze swojej puli dowolnemu sprzymierzeńcowi, który jest w stanie cię usłyszeć."
   },
   {
-    "skill_name": "Hazard (Int)",
-    "typ": "Podstawowa",
-    "description": "Ta Umiejętność pozwala ci określić, jak opłacalny jest zakład i czy warto próbować szczęścia w grach na pieniądze. Podczas rozgrywki wszyscy jej uczestnicy wykonują Test Hazardu, korzystając ze wszystkich przysługujących im modyfikatorów. Wygrywa ten, kto uzyska najwięcej PS. Jeśli dojdzie do remisu, z gry odpadają te postaci, które uzyskały niższe wyniki, a remisujący muszą wykonać kolejny Test Hazardu i powtarzać go, aż zostanie wyłoniony jeden zwycięzca. Bardziej nieuczciwy wpływ na grę można mieć, wykorzystując Umiejętność Zwinne Palce."
-  },
-  {
-    "skill_name": "Intuicja (I)",
-    "typ": "Podstawowa",
-    "description": "Intuicja pozwala ci orientować się w otoczeniu tak, byś mógł ustalić, czy wszystko jest w porządku. Umożliwia także wyczuwanie, czy inne osoby są wobec ciebie szczere, a udany Test da ci podpowiedź dotyczącą tego, co tak naprawdę dzieje się wokoło. MG określa, co to za informacja, na przykład czy dana osoba wierzy w to, co mówi, jakie panuje nastawienie wobec miejscowego szlachcica, czy pomoc oferowana jest szczerze. Jeśli ktoś rzeczywiście działa w złej wierze, może przeciwstawić się twojej Intuicji Testem Opanowania lub Występów (Aktorstwo). W walce udany Test Intuicji może dać +1 Przewagę, kiedy uważnie będziesz obserwował otoczenie i przeciwników. Możesz ją gromadzić, jeśli masz jak obserwować wrogów i nikt ci nie przeszkadza (na przykład atakując cię). W ten sposób możesz zgromadzić Przewagę w maksymalnej wysokości równej twojemu Bonusowi z Inteligencji."
-  },
-  {
-    "skill_name": "Jeździectwo (Zw)",
-    "typ": "Podstawowa",
-    "description": "Ta Umiejętność określa twoją zdolność do przewodzenia innym oraz wzbudzania w nich szacunku. Choć zwykle ujawnia się ona na polu bitwy, to urodzony przywódca potrafi błyskawicznie reagować na zagrożenia takie jak pożar, a szlachcic sprawnie wyda polecenia służbie. Udany Test Dowodzenia pozwala ci kierować grupą innych istot w liczbie równej twojemu Bonusowi z Ogłady + uzyskanym PS. Jeśli polecenia kierujesz do tych, którzy są ci podlegli – jak arystokrata do służby czy sierżant do podkomendnych – jest to Test Zwykły. Jeżeli nie istnieje hierarchia przywództwa lub polecenie jest wyjątkowo niebezpieczne, na przykład zwykli piechurzy mają zaatakować hydrę, należy wykonać Test Przeciwstawny, zwykle przeciw Opanowaniu. W walce Test Dowodzenia może zachęcić podwładnych do bardziej zaciekłej walki. Powodzenie w nim daje premię +10 do wszelkich Testów Psychologii aż do końca następnej Rundy. Co więcej, dzięki tej Umiejętności możesz przenosić Przewagę na sprzymierzeńców, którzy są w stanie cię usłyszeć. Po udanym Teście Dowodzenia jesteś w stanie przenieść Przewagę na wybranego towarzysza, a za każdy PS możesz dodać +1 Przewagę ze swojej puli dowolnemu sprzymierzeńcowi, który jest w stanie cię usłyszeć."
-  },
-  {
     "skill_name": "Kuglarstwo (Zw)",
     "typ": "Zaawansowana",
     "description": "Opanowałeś którąś z dziedzin sztuki, być może występując na ulicach, by zarobić na życie, lub podróżując z wędrowną trupą. Udany Test Umiejętności pozwala ci zabawiać widzów znajdujących się dość blisko, by cię widzieć lub słyszeć, a PS pokazują, jak dobrze się spisałeś. W walce Kuglarstwo może dać pewną przewagę, zwłaszcza jeśli używasz go w połączeniu z uzyskaną przez innych postaci Przewagą lub przez Ciebie samą w walce wręcz lub umiejętnościami związanymi z magią, jak np. Zjawianie."
@@ -85,11 +70,6 @@
     "description": "Opanowanie opisuje umiejętność cierpliwego działania w obliczu niebezpieczeństwa, strach przed nieznajomym oraz stres. Po sukcesie w teście tej Umiejętności postać nie ucieka ani nie traci jasności umysłu, a wydaje się, że ma sytuację pod kontrolą. Testy Opanowania są przeciwstawne: przeciwnik testuje na swoje PS przeciw twoim PS, a ten, kto uzyska więcej punktów zwycięża. Długość fobii czy strachu zależy od testu przeciwnika, a PS opisują nasilenie zaburzenia. Wszystkie postaci zaczynają grę z 0 PS tej Umiejętności, ale każdy krasnolud z żywiołem Ognia dostaje 3 punkty. Z testami Opanowania wiążą się testy Umiejętności lub zdolności, na przykład Bieganie."
   },
   {
-    "skill_name": "Skradanie się (Zw)",
-    "typ": "Podstawowa",
-    "description": "Skradanie się jest trudne, ale jest to jedyny sposób, żeby dostać się niezauważonym blisko przeciwnika. Bez względu na sytuację albo na nieprzyjaciela, którego chcesz oszukać. Zawsze przy podjęciu tej akcji można zadać dwa pytania: „Gdzie jestem?” i „Co widzę?”. Nieudany Test Skradania się oznacza, że przeciwnik wykrył cię, ujawniając przy okazji to, że w ogóle jest. Wynik testu decyduje o tym, jak trudno się o ciebie potykać, w sensie wrażliwości. PS na wyniku Testu zawsze oznaczają najpierw jakie jest Twoje PS podczas próby, a następnie jakie jest skumulowane PS z trzech testów: Bliskości, Odgłosów i Ruchu."
-  },
-  {
     "skill_name": "Żegluga (Zw)",
     "typ": "Zaawansowana",
     "description": "Czy twoi bohaterowie uprawiają wodniactwo? Żegluga to coś na kształt Nieumiejętności dla Piratów i tylko ona pozwala na stosowanie Przewagi. Jeśli Test na Żeglugę się powiedzie, wtedy pozostaje uważać na najbliższą plażę – wylądowanie może się nie udać. Żegluga uprawiana na sześciu paskach na Mieście lub w innej odpowiedniej lokalizacji pozwala na wykonanie zawsze Testu Odległości, do przodu, w górę czy na boki. Żegluga wskazuje, jak dobrze opanowujesz sztukę pływania na różnych akwenach, prowadzenia statku, nawigowania, unikania groźnych prądów morskich, pływania w górę lub w dół strumieni, wspinania się na skały i łażenia po nich czy korzystania z powierzchni wodnych jako przewoźnika, by uniknąć przeszkód."
@@ -98,11 +78,6 @@
     "skill_name": "Sztuka Przebierania się (Zw)",
     "typ": "Podstawowa",
     "description": "Opanowanie Sztuki Przebierania się pozwala na przebranie się za jakąkolwiek inną istotę, nawet niesamowitą jak smok. Zakłada się, że przez kilka dni jesteś nie do rozpoznania przez wszystkie rozpoznawcze umiejętności, w jakie wyposażone są normalne, ludzkie istoty. Test Przebierania się (sama Sztuka nie pozwala na skomponowanie ubrania) pozwala przekształcić się tylko w inne istoty twojej grupy. Z uzyskanymi PS postać może ukryć lub wyeksponować różne cechy swojej postaci (takie jak wąsy)."
-  },
-  {
-    "skill_name": "Wiedza (Int)",
-    "typ": "Zaawansowana",
-    "description": "Zdobywasz Wiedzę, koncentrując się na jednym obszarze, jak np. nauka, literatura, sztuka, religia, historia itp. Jeżeli zdecydujesz się na tę Umiejętność, określ, na jakim obszarze koncentrujesz się. Twój Bohater nie ma dostępu do żadnej z informacji przydatnych w naukach innych niż te, na których się zna. Przewagi z Wiedzy nie pozwalają na nieograniczony dostęp do wiedzy ogólnej, i wynik Testu z Wiedzy musi być zawsze akceptowany przez MG. Umiejętność ta dostarcza wiedzy na temat fachowego słownictwa oraz sztuki nazywania, skupiania się na problemie, myślenia i czytania, wszystkiego, co umożliwia umysłowi komunikowanie się z podobnymi umysłami. Po udanym Teście Wiedzy jesteś w stanie stwierdzić, czy uda ci się na przykład odkryć jakieś informacje, które pomogą ci w rozwiązaniu zagadki i odkryciu, co tak naprawdę się stało."
   },
   {
     "skill_name": "Wspinaczka (Zw)",
@@ -133,21 +108,6 @@
     "skill_name": "Muzyka (Zr)",
     "typ": "Zaawansowana",
     "description": "Ta Umiejętność wyraża, jak dobrze potrafisz grać na instrumencie muzycznym i zabawiać publiczność. Udany Test pozwala ci grać dla tych, którzy są dość blisko, by cię widzieć i słyszeć, a PS pokazują, jak dobrze wykonałeś utwór. Specjalizacje: Dudy, Harfa, Lutnia, Obój, Skrzypce"
-  },
-  {
-    "skill_name": "Nawigacja (I)",
-    "typ": "Podstawowa",
-    "description": "Dzięki tej Umiejętności potrafisz odnaleźć się w dziczy, podróżować orientując się według charakterystycznych punktów terenowych, gwiazd lub korzystać z map. Rzut na tę Umiejętność jest wymagany wtedy, gdy bohater jest zdezorientowany lub gdy podróżuje z dala od utartych szlaków i znanych mu okolic. Powodzenie Testu oznacza, że obiera dobry kierunek lub unika jakiegoś nieszczęścia."
-  },
-  {
-    "skill_name": "Odporność (Wt)",
-    "typ": "Podstawowa",
-    "description": "Odporność pozwala oprzeć się trudnościom fizycznym, wytrzymać głód i pragnienie, siedzieć bez ruchu przez kilka godzin albo nie zważać na pogodę. Test Odporności jest wykonywany, by oprzeć się różnym Stanom czy uwolnić się spod ich wpływu lub gdy postać odzyskuje utraconą Żywotność."
-  },
-  {
-    "skill_name": "Opanowanie (SW),",
-    "typ": "Podstawowa",
-    "description": "Opanowanie pozwala zachować spokój w nerwowej sytuacji, oprzeć się strachowi w obliczu czegoś potwornego i obstawać przy swoim. Opanowanie jest głównie wykorzystywane w Testach Przeciwdziałania przeciw Charyzmie, Zastraszaniu i im podobnych. Możesz zostać zmuszony do wykonania Testu Opanowania, gdy twoja postać ma zrobić coś, czego normalnie by się nie dopuściła. Opanowanie jest Umiejętnością wykorzystywaną do ograniczenia efektów Psychologii."
   },
   {
     "skill_name": "Opieka nad Zwierzętami (Int)",
