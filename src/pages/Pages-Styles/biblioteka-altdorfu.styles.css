@@ -1,58 +1,138 @@
 .Strona{
-    height: 100vh;
     text-align: center;
     font-size:30px;
     background-color:var(--background);
     padding-top:5vh;
-    font-family:'Uncial+Antiqua'
+    margin-left:5vw;
+    margin-right:5vw;  
 }
 
+.t{
+  
+  color:var(--text);
+  margin:0;
+}
 .Title{
   margin-top:0;
   max-width:1000px;
   max-height:600px;
 }
+.M{
+  margin-top:20vh;
+  padding-top:20vh;
+  border-style:solid;
+  border-color:var(--primary);
+  border-width:5px;
+  border-left:0;
+  border-right:0;
+  border-bottom:0;
+  color:var(--text);
 
+}
+.sideT{
+  font-size:40px;
+  
+}
+.sideTop{
+  font-size:80px;
+  margin-bottom:0;
+  font-weight: bolder;
+  color:var(--primary);
+  
+}
 @media only screen and (min-width: 600px) {
   .Title{
 
     width:70vw;
     
   }
+  .t{
+    font-size:1.2em;
+  }
+  .M{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+  .Koło{
+    width:40vw;
+  }
+  .sideT{
+    font-size:1em;
+    
+  }
+  
 }
 @media only screen and (max-width: 600px) {
   .Title{
     width:90vw;
 
   }
+  .t{
+    font-size:0.7em;
+  }
+  .Magia{
+    height:90%
+  }
+  .Koło {
+    max-width: 70vw;
+  }
+  .sideT{
+  font-size:0.7em;
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/* .Koło {
+.Koło {
   align-items: center;
   animation: rotate 40s infinite linear;
   z-index: 3;
 
 }
 
-.Magia {
-  animation: color 40s infinite;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  background-color: rgb(171, 164, 66);
-  height: 110vh;
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: var(--primary);
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  margin-bottom:10vh;
 }
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.button:active{
+  opacity:0.9;
+  transition:0.1s;
+}
+
 @keyframes rotate {
   0% {
     scale:1;
@@ -133,6 +213,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+/* 
+
+.Magia {
+  animation: color 40s infinite;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(171, 164, 66);
+  height: 110vh;
+}
+
 @keyframes color {
   0% {
     background-image: rgb(171, 164, 66);
@@ -230,16 +326,5 @@
     background-position: 100% 0;
   }
 }
-@media only screen and (min-width: 600px) {
-  .Koło {
-    max-width: 100vw;
-  }
-}
-@media only screen and (max-width: 600px) {
-  .Magia{
-    height:90%
-  }
-  .Koło {
-    max-width: 70vw;
-  }
+
 } */
