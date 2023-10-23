@@ -6,6 +6,7 @@
   overflow: hidden;
   font-family: "Mooli", sans-serif;
   -webkit-tap-highlight-color: transparent;
+  white-space: pre-wrap;
 }
 
 .Bot {
