@@ -58,7 +58,7 @@ const Profesje = () => {
         <h1> S</h1>
       </div>
       <div className="Center">
-        <div className="searchBoxBackgroundR">
+        <div className="searchBoxBackgroundP">
           <div>
             <DropdownPR
               selected={selected}
@@ -77,7 +77,9 @@ const Profesje = () => {
 
         <div className="Container">
           {NameFilter.map((item) => {
-            return <ItemlistPR className="Item" Mlist={item} key={classes.path}/>;
+            return (
+              <ItemlistPR className="Item" Mlist={item} key={classes.path} />
+            );
           })}
         </div>
       </div>

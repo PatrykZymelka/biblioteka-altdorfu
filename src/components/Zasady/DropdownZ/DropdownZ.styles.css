@@ -9,11 +9,11 @@
   transition: 0.2s;
   width: 20vw;
 }
-.dropdown:active {
+.dropdownZ:active {
   scale: 0.99;
 }
 
-.d-button {
+.d-buttonZ {
   padding: 10px;
   justify-content: space-between;
   color: var(--text);
@@ -23,10 +23,10 @@
   border-style: solid;
   border-color: var(--accent);
 }
-.d-button:active {
+.d-buttonZ:active {
   background-color: var(--secondary);
 }
-.d-button:hover {
+.d-buttonZ:hover {
   border-color: var(--text);
   scale: 1.02;
 }
@@ -57,10 +57,8 @@
     font-size: 1.2vw;
     width: 20vw;
   }
-  .d-button {
+  .d-buttonZ {
     font-size: 1.2vw;
-  }
-  .dropdownZ {
   }
 }
 @media only screen and (max-width: 600px) {
@@ -68,7 +66,7 @@
     font-size: 3vw;
     width: 40vw;
   }
-  .d-button {
+  .d-buttonZ {
     font-size: 3vw;
   }
   .dropdownZ {

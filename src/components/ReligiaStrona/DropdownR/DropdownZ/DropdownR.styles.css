@@ -1,4 +1,4 @@
-.dropdownZ {
+.dropdownR {
   height: auto;
   line-height: auto;
   position: relative;
@@ -53,25 +53,18 @@
   color: #4d4949;
 }
 @media only screen and (min-width: 600px) {
-  .d-contentZ {
+  .d-content {
     font-size: 1.2vw;
-    width: 20vw;
   }
   .d-button {
     font-size: 1.2vw;
-  }
-  .dropdownZ {
   }
 }
 @media only screen and (max-width: 600px) {
-  .d-contentZ {
+  .d-content {
     font-size: 3vw;
-    width: 40vw;
   }
   .d-button {
     font-size: 3vw;
-  }
-  .dropdownZ {
-    width: 40vw;
   }
 }

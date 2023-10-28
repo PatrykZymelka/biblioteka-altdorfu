@@ -74,7 +74,6 @@
   .Item-List-Cont-TopR {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     /* grid-template-columns: 0.5fr 2fr 1.5fr 2fr;
     grid-template-rows: 1fr 1fr; */
     column-gap: 2vw;

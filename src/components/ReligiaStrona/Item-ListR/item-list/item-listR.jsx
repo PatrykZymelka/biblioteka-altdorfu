@@ -8,7 +8,12 @@ const ItemList = (props) => {
     if (rodzaj === "Cud") {
       return typ;
     } else {
-      return "Wiele";
+      var l = typ.length - 1;
+      var Result = "";
+      for (let i = 1; i <= l; i++) {
+        Result = Result + typ[i] + " ";
+      }
+      return Result;
     }
   }
   return (

@@ -9,7 +9,7 @@ function DropdownIt({ selected, setSelected }) {
     "Morr",
     "Myrmidia",
     "Ranald",
-    "Rhyia",
+    "Rhya",
     "Shallya",
     "Sigmar",
     "Taal",
@@ -17,13 +17,13 @@ function DropdownIt({ selected, setSelected }) {
     "Verena",
   ];
   return (
-    <div className="dropdownZ">
+    <div className="dropdown">
       <div className="d-button" onClick={(e) => setIsActive(!isActive)}>
         Bóg: {selected}
         <span />
       </div>
       {isActive && (
-        <div className="d-contentZ">
+        <div className="d-content">
           {options.map((option) => (
             <div
               onClick={(e) => {

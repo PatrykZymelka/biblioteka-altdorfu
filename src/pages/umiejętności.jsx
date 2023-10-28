@@ -1,9 +1,9 @@
 import skills from "../Json/skills.json";
 import { useState } from "react";
 import { useEffect } from "react";
-import SearchBoxS from "../components/SkillsStrona/search-boxS/search-box.component"
-import ItemListS from "../components/SkillsStrona/item-listS/item-listS"
-import DropdownS from "../components/SkillsStrona/dropdownS/dropdownS"
+import SearchBoxS from "../components/SkillsStrona/search-boxS/search-box.component";
+import ItemListS from "../components/SkillsStrona/item-listS/item-listS";
+import DropdownS from "../components/SkillsStrona/dropdownS/dropdownS";
 
 const Umiejętności = () => {
   const [searchField, setSearchField] = useState("");
@@ -13,7 +13,9 @@ const Umiejętności = () => {
   const [selectedSkill, setSelectedSkill] = useState([]);
 
   useEffect(() => {
-    const result = skills.sort((a, b) => a.skill_name.localeCompare(b.skill_name));
+    const result = skills.sort((a, b) =>
+      a.skill_name.localeCompare(b.skill_name)
+    );
     setSkill(result);
   }, []);
 
@@ -31,12 +33,18 @@ const Umiejętności = () => {
     const sortedItems = filteredItems.sort((a, b) => {
       const aLower = a.skill_name.toLowerCase();
       const bLower = b.skill_name.toLowerCase();
-      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-  
-      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+
+      return (
+        aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower)
+      );
     });
-  
+
     setNameFilter(sortedItems);
   }, [Skill, searchField, selectedSkill]);
 
@@ -50,7 +58,7 @@ const Umiejętności = () => {
         <h1> S</h1>
       </div>
       <div className="Center">
-        <div className="searchBoxBackgroundR">
+        <div className="searchBoxBackgroundP">
           <div>
             <DropdownS
               selected={selected}
@@ -78,5 +86,5 @@ const Umiejętności = () => {
       </div>
     </div>
   );
-} 
+};
 export default Umiejętności;

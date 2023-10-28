@@ -56,7 +56,7 @@ const Zasady = () => {
         <h1> S</h1>
       </div>
       <div className="Center">
-        <div className="searchBoxBackgroundR">
+        <div className="searchBoxBackgroundP">
           <div>
             <DropdownZ
               selected={selected}

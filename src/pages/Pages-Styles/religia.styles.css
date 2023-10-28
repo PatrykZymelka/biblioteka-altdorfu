@@ -46,7 +46,7 @@
   .Container {
     row-gap: 20px;
   }
-  .searchBoxBackground {
+  .searchBoxBackgroundR {
     display: flex;
     align-items: center;
     justify-content: space-around;

@@ -13,7 +13,7 @@ function DropdownIt({ selected, setSelected }) {
   ];
   return (
     <div className="dropdownZ">
-      <div className="d-button" onClick={(e) => setIsActive(!isActive)}>
+      <div className="d-buttonZ" onClick={(e) => setIsActive(!isActive)}>
         Kategoria: {selected}
         <span />
       </div>
