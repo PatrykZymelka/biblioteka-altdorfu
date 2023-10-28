@@ -1,20 +1,13 @@
 import { useState } from "react";
-import "./DropdownZ.styles.css";
+import "./DropdownR2.styles.css";
 
 function DropdownIt({ selected, setSelected }) {
   const [isActive, setIsActive] = useState(false);
-  const options = [
-    "",
-    "Walka",
-    "Ruch",
-    "Stan",
-    "Rany",
-    "Przeznaczenie i Bohater",
-  ];
+  const options = ["", "Cud", "Błogosławieństwo"];
   return (
     <div className="dropdownZ">
       <div className="d-button" onClick={(e) => setIsActive(!isActive)}>
-        Kategoria: {selected}
+        Typ: {selected}
         <span />
       </div>
       {isActive && (

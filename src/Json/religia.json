@@ -1,0 +1,212 @@
+[
+  {
+    "id": "bg1",
+    "nazwa": "Chodzenie po wodzie",
+    "zasięg": "Rzucający",
+    "cel": "Rzucający",
+    "czas": "Liczba minut równa Bonusowi z Ogłady",
+    "opis": "Prosisz Mananna, by pozwolił ci przejść po otwartych wodach, tak jakby był to ubity grunt. Działa to jedynie w przypadku większych zbiorników wodnych o średnicy co najmniej 10 metrów. Wszystkie inne są zbyt małe, by należeć do domeny Mananna, i nie są przez niego zauważane.",
+    "typ": "Manan",
+    "rodzaj": "Cud"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Chód marynarza",
+    "zasięg": "Liczba metrów równa wartości Ogłady",
+    "cel": "1",
+    "czas": "Liczba Rund równa Bonusowi z Ogłady",
+    "opis": "Cele natychmiast zostają zanurzone w słonej wodzie, zataczając się, jakby stały na rozchybotanym pokładzie statku w trakcie sztormu. Ich włosy targa widmowy wiatr, a rozbryzgi wody biją w ich skórę. Uzyskują po 1 poziomie Stanów Oszołomienie, Oślepienie i Wyczerpanie, a ponadto muszą wykonać pomyślnie Przeciętny (+20) Test Zwinności, by w ogóle móc się przemieszczać i korzystać z Ruchu. Jeśli im się nie powiedzie, otrzymują Stan Powalenie.",
+    "typ": "Manan",
+    "rodzaj": "Cud"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Bitwy",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Walki Wręcz.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg3",
+    "nazwa": "Błogosławieństwo Charyzmy",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Ogłady",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Dzikości",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Gdy twój cel zada Ranę Krytyczną, rzuć dwa razy i wybierz lepszy rezultat.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Finezji",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Zręczności.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Łowów",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Umiejętności Strzeleckich.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Mądrości",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Inteligencji.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Nieustępliwości",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel może usunąć 1 Stan.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Ochrony",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Przeciwnicy muszą wykonać Przecietny (+20) Test Siły Woli, by zaatakować obrany przez siebie cel, ponieważ zaczyna kąsać ich poczucie wstydu, iż w ogóle zaczęli myśleć o użyciu przemocy. Jeśli Test sięnie powiedzie, albo muszą wybrać inny cel ataku, albo inną Akcję",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Oddechu",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel nie musi oddychać i ignoruje wszelkie konsekwencje duszenia się",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Odwagi",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Siły Woli.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Prawości",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Broń celu uznawana jest za Magiczną.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Siły",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Siły.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Sprytu",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Inicjatywy.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Sumienia",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel musi wykonać Przeciętny (+20) Test Siły Woli, aby wykonać Akcję, która naruszałaby jedno z przykazań twojego bóstwa. Jeśli Test się nie uda, cel ogarnia wstyd i nie podejmuje żadnej Akcji.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Szczęścia",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Następny nieudany Test twojego celu może zostać powtórzony. Wiążący jest nowy wynik Testu.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Uzdrawiania",
+    "zasięg": "Dotyk",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "1 Rana celu zostaje natychmiast uleczona",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Wdzięku",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel otrzymuje +10 do Zwinności",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Wytrzymałości",
+    "zasięg": "6 metrów",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Cel uzyskuje premię +10 do Wytrzymałości",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  },
+  {
+    "id": "bg2",
+    "nazwa": "Błogosławieństwo Zdrowia",
+    "zasięg": "Dotyk",
+    "cel": "1",
+    "czas": "6 Rund",
+    "opis": "Twój cel może skrócić czas jednej choroby o 1 dzień. Modlitwa ta może być zmówiona jedynie raz w intencji jednej choroby, na którą choruje dana osoba.",
+    "typ": ["", "Manan", "Myrmidia", "Sigmar", "Taal", "Ulryk"],
+    "rodzaj": "Błogosławieństwo"
+  }
+]

@@ -10,6 +10,7 @@ import Talenty from "./pages/talenty";
 import Skills from "./pages/umiejętności";
 import Zasady from "./pages/zasady";
 import TopScroll from "./TopScroll";
+import Religia from "./pages/religia";
 
 /* 
 import Lore from './pages/lore';
@@ -38,15 +39,16 @@ class App extends Component {
           <PageMenu PagesInfo={PagesInfo} />
         </div>
         <div className="Bot">
-        <TopScroll>
-          <Routes>
-            <Route path="/" element={<BibliotekaAltforfu />} />
-            <Route path="/magia" element={<Magia />} />
-            <Route path="/profesje" element={<Profesje />} />
-            <Route path="/talenty" element={<Talenty />} />
-            <Route path="/umiejętności" element={<Skills />} />
-            <Route path="/zasady" element={<Zasady />} />
-          </Routes>
+          <TopScroll>
+            <Routes>
+              <Route path="/" element={<BibliotekaAltforfu />} />
+              <Route path="/magia" element={<Magia />} />
+              <Route path="/religia" element={<Religia />} />
+              <Route path="/profesje" element={<Profesje />} />
+              <Route path="/talenty" element={<Talenty />} />
+              <Route path="/umiejętności" element={<Skills />} />
+              <Route path="/zasady" element={<Zasady />} />
+            </Routes>
           </TopScroll>
         </div>
       </div>

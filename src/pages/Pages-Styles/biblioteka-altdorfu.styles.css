@@ -1,99 +1,92 @@
-.Strona{
-    text-align: center;
-    font-size:30px;
-    background-color:var(--background);
-    padding-top:5vh;
-    margin-left:5vw;
-    margin-right:5vw;  
+.Strona {
+  text-align: center;
+  font-size: 30px;
+  background-color: var(--background);
+  padding-top: 5vh;
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
 
-.t{
-  
-  color:var(--text);
-  margin:0;
+.t {
+  color: var(--text);
+  margin: 0;
 }
-.Title{
-  margin-top:0;
-  max-width:1000px;
-  max-height:600px;
+.Title {
+  margin-top: 0;
+  max-width: 1000px;
+  max-height: 600px;
 }
-.M{
-  margin-top:20vh;
-  padding-top:20vh;
-  border-style:solid;
-  border-color:var(--primary);
-  border-width:5px;
-  border-left:0;
-  border-right:0;
-  border-bottom:0;
-  color:var(--text);
-
+.M {
+  margin-top: 20vh;
+  padding-top: 20vh;
+  border-style: solid;
+  border-color: var(--primary);
+  border-width: 5px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  color: var(--text);
+  column-gap: 5vw;
 }
-.sideT{
-  font-size:40px;
-  
+.sideT {
+  font-size: 40px;
 }
-.sideTop{
-  font-size:80px;
-  margin-bottom:0;
+.sideTop {
+  font-size: 80px;
+  margin-bottom: 0;
   font-weight: bolder;
-  color:var(--primary);
-  
+  color: var(--primary);
 }
 @media only screen and (min-width: 600px) {
-  .Title{
-
-    width:70vw;
-    
+  .Title {
+    width: 70vw;
   }
-  .t{
-    font-size:1.2em;
+  .t {
+    font-size: 1.2em;
   }
-  .M{
-    display:grid;
+  .M {
+    display: grid;
     grid-template-columns: 1fr 1fr;
-    align-items: center;
+    align-items: start;
   }
-  .Koło{
-    width:40vw;
+  .Koło {
+    width: 40vw;
   }
-  .sideT{
-    font-size:1em;
-    
+  .sideT {
+    font-size: 1em;
   }
-  
 }
 @media only screen and (max-width: 600px) {
-  .Title{
-    width:90vw;
-
+  .Title {
+    width: 90vw;
   }
-  .t{
-    font-size:0.7em;
+  .t {
+    font-size: 0.7em;
   }
-  .Magia{
-    height:90%
+  .Magia {
+    height: 90%;
   }
   .Koło {
     max-width: 70vw;
   }
-  .sideT{
-  font-size:0.7em;
+  .sideT {
+    font-size: 0.7em;
   }
 }
 .Koło {
   align-items: center;
   animation: rotate 40s infinite linear;
   z-index: 3;
-
 }
 
 .button {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
   display: inline-block;
   border-radius: 4px;
   background-color: var(--primary);
   border: none;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   font-size: 28px;
   padding: 20px;
@@ -101,7 +94,8 @@
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
-  margin-bottom:10vh;
+  margin-bottom: 10vh;
+  text-shadow: 2px 2px 4px rgb(0, 0, 0);
 }
 
 .button span {
@@ -112,7 +106,7 @@
 }
 
 .button span:after {
-  content: '\00bb';
+  content: "\00bb";
   position: absolute;
   opacity: 0;
   top: 0;
@@ -128,95 +122,91 @@
   opacity: 1;
   right: 0;
 }
-.button:active{
-  opacity:0.9;
-  transition:0.1s;
+.button:active {
+  opacity: 0.9;
+  transition: 0.1s;
 }
 
 @keyframes rotate {
   0% {
-    scale:1;
+    scale: 1;
     transform: rotate(0deg);
   }
 
   11.5% {
-    scale:1;
+    scale: 1;
   }
-  12%{
-    scale:1.01;
+  12% {
+    scale: 1.01;
   }
   12.5% {
-    scale:1;
+    scale: 1;
   }
   24% {
-    scale:1;
+    scale: 1;
   }
-  24.5%{
-    scale:1.01;
+  24.5% {
+    scale: 1.01;
   }
   25% {
-    scale:1;
+    scale: 1;
   }
   36.5% {
-    scale:1;
+    scale: 1;
   }
-  37%{
-    scale:1.01;
+  37% {
+    scale: 1.01;
   }
   37.5% {
-    scale:1;
+    scale: 1;
   }
   49% {
-    scale:1;
+    scale: 1;
   }
-  49.5%{
-    scale:1.01;
+  49.5% {
+    scale: 1.01;
   }
   50% {
-    scale:1;
+    scale: 1;
   }
   61.5% {
-    scale:1;
+    scale: 1;
   }
-  62%{
-    scale:1.01;
+  62% {
+    scale: 1.01;
   }
   62.5% {
-    scale:1;
+    scale: 1;
   }
   74% {
-    scale:1;
+    scale: 1;
   }
-  74.5%{
-    scale:1.01;
+  74.5% {
+    scale: 1.01;
   }
   75% {
-    scale:1;
+    scale: 1;
   }
   86.5% {
-    scale:1;
+    scale: 1;
   }
-  87%{
-    scale:1.01;
+  87% {
+    scale: 1.01;
   }
   87.5% {
-    scale:1;
+    scale: 1;
   }
   99% {
-    scale:1;
+    scale: 1;
   }
-  99.5%{
-    scale:1.01;
-  } 
+  99.5% {
+    scale: 1.01;
+  }
   100% {
-    scale:1;
+    scale: 1;
     transform: rotate(360deg);
   }
 }
-
-
-
-
 
 /* 
 
