@@ -5,7 +5,6 @@ const ItemList = (props) => {
   const [isActive, setIsActive] = useState(false);
   const { nazwa, id, zasięg, cel, czas, typ, opis, rodzaj } = props.Mlist;
   function typPicker(rodzaj, typ) {
-    let result;
     if (rodzaj === "Cud") {
       return typ;
     } else {

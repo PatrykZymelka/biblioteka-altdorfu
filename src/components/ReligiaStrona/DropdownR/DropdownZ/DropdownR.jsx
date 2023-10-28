@@ -5,12 +5,12 @@ function DropdownIt({ selected, setSelected }) {
   const [isActive, setIsActive] = useState(false);
   const options = [
     "",
-    "Manan",
+    "Manann",
     "Morr",
     "Myrmidia",
     "Ranald",
     "Rhyia",
-    "Shallyia",
+    "Shallya",
     "Sigmar",
     "Taal",
     "Ulryk",
