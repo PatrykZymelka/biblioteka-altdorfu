@@ -1,9 +1,8 @@
 import magia from "../Json/magia.json";
 import ItemList from "../components/MagiaStrona/item-list/item-list";
 import "./Pages-Styles/magia.styles.css";
-import SearchBox from "../components/MagiaStrona/search-box/search-box.component";
-import Dropdown from "../components/MagiaStrona/dropdown/dropdownIt/dropdownIt";
-import DropdownPZ from "../components/MagiaStrona/dropdownPZ/dropdownPZ";
+import SearchBox from "../components/SearchBoxA/SearchBoxA";
+import Dropdown from "../components/DropdownA/DropdownA";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -42,12 +41,18 @@ const Magia = () => {
     const sortedItems = filteredItems.sort((a, b) => {
       const aLower = a.nazwa.toLowerCase();
       const bLower = b.nazwa.toLowerCase();
-      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-  
-      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+
+      return (
+        aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower)
+      );
     });
-  
+
     setNameFilter(sortedItems);
   }, [Magia, searchField, selectedMagia, selectedPZ]);
 
@@ -55,6 +60,34 @@ const Magia = () => {
     const searchFieldString = event.target.value.toLowerCase();
     setSearchField(searchFieldString);
   };
+  const szkoły = [
+    "",
+    "Cieni",
+    "Metalu",
+    "Niebios",
+    "Ognia",
+    "Śmierci",
+    "Światła",
+    "Zwierząt",
+    "Życia",
+  ];
+  const pz = [
+    "",
+    "1 ",
+    "2 ",
+    "3 ",
+    "4 ",
+    "5 ",
+    "6 ",
+    "7 ",
+    "8 ",
+    "9 ",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+  ];
 
   return (
     <div className="Page">
@@ -63,32 +96,30 @@ const Magia = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackground">
-          <div className="cent">
-            <Dropdown
-              selected={selected}
-              className="drop1"
-              setSelected={setSelected}
-            />
-          </div>
-          <div className="cent">
-            <DropdownPZ
-              selectedPZ={selectedPZ}
-              className="drop2"
-              setSelectedPZ={setSelectedPZ}
-            />
-          </div>
-          <div className="cent">
-            <SearchBox
-              onChangeHandler={onSearchChange}
-              className="search-box"
-              placeholder={"Nazwa"}
-            />
-          </div>
+          <SearchBox
+            onChangeHandler={onSearchChange}
+            className="search-box"
+            placeholder={"Nazwa"}
+          />
+          <Dropdown
+            selected={selected}
+            className="drop1"
+            setSelected={setSelected}
+            options={szkoły}
+            title="Tradycje"
+          />
+          <Dropdown
+            selected={selectedPZ}
+            className="drop1"
+            setSelected={setSelectedPZ}
+            options={pz}
+            title="PZ"
+          />
         </div>
 
         <div className="Container">
           {NameFilter.map((item) => {
-            return <ItemList className="Item" Mlist={item} key={magia.id}/>;
+            return <ItemList className="Item" Mlist={item} key={magia.id} />;
           })}
         </div>
       </div>

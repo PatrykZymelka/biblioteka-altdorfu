@@ -1,9 +1,8 @@
 import religia from "../Json/religia.json";
 import ItemList from "../components/ReligiaStrona/Item-ListR/item-list/item-listR";
 import "./Pages-Styles/religia.styles.css";
-import SearchBox from "../components/MagiaStrona/search-box/search-box.component";
-import Dropdown from "../components/ReligiaStrona/DropdownR/DropdownZ/DropdownR";
-import Dropdown2 from "../components/ReligiaStrona/DropdownR2/DropdownZ/DropdownR2";
+import SearchBox from "../components/SearchBoxA/SearchBoxA";
+import Dropdown from "../components/DropdownA/DropdownA";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -60,6 +59,20 @@ const Religia = () => {
     const searchFieldString = event.target.value.toLowerCase();
     setSearchField(searchFieldString);
   };
+  const bogowie = [
+    "",
+    "Manann",
+    "Morr",
+    "Myrmidia",
+    "Ranald",
+    "Rhya",
+    "Shallya",
+    "Sigmar",
+    "Taal",
+    "Ulryk",
+    "Verena",
+  ];
+  const typy = ["", "Cud", "Błogosławieństwo"];
 
   return (
     <div className="Page">
@@ -68,27 +81,25 @@ const Religia = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackgroundR">
-          <div className="cent">
-            <Dropdown
-              selected={selected}
-              className="drop1"
-              setSelected={setSelected}
-            />
-          </div>
-          <div className="cent">
-            <Dropdown2
-              selected={selectedR}
-              className="drop1"
-              setSelected={setSelectedR}
-            />
-          </div>
-          <div className="cent">
-            <SearchBox
-              onChangeHandler={onSearchChange}
-              className="search-box"
-              placeholder={"Nazwa"}
-            />
-          </div>
+          <SearchBox
+            onChangeHandler={onSearchChange}
+            className="search-box"
+            placeholder={"Nazwa"}
+          />
+          <Dropdown
+            selected={selected}
+            className="drop1"
+            setSelected={setSelected}
+            options={bogowie}
+            title="Bóg"
+          />
+          <Dropdown
+            selected={selectedR}
+            className="drop1"
+            setSelected={setSelectedR}
+            options={typy}
+            title="Typ"
+          />
         </div>
 
         <div className="Container">

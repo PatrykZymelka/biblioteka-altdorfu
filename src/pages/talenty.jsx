@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import talents from "../Json/talents.json";
 import "./Pages-Styles/talenty.styles.css";
-import SearchBox from "../components/SkillsStrona/search-boxS/search-box.component"
+import SearchBox from "../components/SearchBoxA/SearchBoxA";
 import ItemList from "../components/TalentyStrona/item-listT/item-listT.jsx";
 
 const Talenty = () => {
@@ -21,12 +21,18 @@ const Talenty = () => {
     const sortedItems = filteredItems.sort((a, b) => {
       const aLower = a.name.toLowerCase();
       const bLower = b.name.toLowerCase();
-      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase()) ? -1 : 0;
-  
-      return aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower);
+      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase())
+        ? -1
+        : 0;
+
+      return (
+        aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower)
+      );
     });
-  
+
     setNameFilter(sortedItems);
   }, [Talent, searchField]);
 
@@ -42,13 +48,11 @@ const Talenty = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackgroundT">
-          <div>
-            <SearchBox
-              onChangeHandler={onSearchChange}
-              className="search-box"
-              placeholder={"Nazwa"}
-            />
-          </div>
+          <SearchBox
+            onChangeHandler={onSearchChange}
+            className="search-box"
+            placeholder={"Nazwa"}
+          />
         </div>
 
         <div className="Container">

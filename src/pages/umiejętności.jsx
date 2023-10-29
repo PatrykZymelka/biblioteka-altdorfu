@@ -1,9 +1,9 @@
 import skills from "../Json/skills.json";
 import { useState } from "react";
 import { useEffect } from "react";
-import SearchBoxS from "../components/SkillsStrona/search-boxS/search-box.component";
+import SearchBox from "../components/SearchBoxA/SearchBoxA";
 import ItemListS from "../components/SkillsStrona/item-listS/item-listS";
-import DropdownS from "../components/SkillsStrona/dropdownS/dropdownS";
+import Dropdown from "../components/DropdownA/DropdownA";
 
 const Umiejętności = () => {
   const [searchField, setSearchField] = useState("");
@@ -52,6 +52,8 @@ const Umiejętności = () => {
     const searchFieldString = event.target.value.toLowerCase();
     setSearchField(searchFieldString);
   };
+  const options = ["", "Podstawowa", "Zaawansowana"];
+
   return (
     <div className="Page">
       <div className="SideBar">
@@ -59,20 +61,18 @@ const Umiejętności = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackgroundP">
-          <div>
-            <DropdownS
-              selected={selected}
-              className="drop1"
-              setSelected={setSelected}
-            />
-          </div>
-          <div>
-            <SearchBoxS
-              onChangeHandler={onSearchChange}
-              className="search-box"
-              placeholder={"Nazwa"}
-            />
-          </div>
+          <SearchBox
+            onChangeHandler={onSearchChange}
+            className="search-box"
+            placeholder={"Nazwa"}
+          />
+          <Dropdown
+            selected={selected}
+            className="drop1"
+            setSelected={setSelected}
+            options={options}
+            title="Rodzaj"
+          />
         </div>
 
         <div className="Container">

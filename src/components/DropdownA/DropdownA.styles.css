@@ -1,4 +1,4 @@
-.dropdownS {
+.dropdown {
   height: auto;
   line-height: auto;
   position: relative;
@@ -7,8 +7,7 @@
   user-select: none;
   z-index: 2;
   transition: 0.2s;
-  width:20vw;
-
+  width: 20vw;
 }
 .dropdown:active {
   scale: 0.99;
@@ -21,30 +20,30 @@
   background-color: var(--secondary);
   cursor: pointer;
   transition: 0.2s;
-  border-style:solid;
-  border-color:var(--accent);
+  border-style: solid;
+  border-color: var(--accent);
 }
 .d-button:active {
   background-color: var(--secondary);
-  
 }
-.d-button:hover{
+.d-button:hover {
   border-color: var(--text);
-  scale:1.02
+  scale: 1.02;
 }
 
-.d-contentS {
+.d-content {
   font-weight: 500;
   color: var(--text);
   background-color: var(--secondary);
   position: absolute;
-  display:flex;
+  display: flex;
   flex-direction: column;
-  flex:auto;
-  height:auto;
+  flex: auto;
+  width: 20vw;
+  max-height: 30vh;
+  overflow: hidden;
+  overflow-y: scroll;
   align-content: center;
-  
-  
 }
 .d-item {
   padding: 10px;
@@ -57,27 +56,22 @@
   color: #4d4949;
 }
 @media only screen and (min-width: 600px) {
-  .d-contentS {
+  .d-content {
     font-size: 1.2vw;
-    width:20VW;
   }
   .d-button {
     font-size: 1.2vw;
-  }
-  .dropdownS {
-    
   }
 }
 @media only screen and (max-width: 600px) {
-  .d-contentS {
+  .d-content {
     font-size: 3vw;
-    width:40vw;
+    width: 40vw;
+  }
+  .dropdown {
+    width: 40vw;
   }
   .d-button {
     font-size: 3vw;
-  }
-  .dropdownS {
-    width:40vw;
-
   }
 }

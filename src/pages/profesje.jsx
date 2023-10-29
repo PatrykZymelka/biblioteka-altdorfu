@@ -2,8 +2,8 @@ import { useState } from "react";
 import { useEffect } from "react";
 import classes from "../Json/classes_mod.json";
 import "./Pages-Styles/profesje.styles.css";
-import DropdownPR from "../components/ProfesjeStrona/dropdownPR/dropdownPR.jsx";
-import SearchBox from "../components/ProfesjeStrona/search-box-PR/search-boxPR";
+import Dropdown from "../components/DropdownA/DropdownA";
+import SearchBox from "../components/SearchBoxA/SearchBoxA";
 import ItemlistPR from "../components/ProfesjeStrona/item-list-PR/item-listR.jsx";
 
 const Profesje = () => {
@@ -51,6 +51,17 @@ const Profesje = () => {
     const searchFieldString = event.target.value.toLowerCase();
     setSearchField(searchFieldString);
   };
+  const options = [
+    "",
+    "Dworzanie",
+    "Mieszczanie",
+    "Uczeni",
+    "Łotrzykowie",
+    "Pospólstwo",
+    "Wędrowcy",
+    "Wodniacy",
+    "Wojownicy",
+  ];
 
   return (
     <div className="Page">
@@ -59,20 +70,18 @@ const Profesje = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackgroundP">
-          <div>
-            <DropdownPR
-              selected={selected}
-              className="drop1"
-              setSelected={setSelected}
-            />
-          </div>
-          <div>
-            <SearchBox
-              onChangeHandler={onSearchChange}
-              className="search-box"
-              placeholder={"Nazwa"}
-            />
-          </div>
+          <SearchBox
+            onChangeHandler={onSearchChange}
+            className="search-box"
+            placeholder={"Nazwa"}
+          />
+          <Dropdown
+            selected={selected}
+            className="drop1"
+            setSelected={setSelected}
+            options={options}
+            title="Klasa"
+          />
         </div>
 
         <div className="Container">

@@ -4,4 +4,21 @@
   align-items: center;
   align-content: center;
   justify-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 600px) {
+  .Container {
+    row-gap: 20px;
+  }
+  .searchBoxBackgroundP {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px;
+    justify-items: center;
+    align-items: start;
+  }
+  .SideBar {
+    max-width: 100vw;
+  }
 }

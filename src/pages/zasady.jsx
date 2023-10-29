@@ -1,9 +1,9 @@
 import rules from "../Json/rules.json";
 import { useState } from "react";
 import { useEffect } from "react";
-import SearchBoxS from "../components/SkillsStrona/search-boxS/search-box.component";
+import SearchBox from "../components/SearchBoxA/SearchBoxA";
 import ItemListZ from "../components/Zasady/ItemZ/ItemZ";
-import DropdownZ from "../components/Zasady/DropdownZ/DropdownZ";
+import Dropdown from "../components/DropdownA/DropdownA";
 
 const Zasady = () => {
   const [searchField, setSearchField] = useState("");
@@ -50,6 +50,14 @@ const Zasady = () => {
     const searchFieldString = event.target.value.toLowerCase();
     setSearchField(searchFieldString);
   };
+  const options = [
+    "",
+    "Walka",
+    "Ruch",
+    "Stan",
+    "Rany",
+    "Przeznaczenie i Bohater",
+  ];
   return (
     <div className="Page">
       <div className="SideBar">
@@ -57,20 +65,18 @@ const Zasady = () => {
       </div>
       <div className="Center">
         <div className="searchBoxBackgroundP">
-          <div>
-            <DropdownZ
-              selected={selected}
-              className="drop1"
-              setSelected={setSelected}
-            />
-          </div>
-          <div>
-            <SearchBoxS
-              onChangeHandler={onSearchChange}
-              className="search-box"
-              placeholder={"Nazwa"}
-            />
-          </div>
+          <SearchBox
+            onChangeHandler={onSearchChange}
+            className="search-box"
+            placeholder={"Nazwa"}
+          />
+          <Dropdown
+            selected={selected}
+            className="drop"
+            setSelected={setSelected}
+            options={options}
+            title="Typ"
+          />
         </div>
 
         <div className="Container">
