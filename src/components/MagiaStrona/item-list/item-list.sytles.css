@@ -11,7 +11,7 @@
 
 .Item-List-Cont-Bottom {
   flex: 1;
-  display: flex;
+  display: grid;
   justify-content: flex-start;
   flex-wrap: wrap;
   border-bottom: 0px;

@@ -3,7 +3,7 @@ import { useState } from "react";
 
 const ItemList = (props) => {
   const [isActive, setIsActive] = useState(false);
-  const { nazwa, id, zasięg, cel, czas, typ, opis, rodzaj } = props.Mlist;
+  const { nazwa, id, zasięg, cel, czas, typ, opis, rodzaj, source } = props.Mlist;
   function typPicker(rodzaj, typ) {
     if (rodzaj === "Cud") {
       return typ;
@@ -44,10 +44,11 @@ const ItemList = (props) => {
 
       {isActive && (
         <div
-          className="Item-List-Cont-Bottom"
+          className="Item-List-Cont-BottomR"
           onClick={(e) => setIsActive(!isActive)}
         >
           <h1 className="MagicText">{opis}</h1>
+          <h1 className="MagicText">Źródło: {source}</h1>
         </div>
       )}
     </div>

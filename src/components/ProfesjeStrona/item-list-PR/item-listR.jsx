@@ -4,7 +4,7 @@ import Cechy from "../Cechy/Cechy";
 
 const ItemList = (props) => {
   const [isActive, setIsActive] = useState(false);
-  const { category, path, subclasses, cechy } = props.Mlist;
+  const { category, path, subclasses, cechy, source } = props.Mlist;
 
   return (
     <div key={path} className="ItemP">
@@ -60,6 +60,7 @@ const ItemList = (props) => {
               </div>
             );
           })}
+          <h1 className="MagicText">Źródło: {source}</h1>
         </div>
       )}
     </div>

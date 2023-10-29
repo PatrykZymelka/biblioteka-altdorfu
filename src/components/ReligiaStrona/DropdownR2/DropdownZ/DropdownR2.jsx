@@ -5,20 +5,20 @@ function DropdownIt({ selected, setSelected }) {
   const [isActive, setIsActive] = useState(false);
   const options = ["", "Cud", "Błogosławieństwo"];
   return (
-    <div className="dropdown">
-      <div className="d-button" onClick={(e) => setIsActive(!isActive)}>
+    <div className="dropdownR">
+      <div className="d-buttonR" onClick={(e) => setIsActive(!isActive)}>
         Typ: {selected}
         <span />
       </div>
       {isActive && (
-        <div className="d-content">
+        <div className="d-contentZ">
           {options.map((option) => (
             <div
               onClick={(e) => {
                 setSelected(option);
                 setIsActive(false);
               }}
-              className="d-item"
+              className="d-itemR"
             >
               {option}
             </div>

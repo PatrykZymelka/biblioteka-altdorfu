@@ -9,11 +9,11 @@
   transition: 0.2s;
   width: 20vw;
 }
-.dropdown:active {
+.dropdownR:active {
   scale: 0.99;
 }
 
-.d-button {
+.d-buttonR {
   padding: 10px;
   justify-content: space-between;
   color: var(--text);
@@ -23,15 +23,15 @@
   border-style: solid;
   border-color: var(--accent);
 }
-.d-button:active {
+.d-buttonR:active {
   background-color: var(--secondary);
 }
-.d-button:hover {
+.d-buttonR:hover {
   border-color: var(--text);
   scale: 1.02;
 }
 
-.d-contentZ {
+.d-contentR {
   font-weight: 500;
   color: var(--text);
   background-color: var(--secondary);
@@ -42,29 +42,29 @@
   height: auto;
   align-content: center;
 }
-.d-item {
+.d-itemR {
   padding: 10px;
   cursor: pointer;
   transition: all 0.2s;
   min-height: 3.5vh;
 }
-.d-item:hover {
+.d-itemR:hover {
   background: rgb(223, 223, 223);
   color: #4d4949;
 }
 @media only screen and (min-width: 600px) {
-  .d-content {
+  .d-contentR {
     font-size: 1.2vw;
   }
-  .d-button {
+  .d-buttonR {
     font-size: 1.2vw;
   }
 }
 @media only screen and (max-width: 600px) {
-  .d-content {
+  .d-contentR {
     font-size: 3vw;
   }
-  .d-button {
+  .d-buttonR {
     font-size: 3vw;
   }
 }

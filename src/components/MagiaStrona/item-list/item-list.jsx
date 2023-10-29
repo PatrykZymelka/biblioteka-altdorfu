@@ -4,7 +4,7 @@ import ImgMag from "../Img-Mag/Img-Mag";
 
 const ItemList = (props) => {
   const [isActive, setIsActive] = useState(false);
-  const { nazwa, id, pz, zasięg, cel, czas, typ, opis} = props.Mlist;
+  const { nazwa, id, pz, zasięg, cel, czas, typ, opis, source} = props.Mlist;
 
   return (
     <div key={id} className="Item">
@@ -40,6 +40,7 @@ const ItemList = (props) => {
         <div className="Item-List-Cont-Bottom"
           onClick={(e) => setIsActive(!isActive)}>
           <h1 className="MagicText">{opis}</h1>
+          <h1 className="MagicText">Źródło: {source}</h1>
         </div>
       )}
     </div>
