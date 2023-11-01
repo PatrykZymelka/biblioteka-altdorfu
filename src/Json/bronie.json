@@ -1,0 +1,246 @@
+[
+    {
+        "id": "bro1",
+        "nazwa": "Siekiera",
+        "cena":"10s",
+        "obciążenie":"1",
+        "dostępność":"Powszechna",
+        "Zasięg":"Średni",
+        "obrażenia":"+SB+4",
+        "cechy":"Niezbalansowana, Rąbiąca",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro2",
+        "nazwa": "Nóż Ballockowy",
+        "cena":"16s",
+        "obciążenie":"0",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Bardzo krótki",
+        "obrażenia":"+SB+1",
+        "cechy":"Przekłuwająca, Przebijająca*, Precyzyjna* [*Tylko kiedy cel posiada Stan Zaskoczenie lub Powalenie]",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro3",
+        "nazwa": "Pałka",
+        "cena":"4s",
+        "obciążenie":"0",
+        "dostępność":"Powszechna",
+        "Zasięg":"Średni",
+        "obrażenia":"+SB+4",
+        "cechy":"Niezbalansowana, Tępa",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro4",
+        "nazwa": "Sztylet",
+        "cena":"16s",
+        "obciążenie":"0",
+        "dostępność":"Powszechna",
+        "Zasięg":"Bardzo krótki",
+        "obrażenia":"+SB+2",
+        "cechy":"-",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro5",
+        "nazwa": "Broń Imporwizowana",
+        "cena":"-",
+        "obciążenie":"Zależy",
+        "dostępność":"-",
+        "Zasięg":"Zależy",
+        "obrażenia":"+SB+1",
+        "cechy":"Tępa, Niezbalansowana",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro6",
+        "nazwa": "Nóż",
+        "cena":"8s",
+        "obciążenie":"0",
+        "dostępność":"Powszechna",
+        "Zasięg":"Bardzo krótki",
+        "obrażenia":"+SB+1",
+        "cechy":"Tępa",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro7",
+        "nazwa": "Buława",
+        "cena":"15s",
+        "obciążenie":"1",
+        "dostępność":"Powszechna",
+        "Zasięg":"Średnia",
+        "obrażenia":"+SB+4",
+        "cechy":"Ogłuszająca, Niezbalansowana",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro8",
+        "nazwa": "Kilof Wojenny",
+        "cena":"15s",
+        "obciążenie":"1",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Średnia",
+        "obrażenia":"+SB+4",
+        "cechy":"Przebijająca, Niezbalansowana",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro9",
+        "nazwa": "Bułat",
+        "cena":"1ZK",
+        "obciążenie":"1",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Krótki",
+        "obrażenia":"+SB+4",
+        "cechy":"Cięcie (1A)",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro10",
+        "nazwa": "Miecz",
+        "cena":"1ZK",
+        "obciążenie":"1",
+        "dostępność":"Powszechna",
+        "Zasięg":"Średni",
+        "obrażenia":"+SB+4",
+        "cechy":"-",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro10",
+        "nazwa": "Młot Bojowy",
+        "cena":"1ZK",
+        "obciążenie":"1",
+        "dostępność":"Rzadka",
+        "Zasięg":"Średni",
+        "obrażenia":"+SB+4",
+        "cechy":"Niezbalansowana, (Ogłuszająca albo Przebijająca)",
+        "typ":"Prosta"
+    },
+    {
+        "id": "bro11",
+        "nazwa": "Tarcza(Puklerz)",
+        "cena":"18s 2p",
+        "obciążenie":"0",
+        "dostępność":"Powszechna",
+        "Zasięg":"Bezpośredni",
+        "obrażenia":"+SB+1",
+        "cechy":"Tarcza 1, Parująca, Tępa",
+        "typ":"Tarcza"
+    },
+    {
+        "id": "bro12",
+        "nazwa": "Tarcza",
+        "cena":"2ZK",
+        "obciążenie":"1",
+        "dostępność":"Powszechna",
+        "Zasięg":"Bardzo krótki",
+        "obrażenia":"+SB+2",
+        "cechy":"Tarcza 2, Parująca, Tępa",
+        "typ":"Tarcza"
+    },
+    {
+        "id": "bro13",
+        "nazwa": "Tarcza(Duża)",
+        "cena":"3ZK",
+        "obciążenie":"3",
+        "dostępność":"Powszechna",
+        "Zasięg":"Bardzo krótki",
+        "obrażenia":"+SB+3",
+        "cechy":"Tarcza 3, Parująca, Tępa",
+        "typ":"Tarcza"
+    },
+    {
+        "id": "bro14",
+        "nazwa": "Pawęż",
+        "cena":"3ZK 15s",
+        "obciążenie":"4",
+        "dostępność":"Rzadka",
+        "Zasięg":"-",
+        "obrażenia":"+SB+2",
+        "cechy":"Tarcza 5",
+        "typ":"Tarcza"
+    },
+    {
+        "id": "bro15",
+        "nazwa": "Młot Kawaleryjski",
+        "cena":"3ZK",
+        "obciążenie":"3",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Długi",
+        "obrażenia":"+SB+5",
+        "cechy":"Ogłuszająca",
+        "typ":"Kawaleryjskia"
+    },
+    {
+        "id": "bro16",
+        "nazwa": "Krótka Lanca",
+        "cena":"1ZK",
+        "obciążenie":"2",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Długi",
+        "obrażenia":"SB+5",
+        "cechy":"Druzgocząca, Nadziewająca",
+        "typ":"Kawaleryjskia"
+    },
+    {
+        "id": "bro17",
+        "nazwa": "Lanca",
+        "cena":"1ZK",
+        "obciążenie":"3",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Bardzo Długi",
+        "obrażenia":"+SB+6",
+        "cechy":"Druzgocząca, Nadziewająca",
+        "typ":"Kawaleryjskia"
+    },
+    {
+        "id": "bro18",
+        "nazwa": "Szabla",
+        "cena":"2ZK",
+        "obciążenie":"1",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Średni",
+        "obrażenia":"SB+4",
+        "cechy":"Cięcie (1A)",
+        "typ":"Kawaleryjskia"
+    },
+    {
+        "id": "bro19",
+        "nazwa": "Floret",
+        "cena":"5ZK",
+        "obciążenie":"1",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Średni",
+        "obrażenia":"+SB+3",
+        "cechy":"Nadziewająca, Szybka, Precyzyjna, Tępa",
+        "typ":"Szermiercza"
+    },
+    {
+        "id": "bro20",
+        "nazwa": "Rapier",
+        "cena":"5ZK",
+        "obciążenie":"1",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Długi",
+        "obrażenia":"+SB+4",
+        "cechy":"Nadziewająca, Szybka",
+        "typ":"Szermiercza"
+    },
+    {
+        "id": "bro21",
+        "nazwa": "Krótki Miecz",
+        "cena":"4ZK",
+        "obciążenie":"1",
+        "dostępność":"Ograniczona",
+        "Zasięg":"Średni",
+        "obrażenia":"+SB+2",
+        "cechy":"Nadziewająca, Szybka, Precyzyjna",
+        "typ":"Szermiercza"
+    },
+    
+
+]
