@@ -11,6 +11,7 @@ import Skills from "./pages/umiejętności";
 import Zasady from "./pages/zasady";
 import TopScroll from "./TopScroll";
 import Religia from "./pages/religia";
+import Bronie from "./pages/bronie";
 
 /* 
 import Lore from './pages/lore';
@@ -45,6 +46,7 @@ class App extends Component {
               <Route path="/magia" element={<Magia />} />
               <Route path="/religia" element={<Religia />} />
               <Route path="/profesje" element={<Profesje />} />
+              <Route path="/bronie" element={<Bronie />} />
               <Route path="/talenty" element={<Talenty />} />
               <Route path="/umiejętności" element={<Skills />} />
               <Route path="/zasady" element={<Zasady />} />
