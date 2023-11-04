@@ -1,0 +1,87 @@
+[
+  {
+    "tytuł": "Tabla Mniejszych Manifestacji",
+    "items": [
+      {
+        "nr": "01-05",
+        "opis": "Kolejna urodzona żywa istota w promieniu 1 mili, rodzi się zmutowana."
+      },
+      {
+        "nr": "06-10",
+        "opis": "Całe mleko w promieniu 1k100 metrów staje się zsiadłe."
+      },
+      {
+        "nr": "11-15",
+        "opis": "W zasięgu tylu mil ile wynosi twój Bonus z Siły Woli, wszystkie uprawy zostają spustoszonę przez zarazę i gniją w ciągu kolejnej nocy."
+      },
+      {
+        "nr": "16-20",
+        "opis": "Twoje uszy blokują się grubym woskiem. Otrzymujesz 1 Stan Ogłuszenia, który może być usunięty jedynie kiedy ktoś wyczyści ci uszy (pozytywnym wynikiem (+20) Testu Leczenia)."
+      },
+      {
+        "nr": "21-25",
+        "opis": "Temperatura wokół ciebie nagle drastycznie spada. Osoby w zasięgu Bonusu z Siły Woli, muszą zdać Wymagający (+0) Test Wytrzymałości lub otrzymać karę -10 do US, Zw i Zr, ze zwględu na nagłą zmianę temperatury. Efekt ten trwa 1 minutę, środek wiru zimna porusza się za twoją postacią. Wszyscy którzy wyjdą z zasięgu manifestacji tracą otrzymane kary."
+      },
+      {
+        "nr": "26-30",
+        "opis": "Wszystkie paski i węzły na tobie się rozwiązują, może to spowodować upadek twoich spodni, wypadnięciu rzeczy z twojej torby lub też stracenie swojej zbroi."
+      },
+      {
+        "nr": "31-35",
+        "opis": "Twoje ubrania wydają się kręcić i miotać z swoją własną wolą. Otrzymujesz 1 Stan Pochwycenia z Siłą (1k10 x 5)."
+      },
+      {
+        "nr": "36-40",
+        "opis": "Cały alkochol w zasięgu 1k100 metrów natychmiastowo się psuje, smakując gorzko i plugawie. Ta manifestacja jest jedną z głównych przyczyn dla których rzucanie zaklęć w tawernach jest wielce nielegalne."
+      },
+      {
+        "nr": "41-45",
+        "opis": "Twój jezyk plącze się na najłatwiejszych słowach. Otrzymujesz karę -10 do wszystkich Testów Języka (Włącznie z Językiem Magiczym), na kolejne 1k10 Rund."
+      },
+      {
+        "nr": "46-50",
+        "opis": "Nagle zapominasz gdzie się znajdujesz. Jeżeli twoja postać jest aktualnie w walce, otzymujesz Stan Zaskoczenie. W innych przypadkach wydajsz się być wielce zakłopotany aktualną sytuacją na kolejne kilka momentów."
+      },
+      {
+        "nr": "51-55",
+        "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
+      },
+      {
+        "nr": "56-60",
+        "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
+      },
+      {
+        "nr": "61-65",
+        "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
+      },
+      {
+        "nr": "66-70",
+        "opis": "Słyszysz nikczeme podszepty złych potęg. Musisz zdać Przeciętny (+20) Test Siły Woli lub otrzymać 1 punkt zepsucia. GM może przydzielić ci 2 odwrócone symbole z Tabeli Sybmoli"
+      },
+      {
+        "nr": "71-75",
+        "opis": "Nagle do twojej głowy napływają zdradzieckie wizje wymiaru Chaosu. GM może przydzielić ci jeden odwrócony symbol z Tabli Symbolów. Musisz zdać Trudy (-20) Test Opanowania lub otrzymać 1 Stan Paniki."
+      },
+      {
+        "nr": "76-80",
+        "opis": "Otrzymujesz 1 punk Zepsucia."
+      },
+      {
+        "nr": "81-85",
+        "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
+      },
+      {
+        "nr": "86-90",
+        "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
+      },
+      {
+        "nr": "91-95",
+        "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
+      },
+      {
+        "nr": "96-100",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      }
+    ]
+  }
+]
