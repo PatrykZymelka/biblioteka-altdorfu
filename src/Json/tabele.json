@@ -1,89 +1,5 @@
 [
-  {
-    "tytuł": "Tabla Większych Manifestacji",
-    "items": [
-      {
-        "nr": "01-05",
-        "opis": "Wszyscy w zasięgu metrów równych twojej Sile Woli, nagle słyszą słodkie szepty z wymiaru Chaosu. Wszystkie świadome istoty w zasięgu muszą zdać Przeciętny (+20) Test Opanowania lub otrzymać 1 Punkt Zepsucia."
-      },
-      {
-        "nr": "06-10",
-        "opis": "Twoje ciało zostaje poddane okrutnemu szokowi termicznemu. Otrzymujesz 1k10 Ran, ignorując bonus z Wytrzymałości i Punky Pancerza. Musisz zdać Przeciętny (+20) Test Wytrzymałości lub otrzymać dodatkowo Stan Oszołomienie."
-      },
-      {
-        "nr": "11-15",
-        "opis": "Twoje kroki zwiastują niechybną śmierć. Przez kolejne 1d10 godzin, jakakolwiek rościna blisko ciebie więdnieje i umiera."
-      },
-      {
-        "nr": "16-20",
-        "opis": "Efekt twojego celu zostaje przeniesiony 1k10 kilmetrów dalej. MG decyduje gdzie oraz jakie są jego konsekwencje."
-      },
-      {
-        "nr": "21-25",
-        "opis": "Zostajesz otoczony świętymi płomieniami twojego wiatru Magii. Otrzymujesz 1 stan Podpalenia."
-      },
-      {
-        "nr": "26-30",
-        "opis": "Zaczynasz niezrozumiale bełkotać na kolejne 1k10 Rund. Podczas tego czasu nie możesz werbalnie z nikim się porozumieć ani wykonywać żadnych testów Magicznych. Oprócz tego możesz zachowywać się normalne."
-      },
-      {
-        "nr": "31-35",
-        "opis": "Zostajesz otoczony przez chmarę szczurów, pająków, węży lub innych pasożytów (MG decyduje). Użyj podstawowych statystyk danych kreatur razem z cechą Swarm. Po 1k10 rundach jeżeli dalej nie zabita, chmara rozbiega się."
-      },
-      {
-        "nr": "36-40",
-        "opis": "Zostajesz wyrzucony 1k10 metrów w losowym kierunku, otrzymując 1k10 Ran ignorując punkty pancerza i otrzymjąc Stan Powalony."
-      },
-      {
-        "nr": "41-45",
-        "opis": "Jedna kończyna staje się całkowicie bezużyteczna na kolejne 1k10 godzin. Traktuj tą kończynę jakby była zamputowana (Patrz Amputacja)."
-      },
-      {
-        "nr": "46-50",
-        "opis": "Tracisz możliwość z korzystania "
-      },
-      {
-        "nr": "51-55",
-        "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
-      },
-      {
-        "nr": "56-60",
-        "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
-      },
-      {
-        "nr": "61-65",
-        "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
-      },
-      {
-        "nr": "66-70",
-        "opis": "Słyszysz nikczeme podszepty złych potęg. Musisz zdać Przeciętny (+20) Test Siły Woli lub otrzymać 1 punkt zepsucia. GM może przydzielić ci 2 odwrócone symbole z Tabeli Sybmoli"
-      },
-      {
-        "nr": "71-75",
-        "opis": "Nagle do twojej głowy napływają zdradzieckie wizje wymiaru Chaosu. GM może przydzielić ci jeden odwrócony symbol z Tabli Symbolów. Musisz zdać Trudy (-20) Test Opanowania lub otrzymać 1 Stan Paniki."
-      },
-      {
-        "nr": "76-80",
-        "opis": "Otrzymujesz 1 punk Zepsucia."
-      },
-      {
-        "nr": "81-85",
-        "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
-      },
-      {
-        "nr": "86-90",
-        "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
-      },
-      {
-        "nr": "91-95",
-        "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
-      },
-      {
-        "nr": "96-100",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
-      }
-    ]
-  },
+  
   {
     "tytuł": "Tabla Mniejszych Manifestacji",
     "items": [
@@ -166,6 +82,91 @@
       {
         "nr": "96-100",
         "opis": "Rzuć na tabeli Większych Manifestacji."
+      }
+    ]
+  },
+  {
+    "tytuł": "Tabla Większych Manifestacji",
+    "items": [
+      {
+        "nr": "01-05",
+        "opis": "Wszyscy w zasięgu metrów równych twojej Sile Woli, nagle słyszą słodkie szepty z wymiaru Chaosu. Wszystkie świadome istoty w zasięgu muszą zdać Przeciętny (+20) Test Opanowania lub otrzymać 1 Punkt Zepsucia."
+      },
+      {
+        "nr": "06-10",
+        "opis": "Twoje ciało zostaje poddane okrutnemu szokowi termicznemu. Otrzymujesz 1k10 Ran, ignorując bonus z Wytrzymałości i Punky Pancerza. Musisz zdać Przeciętny (+20) Test Wytrzymałości lub otrzymać dodatkowo Stan Oszołomienie."
+      },
+      {
+        "nr": "11-15",
+        "opis": "Twoje kroki zwiastują niechybną śmierć. Przez kolejne 1d10 godzin, jakakolwiek rościna blisko ciebie więdnieje i umiera."
+      },
+      {
+        "nr": "16-20",
+        "opis": "Efekt twojego celu zostaje przeniesiony 1k10 kilmetrów dalej. MG decyduje gdzie oraz jakie są jego konsekwencje."
+      },
+      {
+        "nr": "21-25",
+        "opis": "Zostajesz otoczony świętymi płomieniami twojego wiatru Magii. Otrzymujesz 1 stan Podpalenia."
+      },
+      {
+        "nr": "26-30",
+        "opis": "Zaczynasz niezrozumiale bełkotać na kolejne 1k10 Rund. Podczas tego czasu nie możesz werbalnie z nikim się porozumieć ani wykonywać żadnych testów Magicznych. Oprócz tego możesz zachowywać się normalne."
+      },
+      {
+        "nr": "31-35",
+        "opis": "Zostajesz otoczony przez chmarę szczurów, pająków, węży lub innych pasożytów (MG decyduje). Użyj podstawowych statystyk danych kreatur razem z cechą Swarm. Po 1k10 rundach jeżeli dalej nie zabita, chmara rozbiega się."
+      },
+      {
+        "nr": "36-40",
+        "opis": "Zostajesz wyrzucony 1k10 metrów w losowym kierunku, otrzymując 1k10 Ran ignorując punkty pancerza i otrzymjąc Stan Powalony."
+      },
+      {
+        "nr": "41-45",
+        "opis": "Jedna kończyna staje się całkowicie bezużyteczna na kolejne 1k10 godzin. Traktuj tą kończynę jakby była zamputowana (Patrz Amputacja)."
+      },
+      {
+        "nr": "46-50",
+        "opis": "Tracisz możliwość z korzystania z talenu Zmysł Magii na kolejne 1k10 godzin. Testy magiczne otrzymują również karę -20 na czas tego efektu."
+      },
+      {
+        "nr": "51-55",
+        "opis": "Otrzymujesz 1k10 punktów Szczęścia (Mogą one wyjść poza twój normalny limit). Za każdym razem jak użyjesz jeden z tych punktów, otrzymujesz 1 punkt Zepsucia. Punkty pozostałe pod koniec sesji zostają stracone. MG dodatkowo przydziela ci tyle odwróconych symboli ile wynosi twój bonus z Siły Woli."
+      },
+      {
+        "nr": "56-60",
+        "opis": "Wiatry magii porywają twoje ciało ku eterowi, zaczynasz lewitować 1k10 metrów nad ziemią na kolejne 1k10 minut. Inne postaci jak i twoje zaklęcia mogą sprowadzić cię do ziemi, jednak podczas trawania tego efektu twoje ciało będzie starało się wrócić na daną wysokość. Po zakończeniu efektu zobacz zasady dotyczące spadania."
+      },
+      {
+        "nr": "61-65",
+        "opis": "Wyrzucasz z siebie śmierdzące wymiociny, bardziej odrażające niż twoje ciało jest w stanie wyprodukować. Otrzymujesz Stan Oszołomienie na kolejne 1k10 rund."
+      },
+      {
+        "nr": "66-70",
+        "opis": "Ziemia zaczyna trząść się z nienaturalną intensywnością. Wszystkie stworzenia w zasięgu 1k100 metrów od ciebie muszą zdać Przeciętny (+20) Test Atletyki lub otrzymać Stan Powalenie."
+      },
+      {
+        "nr": "71-75",
+        "opis": "Zaklęcie które masz zamiar rzucić nagle ucieka z twojej pamięci. Jeżeli wcześniej zapamiętałeś to zaklęcie, to zostaje ono na trwałe zapomniane. Możesz znowu zapamiętać je z twojego grimuara za standardową wartość XP'a. Jeżeli rzucałeś zaklęcie z grimuara, strona na której zapisane było zaklęcie staje w płomieniach. Zaklęcie jest stracone w pyle popiołu. Jeżeli odpowiednie akcje nie będą wykonane w najbliższym czasie cały grimuar otrzymuje Stan Podpalenie."
+      },
+      {
+        "nr": "76-80",
+        "opis": "Bogowie Chaosu przekonują cię byś wykonał niewybaczalny czyn w ich imieniu. Jeżeli zaatakujesz lub zdradzisz sojusznika, w największym stopniu jakim możesz, otrzymujesz z powrotem wszystkie punky szczęścia. Jeżeli twoja akcja bezpośrednio przyczyni się do wykorzystania przez towarzysza punku przeznaczenia, ty otrzymujesz +1 punk Przeznaczenia."
+      },
+      {
+        "nr": "81-85",
+        "opis": "Wiatry zdradzieckich potęg Chaosu łączą się z twoim ciałem. Otrzymujesz 1 punkt Zepsucia, Stan Powalenie i stan Zmęczenie."
+      },
+      {
+        "nr": "86-90",
+        "opis": "Nurgle łaskawie błogosławi cię ułamkiem swojego prawdziwego aromatu. Zaczynasz okropnie śmierdzieć, otrzymujesz cechę zwierzęcia Dezporientujacy. Najpewniej wszystkie osoby z zmysłem węchy otrzymuja cechę Niechęć(Ty). Zapach znika po 1k10 godzinach."
+      },
+      {
+        "nr": "91-95",
+        "opis": "Cała twoja moc znika z twojego ciała. Nie możesz używać Talentu odpowiedzialnego za rzucanie czarów (Najczęściej Magia Tajemna(Tradycja)) na kolejne 1k10 minut."
+      },
+      {
+        "nr": "96-100",
+        "opis": "Wszyscy w zasięgu metrów równych twojemu bonusowi z Siły Woli - przyjaciele czy też wrogowie - otrzymują 1k10 Ran, ignourjąc bonus z wytrzymałości i punkty pancerza, otrzymjąc jednocześnie stan Powalenie. Jeżeli nie ma żadnych celów w tym zasięgu, zebrana dewastująca magia nie ma ujścia, wiatry magii koncentrują się w twojej głowie eksplodując ją od środka, zabijając cię na miejscu."
       }
     ]
   }
