@@ -1,0 +1,252 @@
+[
+  {
+    "tytuł": "Rany Krytyczne Nóg",
+    "items": [
+      {
+        "nr": "01-10",
+        "nazwa": "",
+        "rany": "-",
+        "opis": "Temperatura wokół ciebie nagle drastycznie spada. Osoby w zasięgu Bonusu z Siły Woli, muszą zdać Wymagający (+0) Test Wytrzymałości lub otrzymać karę -10 do US, Zw i Zr, ze zwględu na nagłą zmianę temperatury. Efekt ten trwa 1 minutę, środek wiru zimna porusza się za twoją postacią. Wszyscy którzy wyjdą z zasięgu manifestacji tracą otrzymane kary."
+      },
+      {
+        "nr": "11-20",
+        "nazwa": "",
+        "rany": "-",
+        "opis": "Wszystkie paski i węzły na tobie się rozwiązują, może to spowodować upadek twoich spodni, wypadnięciu rzeczy z twojej torby lub też stracenie swojej zbroi."
+      },
+      {
+        "nr": "21-25",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Twoje ubrania wydają się kręcić i miotać z swoją własną wolą. Otrzymujesz 1 Stan Pochwycenia z Siłą (1k10 x 5)."
+      },
+      {
+        "nr": "26-40",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Cały alkochol w zasięgu 1k100 metrów natychmiastowo się psuje, smakując gorzko i plugawie. Ta manifestacja jest jedną z głównych przyczyn dla których rzucanie zaklęć w tawernach jest wielce nielegalne."
+      },
+      {
+        "nr": "41-45",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Twój jezyk plącze się na najłatwiejszych słowach. Otrzymujesz karę -10 do wszystkich Testów Języka (Włącznie z Językiem Magiczym), na kolejne 1k10 Rund."
+      },
+      {
+        "nr": "46-50",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Nagle zapominasz gdzie się znajdujesz. Jeżeli twoja postać jest aktualnie w walce, otzymujesz Stan Zaskoczenie. W innych przypadkach wydajsz się być wielce zakłopotany aktualną sytuacją na kolejne kilka momentów."
+      },
+      {
+        "nr": "51-55",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
+      },
+      {
+        "nr": "56-60",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
+      },
+      {
+        "nr": "61-65",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
+      },
+      {
+        "nr": "66-70",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Słyszysz nikczeme podszepty złych potęg. Musisz zdać Przeciętny (+20) Test Siły Woli lub otrzymać 1 punkt zepsucia. GM może przydzielić ci 2 odwrócone symbole z Tabeli Sybmoli"
+      },
+      {
+        "nr": "71-75",
+        "nazwa": "",
+        "rany": "3",
+        "opis": "Nagle do twojej głowy napływają zdradzieckie wizje wymiaru Chaosu. GM może przydzielić ci jeden odwrócony symbol z Tabli Symbolów. Musisz zdać Trudy (-20) Test Opanowania lub otrzymać 1 Stan Paniki."
+      },
+      {
+        "nr": "76-80",
+        "nazwa": "",
+        "rany": "3",
+        "opis": "Otrzymujesz 1 punk Zepsucia."
+      },
+      {
+        "nr": "81-85",
+        "nazwa": "",
+        "rany": "3",
+        "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
+      },
+      {
+        "nr": "86-90",
+        "nazwa": "",
+        "rany": "4",
+        "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
+      },
+      {
+        "nr": "91-95",
+        "nazwa": "",
+        "rany": "4",
+        "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
+      },
+      {
+        "nr": "96-105",
+        "nazwa": "",
+        "rany": "4",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      },
+      {
+        "nr": "106-115",
+        "nazwa": "",
+        "rany": "4",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      },
+      {
+        "nr": "116-120",
+        "nazwa": "",
+        "rany": "5",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      },
+      {
+        "nr": "121-125",
+        "nazwa": "",
+        "rany": "5",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      },
+      {
+        "nr": "126+",
+        "nazwa": "",
+        "rany": "Śmierć",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      }
+    ]
+  },
+  {
+    "tytuł": "Rany Krytyczne Rąk",
+    "items": [
+      {
+        "nr": "01-10",
+        "nazwa": "",
+        "rany": "-",
+        "opis": "Temperatura wokół ciebie nagle drastycznie spada. Osoby w zasięgu Bonusu z Siły Woli, muszą zdać Wymagający (+0) Test Wytrzymałości lub otrzymać karę -10 do US, Zw i Zr, ze zwględu na nagłą zmianę temperatury. Efekt ten trwa 1 minutę, środek wiru zimna porusza się za twoją postacią. Wszyscy którzy wyjdą z zasięgu manifestacji tracą otrzymane kary."
+      },
+      {
+        "nr": "11-20",
+        "nazwa": "",
+        "rany": "-",
+        "opis": "Wszystkie paski i węzły na tobie się rozwiązują, może to spowodować upadek twoich spodni, wypadnięciu rzeczy z twojej torby lub też stracenie swojej zbroi."
+      },
+      {
+        "nr": "21-25",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Twoje ubrania wydają się kręcić i miotać z swoją własną wolą. Otrzymujesz 1 Stan Pochwycenia z Siłą (1k10 x 5)."
+      },
+      {
+        "nr": "26-40",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Cały alkochol w zasięgu 1k100 metrów natychmiastowo się psuje, smakując gorzko i plugawie. Ta manifestacja jest jedną z głównych przyczyn dla których rzucanie zaklęć w tawernach jest wielce nielegalne."
+      },
+      {
+        "nr": "41-45",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Twój jezyk plącze się na najłatwiejszych słowach. Otrzymujesz karę -10 do wszystkich Testów Języka (Włącznie z Językiem Magiczym), na kolejne 1k10 Rund."
+      },
+      {
+        "nr": "46-50",
+        "nazwa": "",
+        "rany": "1",
+        "opis": "Nagle zapominasz gdzie się znajdujesz. Jeżeli twoja postać jest aktualnie w walce, otzymujesz Stan Zaskoczenie. W innych przypadkach wydajsz się być wielce zakłopotany aktualną sytuacją na kolejne kilka momentów."
+      },
+      {
+        "nr": "51-55",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
+      },
+      {
+        "nr": "56-60",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
+      },
+      {
+        "nr": "61-75",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
+      },
+      {
+        "nr": "76-80",
+        "nazwa": "",
+        "rany": "2",
+        "opis": "Otrzymujesz 1 punk Zepsucia."
+      },
+      {
+        "nr": "81-85",
+        "nazwa": "",
+        "rany": "3",
+        "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
+      },
+      {
+        "nr": "86-90",
+        "nazwa": "",
+        "rany": "3",
+        "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
+      },
+      {
+        "nr": "91-95",
+        "nazwa": "",
+        "rany": "3",
+        "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
+      },
+      {
+        "nr": "96-109",
+        "nazwa": "",
+        "rany": "4",
+        "opis": "Rzuć na tabeli Większych Manifestacji."
+      },
+      {
+        "nr": "110-115",
+        "nazwa": "Odcięty palec",
+        "rany": "4",
+        "opis": "Postać z otwartymi ustami patrzy na lecący w powietrzu własny palec – Amputacja (przeciętna). Postać otrzymuje 1 poziom Krwawienia."
+      },
+      {
+        "nr": "116-120",
+        "nazwa": "Zmasakrowana Dłoń",
+        "rany": "4",
+        "opis": "Cios przecina dłoń, a rana zaczyna się rozszerzać. Postać traci 1 palec – Amputacja (problematyczna). Ponadto otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oszołomienia. W każdej następnej Rundzie, jeśli nie otrzyma Pomocy Medycznej, traci kolejny palec, ponieważ rana się rozszerza, a dłoń po prostu rwie się na strzępy. Jeśli skończą się palce, postać traci dłoń – Amputacja (trudna)"
+      },
+      {
+        "nr": "121-125",
+        "nazwa": "Rozszarpany Biceps",
+        "rany": "5",
+        "opis": "ios niemal oddziela biceps i ścięgna od kości, co skutkuje paskudną raną i krwią bryzgającą na wszystkich dookoła. Postać automatycznie upuszcza wszystko, co trzymała w dłoni, i otrzymuje Uraz Zerwanie mięśni (poważne), 2 poziomy Krwawienia oraz 1 poziom Oszołomienia."
+      },
+      {
+        "nr": "126-130",
+        "nazwa": "Zgruchotana dłoń",
+        "rany": "5",
+        "opis": "Dłoń postaci jest zgruchotaną, krwawiącą papką. Postać traci dłoń – Amputacja (trudna) – i otrzymuje 2 poziomy Krwawienia. Musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma Stany Powalenie i Utrata Przytomności."
+      },
+      {
+        "nr": "131-135",
+        "nazwa": "Przecięte Ścięgna",
+        "rany": "5",
+        "opis": "Cios przecina ścięgna, a ramię zwisa bezwładnie – Amputacja (bardzo trudna). Postać otrzymuje Stany: Powalenie, 3 poziomy Krwawienia i 1 poziom Oszołomienia. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności."
+      },
+      {
+        "nr": "136+",
+        "nazwa": "Brutalne Odrąbanie",
+        "rany": "Śmierć",
+        "opis": "Twoje ramię zostaje brutalnie odcięte. Umierasz niemal natychmiastowo z szoku i wykrwanienia."
+      }
+    ]
+  }
+]
