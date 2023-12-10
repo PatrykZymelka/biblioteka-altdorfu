@@ -12,6 +12,7 @@ import Zasady from "./pages/zasady";
 import TopScroll from "./TopScroll";
 import Religia from "./pages/religia";
 import Bronie from "./pages/bronie";
+import Tabele from "./pages/tabele.jsx";
 
 /* 
 import Lore from './pages/lore';
@@ -50,6 +51,7 @@ class App extends Component {
               <Route path="/talenty" element={<Talenty />} />
               <Route path="/umiejętności" element={<Skills />} />
               <Route path="/zasady" element={<Zasady />} />
+              <Route path="/tabele" element={<Tabele />} />
             </Routes>
           </TopScroll>
         </div>

@@ -1,85 +1,110 @@
 [
-  
   {
     "tytuł": "Tabla Mniejszych Manifestacji",
+    "idB": "T1",
     "items": [
       {
+        "id": "mm0",
+        "nr": "Wynik 1k100",
+        "opis": "Opis Mniejszej Manifestacji"
+      },
+      {
+        "id": "mm1",
         "nr": "01-05",
         "opis": "Kolejna urodzona żywa istota w promieniu 1 mili, rodzi się zmutowana."
       },
       {
+        "id": "mm2",
         "nr": "06-10",
         "opis": "Całe mleko w promieniu 1k100 metrów staje się zsiadłe."
       },
       {
+        "id": "mm3",
         "nr": "11-15",
         "opis": "W zasięgu tylu mil ile wynosi twój Bonus z Siły Woli, wszystkie uprawy zostają spustoszonę przez zarazę i gniją w ciągu kolejnej nocy."
       },
       {
+        "id": "mm4",
         "nr": "16-20",
         "opis": "Twoje uszy blokują się grubym woskiem. Otrzymujesz 1 Stan Ogłuszenia, który może być usunięty jedynie kiedy ktoś wyczyści ci uszy (pozytywnym wynikiem (+20) Testu Leczenia)."
       },
       {
+        "id": "mm5",
         "nr": "21-25",
         "opis": "Temperatura wokół ciebie nagle drastycznie spada. Osoby w zasięgu Bonusu z Siły Woli, muszą zdać Wymagający (+0) Test Wytrzymałości lub otrzymać karę -10 do US, Zw i Zr, ze zwględu na nagłą zmianę temperatury. Efekt ten trwa 1 minutę, środek wiru zimna porusza się za twoją postacią. Wszyscy którzy wyjdą z zasięgu manifestacji tracą otrzymane kary."
       },
       {
+        "id": "mm6",
         "nr": "26-30",
         "opis": "Wszystkie paski i węzły na tobie się rozwiązują, może to spowodować upadek twoich spodni, wypadnięciu rzeczy z twojej torby lub też stracenie swojej zbroi."
       },
       {
+        "id": "mm7",
         "nr": "31-35",
         "opis": "Twoje ubrania wydają się kręcić i miotać z swoją własną wolą. Otrzymujesz 1 Stan Pochwycenia z Siłą (1k10 x 5)."
       },
       {
+        "id": "mm8",
         "nr": "36-40",
         "opis": "Cały alkochol w zasięgu 1k100 metrów natychmiastowo się psuje, smakując gorzko i plugawie. Ta manifestacja jest jedną z głównych przyczyn dla których rzucanie zaklęć w tawernach jest wielce nielegalne."
       },
       {
+        "id": "mm9",
         "nr": "41-45",
         "opis": "Twój jezyk plącze się na najłatwiejszych słowach. Otrzymujesz karę -10 do wszystkich Testów Języka (Włącznie z Językiem Magiczym), na kolejne 1k10 Rund."
       },
       {
+        "id": "mm10",
         "nr": "46-50",
         "opis": "Nagle zapominasz gdzie się znajdujesz. Jeżeli twoja postać jest aktualnie w walce, otzymujesz Stan Zaskoczenie. W innych przypadkach wydajsz się być wielce zakłopotany aktualną sytuacją na kolejne kilka momentów."
       },
       {
+        "id": "mm11",
         "nr": "51-55",
         "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
       },
       {
+        "id": "mm12",
         "nr": "56-60",
         "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
       },
       {
+        "id": "mm13",
         "nr": "61-65",
         "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
       },
       {
+        "id": "mm14",
         "nr": "66-70",
         "opis": "Słyszysz nikczeme podszepty złych potęg. Musisz zdać Przeciętny (+20) Test Siły Woli lub otrzymać 1 punkt zepsucia. GM może przydzielić ci 2 odwrócone symbole z Tabeli Sybmoli"
       },
       {
+        "id": "mm15",
         "nr": "71-75",
         "opis": "Nagle do twojej głowy napływają zdradzieckie wizje wymiaru Chaosu. GM może przydzielić ci jeden odwrócony symbol z Tabli Symbolów. Musisz zdać Trudy (-20) Test Opanowania lub otrzymać 1 Stan Paniki."
       },
       {
+        "id": "mm16",
         "nr": "76-80",
         "opis": "Otrzymujesz 1 punk Zepsucia."
       },
       {
+        "id": "mm17",
         "nr": "81-85",
         "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
       },
       {
+        "id": "mm18",
         "nr": "86-90",
         "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
       },
       {
+        "id": "mm19",
         "nr": "91-95",
         "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
       },
       {
+        "id": "mm20",
         "nr": "96-100",
         "opis": "Rzuć na tabeli Większych Manifestacji."
       }
@@ -87,84 +112,110 @@
   },
   {
     "tytuł": "Tabla Większych Manifestacji",
+    "idB": "T2",
     "items": [
       {
+        "id": "mm0",
+        "nr": "Wynik 1k100",
+        "opis": "Opis Większej Manifestacji"
+      },
+      {
+        "id": "wm1",
         "nr": "01-05",
         "opis": "Wszyscy w zasięgu metrów równych twojej Sile Woli, nagle słyszą słodkie szepty z wymiaru Chaosu. Wszystkie świadome istoty w zasięgu muszą zdać Przeciętny (+20) Test Opanowania lub otrzymać 1 Punkt Zepsucia."
       },
       {
+        "id": "wm2",
         "nr": "06-10",
         "opis": "Twoje ciało zostaje poddane okrutnemu szokowi termicznemu. Otrzymujesz 1k10 Ran, ignorując bonus z Wytrzymałości i Punky Pancerza. Musisz zdać Przeciętny (+20) Test Wytrzymałości lub otrzymać dodatkowo Stan Oszołomienie."
       },
       {
+        "id": "wm3",
         "nr": "11-15",
         "opis": "Twoje kroki zwiastują niechybną śmierć. Przez kolejne 1d10 godzin, jakakolwiek rościna blisko ciebie więdnieje i umiera."
       },
       {
+        "id": "wm4",
         "nr": "16-20",
         "opis": "Efekt twojego celu zostaje przeniesiony 1k10 kilmetrów dalej. MG decyduje gdzie oraz jakie są jego konsekwencje."
       },
       {
+        "id": "wm5",
         "nr": "21-25",
         "opis": "Zostajesz otoczony świętymi płomieniami twojego wiatru Magii. Otrzymujesz 1 stan Podpalenia."
       },
       {
+        "id": "wm6",
         "nr": "26-30",
         "opis": "Zaczynasz niezrozumiale bełkotać na kolejne 1k10 Rund. Podczas tego czasu nie możesz werbalnie z nikim się porozumieć ani wykonywać żadnych testów Magicznych. Oprócz tego możesz zachowywać się normalne."
       },
       {
+        "id": "wm7",
         "nr": "31-35",
         "opis": "Zostajesz otoczony przez chmarę szczurów, pająków, węży lub innych pasożytów (MG decyduje). Użyj podstawowych statystyk danych kreatur razem z cechą Swarm. Po 1k10 rundach jeżeli dalej nie zabita, chmara rozbiega się."
       },
       {
+        "id": "wm8",
         "nr": "36-40",
         "opis": "Zostajesz wyrzucony 1k10 metrów w losowym kierunku, otrzymując 1k10 Ran ignorując punkty pancerza i otrzymjąc Stan Powalony."
       },
       {
+        "id": "wm9",
         "nr": "41-45",
         "opis": "Jedna kończyna staje się całkowicie bezużyteczna na kolejne 1k10 godzin. Traktuj tą kończynę jakby była zamputowana (Patrz Amputacja)."
       },
       {
+        "id": "wm10",
         "nr": "46-50",
         "opis": "Tracisz możliwość z korzystania z talenu Zmysł Magii na kolejne 1k10 godzin. Testy magiczne otrzymują również karę -20 na czas tego efektu."
       },
       {
+        "id": "wm11",
         "nr": "51-55",
         "opis": "Otrzymujesz 1k10 punktów Szczęścia (Mogą one wyjść poza twój normalny limit). Za każdym razem jak użyjesz jeden z tych punktów, otrzymujesz 1 punkt Zepsucia. Punkty pozostałe pod koniec sesji zostają stracone. MG dodatkowo przydziela ci tyle odwróconych symboli ile wynosi twój bonus z Siły Woli."
       },
       {
+        "id": "wm12",
         "nr": "56-60",
         "opis": "Wiatry magii porywają twoje ciało ku eterowi, zaczynasz lewitować 1k10 metrów nad ziemią na kolejne 1k10 minut. Inne postaci jak i twoje zaklęcia mogą sprowadzić cię do ziemi, jednak podczas trawania tego efektu twoje ciało będzie starało się wrócić na daną wysokość. Po zakończeniu efektu zobacz zasady dotyczące spadania."
       },
       {
+        "id": "wm13",
         "nr": "61-65",
         "opis": "Wyrzucasz z siebie śmierdzące wymiociny, bardziej odrażające niż twoje ciało jest w stanie wyprodukować. Otrzymujesz Stan Oszołomienie na kolejne 1k10 rund."
       },
       {
+        "id": "wm14",
         "nr": "66-70",
         "opis": "Ziemia zaczyna trząść się z nienaturalną intensywnością. Wszystkie stworzenia w zasięgu 1k100 metrów od ciebie muszą zdać Przeciętny (+20) Test Atletyki lub otrzymać Stan Powalenie."
       },
       {
+        "id": "wm15",
         "nr": "71-75",
         "opis": "Zaklęcie które masz zamiar rzucić nagle ucieka z twojej pamięci. Jeżeli wcześniej zapamiętałeś to zaklęcie, to zostaje ono na trwałe zapomniane. Możesz znowu zapamiętać je z twojego grimuara za standardową wartość XP'a. Jeżeli rzucałeś zaklęcie z grimuara, strona na której zapisane było zaklęcie staje w płomieniach. Zaklęcie jest stracone w pyle popiołu. Jeżeli odpowiednie akcje nie będą wykonane w najbliższym czasie cały grimuar otrzymuje Stan Podpalenie."
       },
       {
+        "id": "wm16",
         "nr": "76-80",
         "opis": "Bogowie Chaosu przekonują cię byś wykonał niewybaczalny czyn w ich imieniu. Jeżeli zaatakujesz lub zdradzisz sojusznika, w największym stopniu jakim możesz, otrzymujesz z powrotem wszystkie punky szczęścia. Jeżeli twoja akcja bezpośrednio przyczyni się do wykorzystania przez towarzysza punku przeznaczenia, ty otrzymujesz +1 punk Przeznaczenia."
       },
       {
+        "id": "wm17",
         "nr": "81-85",
         "opis": "Wiatry zdradzieckich potęg Chaosu łączą się z twoim ciałem. Otrzymujesz 1 punkt Zepsucia, Stan Powalenie i stan Zmęczenie."
       },
       {
+        "id": "wm18",
         "nr": "86-90",
         "opis": "Nurgle łaskawie błogosławi cię ułamkiem swojego prawdziwego aromatu. Zaczynasz okropnie śmierdzieć, otrzymujesz cechę zwierzęcia Dezporientujacy. Najpewniej wszystkie osoby z zmysłem węchy otrzymuja cechę Niechęć(Ty). Zapach znika po 1k10 godzinach."
       },
       {
+        "id": "wm19",
         "nr": "91-95",
         "opis": "Cała twoja moc znika z twojego ciała. Nie możesz używać Talentu odpowiedzialnego za rzucanie czarów (Najczęściej Magia Tajemna(Tradycja)) na kolejne 1k10 minut."
       },
       {
+        "id": "wm20",
         "nr": "96-100",
         "opis": "Wszyscy w zasięgu metrów równych twojemu bonusowi z Siły Woli - przyjaciele czy też wrogowie - otrzymują 1k10 Ran, ignourjąc bonus z wytrzymałości i punkty pancerza, otrzymjąc jednocześnie stan Powalenie. Jeżeli nie ma żadnych celów w tym zasięgu, zebrana dewastująca magia nie ma ujścia, wiatry magii koncentrują się w twojej głowie eksplodując ją od środka, zabijając cię na miejscu."
       }

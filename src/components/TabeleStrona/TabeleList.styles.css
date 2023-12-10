@@ -1,0 +1,41 @@
+.Item-List-Cont-TopT {
+  display: flex;
+  justify-self: center;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 10% 90%;
+  align-items: center;
+  border-style: solid;
+  border-color: white;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  padding-bottom: 5px;
+}
+
+.Item-List-Cont-BottomT {
+  padding: 5px;
+  margin: 0;
+  border-color: white;
+  border-width: 3px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+.m {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  border-style: solid;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  margin: 0;
+}
+.b {
+  padding-bottom: 10px;
+  margin: 0;
+  justify-self: center;
+}
