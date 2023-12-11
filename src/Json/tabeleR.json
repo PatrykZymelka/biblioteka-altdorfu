@@ -129,87 +129,87 @@
     "items": [
       {
         "nr": "01-10",
-        "nazwa": "",
+        "nazwa": "Zdrętwiałe ramię",
         "rany": "-",
-        "opis": "Temperatura wokół ciebie nagle drastycznie spada. Osoby w zasięgu Bonusu z Siły Woli, muszą zdać Wymagający (+0) Test Wytrzymałości lub otrzymać karę -10 do US, Zw i Zr, ze zwględu na nagłą zmianę temperatury. Efekt ten trwa 1 minutę, środek wiru zimna porusza się za twoją postacią. Wszyscy którzy wyjdą z zasięgu manifestacji tracą otrzymane kary."
+        "opis": "W wyniku ataku ramię przechodzą fale odrętwienia. Postać upuszcza wszystko, co trzymała w dłoni."
       },
       {
         "nr": "11-20",
-        "nazwa": "",
+        "nazwa": "Bardzo zdrętwiałe ramię",
         "rany": "-",
-        "opis": "Wszystkie paski i węzły na tobie się rozwiązują, może to spowodować upadek twoich spodni, wypadnięciu rzeczy z twojej torby lub też stracenie swojej zbroi."
+        "opis": "W wyniku ataku ramię zupełnie drętwieje. Postać upuszcza wszystko, co trzymała w dłoni, która przez 1k10 Rund - Bonus z Wytrzymałości (co najmniej 1) jest bezużyteczna. Przez ten czas należy traktować dłoń jak straconą (patrz: Amputacja)."
       },
       {
         "nr": "21-25",
-        "nazwa": "",
+        "nazwa": "Płytkie cięcie",
         "rany": "1",
-        "opis": "Twoje ubrania wydają się kręcić i miotać z swoją własną wolą. Otrzymujesz 1 Stan Pochwycenia z Siłą (1k10 x 5)."
+        "opis": "Postać otrzymuje 1 poziom Krwawienia w wyniku cięcia w ramię"
       },
       {
         "nr": "26-40",
-        "nazwa": "",
+        "nazwa": "Skręcenie",
         "rany": "1",
-        "opis": "Cały alkochol w zasięgu 1k100 metrów natychmiastowo się psuje, smakując gorzko i plugawie. Ta manifestacja jest jedną z głównych przyczyn dla których rzucanie zaklęć w tawernach jest wielce nielegalne."
+        "opis": "Skręcone ramię skutkuje Zerwaniem mięśni (pomniejszym)."
       },
       {
         "nr": "41-45",
-        "nazwa": "",
+        "nazwa": "Zerwane mięśnie",
         "rany": "1",
-        "opis": "Twój jezyk plącze się na najłatwiejszych słowach. Otrzymujesz karę -10 do wszystkich Testów Języka (Włącznie z Językiem Magiczym), na kolejne 1k10 Rund."
+        "opis": "Cios wbija się z impetem w przedramię. Postać otrzymuje 1 poziom Krwawienia oraz Uraz Zerwanie mięśni (pomniejsze)."
       },
       {
         "nr": "46-50",
-        "nazwa": "",
+        "nazwa": "Krwawiąca dłoń",
         "rany": "1",
-        "opis": "Nagle zapominasz gdzie się znajdujesz. Jeżeli twoja postać jest aktualnie w walce, otzymujesz Stan Zaskoczenie. W innych przypadkach wydajsz się być wielce zakłopotany aktualną sytuacją na kolejne kilka momentów."
+        "opis": "Głębokie cięcie sprawia, że dłoń obficie krwawi, przez co chwyt staje się śliski. Postać otrzymuje 1 poziom Krwawienia. Dopóki dłoń będzie krwawić, we wszystkich Testach czynności, podczas których postać trzyma coś w dłoni, należy wykonać Przeciętny (+20) Test Zręczności. Jeśli ten się nie powiedzie, trzymany przedmiot wymyka się z dłoni."
       },
       {
         "nr": "51-55",
-        "nazwa": "",
+        "nazwa": "Wybicie stawu",
         "rany": "2",
-        "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
+        "opis": "Ramię prawie zostało wyrwane ze stawu. Wszystko, co było trzymane w dłoni, wypada, a ramię jest bezużyteczne przez 1k10 Rund (patrz: Amputacje)"
       },
       {
         "nr": "56-60",
-        "nazwa": "",
+        "nazwa": "Ziejąca rana",
         "rany": "2",
-        "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
+        "opis": "Cios skutkuje głęboką, otwartą raną. Postać otrzymuje 2 poziomy Krwawienia. Dopóki rozcięcie nie zostanie zszyte dzięki pomocy Chirurgicznej, każda Rana otrzymana w to ramię skutkuje zwiększeniem Krwawienia o 1 poziom, ponieważ rana się otwiera i pogłębia."
       },
       {
         "nr": "61-75",
-        "nazwa": "",
+        "nazwa": "Czyste złamanie",
         "rany": "2",
-        "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
+        "opis": "Z donośnym trzaskiem ramię pęka w miejscu uderzenia. Postać natychmiast upuszcza wszystko, co trzymała w dłoni, i otrzymuje Złamanie (pomniejsze). Musi także zdać Problematyczny (-10) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Oszołomienia"
       },
       {
         "nr": "76-80",
-        "nazwa": "",
-        "rany": "2",
-        "opis": "Otrzymujesz 1 punk Zepsucia."
+        "nazwa": "Zerwane więzadło",
+        "rany": "3",
+        "opis": "Postać natychmiast upuszcza wszystko, co trzymała w dłoni. Otrzymuje Zerwanie mięśni (pomniejsze)."
       },
       {
         "nr": "81-85",
-        "nazwa": "",
+        "nazwa": "Głębokie cięcie",
         "rany": "3",
-        "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
+        "opis": "Postać otrzymuje 2 poziomy Krwawienia w wyniku głębokiego cięcia. Ponadto otrzymuje również 1 poziom Oszołomienia oraz Zerwanie mięśni (pomniejsze). Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności."
       },
       {
         "nr": "86-90",
-        "nazwa": "",
+        "nazwa": "Zmiażdżony łokieć",
         "rany": "3",
-        "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
+        "opis": "Uderzenie gruchocze łokieć, rozłupując kości i chrząstkę. Postać natychmiast upuszcza wszystko, co trzymała w dłoni, i otrzymuje Załamanie (poważne)."
       },
       {
         "nr": "91-95",
-        "nazwa": "",
-        "rany": "3",
-        "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
+        "nazwa": "Uszkodzona tętnica",
+        "rany": "4",
+        "opis": "Otrzymujesz 4 Stany Krwawienia."
       },
       {
         "nr": "96-109",
-        "nazwa": "",
+        "nazwa": "Wywichnięty bark",
         "rany": "4",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
+        "opis": "Ramię zostało wyrwane ze stawu. Postać musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma Stany Powalenie i Utrata Przytomności. Wszystko co było trzymane w dłoni wypada, a ramię jest bezużyteczne i uznawane za stracone (patrz: Amputacje). Ponadto postać otrzymuje 1 poziom Oszołomienia, dopóki nie zostanie jej udzielona Pomoc Medyczna. Jednakże nastawienie ramienia, nawet po udzieleniu Pomocy Medycznej, wymagać będzie Wydłużonego Przeciętnego (+20) Testu Leczenia, w którym należy osiągnąć co najmniej 6 PS. Dopiero wtedy postać będzie mogła znów ruszać ramieniem. Testy wykonywane przy pomocy tego ramienia obarczone są karą -10 przez 1k10 dni."
       },
       {
         "nr": "110-115",
