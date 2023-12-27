@@ -1,4 +1,4 @@
-import bronie from "../Json/bronie.json"
+import bronie from "../Json/bronie.json";
 import ItemList from "../components/BronieStrona/item-listB";
 import "./Pages-Styles/magia.styles.css";
 import SearchBox from "../components/SearchBoxA/SearchBoxA";
@@ -8,64 +8,44 @@ import { useEffect } from "react";
 
 const Bronie = () => {
   const [searchField, setSearchField] = useState("");
-  const [Magia, setMagia] = useState([]);
-  const [NameFilter, setNameFilter] = useState(Magia);
+  const [Broń, setBroń] = useState([]);
+  const [NameFilter, setNameFilter] = useState(Broń);
   const [selected, setSelected] = useState("");
   const [selectedtyp, setSelectedtyp] = useState("");
   const [selectedPunkty, setSelectedPunkty] = useState([]);
   const [selectedMagia, setSelectedMagia] = useState([]);
 
   useEffect(() => {
-    const result = bronie.sort((a, b) => a.nazwa.localeCompare(b.nazwa));
-    setMagia(result);
+    const result = bronie.sort((a, b) => a.typ.localeCompare(b.typ));
+    setBroń(result);
   }, []);
 
   useEffect(() => {
-    const typ = Magia.filter((item) => {
+    const typ = Broń.filter((item) => {
       return item.typ.includes(selectedtyp);
     });
     setSelectedPunkty(typ);
-  }, [Magia, searchField, selected, selectedtyp]);
+  }, [Broń, searchField, selected, selectedtyp]);
 
   useEffect(() => {
     const sM = selectedPunkty.filter((item) => {
       return item.rodzaj.includes(selected);
     });
     setSelectedMagia(sM);
-  }, [selected, Magia, searchField, selectedPunkty]);
+  }, [selected, Broń, searchField, selectedPunkty]);
 
   useEffect(() => {
     const filteredItems = selectedMagia.filter((item) => {
       return item.nazwa.toLowerCase().includes(searchField.toLowerCase());
     });
-    const sortedItems = filteredItems.sort((a, b) => {
-      const aLower = a.nazwa.toLowerCase();
-      const bLower = b.nazwa.toLowerCase();
-      const aStartsWithSearch = aLower.startsWith(searchField.toLowerCase())
-        ? -1
-        : 0;
-      const bStartsWithSearch = bLower.startsWith(searchField.toLowerCase())
-        ? -1
-        : 0;
-
-      return (
-        aStartsWithSearch - bStartsWithSearch || aLower.localeCompare(bLower)
-      );
-    });
-
-    setNameFilter(sortedItems);
-  }, [Magia, searchField, selectedMagia, selectedtyp]);
+    setNameFilter(filteredItems);
+  }, [Broń, searchField, selectedMagia, selectedtyp]);
 
   const onSearchChange = (event) => {
     const searchFieldString = event.target.value.toLowerCase();
     setSearchField(searchFieldString);
   };
-  const rodzaj = [
-    "",
-    "Broń Biała",
-    "Broń Zasięgowa",
-    "Amunicja"
-  ];
+  const rodzaj = ["", "Broń Biała", "Broń Zasięgowa", "Amunicja"];
   const typ = [
     "",
     "Prosta",
@@ -117,7 +97,7 @@ const Bronie = () => {
             options={rodzaj}
             title="Rodzaj"
           />
-          
+          +
         </div>
 
         <div className="Container">
