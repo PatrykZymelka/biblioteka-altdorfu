@@ -4,123 +4,123 @@
     "items": [
       {
         "nr": "01-10",
-        "nazwa": "",
-        "rany": "-",
-        "opis": "Temperatura wokół ciebie nagle drastycznie spada. Osoby w zasięgu Bonusu z Siły Woli, muszą zdać Wymagający (+0) Test Wytrzymałości lub otrzymać karę -10 do US, Zw i Zr, ze zwględu na nagłą zmianę temperatury. Efekt ten trwa 1 minutę, środek wiru zimna porusza się za twoją postacią. Wszyscy którzy wyjdą z zasięgu manifestacji tracą otrzymane kary."
+        "nazwa": "Stłuczony palec",
+        "rany": "1",
+        "opis": "W wyniku starcia postać otrzymuje bolesne uderzenie w paluch. Należy przeprowadzić Przeciętny (+20) Test Odporności, a jeśli ten się nie powiedzie, do końca następnej Rundy wszystkie Testy Zwinności obarczone będą karą -10."
       },
       {
         "nr": "11-20",
-        "nazwa": "",
-        "rany": "-",
-        "opis": "Wszystkie paski i węzły na tobie się rozwiązują, może to spowodować upadek twoich spodni, wypadnięciu rzeczy z twojej torby lub też stracenie swojej zbroi."
+        "nazwa": "Skręcona kostka",
+        "rany": "1",
+        "opis": "Niepewny krok kończy się skręceniem kostki. Wszystkie Testy Zwinności obarczone są karą -10 na 1k10 dni"
       },
       {
         "nr": "21-25",
-        "nazwa": "",
+        "nazwa": "Płytkie cięcie",
         "rany": "1",
-        "opis": "Twoje ubrania wydają się kręcić i miotać z swoją własną wolą. Otrzymujesz 1 Stan Pochwycenia z Siłą (1k10 x 5)."
+        "opis": "Postać otrzymuje 1 poziom Krwawienia."
       },
       {
-        "nr": "26-40",
-        "nazwa": "",
+        "nr": "26-30",
+        "nazwa": "Utrata równowagi",
         "rany": "1",
-        "opis": "Cały alkochol w zasięgu 1k100 metrów natychmiastowo się psuje, smakując gorzko i plugawie. Ta manifestacja jest jedną z głównych przyczyn dla których rzucanie zaklęć w tawernach jest wielce nielegalne."
+        "opis": "W wyniku szamotaniny postać traci równowagę. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie"
+      },
+      {
+        "nr": "31-35",
+        "nazwa": "Cios w udo",
+        "rany": "2",
+        "opis": "Bolesny cios uderza prosto w górną część uda, tuż przy biodrze. Postać otrzymuje 1 poziom Krwawienia, musi również wykonać Przeciętny (+20) Test Odporności, a jeśli się jej nie uda, otrzyma Stan Powalenie."
+      },
+      {
+        "nr": "36-40",
+        "nazwa": "Zwichnięta kostka",
+        "rany": "2",
+        "opis": "W wyniku zwichnięcia postać otrzymuje Uraz Zerwanie mięśni (pomniejsze)."
       },
       {
         "nr": "41-45",
-        "nazwa": "",
-        "rany": "1",
-        "opis": "Twój jezyk plącze się na najłatwiejszych słowach. Otrzymujesz karę -10 do wszystkich Testów Języka (Włącznie z Językiem Magiczym), na kolejne 1k10 Rund."
+        "nazwa": "Nadwyrężone kolano",
+        "rany": "2",
+        "opis": "Z powodu niezdarnego kroku kolano nie wytrzymuje. Wszystkie Testy Zwinności otrzymują karę -20 na 1k10 dni."
       },
       {
         "nr": "46-50",
-        "nazwa": "",
-        "rany": "1",
-        "opis": "Nagle zapominasz gdzie się znajdujesz. Jeżeli twoja postać jest aktualnie w walce, otzymujesz Stan Zaskoczenie. W innych przypadkach wydajsz się być wielce zakłopotany aktualną sytuacją na kolejne kilka momentów."
+        "nazwa": "Paskudnie przecięty paluch",
+        "rany": "2",
+        "opis": "Postać otrzymuje 1 poziom Krwawienia. Musi także zdać Wymagający (+0) Test Odporności. Jeśli ten się nie uda, postać traci 1 palec u nogi – Amputacja (przeciętna)."
       },
       {
         "nr": "51-55",
-        "nazwa": "",
-        "rany": "2",
-        "opis": "Nikczemne zdradzieckie wizje migotają przed twoimi oczyma. Otrzymujesz Stan Oślepienie, musisz zdać Wymagający (+0) Test Opanowania, lub otrzymać kolejny Stan Oślepienia."
+        "nazwa": "Paskudne cięcie",
+        "rany": "3",
+        "opis": "Postać otrzymuje 2 poziomy Krwawienia, a na jej łydce pojawia się głębokie otwarte rozcięcie. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie."
       },
       {
         "nr": "56-60",
-        "nazwa": "",
-        "rany": "2",
-        "opis": "Twoje oczy przybierają nienaturalną barwę twojej tradycji Magii na kolejne 1k10 godzin. Podczas tej manifestacji Posiadasz 1 Stan Oślepienia i nie możesz się po pozbyć w jakikolwiek sposób. Tracisz możliwość korzystania z Talentów: Percepcja Magiczna i Wykrywanie Magii."
+        "nazwa": "Skręcone kolano",
+        "rany": "3",
+        "opis": "Postać, próbując uniknąć ciosu przeciwnika, odskakuje, ale manewr kończy się poważnym skręceniem kolana. Otrzymuje Uraz Zerwanie mięśni (poważne)."
       },
       {
         "nr": "61-65",
-        "nazwa": "",
-        "rany": "2",
-        "opis": "Zaczynasz krwawić z nosa, uszu i oczodołów. Otrzymujesz Stan Krwawienie."
+        "nazwa": "Porąbana noga",
+        "rany": "3",
+        "opis": "Postać otrzymuje 3 poziomy Krwawienia, a cios odrywa kawał mięśni z jej uda. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie. Dopóki postać nie otrzyma pomocy Chirurgicznej i udo nie zostanie zszyte, każda Rana otrzymana w tę nogę będzie skutkować zwiększeniem Krwawienia o 1 poziom."
       },
       {
         "nr": "66-70",
-        "nazwa": "",
-        "rany": "2",
-        "opis": "Słyszysz nikczeme podszepty złych potęg. Musisz zdać Przeciętny (+20) Test Siły Woli lub otrzymać 1 punkt zepsucia. GM może przydzielić ci 2 odwrócone symbole z Tabeli Sybmoli"
+        "nazwa": "Poszarpane udo",
+        "rany": "3",
+        "opis": "Postać otrzymuje 3 poziomy Krwawienia, a cios odrywa kawał mięśni z jej uda. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie. Dopóki postać nie otrzyma pomocy Chirurgicznej i udo nie zostanie zszyte, każda Rana otrzymana w tę nogę będzie skutkować zwiększeniem Krwawienia o 1 poziom."
       },
       {
         "nr": "71-75",
-        "nazwa": "",
-        "rany": "3",
-        "opis": "Nagle do twojej głowy napływają zdradzieckie wizje wymiaru Chaosu. GM może przydzielić ci jeden odwrócony symbol z Tabli Symbolów. Musisz zdać Trudy (-20) Test Opanowania lub otrzymać 1 Stan Paniki."
+        "nazwa": "Zerwane ścięgno",
+        "rany": "4",
+        "opis": "W wyniku zerwania ścięgna w nodze postać otrzymuje Stany Powalenie i Oszołomienie. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności. Noga jest bezwładna (patrz: Amputacje), a cios skutkuje Urazem Zerwanie mięśni (poważne)."
       },
       {
         "nr": "76-80",
-        "nazwa": "",
-        "rany": "3",
-        "opis": "Otrzymujesz 1 punk Zepsucia."
+        "nazwa": "Rozerwana łydka",
+        "rany": "4",
+        "opis": "Cios trafia czysto pod kolano, rozcinając mięśnie i ścięgna aż do kości. Postać otrzymuje Stany: Powalenie i 1 poziom Oszołomienia. Ponadto zyskuje Urazy Zerwanie mięśni (pomniejsze) oraz Złamanie (pomniejsze)."
       },
       {
         "nr": "81-85",
-        "nazwa": "",
-        "rany": "3",
-        "opis": "Twoje wnętrzności przestają się ciebie słuchać, wydalając co tylko mogą. Otrzymujesz 1 Stan Zmęczenia, który nie może być ściągnięty póki nie wymienisz ubrań i się umyjesz."
+        "nazwa": "Strzaskane kolano",
+        "rany": "4",
+        "opis": "Cios roztrzaskuje rzepkę, której fragmenty wbijają się w mięśnie i staw. Postać otrzymuje Stany: Powalenie, 1 poziom Krwawienia i 1 poziom Oszołomienia oraz Uraz Złamanie (poważne), padając na ziemię i trzymając się za strzaskane kolano."
       },
       {
         "nr": "86-90",
-        "nazwa": "",
+        "nazwa": "Zwichnięte kolano",
         "rany": "4",
-        "opis": "Zostajesz naznaczony przez Wiatr Magii z którego czerpałeś moc. Otrzymujesz jeden znak tego wiatru:\n"
+        "opis": "Kolano zostaje wyrwane ze stawu. Postać otrzymuje Stan Powalenie i pada na ziemię. Musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma 1 poziom Oszołomienia, którego nie można usunąć, dopóki nie zostanie jej udzielona Pomoc Medyczna. Jednakże nastawienie kolana, nawet po udzieleniu Pomocy Medycznej, wymagać będzie Wydłużonego Przeciętnego (+20) Testu Leczenia, w którym należy osiągnąć co najmniej 6 PS. Dopiero wtedy postać będzie mogła znów ruszać nogą. Szybkość spada o połowę, a wszystkie Testy, w których wykorzystywana jest noga, otrzymują karę -10 przez 1k10 dni."
       },
       {
-        "nr": "91-95",
-        "nazwa": "",
-        "rany": "4",
-        "opis": "Rzuć dwa razy na tej tabeli, przerzucając wyniki od 91-100."
-      },
-      {
-        "nr": "96-105",
-        "nazwa": "",
-        "rany": "4",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
-      },
-      {
-        "nr": "106-115",
-        "nazwa": "",
-        "rany": "4",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
-      },
-      {
-        "nr": "116-120",
-        "nazwa": "",
+        "nr": "91-93",
+        "nazwa": "Zmiażdżona stopa",
         "rany": "5",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
+        "opis": "Cios miażdży stopę postaci. Ta musi również wykonać Przeciętny (+20) Test Odporności, a jeśli się jej nie uda, otrzyma Stan Powalenie, straci 1 palec u nogi, a także 1 dodatkowy palec za każdy PS poniżej 0 – Amputacja (przeciętna). Postać otrzymuje 2 poziomy Krwawienia. Jeśli w ciągu 1k10 dni nie zostanie przeprowadzona operacja Chirurgiczna, będzie trzeba amputować całą stopę."
       },
       {
-        "nr": "121-125",
-        "nazwa": "",
+        "nr": "94-96",
+        "nazwa": "Odcięta stopa",
         "rany": "5",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
+        "opis": "Cios odcina stopę, która odlatuje na 1k4 metry w losowym kierunku (patrz: Rozrzut) – Amputacja (trudna). Postać otrzymuje Stany: Powalenie, 3 poziomy Krwawienia i 2 poziomy Oszołomienia."
       },
       {
-        "nr": "126+",
-        "nazwa": "",
+        "nr": "97-99",
+        "nazwa": "Przecięte ścięgna",
+        "rany": "5",
+        "opis": "Ważne ścięgno w nodze zostaje przecięte. Kończyna nie wytrzymuje ciężaru ciała, a postać pada na ziemię, wrzeszcząc z bólu. Otrzymuje Stany: Powalenie, 2 poziomy Krwawienia, 2 poziomy Oszołomienia i z przerażeniem patrzy na swoją bezużyteczną, bezwładną nogę – Amputacja (bardzo trudna)."
+      },
+      {
+        "nr": "100",
+        "nazwa": "Strzaskana miednica",
         "rany": "Śmierć",
-        "opis": "Rzuć na tabeli Większych Manifestacji."
+        "opis": "Cios miażdży miednicę, odcinając jedną nogę i wrzynając się w drugą. Ból, szok i utrata krwi są tak duże, że postać pada martwa na ziemię."
       }
     ]
   },
@@ -130,13 +130,13 @@
       {
         "nr": "01-10",
         "nazwa": "Zdrętwiałe ramię",
-        "rany": "-",
+        "rany": "1",
         "opis": "W wyniku ataku ramię przechodzą fale odrętwienia. Postać upuszcza wszystko, co trzymała w dłoni."
       },
       {
         "nr": "11-20",
         "nazwa": "Bardzo zdrętwiałe ramię",
-        "rany": "-",
+        "rany": "1",
         "opis": "W wyniku ataku ramię zupełnie drętwieje. Postać upuszcza wszystko, co trzymała w dłoni, która przez 1k10 Rund - Bonus z Wytrzymałości (co najmniej 1) jest bezużyteczna. Przez ten czas należy traktować dłoń jak straconą (patrz: Amputacja)."
       },
       {
@@ -146,106 +146,231 @@
         "opis": "Postać otrzymuje 1 poziom Krwawienia w wyniku cięcia w ramię"
       },
       {
-        "nr": "26-40",
+        "nr": "26-30",
         "nazwa": "Skręcenie",
         "rany": "1",
         "opis": "Skręcone ramię skutkuje Zerwaniem mięśni (pomniejszym)."
       },
       {
-        "nr": "41-45",
+        "nr": "31-35",
         "nazwa": "Zerwane mięśnie",
-        "rany": "1",
+        "rany": "2",
         "opis": "Cios wbija się z impetem w przedramię. Postać otrzymuje 1 poziom Krwawienia oraz Uraz Zerwanie mięśni (pomniejsze)."
       },
       {
-        "nr": "46-50",
+        "nr": "36-40",
         "nazwa": "Krwawiąca dłoń",
-        "rany": "1",
+        "rany": "2",
         "opis": "Głębokie cięcie sprawia, że dłoń obficie krwawi, przez co chwyt staje się śliski. Postać otrzymuje 1 poziom Krwawienia. Dopóki dłoń będzie krwawić, we wszystkich Testach czynności, podczas których postać trzyma coś w dłoni, należy wykonać Przeciętny (+20) Test Zręczności. Jeśli ten się nie powiedzie, trzymany przedmiot wymyka się z dłoni."
       },
       {
-        "nr": "51-55",
+        "nr": "41-45",
         "nazwa": "Wybicie stawu",
         "rany": "2",
         "opis": "Ramię prawie zostało wyrwane ze stawu. Wszystko, co było trzymane w dłoni, wypada, a ramię jest bezużyteczne przez 1k10 Rund (patrz: Amputacje)"
       },
       {
-        "nr": "56-60",
+        "nr": "46-50",
         "nazwa": "Ziejąca rana",
         "rany": "2",
         "opis": "Cios skutkuje głęboką, otwartą raną. Postać otrzymuje 2 poziomy Krwawienia. Dopóki rozcięcie nie zostanie zszyte dzięki pomocy Chirurgicznej, każda Rana otrzymana w to ramię skutkuje zwiększeniem Krwawienia o 1 poziom, ponieważ rana się otwiera i pogłębia."
       },
       {
-        "nr": "61-75",
+        "nr": "51-55",
         "nazwa": "Czyste złamanie",
-        "rany": "2",
+        "rany": "3",
         "opis": "Z donośnym trzaskiem ramię pęka w miejscu uderzenia. Postać natychmiast upuszcza wszystko, co trzymała w dłoni, i otrzymuje Złamanie (pomniejsze). Musi także zdać Problematyczny (-10) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Oszołomienia"
       },
       {
-        "nr": "76-80",
+        "nr": "56-60",
         "nazwa": "Zerwane więzadło",
         "rany": "3",
         "opis": "Postać natychmiast upuszcza wszystko, co trzymała w dłoni. Otrzymuje Zerwanie mięśni (pomniejsze)."
       },
       {
-        "nr": "81-85",
+        "nr": "61-65",
         "nazwa": "Głębokie cięcie",
         "rany": "3",
         "opis": "Postać otrzymuje 2 poziomy Krwawienia w wyniku głębokiego cięcia. Ponadto otrzymuje również 1 poziom Oszołomienia oraz Zerwanie mięśni (pomniejsze). Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności."
       },
       {
-        "nr": "86-90",
+        "nr": "66-70",
         "nazwa": "Zmiażdżony łokieć",
         "rany": "3",
         "opis": "Uderzenie gruchocze łokieć, rozłupując kości i chrząstkę. Postać natychmiast upuszcza wszystko, co trzymała w dłoni, i otrzymuje Załamanie (poważne)."
       },
       {
-        "nr": "91-95",
+        "nr": "71-75",
         "nazwa": "Uszkodzona tętnica",
         "rany": "4",
         "opis": "Otrzymujesz 4 Stany Krwawienia."
       },
       {
-        "nr": "96-109",
+        "nr": "76-80",
         "nazwa": "Wywichnięty bark",
         "rany": "4",
         "opis": "Ramię zostało wyrwane ze stawu. Postać musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma Stany Powalenie i Utrata Przytomności. Wszystko co było trzymane w dłoni wypada, a ramię jest bezużyteczne i uznawane za stracone (patrz: Amputacje). Ponadto postać otrzymuje 1 poziom Oszołomienia, dopóki nie zostanie jej udzielona Pomoc Medyczna. Jednakże nastawienie ramienia, nawet po udzieleniu Pomocy Medycznej, wymagać będzie Wydłużonego Przeciętnego (+20) Testu Leczenia, w którym należy osiągnąć co najmniej 6 PS. Dopiero wtedy postać będzie mogła znów ruszać ramieniem. Testy wykonywane przy pomocy tego ramienia obarczone są karą -10 przez 1k10 dni."
       },
       {
-        "nr": "110-115",
+        "nr": "81-85",
         "nazwa": "Odcięty palec",
         "rany": "4",
         "opis": "Postać z otwartymi ustami patrzy na lecący w powietrzu własny palec – Amputacja (przeciętna). Postać otrzymuje 1 poziom Krwawienia."
       },
       {
-        "nr": "116-120",
+        "nr": "86-90",
         "nazwa": "Zmasakrowana Dłoń",
         "rany": "4",
         "opis": "Cios przecina dłoń, a rana zaczyna się rozszerzać. Postać traci 1 palec – Amputacja (problematyczna). Ponadto otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oszołomienia. W każdej następnej Rundzie, jeśli nie otrzyma Pomocy Medycznej, traci kolejny palec, ponieważ rana się rozszerza, a dłoń po prostu rwie się na strzępy. Jeśli skończą się palce, postać traci dłoń – Amputacja (trudna)"
       },
       {
-        "nr": "121-125",
+        "nr": "91-93",
         "nazwa": "Rozszarpany Biceps",
         "rany": "5",
         "opis": "ios niemal oddziela biceps i ścięgna od kości, co skutkuje paskudną raną i krwią bryzgającą na wszystkich dookoła. Postać automatycznie upuszcza wszystko, co trzymała w dłoni, i otrzymuje Uraz Zerwanie mięśni (poważne), 2 poziomy Krwawienia oraz 1 poziom Oszołomienia."
       },
       {
-        "nr": "126-130",
+        "nr": "94-96",
         "nazwa": "Zgruchotana dłoń",
         "rany": "5",
         "opis": "Dłoń postaci jest zgruchotaną, krwawiącą papką. Postać traci dłoń – Amputacja (trudna) – i otrzymuje 2 poziomy Krwawienia. Musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma Stany Powalenie i Utrata Przytomności."
       },
       {
-        "nr": "131-135",
+        "nr": "97-99",
         "nazwa": "Przecięte Ścięgna",
         "rany": "5",
         "opis": "Cios przecina ścięgna, a ramię zwisa bezwładnie – Amputacja (bardzo trudna). Postać otrzymuje Stany: Powalenie, 3 poziomy Krwawienia i 1 poziom Oszołomienia. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności."
       },
       {
-        "nr": "136+",
+        "nr": "100",
         "nazwa": "Brutalne Odrąbanie",
         "rany": "Śmierć",
         "opis": "Twoje ramię zostaje brutalnie odcięte. Umierasz niemal natychmiastowo z szoku i wykrwanienia."
+      }
+    ]
+  },
+  {
+    "tytuł": "Rany Krytyczne Korpusu",
+    "items": [
+      {
+        "nr": "01-10",
+        "nazwa": "Lekkie draśnięcie",
+        "rany": "1",
+        "opis": "Postać otrzymuje 1 poziom Krwawienia."
+      },
+      {
+        "nr": "11-20",
+        "nazwa": "Cios w bebechy",
+        "rany": "1",
+        "opis": "Postać otrzymuje 1 poziom Oszołomienia. Musi również wykonać Łatwy (+40) Test Odporności. Jeśli ten się nie uda, postać zwymiotuje i otrzyma Stan Powalenie."
+      },
+      {
+        "nr": "21-25",
+        "nazwa": "Poniżej pasa!",
+        "rany": "1",
+        "opis": "Postać musi wykonać Trudny (-20) Test Odporności. Jeśli ten się nie powiedzie, otrzymuje 3 poziomy Oszołomienia."
+      },
+      {
+        "nr": "26-30",
+        "nazwa": "Cios w krzyż",
+        "rany": "1",
+        "opis": "Postać otrzymuje Uraz Zerwanie mięśni (pomniejsze)."
+      },
+      {
+        "nr": "31-35",
+        "nazwa": "Bez tchu",
+        "rany": "2",
+        "opis": "Postać otrzymuje 1 poziom Oszołomienia. Musi również zdać Przeciętny (+20) Test Odporności albo otrzyma Stan Powalenie. Szybkość zmniejsza się o połowę na 1k10 Rund, czyli dopóki postać nie zacznie oddychać normalnie."
+      },
+      {
+        "nr": "36-40",
+        "nazwa": "Stłuczone żebra",
+        "rany": "2",
+        "opis": "Wszystkie Testy Zwinności otrzymują karę -10 na 1k10 dni."
+      },
+      {
+        "nr": "41-45",
+        "nazwa": "Stłuczony obojczyk",
+        "rany": "2",
+        "opis": "Losowo wyznacz ramię. Wszystko, co było trzymane w dłoni po tej stronie ciała, wypada, a ramię jest bezużyteczne przez 1k10 Rund (patrz: Amputacje)."
+      },
+      {
+        "nr": "46-50",
+        "nazwa": "Nierówne cięcie",
+        "rany": "2",
+        "opis": "Postać otrzymuje 2 poziomy Krwawienia."
+      },
+      {
+        "nr": "51-55",
+        "nazwa": "Połamane żebra",
+        "rany": "3",
+        "opis": "Cios łamie jedno lub kilka żeber. Postać otrzymuje 1 poziom Oszołomienia. Ponadto otrzymuje Uraz Złamanie (pomniejsze)."
+      },
+      {
+        "nr": "56-60",
+        "nazwa": "Ziejąca rana",
+        "rany": "3",
+        "opis": "Postać otrzymuje 3 poziomy Krwawienia. Dopóki ktoś nie udzieli jej pomocy Chirurgicznej, za każdym razem, gdy postać otrzyma Ranę w korpus, otrzymuje dodatkowy poziom Krwawienia, gdyż rozcięcie się otwiera."
+      },
+      {
+        "nr": "61-65",
+        "nazwa": "Bolesne cięcie",
+        "rany": "3",
+        "opis": "Postać otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oszołomienia. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomnościz powodu bólu. Jeśli Test nie zakończy się co najmniej 4 PS, postać wyje z bólu."
+      },
+      {
+        "nr": "66-70",
+        "nazwa": "Uszkodzenie tętnicy",
+        "rany": "3",
+        "opis": "Postać otrzymuje 4 poziomy Krwawienia. Dopóki ktoś nie udzieli jej pomocy Chirurgicznej, za każdym razem gdy postać otrzyma Ranę w korpus, otrzymuje dodatkowe 2 poziomy Krwawienia."
+      },
+      {
+        "nr": "71-75",
+        "nazwa": "Naderwanie mięśni pleców",
+        "rany": "4",
+        "opis": "Plecy przemieniają się w jedną wielką strefę obezwładniającego bólu. Postać otrzymuje Uraz Zerwanie mięśni (pomniejsze)."
+      },
+      {
+        "nr": "76-80",
+        "nazwa": "Złamane biodro",
+        "rany": "4",
+        "opis": "Postać otrzymuje 1 poziom Oszołomienia. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie. Ponadto otrzymuje Uraz Złamanie (pomniejsze)."
+      },
+      {
+        "nr": "81-85",
+        "nazwa": "Poważna rana klatki piersiowej",
+        "rany": "4",
+        "opis": "Postać otrzymuje poważny cios w klatkę piersiową, który oddziela skórę od mięśni i ścięgien. Otrzymuje 4 poziomy Krwawienia. Dopóki ktoś nie udzieli jej pomocy Chirurgicznej i nie zszyje rany, za każdym razem gdy postać otrzyma Ranę w korpus, otrzymuje dodatkowy poziom Krwawienia, a rana się otwiera"
+      },
+      {
+        "nr": "86-90",
+        "nazwa": "Rana brzucha",
+        "rany": "4",
+        "opis": "Cios skutkuje zadaniem Ropiejącej Rany (patrz: Choroby i infekcje) i otrzymaniem 2 poziomów Krwawienia."
+      },
+      {
+        "nr": "91-93",
+        "nazwa": "Strzaskana klatka piersiowa",
+        "rany": "5",
+        "opis": "Postać otrzymuje 1 poziom Oszołomienia, który można jedynie usunąć, udzielając Pomocy Medycznej, a także Uraz Złamanie (poważne)."
+      },
+      {
+        "nr": "94-96",
+        "nazwa": "Złamany obojczyk",
+        "rany": "5",
+        "opis": "Postać pada na ziemię w Stanie Utrata Przytomności i nie ocknie się, dopóki nie zostanie jej udzielona Pomoc Medyczna, a ponadto otrzymuje Uraz Złamanie (poważne)."
+      },
+      {
+        "nr": "97-99",
+        "nazwa": "Krwotok wewnętrzny",
+        "rany": "5",
+        "opis": "Postać otrzymuje 1 poziom Krwawienia, który można usunąć jedynie za pomocą Chirurgii. Ponadto Rana skutkuje także Zatruciem Krwi (patrz: Choroby i infekcje)."
+      },
+      {
+        "nr": "100",
+        "nazwa": "Rozpłatanie",
+        "rany": "Śmierć",
+        "opis": "Postać zostaje przecięta na dwoje. Górna połowa korpusu pada w losowym kierunku, a wszystkie postaci w promieniu 2 metrów zostają skąpane w fontannie krwi."
       }
     ]
   }

@@ -3,7 +3,7 @@ import { useState } from "react";
 
 function TabeleList(props) {
   const [isActive, setIsActive] = useState(false);
-  const { tytuł, items, idB } = props.Mlist;
+  const { tytuł, items, idB, typ } = props.Mlist;
 
   return (
     <div className="ItemT" key={idB}>
@@ -20,16 +20,32 @@ function TabeleList(props) {
           onClick={(e) => setIsActive(!isActive)}
         >
           {items.map((item) => {
-            return (
-              <div key={item.id} className="grid">
-                <div className="b">
-                  <strong className="BeginB">{item.nr}</strong>
+            if (typ === "Magia") {
+              return (
+                <div key={item.id} className="grid">
+                  <div className="b">
+                    <strong className="BeginB">{item.nr}</strong>
+                  </div>
+                  <div className="m">
+                    <strong className="BeginB">{item.opis}</strong>
+                  </div>
                 </div>
-                <div className="m">
-                  <strong className="BeginB">{item.opis}</strong>
+              );
+            } else {
+              return (
+                <div key={item.id} className="gridR">
+                  <div className="b">
+                    <strong className="BeginB">{item.nr}</strong>
+                  </div>
+                  <div className="r">
+                    <strong className="BeginB">{item.rany}</strong>
+                  </div>
+                  <div className="m">
+                    <strong className="BeginB">{item.opis}</strong>
+                  </div>
                 </div>
-              </div>
-            );
+              );
+            }
           })}
         </div>
       )}
