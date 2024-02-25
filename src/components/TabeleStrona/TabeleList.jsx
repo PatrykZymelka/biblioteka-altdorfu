@@ -31,7 +31,8 @@ function TabeleList(props) {
                   </div>
                 </div>
               );
-            } else {
+            }
+            if (typ === "Rany") {
               return (
                 <div key={item.id} className="gridR">
                   <div className="b">

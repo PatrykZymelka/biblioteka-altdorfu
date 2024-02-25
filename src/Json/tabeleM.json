@@ -600,5 +600,131 @@
         "opis": "Postać zostaje przecięta na dwoje. Górna połowa korpusu pada w losowym kierunku, a wszystkie postaci w promieniu 2 metrów zostają skąpane w fontannie krwi."
       }
     ]
+  },
+  {
+    "tytuł": "Rany Krytyczne Głowy",
+    "typ": "Rany",
+    "items": [
+      {
+        "nr": "01-10",
+        "nazwa": "Zawadiacka rana",
+        "rany": "1",
+        "opis": "Mocny cios przez czoło i policzek. Postać otrzymuje 1 poziom Krwawienia. Po wyleczeniu takiej rany pozostaje budząca szacunek blizna, która zapewnia premię +1 PS do odpowiednich Testów w kontaktach społecznych. Premię tę można otrzymać tylko raz."
+      },
+      {
+        "nr": "11-20",
+        "nazwa": "Płytkie cięcie",
+        "rany": "1",
+        "opis": "Cios przecina policzek, rozbryzgując dookoła krew. Postać otrzymuje 1 poziom Krwawienia"
+      },
+      {
+        "nr": "21-25",
+        "nazwa": "Spuchniętne oko",
+        "rany": "1",
+        "opis": "Mocny cios trafia w oczodół. Postać otrzymuje 1 poziom Oślepienia."
+      },
+      {
+        "nr": "26-30",
+        "nazwa": "Prosto w ucho",
+        "rany": "1",
+        "opis": "Cios uderza w bok głowy z olbrzymią mocą, aż dzwoni w uchu. Postać otrzymuje 1 poziom Ogłuszenia."
+      },
+      {
+        "nr": "31-35",
+        "nazwa": "Bolesne uderzenie",
+        "rany": "2",
+        "opis": "Cios jest na tyle mocny, że w polu widzenia pojawiają się plamki i gwiazdki. Postać otrzymuje 1 poziom Oszołomienia."
+      },
+      {
+        "nr": "36-40",
+        "nazwa": "Podbite oko",
+        "rany": "2",
+        "opis": "Cios w oko jest na tyle mocny, że postać zaczyna łzawić z bólu. Postać otrzymuje 2 poziomy Oślepienia."
+      },
+      {
+        "nr": "41-45",
+        "nazwa": "Rozcięte ucho",
+        "rany": "2",
+        "opis": "Cios w bok głowy jest na tyle mocny, że wrzyna się głęboko w ucho. Postać otrzymuje 2 poziomy Ogłuszenia i 1 poziom Krwawienia."
+      },
+      {
+        "nr": "46-50",
+        "nazwa": "Uderzenie w czoło",
+        "rany": "2",
+        "opis": "Potężny cios trafia w sam środek czoła. Postać otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oślepienia, który nie może zostać usunięty, dopóki Krwawienie nie zostanie wyleczone."
+      },
+      {
+        "nr": "51-55",
+        "nazwa": "Złamana szczęka",
+        "rany": "3",
+        "opis": "Cios z obrzydliwym chrupnięciem łamie żuchwę i zalewa twarz falą ogromnego bólu. Postać otrzymuje 2 poziomy Oszołomienia. Ponadto otrzymuje Uraz Złamanie (pomniejsze)."
+      },
+      {
+        "nr": "56-60",
+        "nazwa": "Poważna rana oka",
+        "rany": "3",
+        "opis": "Cios łamie oczodół. Postać otrzymuje 1 poziom Krwawienia. Ponadto otrzymuje również 1 poziom Oślepienia, który nie może zostać usunięty, dopóki postać nie otrzyma Pomocy Medycznej."
+      },
+      {
+        "nr": "61-65",
+        "nazwa": "Poważna rana ucha",
+        "rany": "3",
+        "opis": "Cios niszczy małżowinę uszną, co skutkuje trwałym uszkodzeniem słuchu. Wszystkie Testy związane ze słuchem otrzymują karę -20. Jeśli postać otrzyma taką ranę ponownie, cios zadawany jest w drugie ucho, co skutkuje głuchotą. Wtedy pomoże już tylko magia."
+      },
+      {
+        "nr": "66-70",
+        "nazwa": "Złamany nos",
+        "rany": "3",
+        "opis": "Silny cios trafia w sam środek twarzy, a postać zalewa się krwią. Postać otrzymuje 2 poziomy Krwawienia. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Oszołomienia. Po wyleczeniu tej rany postać uzyskuje premię +1 lub karę -1 do Testów w kontaktach społecznych (w zależności od kontekstu), chyba że podjęto Test Chirurgii, by nastawić i wyprostować nos."
+      },
+      {
+        "nr": "71-75",
+        "nazwa": "Zmiażdżona żuchwa",
+        "rany": "4",
+        "opis": "Następuje obrzydliwy trzask, a cios trafia w szczękę od spodu, miażdżąc żuchwę. Postać otrzymuje 3 poziomy Oszołomienia. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Ogłuszenia. Ponadto otrzymuje Uraz Złamanie (poważne)."
+      },
+      {
+        "nr": "76-80",
+        "nazwa": "Wstrząśnienie mózgu",
+        "rany": "4",
+        "opis": "Mózg obija się wewnątrz czaszki, a krew wypływa z nosa i uszu. Postać otrzymuje 1 poziom Ogłuszenia, 2 poziomy Krwawienia oraz 1k10 poziomów Oszołomienia. Ponadto na 1k10 dni uznaje się ją również za Wyczerpaną. Jeśli postać otrzyma kolejną Ranę Krytyczną w głowę, będąc jeszcze Wyczerpaną po ostatnim wstrząśnieniu mózgu, musi wykonać Przeciętny (+20) Test Odporności. Jeśli ten się nie powiedzie, następuje Utrata Przytomności."
+      },
+      {
+        "nr": "81-85",
+        "nazwa": "Rozkwaszone usta",
+        "rany": "4",
+        "opis": "Cios jest na tyle mocny, że usta wypełniają się wybitymi zębami i mnóstwem krwi. Postać otrzymuje 2 poziomy Krwawienia. Ponadto traci 1k10 zębów – to Amputacja (łatwa)."
+      },
+      {
+        "nr": "86-90",
+        "nazwa": "Zgruchotane ucho",
+        "rany": "4",
+        "opis": "Po uchu zostaje niewiele, a cios odrywa je od ciała. Postać otrzymuje 3 poziomy Ogłuszenia i 2 poziomy Krwawienia. Ponadto traci ucho – Amputacja (przeciętna)."
+      },
+      {
+        "nr": "91-93",
+        "nazwa": "Wybite oko",
+        "rany": "5",
+        "opis": "Cios zupełnie niszczy gałkę oczną, wywołując niezwykle silny ból. Postać otrzymuje 3 poziomy Oślepienia, 2 poziomy Krwawienia i 1 poziom Oszołomienia. Ponadto traci oko – Amputacja (wymagająca)."
+      },
+      {
+        "nr": "94-96",
+        "nazwa": "Oszpecający cios",
+        "rany": "5",
+        "opis": "Uderzenie roztrzaskuje całą twarz, niszcząc oko i nos w fontannie krwi. Postać otrzymuje 3 poziomy Oślepienia, 3 poziomy Krwawienia i 2 poziomy Oszołomienia. Następuje utrata oka i nosa – Amputacja (trudna)."
+      },
+      {
+        "nr": "97-99",
+        "nazwa": "Zgruchotana szczęka",
+        "rany": "5",
+        "opis": "Cios prawie odrywa żuchwę od ciała, niszcząc język, i rozrzuca dookoła połamane zęby w chmurze krwi. Postać otrzymuje 4 poziomy Krwawienia oraz 3 poziomy Oszołomienia. Musi także zdać Bardzo Trudny (-30) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Ogłuszenia. Ponadto otrzymuje Uraz Złamanie (poważne) i traci język oraz 1k10 zębów – Amputacja (trudna)."
+      },
+      {
+        "nr": "100",
+        "nazwa": "Dekapitacja",
+        "rany": "Śmierć",
+        "opis": "ios gładko odcina głowę, która leci w powietrze, lądując 1k4 metry w dowolnym kierunku (patrz: Rozrzut). Martwe, bezgłowe ciało pada na ziemię."
+      }
+    ]
   }
 ]
